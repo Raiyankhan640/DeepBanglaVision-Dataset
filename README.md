@@ -358,5 +358,3 @@ print("Acceptable Answers:", sample['reward_model']['equivalent_answers'])
 Original dataset: [DeepVision-103K](https://huggingface.co/datasets/skylenage/DeepVision-103K)
 
 Paper: DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning
-#   D e e p B a n g l a V i s i o n - D a t a s e t  
- 
