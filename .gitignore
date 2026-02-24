@@ -2,7 +2,7 @@
 dataset/
 
 # Exclude large parquet files (exceeds GitHub 100MB limit)
-DeepVision_Geometry_10K.parquet
+*.parquet
 
 # Python cache
 __pycache__/
