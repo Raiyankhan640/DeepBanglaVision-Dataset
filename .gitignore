@@ -1,8 +1,17 @@
-# Exclude cloned dataset folder
-dataset/
+# ── Dataset ──────────────────────────────────────────────────
+# Exclude source 103K dataset (huge, cloned separately)
+dataset/DeepVision-103K/
 
-# Exclude large parquet files (exceeds GitHub 100MB limit)
-*.parquet
+# Exclude large parquet files (>100MB, exceeds GitHub limit)
+# These raw/ready parquets contain embedded images and are 40-500 MB each
+dataset/*/DeepVision_Geometry_*.parquet
+dataset/*/DeepBanglaMath_*_Ready_to_Translate.parquet
+
+# Allow small parquet files (<100MB) — translated/final outputs
+# e.g. DeepBanglaMath_1K_translated.parquet (~8 MB) ✅
+
+# Allow Excel/CSV chunk files (translation work) ✅
+# Allow dataset folder structure ✅
 
 # Secrets
 .env

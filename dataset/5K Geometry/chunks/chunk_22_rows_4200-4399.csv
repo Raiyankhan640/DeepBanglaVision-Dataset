@@ -1,0 +1,537 @@
+﻿row_id,english_question,bangla_question
+4200,"In the given image (2015, Derong County third mock exam), if a right triangle is stacked as shown, what is the degree measure of angle \( \alpha \)?",
+4201,The figure shown is the net of a cube. The character on the face opposite to the character represented by '奋' is ______.,
+4202,The figure shows the three views of a certain workpiece. Find the total surface area of this workpiece.,
+4203,"There is a square green space with a side length of 24 meters. Next to the green space at point B, there are fitness equipment. Due to the residents living at point A trampling the green space, Xiao Ming wants to set up a sign at point A that says ""Walk less ▇ meters, how could you trample it?"" Please calculate and help Xiao Ming fill in the appropriate number in place of ""▇"".",
+4204,"In the figure, AD = BC. Add one condition so that △DAB ≅ △CBA.",
+4205,The figure shows the three views of a factory sealed can. The area of steel plate required to make each sealed can is:,
+4206,"As shown in the figure, there are 7 circles that are tangent at one point. If the radii of the circles (in decimeters) are: 1, 2, 3, 4, 5, 6, 7, what is the area of the shaded part in square meters? (Take π as 3)",
+4207,"In the figure, the intersection of planes \( \alpha \) and \( \beta \) is \( PQ \), and \( EG \perp \) plane \( \alpha \), \( FH \perp \) plane \( \alpha \), with the feet of the perpendiculars being \( G \) and \( H \). To ensure that \( PQ \perp GH \), an additional condition needed is ( )
+A. EF⊥plane α
+B. EF⊥plane β
+C. PQ⊥GE
+D. PQ⊥FH",
+4208,"In the figure, the radius of circle O is 17 cm, and the chords AB and CD are parallel, with AB = 30 cm and CD = 16 cm. The center O is located above AB and CD. Find the distance between AB and CD.",
+4209,"BC is the hypotenuse of right triangle ABC, AP is perpendicular to plane ABC, and PD is perpendicular to BC at point D. How many right triangles are there in the figure? ( )
+A. 8
+B. 7
+C. 6
+D. 5",
+4210,"In a square grid, the position of ∠α is shown in the figure. What is the value of tanα?",
+4211,"Xiao Ming walks 500 meters from point A in a direction slightly east of north to reach point B. Xiao Hong walks 400√2 meters from point A in a southeast direction to reach point C. If point C is directly south of point B, find the distance between points B and C.",
+4212,A rectangular prism has a small rectangular prism removed from it. The front (main) view and side (left) view are shown. What is the top view of this geometric figure?,
+4213,"In the figure (2014•Quanzhou), line a is parallel to line b, and line c intersects both lines a and b. Given that ∠1 = 65°, what is the measure of ∠2?",
+4214,"In the figure, there is a rectangular piece of paper ABCD, where AB = 10 and AD = 6. The paper is folded such that side AD lies on side AB, creating a crease at AE. Then, point D is folded to the right along crease DE. AE intersects BC at point F. What is the area of triangle CEF?
+A. 4
+B. 6
+C. 8
+D. 10",
+4215,"In the figure, line AB and EF intersect at point O, OC bisects ∠AOB, ∠1 = 65°, find the measure of ∠3.",
+4216,"In the figure, in rectangle ABCD, AB = 3 cm, BC = 4 cm. Along diagonal AC, triangle ABC is cut and moved to the position of triangle A1BC1, forming the shape of figure (2). If the area of the overlapping part is 3 cm², then the distance AA1 = cm.",
+4217,"In the figure (2009 Beilun District Simulation), ABCD is a regular pentagon, point P is the midpoint of CD, and line BD intersects AC and AP at points M and N, respectively. Find the ratio \( \frac{MN}{BM} = ? \)",
+4218,"Given that the vertex of the parabola C is O(0,0) and the focus is F(0,1), let a line passing through F intersect the parabola at points A and B. If lines AO and BO intersect the line l: y=x-2 at points M and N respectively, find the minimum value of |MN|.",
+4219,"The figure shows the three views of a regular triangular prism. If the volume of the prism is $8 \sqrt{3}$, then $\alpha =$ ____________________.",
+4220,"In the figure, AB is perpendicular to BC, with AB = BC = 2 cm. The arcs OA and OC are symmetric about point O. What is the area enclosed by AB, BC, arc CO, and arc OA in cm²?",
+4221,"As shown in the figure: 
+(1) Express the area of the shaded part using an algebraic expression; 
+(2) When \(a=10\) and \(b=4\), find the area of the shaded part.",
+4222,"Given the three views of a geometric body as shown in the figure, based on the dimensions marked in the figure (unit: cm), the volume of the geometric body is ( ).",
+4223,"In the figure below, which pattern can be obtained by continuously rotating a basic pattern by 45°? (Fill in the number).",
+4224,"As shown in the figure, there is a 5-meter long rope on the grass, one end tied to a wooden post at the corner of a wall, and the other end tied to a little sheep R. What is the area of the maximum activity zone of the sheep on the grass? ( )
+A. $\frac { 1 3 } { 2 }$ πm<sup>2</sup>
+B. $\frac { 2 7 } { 4 }$ πm<sup>2</sup>
+C. $\frac { \sqrt { 1 3 } } { 2 }$ πm<sup>2</sup>
+D. $\frac { \sqrt { 2 7 } } { 4 }$ πm<sup>2</sup>",
+4225,"Calculate the area of the shaded part in the given figure, where the trapezoid has an upper base of 4 cm, a lower base of 6 cm, and a semicircle is inscribed such that its diameter equals the upper base.",
+4226,"Given the three views of a certain geometric body as shown in the figure, what is the surface area of the inscribed sphere of this geometric body? ( ) 
+A. \(\textstyle{\frac{2\pi}{3}}\)
+B. \(\textstyle{\frac{4\pi}{3}}\)
+C. 3π
+D. 4π",
+4227,"In the figure, line \(AB\) is parallel to line \(CD\), then \(∠C=\)__________\({\,\!}^{\circ}\)",
+4228,"As shown in the figure, there are three conditions: ① AC = AB, ② AB ∥ CD, ③ ∠1 = ∠2. If we randomly choose any two as hypotheses and the other as conclusion, how many true propositions can be formed?",
+4229,"The three views of the geometric body are shown in the figure, then the volume of the geometric body is ( )
+A. \( \frac{53}{3} \pi \)
+B. \( \frac{55}{3} \pi \)
+C. \( 18 \pi \)
+D. \( \frac{76}{3} \pi \)",
+4230,"In 2011, in the Aydin Bay area, a naval ship of our navy was executing escort missions and was sailing from east to west. When it reached point B, it found lighthouse A directly north of the ship at a distance of 500 meters. When the ship sailed from point B directly west to point C, it found lighthouse A at a direction of 60° east of north. Calculate the distance traveled by the ship. (Do not approximate the calculation process and results)",
+4231,"In the figure, the area of rectangle ABCD is 120 square centimeters, BE = 3AE, BF = 2FC. Find the area of quadrilateral EGBF.",
+4232,"In the figure, the equilateral triangle $\Delta ABC$ is divided into 16 congruent smaller equilateral triangles. A number is placed at each vertex of these triangles such that the numbers at points that are collinear (when there are at least 3 numbers) form an arithmetic sequence. If the three numbers at vertices $A$, $B$, and $C$ are distinct and their sum is 1, then the sum of all the numbers at the vertices ${ \boldsymbol { \mathcal { S } } } =$ .",
+4233,"As shown in the figure, four identical rectangular prisms are arranged to form a straight rectangular prism: each rectangular prism has a base that is a square with a side length of 1, and the length of the edge AB is 2. Points P<sub>i</sub> (i=1, 2, …) are the other eight points on the upper base. What is the number of different values of the product AB • AP<sub>i</sub> (i=1, 2, …)?
+A. 1
+B. 2
+C. 4
+D. 8",
+4234,"The front (main) view and side (left) view of a certain part are as shown in the figure (the solid line forms a semicircle with a radius of 2 cm, and the dashed line represents the two sides of an isosceles triangle). The top view is a circle with a radius of 2 cm (including the center). What is the surface area of this part?
+A. 4πcm²
+B. 8πcm²
+C. (4+2√5) πcm²
+D. (8+2√5) πcm²",
+4235,"Given that OA and OB are basis vectors, OC = 3OA, OD = 5OB, and lines AD and BC intersect at point P, find the decomposition of OP with respect to OA and OB.",
+4236,"Given a cylinder with a base diameter \(BC= \dfrac {6}{\pi }\) and height \(AB=3\), a small bug crawls on the surface of the cylinder from point \(C\) to point \(A\), and then crawls back to point \(C\) along another surface. What is the shortest distance the bug crawls?
+A. \(3 \sqrt {2}\)
+B. \(3 \sqrt {5}\)
+C. \(6 \sqrt {5}\)
+D. \(6 \sqrt {2}\)",
+4237,"(2009•Yunnan) The figure consists of six identical small cubes with a side length of 1. Which of the following statements about it is correct? ( )
+A. The area of the front view is 6
+B. The area of the left view is 2
+C. The area of the top view is 5
+D. The areas of all three views are 5",
+4238,"As shown in the figure, given that points A, B, and C are not collinear, and P is a fixed point, O is any point outside the plane ABC, which of the following can represent the vector \( \vec{OP} \)?
+\( \vec{OA} + 2\vec{AB} + 2\vec{AC} \)
+\( \vec{OA} - 3\vec{AB} - 2\vec{AC} \)
+\( \vec{OA} + 3\vec{AB} - 2\vec{AC} \)
+D. \( \vec{OA} + 2\vec{AB} - 3\vec{AC} \)",
+4239,"In the figure, AB is parallel to CD, and point E is on the extension of CB. If ∠ABE = 60°, what is the measure of ∠ECD? ( )
+A. 120°
+B. 100°
+C. 60°
+D. 20°",
+4240,"In the Cartesian coordinate system, point \(O\) is the origin. The diagonals of the parallelogram \(ABOC\) intersect at point \(M\). The hyperbola \(y= \dfrac {k}{x} (x < 0)\) passes through points \(B\) and \(M\). If the area of the parallelogram \(ABOC\) is \(12\), then \(k=\) ______.",
+4241,"Port B is located in the northwest direction of port A. At 8 AM, a ship departs from port A and sails north at 15 nautical miles per hour. Simultaneously, a speedboat departs from port B sailing north. At 10 AM, the ship arrives at point D, and the speedboat arrives at point C. Point C is located in the northwest direction of point D at an angle of 30°, and the distance CD is 100 nautical miles. What is the speed of the speedboat in nautical miles per hour? (Round to 0.1 nautical miles per hour; use √2 ≈ 1.41, √3 ≈ 1.73)",
+4242,"In a regular square pyramid $S - ABCD$, the lateral edge length is $\sqrt{2}$ and the base edge length is $\sqrt{3}$. Point $E$ is the midpoint of edge $SA$. What is the angle between the skew lines $BE$ and $SC$?",
+4243,"In the figure, points A, B, and C are on circle ⊙O, point D is a point on the extension of line segment AB, and ∠AOC=144°. What is ∠CBD?",
+4244,"Divide a circle with a diameter of 4 cm into several equal parts, then cut it open and piece it together as shown in the image. The perimeter of the shape formed increases by ___ cm compared to the original circumference of the circle.",
+4245,"The scientific and cultural history of the Chinese nation is long and brilliant. Our ancestors were able to apply mathematics in production practices thousands of years ago. More than 1300 years ago, the Zhaozhou Stone Arch Bridge built during the Sui Dynasty has an arch that is in the shape of a circular arc (as shown in the image). It has been measured that when the water surface below the arch is 6 m from the top of the arch, the width of the water surface is 34.64 m. Given that the span of the arch is 37.4 m, use your knowledge to calculate the approximate height of the Zhaozhou Bridge's arch. (Use 37.4 = 14 \sqrt{7}, 34.64 = 20 \sqrt{3} for calculations).",
+4246,"Given the three views of a certain geometric body as shown in the figure, where the front view and side view are composed of triangles and semicircles, and the top view is composed of a circle and an inscribed triangle, the volume of this geometric body can be obtained from the data in the figure ( )
+A. \( \scriptstyle{\frac{{\sqrt{2}}\pi}{3}}+{\frac{1}{2}} \)
+B. \( \scriptstyle{\frac{4\pi}{3}}+{\frac{1}{6}} \)
+C. \( \textstyle{\frac{\sqrt{2}\pi}{6}}+{\frac{1}{6}} \)
+D. \( \scriptstyle{\frac{2\pi}{3}}+{\frac{1}{2}} \)",
+4247,"In the figure, in trapezoid $ABCD$, $AB ot CD$, and $AB = 2CD$. The diagonals $AC$ and $DB$ intersect at point $O$. If $ar{AD} = ar{a}$, $ar{AB} = ar{b}$, then $ar{OC} = $ ( )
+A. $\frac{\overline{a}}{3}\!-\!\frac{\overline{b}}{6}$
+B. $\frac{\overline{a}}{3}\!+\!\frac{\overline{b}}{6}$
+C. $\frac{2\overline{a}}{3}\!+\!\frac{\overline{b}}{3}$
+D. $\frac{2\overline{a}}{3}\!-\!\frac{\overline{b}}{3}$",
+4248,"In the geometric figure shown, which shapes have the same top view? ( )
+A) ①④
+B) ②④
+C) ①②④
+D) ②③④
+E)",
+4249,"As shown in the figure: A seedling shed is to be built with a height of h=1.8 meters, a width of a=2.4 meters, and a length of 12 meters. Now, plastic film needs to be covered on the roof of the shed. How many square meters of plastic film are required?",
+4250,"In the figure, there are 6 small rectangles of the same shape and size in rectangle ABCD, and EF = 3, CD = 12. What is the area of the large rectangle ABCD? ( )
+A. 105
+B. 106
+C. 107
+D. 108",
+4251,"In the figure, a line l passing through the focus F of the parabola \( y^2 = 2px \) (where \( p > 0 \)) intersects the parabola at points A and B, and intersects its directrix at point C. If \( |BC| = 2|BF| \) and \( |AF| = 3 \), then the equation of this parabola is ( )
+A. y^2 = 3x
+B. y^2 = 9x
+C. y^2 = \frac{3}{2}x
+D. y^2 = \frac{9}{2}x",
+4252,"In the figure, in the cube $A \! \! \! \! / B C \! \! \! \! \! / D - \! \! \! \! / A \! \! \! \! _ { 1 } B \! \! \! \! \! / _ { 1 } C \! \! \! \! \! / D _ { 1 }$, point $\mathcal { P }$ moves along the segment $A D _ { 1 }$. What is the range of the angle $\theta$ formed by the skew line $C P$ and line segment $\mathcal { B } \mathcal { A } _ { 1 }$?
+A. $0 < \theta \leq \frac { \pi } { 3 }$
+B. $0 < \theta \leq \frac { \pi } { 2 }$
+C. $0 \leq \theta \leq \frac { \pi } { 3 }$
+D. $0 < \theta < \frac { \pi } { 2 }$",
+4253,"As shown in the figure, the side length of the small squares on the grid paper is \(1\). The thick lines depict the three views of a certain polyhedron. What is the surface area of this polyhedron? \((\) \()\)
+A. \(8+4 \sqrt {2}\)
+B. \(2+2 \sqrt {2}+4 \sqrt {3}\)
+C. \(2+6 \sqrt {3}\)
+D. \(2+4 \sqrt {2}+2 \sqrt {3}\)",
+4254,"As shown in the figure, in the cube ABCD-A₁B₁C₁D₁, which of the following expressions results in the vector AC₁?
+A. ①③
+B. ②④
+C. ③④
+D. ①②③④",
+4255,"In a cube with a side length of \(1\) denoted as \(ABCD-A_{1}B_{1}C_{1}D_{1}\), the following propositions are given: \(①\) The angle between the lines \(A_{1}B\) and \(B_{1}C\) is \(60^{\circ}\); \(②\) The shortest path for a moving point \(M\) on the surface from point \(A\) to point \(C_{1}\) is \(1 + \sqrt{2}\); \(③\) If \(N\) is a moving point on the segment \(AC_{1}\), the sine value of the angle between line \(CN\) and the plane \(BDC_{1}\) ranges from \([\frac{\sqrt{3}}{3}, 1]\); \(④\) If \(P\) and \(Q\) are moving points on the segment \(AC\) such that \(PQ=1\), then the volume of tetrahedron \(PQB_{1}D_{1}\) is always \(\frac{\sqrt{2}}{6}\). Which of the above propositions are correct? Fill in all the correct proposition numbers.",
+4256,"In the figure, in a 3\( \times \)3 grid, the vertices of quadrilateral ABCD are all on the grid, and each small square has a side length of 1. Find the perimeter of quadrilateral ABCD.",
+4257,"In the image (2011•Jinjiang District School-level Autonomous Enrollment), folding the cardboard along the dashed line can create a cube. What letter is on the face opposite to A?",
+4258,"Given two lines passing through the point $(0, a^3)$ that are tangent to the parabola $y = -ax^2$ at points A and B, and lines AD and BC perpendicular to the line $y = -8$, find the maximum value of the area of rectangle ABCD for $a \in (0, 2)$.",
+4259,"In the figure, a section of the Shajing River has two banks a and b that are parallel to each other. C and D are two electric poles on bank a, spaced 60 meters apart. Xiaoming measures ∠DAB = 35° at point A on bank b, then walks 120 meters to point B on bank b and measures ∠CBF = 70°. Find the width CF of the river. (Results should be accurate to 0.1 meters. The following data may be used in calculations.)",
+4260,"As shown in Figure 1, the two tangents PA and PB of circle O intersect at point P, and are tangent to circle O at points A and B. Point C is on circle O. If ∠P = 70°, then ∠ACB = ?",
+4261,"In △ABC, points E and F are the midpoints of sides AB and AC, respectively, and point D is on side BC. Connect DE, DF, and EF. What condition must be added to make △BED congruent to △FDE?",
+4262,10 square paper pieces with a side length of 2 cm are stacked to form the shape below. The overlapping parts have a side length equal to half of each square's original side length. What is the perimeter of this shape?,
+4263,"In the figure, in a square grid where each small square has a side length of 1, how many sides of triangle ABC have irrational lengths?",
+4264,"In August 2008, the International Mathematical Conference held in Beijing had a logo as shown in the image. ABCD is a large square, surrounded by four right triangles forming a smaller square. If the area of the smaller square is \( \frac{1}{25} \) of the area of the large square, find the larger acute angle in the right triangle.",
+4265,"In the figure (2014 Ningde School-level Simulation), the hyperbola is given by \( y = \frac{2}{x} \) (for \( x > 0 \)). It passes through the vertices A and C of quadrilateral OABC, where \( \angle ABC = 90^\circ \). The line OC bisects the angle between OA and the positive x-axis, and AB is parallel to the x-axis. After folding triangle ABC along AC, we obtain triangle AB'C, where point B' falls on OA. What is the area of quadrilateral OABC?",
+4266,"In the square ABCD, E is the midpoint of CD, point F is on BC, and FC = \( \frac{1}{4} \) BC. The number of similar triangles in the figure is ( )
+A. 1 pair
+B. 2 pairs
+C. 3 pairs
+D. 4 pairs",
+4267,"In the figure, the three vertices of triangle DEF are located at the vertices of small squares on a grid paper. Triangles with all three vertices on grid points are called grid point triangles. How many such grid point triangles in the figure are congruent to triangle DEF?
+A. 9
+B. 10
+C. 11
+D. 13",
+4268,"In the figure, in the equilateral triangle \( \triangle ABC \), points D and E are the midpoints of sides AB and AC, respectively. Rotating \( \triangle ADE \) 180° around point E results in \( \triangle CFE \). Then, the quadrilateral ADCF must be ( ).
+A. Rectangle
+B. Rhombus
+C. Square
+D. Trapezoid",
+4269,"In the figure, it is known that the base of the hexagonal pyramid $P-A B C D E F$ is a regular hexagon, and $PA \perp \overline{AB}, PA = 2 \cdot AB$. Which of the following conclusions is correct?
+A. $PB \perp AD$
+B. The plane $PAB \perp \overline{PBC}$
+C. The line $BC \parallel$ plane $PAE$
+D. The angle between line $PD$ and plane $PAE$ is $45^{\circ}$",
+4270,"A geometric body composed of n identical small cubes has its front view and top view shown in the figure. What is the maximum value of n? ( )
+A. 16
+B. 18
+C. 19
+D. 20",
+4271,"As shown in the figure, the edge length of the cube is 1, point A is the midpoint of its edge, then the coordinates of point A in the three-dimensional Cartesian coordinate system are ( )
+A. \left(\frac{1}{2}, \frac{1}{2}, 1\right)
+B. \left(1, 1, \frac{1}{2}\right)
+C. \left(\frac{1}{2}, 1, \frac{1}{2}\right)
+D. \left(1, \frac{1}{2}, 1\right)",
+4272,"Paper cutting is a folk art in China. The image shows a method of paper cutting (first fold the paper, then cut, and unfold to get the pattern). Among the following four patterns, which one cannot be cut using the above method?
+A. $\clubsuit$
+B. $\bigotimes _ { g }$
+C. $\mathcal { S }$
+D. $8 0$",
+4273,"In the rectangle ABCD, E is the midpoint of AB, 2AD = AB, and F is the midpoint of BE. If AD = 5, what is the area of triangle OCD?",
+4274,"In the figure, it is known that AB is the diameter of circle O, CB is tangent to circle O at point B, CD is tangent to circle O at point D, and intersects the extension of BA at point E. If AB = 3 and ED = 2, what is the length of BC?
+A. 2
+B. 3
+C. 3.5
+D. 4",
+4275,"As shown in the figure, how many of the following inferences are correct? ( ) 
+① If ∠1 = ∠2, then AB ∥ CD. 
+② If AD ∥ BC, then ∠3 + ∠A = 180°. 
+③ If ∠C + ∠CDA = 180°, then AD ∥ BC. 
+④ If AB ∥ CD, then ∠3 = ∠4.
+A. 0
+B. 1
+C. 2
+D. 3",
+4276,"As shown in the figure, A, B, C, and D are four villages. To build three roads connecting these four villages, how many different construction methods are there?
+A. 8 types
+B. 12 types
+C. 16 types
+D. 20 types",
+4277,"In the figure, AB is the diameter of circle O, and it intersects chord CD at point E. We present the following conclusions: 
+1. AE • BE = CE • DE; 
+2. Triangle ADE is similar to triangle CBE; 
+3. Angle A = Angle C; 
+4. Angle AED = Angle BEC. 
+Which of these conclusions are correct? ( )",
+4278,"If the three views of a certain geometric body are as shown on the right, and the volume of the geometric body is 2, then in the top view, $x=$ _________.",
+4279,"In the right triangle \(ABC\), where \(∠C=90^{\circ}\), \(AC=3\), and \(BC=4\), squares \(ABEF\), \(ACPQ\), and \(BCMN\) are constructed on the same side of \(AB\), with the areas of the shaded parts being \(S_{1}\), \(S_{2}\), \(S_{3}\), and \(S_{4}\). What is the value of \(S_{1}-S_{2}+S_{3}+S_{4}\)?
+A. \(4\)
+B. \(6\)
+C. \(8\)
+D. \(12\)",
+4280,"Using a ruler and compass to construct a rhombus as shown in the figure, what is the basis for determining that quadrilateral ABCD is a rhombus?",
+4281,"In the figure, it is known that AC = AD = AE = BD = DE, ∠ADB = 42°, ∠BDC = 28°, then ∠BEC = ?",
+4282,"Given: As shown in the figure, circles O₁ and O₂ are externally tangent at point C, and AB is an external tangent line, with A and B being the points of tangency. Connect AC and BC. Let the radius of circle O₁ be R and the radius of circle O₂ be r. If $\tan \angle ABC = 2$, then the relationship between R and r is ( )",
+4283,"In the figure, the parallelogram \(ABCD\) is folded along the diagonal \(BD\) so that point \(A\) falls on point \(A'\). If \(∠1=∠2=50^{\circ}\), then \(∠A'\) is ______.",
+4284,"In the figure, two vertices of a right triangle with a 45° angle are placed on the opposite side of a ruler. If ∠1 = 20°, what is the degree measure of ∠3? ( )
+A. 25°
+B. 30°
+C. 60°
+D. 65°",
+4285,"In a square grid, the position of triangle ABC is shown in the figure. What is the value of \( \mathtt{tan\_d2A} \)?
+A. \( \frac{1}{3} \)
+B. \( \frac{\sqrt{2}}{2} \)
+C. \( \frac{\sqrt{3}}{2} \)
+D. \( \frac{\sqrt{3}}{3} \)",
+4286,"In the figure, two rectangles with lengths of 12 and widths of 8 overlap. Given that the length AB is 7, what is the area of the shaded overlapping region? ( )
+A. 36
+B. 42
+C. 48
+D. 56",
+4287,"In the figure, points B, F, and D are on ray AM, and points G, C, and E are on ray AN. Given that AB = BC = CD = DE = EF = FG = GA, find the degree measure of ∠A.",
+4288,"Which of the following three shapes has equal perimeters?
+A. Shape 1 and Shape 2
+B. Shape 2 and Shape 3
+C. Shape 1 and Shape 3
+D. Cannot be determined",
+4289,Calculate the area of the shaded part (the total blank area is 80 square centimeters).,
+4290,"In the 4×4 square grid, triangle MNP rotates to form triangle M₁N₁P₁. What is the center of rotation? (A) Point A (B) Point B (C) Point C (D) Point D",
+4291,"In the cube \(ABCD-A_{1}B_{1}C_{1}D_{1}\), points \(E\), \(F\), and \(G\) are the midpoints of segments \(A_{1}B_{1}\), \(B_{1}C_{1}\), and \(BB_{1}\) respectively. Given the following four statements: 
+1. \(FG\) is parallel to plane \(AA_{1}D_{1}D\); 
+2. \(EF\) is parallel to plane \(BC_{1}D_{1}\); 
+3. \(FG\) is parallel to plane \(BC_{1}D_{1}\); 
+4. Plane \(EFG\) is parallel to plane \(BC_{1}D_{1}\). 
+Which of the statements are correct? (Choose the correct numbers)
+A. 1 and 3
+B. 1 and 4
+C. 2 and 3
+D. 2 and 4",
+4292,"Count the squares. If each small square is 1 square centimeter, what is the area of the figure?",
+4293,"In the figure, lines AC and BD intersect at point O. Which of the following conditions can determine that CD is parallel to AB? ( )
+$ \frac {AO}{DO}= \frac {BO}{CO}$
+$ \frac {AO}{CD}= \frac {AB}{CD}$
+$ \frac {BO}{DO}= \frac {CO}{AO}$
+$ \frac {AO}{AC}= \frac {BO}{BD}$",
+4294,"Which of the following rectangles, when cut along the dashed line, can form both a parallelogram and a trapezoid, as well as a triangle?",
+4295,"As shown in the figure, the side length of the small squares on the grid paper is 1. The thick solid lines depict the three views of a polyhedron. What is the surface area of this polyhedron?
+A. 18 + 36 \sqrt{5}
+B. 54 + 18 \sqrt{5}
+C. 90
+D. 81",
+4296,"In the figure (2006, Huai'an), it is known that AB is parallel to CD, and if ∠1 = 50°, then ∠BAC = degrees.",
+4297,"In the figure, line AB is tangent to circle O at point B, BC is the diameter of circle O, and AC intersects circle O at point D. If we connect BD, how many right triangles are there in the figure?",
+4298,Calculate the area of the shaded part in the figure.,
+4299,"As shown in the figure, folding the figure along the dashed line results in a cube. What is opposite to 'me'? (Fill in the Chinese character).",
+4300,"In the figure, triangle ABC overlaps with a circle. This circle is tangent to line BC at point C and intersects AC at another point D. If ∠A = 70° and ∠B = 60°, what is the degree measure of \( CD \)?
+A. 50°
+B. 60°
+C. 100°
+D. 120°",
+4301,"Given line AB: y = -\frac{4}{3}x + 4 intersects x-axis at A and y-axis at B. Rhombus ABCD has point D on the negative x-axis. Line CE: y = x + 9 passes through point C and intersects x-axis at E. Point P(0, t) lies on segment OB (t > 0, t < 4). A horizontal line through P intersects AB at M and CE at N. Let d be the length of MN. Find the functional relationship between d and t.",
+4302,"In the figure, triangle ABC on the grid paper is transformed into triangle DEF. The correct transformation is ( )
+A. Move triangle ABC 6 units to the right
+B. Move triangle ABC 4 units to the right, then 1 unit up
+C. Rotate triangle ABC 90º clockwise around point A, then move 6 units to the right
+D. Rotate triangle ABC 90º counterclockwise around point A, then move 6 units to the right",
+4303,"In the figure, in triangle ABC, AE intersects BC at point D, ∠C = ∠E, AD = 4, BC = 8, and the ratio BD:DC = 5:3. What is the length of DE?
+A. \( \frac{20}{3} \)
+B. \( \textstyle{ \frac{15}{4} } \)
+C. \( \frac{1}{6} \)
+D. \( \frac{1}{7} \)",
+4304,"As shown in the figure, it is an equilateral triangle with an area of 1 square meter. By extending each of the three sides to both ends by 1 time, and connecting the six endpoints, a hexagon is formed. What is its area in square meters?",
+4305,"If the line $y=kx+1$ intersects the circle $x^2+y^2+kx+my-4=0$ at points M and N, and M and N are symmetric with respect to the line $2x-y=0$, and a moving point P(a, b) lies within and on the boundary of the region defined by the system:
+$$
+\begin{cases}
+kx - y + 2 \geq 0 \\
+kx - my \leq 0 \\
+y \geq 0
+\end{cases}
+$$
+then the range of values for $\frac{b-2}{a-1}$ is ( )
+A. $[2, +\infty)$
+B. $(-\infty, -\frac{2}{3}]$
+C. $[-\frac{2}{3}, 2]$
+D. $(-\infty, -\frac{2}{3}] \cup [2, +\infty)$",
+4306,"In the figure, M is the midpoint of AB of rectangle ABCD, and CM intersects BD at E. What is the ratio of the area of the shaded part to the area of rectangle ABCD?",
+4307,"In the figure, line AB is parallel to line CD, ∠EFA = 30°, ∠FGH = 90°, ∠HMN = 30°, and ∠CNP = 50°. What is the measure of ∠GHM?",
+4308,"In the figure, which of the following conclusions is correct? ( )
+∠DAC and ∠ACB are a pair of corresponding angles.
+If ∠DAC = ∠ACB, then AB ∥ CD.
+∠D and ∠DAC are a pair of same-side interior angles.
+If ∠D = ∠B, then AD ∥ BC.",
+4309,"In the figure, the base of the cube and the base of the regular tetrahedron are on the same plane α, and AB is parallel to CD. How many planes does the line EF intersect with the six faces of the cube?",
+4310,"In the figure, each small square represents 1 square centimeter. The area of the shape in the ( ) position from the left is not equal to the other three.",
+4311,"The three views of a certain geometric body are shown in the figure, then the volume of the geometric body is ______ .",
+4312,"The figure shows the front view and left view of a geometric body composed of identical small cubes. In this geometric body, the number of small cubes cannot be ( )
+A. 7
+B. 8
+C. 9
+D. 10",
+4313,"In the figure, each small square has a side length of 1. Points A, B, and C are vertices of the small squares. What is the tangent value of angle ∠ABC?",
+4314,What is the plane figure seen from above the given geometric figure?,
+4315,"The tangram is an outstanding creation of our ancestors and was extremely popular in the world. As shown in the figure formed by the tangram, there are ______ pairs of parallel lines.",
+4316,"Let points A₁, A₂, ..., A_{n-1} be the n equal division points of segment AB (n ≥ 3, n ∈ ℕ*). Express the sum O(A₁) + O(A₂) + ... + O(A_{n-1}) in terms of O(A) and O(B).",
+4317,"A hospital uses a rectangular white cloth that is 25 meters long and 1.2 meters wide to make triangular scarves as shown in the image. How many such triangular scarves can be made?
+A. 160
+B. 164
+C. 166",
+4318,"In the figure, OA is perpendicular to OB, and the legs CD of the isosceles right triangle CDE are on OB, with ∠ECD = 45°. When triangle CDE is rotated counterclockwise by 75° around point C, point E's corresponding point N falls exactly on OA. What are the values of \( OC \) and \( CN \)?
+A. 1/2
+B. 1/3
+C. 2
+D. 3",
+4319,"In the figure, it is known that circles O₁ and O₂ intersect at points A and B, and the line O₁O₂ intersects the two circles at points C and D. If ∠O₁AO₂ = 40°, then what is the measure of ∠CBD?
+A. 110°
+B. 120°
+C. 130°
+D. 140°",
+4320,Xiao Liang sees the clock on the wall behind him in the mirror. Which of the following clock faces represents the actual time closest to eight o'clock?,
+4321,"As shown in the figure, line c intersects two parallel lines a and b. Among the following statements, which one must be true? ( )
+Options: 
+(A) ∠1 = ∠2
+(B) ∠1 = ∠3
+(C) ∠1 = ∠4
+(D) ∠1 = ∠5",
+4322,"In parallelogram ABCD, point M is on diagonal AC, BM intersects AD at N and extends to intersect line CD at E. How many pairs of different similar triangles are there in the figure? Please list as many as possible.",
+4323,"As shown in the figure, ABCD is a square, the center of the circle of AC is at point B, and ADC is a semicircle with AC as the diameter. Let AB = a, then the area of the shaded part is .",
+4324,Calculate the area of the shaded part. (Unit: cm),
+4325,"A triangular ruler is placed as shown in the figure, connecting AD, then the tangent value of ∠ADB is ( )
+A. \( \sqrt{3} - 1 \)
+B. \( \sqrt{3} + 1 \)
+C. \( \frac{\sqrt{3}+1}{2} \)
+D. \( \frac{\sqrt{3} - 1}{2} \)",
+4326,"In the figure, the side length of square ABCD is 1, and the central angle ∠CDE corresponding to arc CE is 90°. When the shape ABCD is rotated around the line AE, the surface area of the resulting geometric body is \( \) .",
+4327,"In the figure, point A is located in the ______ direction of point O.",
+4328,"In the figure (2012 Yuyiao City School-level Independent Enrollment), the area of triangle ABC is 1. Points D, G, E, and F are located on sides AB, AC, and BC respectively, with BD < DA, DG ∥ BC, DE ∥ AC, and GF ∥ AB. What is the maximum possible area of trapezoid DEFG?",
+4329,"In the figure, point P is outside circle O. Lines PA and PB are tangent to circle O at points A and B, respectively. Line CD is tangent to circle O at point E and intersects PA and PB at points C and D, respectively. If PA = 5, what is the perimeter of triangle PCD? ( )
+A. 5
+B. 7
+C. 8
+D. 10",
+4330,"In the plane, lines a and c intersect with line b (data as shown in the image). When line c rotates around point O by a certain angle to become parallel to line a, what is the minimum degree of rotation?",
+4331,"A businessman from Jiangning, invited by the district government, visited the Science Park to investigate the investment environment. He drove slowly eastward on Tianyuan Road, which runs east-west. The GPS showed that Fangshan Scenic Area (Point C) is located at a direction of 45° south-east from his current position (Point A), with AC = 4 km. He continued eastward to Point B and found that Fangshan Scenic Area is located at a direction of 60° south-west from there. What is the distance AB that the businessman traveled from west to east in kilometers? (Result accurate to 0.1 km) (Reference data: \( \sqrt{2} \approx 1.41, \sqrt{3} \approx 1.73, \sqrt{6} \approx 2.45 \) )",
+4332,"As shown in the figure, a rectangular wooden board with a length of 4 cm and a width of 3 cm rolls on the table without slipping (in a clockwise direction). The position of point A changes from A to A<sub>1</sub> to A<sub>2</sub>. At this moment, the edge A<sub>2</sub>C of the rectangular board makes an angle of 30° with the table. What is the total length of the path traveled by point A when it rolls to position A<sub>2</sub>?",
+4333,"In the figure, ∠DAB = ∠EAC = 60°, AB = AD, AC = AE, BE and CD intersect at O, AB and CD intersect at P, then the measure of ∠DOE is _______°.",
+4334,"The figure is an unfolded view of a cube. Which face is opposite face 6?
+A. Face 1
+B. Face 2
+C. Face 3",
+4335,"What geometric shape is obtained by rotating the right triangle in the image around its longest side, and what is the resulting plane figure when viewed from the front?",
+4336,"To measure the radius of a circular iron ring, a student used the following method: The iron ring is placed flat on a horizontal table, and using a triangular ruler with an acute angle of 30° and a ruler, relevant data is obtained as shown in the figure, thus the radius of the iron ring can be calculated. If PA = 5 cm, what is the radius of the iron ring ( ) cm?
+A. 5
+B. 10
+C. 5√3
+D. 5+5√3",
+4337,"In the figure, extend the side \(DC\) of the parallelogram \(ABCD\) to point \(E\) such that \(CE=CD\). Connect \(AE\) which intersects \(BC\) at point \(F\). When \(∠AFC=n∠D\), what value of \(n\) makes the quadrilateral \(ABEC\) a rectangle?",
+4338,"In the figure, AB is parallel to CD, ∠C = 42°, ∠E = 58°, what is the degree measure of ∠B? ( )
+A. 120°
+B. 128°
+C. 80°
+D. 100°",
+4339,"In triangle ABC, ∠ABC = 60°, AD and CE bisect ∠BAC and ∠ACB respectively. What is the relationship between the length of AC and AE + CD? ( )
+AC = AE + CD
+B. AC > AE + CD
+AC < AE + CD
+D. Cannot determine",
+4340,"In the figure (2014 • Gucheng County Simulation), quadrilateral ABCD is a trapezoid, with AD parallel to BC. CA is the bisector of angle BCD, and AB is perpendicular to AC. Given that AB = 4 and AD = 6, find \( \tan B \).",
+4341,"In the figure (2009 Autumn, Changzhou Final Exam): AB is parallel to CD. By adding the condition, we can conclude that ∠DCF = ∠ABE.",
+4342,"As shown in the figure, points D, E, F, and G are located on the sides of triangle ABC. Based on the symbols and data in the figure, find the value of x + y.
+A. 110
+B. 120
+C. 160
+D. 165",
+4343,"Among the three shapes A, B, and C, which one has the longest perimeter?
+Shape A
+Shape B
+Shape C",
+4344,"As shown in the figure, point \(P\) is outside line \(m\), points \(A\), \(B\), and \(C\) lie on line \(m\), and \(PB \perp m\), with the foot of the perpendicular being \(B\). Given that \(∠APC=90^{\circ}\), which of the following statements is incorrect?
+A. The length of segment \(PB\) is called the distance from point \(P\) to line \(m\).
+Among the segments \(PA\), \(PB\), and \(PC\), \(PB\) is the shortest.
+The length of segment \(AC\) is equal to the distance from point \(P\) to line \(m\).
+D. The length of segment \(PA\) is called the distance from point \(A\) to line \(PC\).",
+4345,"In the grid paper, triangle ABC is positioned as shown. Establish a Cartesian coordinate system such that point A is at (2, -1) and point B is at (1, -4). Find the coordinates of point C.",
+4346,"In the figure, there are two lighthouses A and B by the sea, and reefs are distributed in the arc area formed by points A and B (the arc is part of circle O). The angle ∠AOB = 96°. To avoid the reefs, the maximum value of the angle ∠APB formed by the ship P with A and B is °.",
+4347,"In the right triangle ABC, if two identical pieces of paper can perfectly form an equilateral triangle, what is the value of \( \sin \angle B \)?",
+4348,"In the figure, AB is the diameter of circle O, C is a point on the extension of AB, BC = OB, and CD is tangent to circle O at D. What is the degree measure of angle A?",
+4349,"A cube has each face marked with numbers: 1, 2, 3, 4, 5, 6. Based on the three states shown in the figure, what number is at the position of '?'?",
+4350,"In the right triangle ABC, where AB = CB and BO is perpendicular to AC, triangle ABC is folded such that AB coincides with AC, and point B coincides with point E on AC. After unfolding, the crease AD intersects BO at point F. Connect DE and EF. The following conclusions are made: ① \( \tan \angle ADB = 2 \) ② There are 4 pairs of congruent triangles in the figure ③ If triangle DEF is folded along EF, point D does not necessarily fall on AC ④ \( BD = BF \) ⑤ The area of quadrilateral DFOE equals the area of triangle AOF. How many of the above conclusions are correct? ( ) A 1 conclusion B 2 conclusions C 3 conclusions D 4 conclusions
+A 1 conclusion
+B 2 conclusions
+C 3 conclusions
+D 4 conclusions",
+4351,"The base of a quadrangular pyramid is a rhombus, and its three views are shown in the figure. What is the volume of this quadrangular pyramid?",
+4352,"In the same Cartesian coordinate system, which graph correctly represents the lines $y = ax$ and $y = x + a$?",
+4353,"In the inscribed pentagon ABCDE of circle O, if ∠B + ∠E = 210°, then ∠CAD = ______°.",
+4354,"In the image of an arch bridge, when the water surface width \(AB\) is \(12m\), the top of the bridge opening is \(4m\) above the water surface. It is known that the arch of the bridge is a parabola, with the horizontal direction as the \(x\)-axis. If point \(A\) is chosen as the origin, the equation of the parabola is \(y=- \dfrac {1}{9}(x-6)^{2}+4\). What is the equation of the parabola when point \(B\) is chosen as the origin?",
+4355,"In tetrahedron D-ABC, if AB = CB, AD = CD, and E is the midpoint of AC, which of the following statements is correct?
+Plane ABC ⊥ Plane ABD
+Plane ABD ⊥ Plane BDC
+Plane ABC ⊥ Plane BDE, and Plane ADC ⊥ Plane BDE
+Plane ABC ⊥ Plane ADC, and Plane ADC ⊥ Plane BDE",
+4356,"As shown in the figure, a traveler goes from point A directly towards the river to fetch water. At point A, he sees a tree E on the opposite bank, and the angle between his walking direction and the direction to the tree is ∠EAD = 30°. After moving 40 meters to point B, he observes ∠EBD = 60°. He then moves another 5 meters to reach the riverbank at point C. What is the width of the river?",
+4357,"The three views of a certain geometric body are shown in the figure (the grid length in the figure is 1 unit). The top view is a sector, what is the volume of this geometric body?
+A. \( \dfrac {2π}{3}\)
+B. \( \dfrac {4π}{3}\)
+C. \( \dfrac {14π}{3}\)
+D. \( \dfrac {16π}{9}\)",
+4358,"In the isosceles triangle \( \triangle ABC \), where \( AB = AC \) and \( \angle A = 40^\circ \), point \( P \) is inside triangle \( ABC \) such that \( \angle 1 = \angle 2 \). What is the measure of \( \angle BPC \)?",
+4359,"Given that AB is parallel to CD, what condition must be satisfied to ensure that ∠1 = ∠2?",
+4360,"In the figure, in trapezoid ABCD, the diagonals AC and BD intersect at point O. The triangles with equal areas in the figure are ( ).
+A. 3 pairs
+B. 2 pairs
+C. 1 pair
+D. 4 pairs",
+4361,"In the figure, an equilateral triangle DEF with side length b is inscribed inside an equilateral triangle ABC with side length a, such that D, E, F lie on sides BC, AB, and AC respectively. Find the inradius of triangle AEF.",
+4362,Find the area of the shaded part in the figure.,
+4363,"As shown in the figure, a straight road a passes through scenic spots A, B, and C. Scenic spot D is located 8 km in the north-east direction of A at an angle of 30°, directly north of B, and AB = 5 km. Find the length of the shortest road from D to road a (result accurate to 0.1 km).",
+4364,"In the figure, a square with side length a (the small square in the center) is combined with four squares with side length b (where b > a). What is the area of quadrilateral ABCD?
+A. b^2 + (b - a)^2
+B. b^2 + a^2
+C. (b + a)^2
+D. a^2 + 2ab",
+4365,"In the figure, points A, B, and C are on circle O. Given that ∠ACB = α, find ∠AOB in terms of α.",
+4366,"In the figure (2009 Xiaoshan District Simulation), the radii of circles ⊙O₁, ⊙O₂, ⊙O₃, and ⊙O₄ are all 1. Circle ⊙O₁ is externally tangent to ⊙O₂, and circles ⊙O₂, ⊙O₃, and ⊙O₄ are pairwise externally tangent. Points O₁, O₂, and O₃ are collinear. If circle ⊙O₁ rolls along the circumference of circle ⊙O₂ in the direction indicated by the arrow in the figure, stopping at the first position where it coincides with circle ⊙O₄, what is the length of the path traveled by the center O₁ during this rolling?",
+4367,"A cone with a height of 5 cm is cut along its height, resulting in two objects as shown in the figure. The surface area has increased by 10 cm² compared to the original cone. What is the volume of the original cone in cubic centimeters? (Round the answer to one decimal place)",
+4368,"In the figure, \(AB\) is the diameter of circle \(⊙O\), and points \(C\) and \(D\) are on circle \(⊙O\). If \(∠ABD=62^{\circ}\), then \(∠BCD=\) \({\,\!}^{\circ}.\)",
+4369,"Executing the program flowchart shown in the right image, the probability of outputting the pair (x, y) is ( )
+A. \frac { 1 } { 4 }
+B. \frac { \pi } { 2 }
+C. \frac { \pi } { 4 }
+D. \frac { \pi } { 8 }",
+4370,"In the figure, it is known that the line $l_1$: $y=\frac{2}{3}x+\frac{8}{3}$ intersects the line $l_2$: $y=-2x+16$ at point C. The lines $l_1$ and $l_2$ intersect the x-axis at points A and B respectively. The vertices D and E of rectangle DEFG are on lines $l_1$ and $l_2$, while vertices F and G are on the x-axis, with point G coinciding with point B. Then, the area of rectangle DEFG is given by the ratio $S_{矩形 DEFG}: S_{△ABC} = 8: 9$.",
+4371,"After folding a rectangular piece of paper \(ABCD\) along line \(EF\), the intersection point of \(ED\) and \(BC\) is point \(G\). Points \(D\) and \(C\) are positioned at points \(M\) and \(N\) respectively. If \(∠EFG=50^{\circ}\), then \(∠2=\) ______ \({\,\!}^{\circ}.\)",
+4372,"The three views of a geometric body are shown in the figure. What is the volume of this geometric body?
+A. \(8 \sqrt {3}+6π\)
+B. \(8 \sqrt {3}+ \dfrac {16π}{3}\)
+C. \( \dfrac {32 \sqrt {3}}{3}+6π\)
+D. \( \dfrac {32 \sqrt {3}}{3}+ \dfrac {16π}{3}\)",
+4373,"As shown in the figure, rotate the equilateral triangle \(\triangle OAB\) counterclockwise around point \(O\) by \(150^{\circ}\) to obtain \(\triangle OA'B'\) (points \(A'\) and \(B'\) are the corresponding points of points \(A\) and \(B\)). Then, find \(∠1=\) \({\,\!}^{\circ}.\)",
+4374,"Given ∠AOB=55°, find ∠DOB=____°",
+4375,"In the figure, given that AC is the diagonal of rectangle ABCD, with AB = 3 and BC = 4. Now, the rectangle ABCD is cut along the diagonal AC, and triangle ABC is translated in the direction of AD to obtain triangle A'BC' in figure ②. When quadrilateral A'ECF is a rhombus, the length of the translation distance AA' is ______.",
+4376,"As shown in the figure, if the triangle is translated 3 units to the right and then 2 units up, what will be the coordinates of the three vertices after the translation?
+A. (1, -1) (4, 3) (2, 6)
+B. (-1, 1) (3, 4) (2, 6)
+C. (1, -1) (3, 4) (2, 6)
+D. (-1, 1) (4, 3) (2, 6)",
+4377,"In the figure, a rectangular piece of paper has one corner folded over. Given that ∠1 = 30°, find the measure of ∠2.",
+4378,"As shown in the figure, at the slope point $A$, the angle of the top of a building $CD$ at the summit $C$ with respect to the slope is 15°. Moving 100 meters up the slope to point $B$, the angle of $C$ with respect to the slope is 45°. If $CD$ = 50 meters, and the angle of the slope with respect to the horizontal plane is $θ$, then cos $θ$ = ( ).
+A. $\frac{\sqrt{3}}{2}$
+B. 2- $\sqrt{3}$
+C. $\sqrt{3}$ -1
+D. $\frac{\sqrt{2}}{2}$",
+4379,"In the figure, which consists of 16 squares each with a side length of 1, if we connect some vertices of these squares, then among the segments AB and CD, the segment with a rational length is:",
+4380,"A triangular prism has been partially cut by a plane, resulting in the geometric body shown in the three views. The top view is an equilateral triangle with a side length of \(2\). What is the ratio of the volume of the cut part to the remaining part? (\( \) \()\)
+A. \( \dfrac {10}{33}\)
+B. \( \dfrac {13}{36}\)
+C. \( \dfrac {13}{23}\)
+D. \( \dfrac {23}{33}\)",
+4381,"A triangle and a rectangle are enlarged in the manner shown in the image, such that the distance between their corresponding sides is 1, resulting in a new triangle and rectangle. Which of the following statements is correct? ( )
+A. The new triangle is similar to the original triangle.
+B. The new rectangle is similar to the original rectangle.
+C. Both the new triangle and the original triangle, and the new rectangle and the original rectangle are similar.
+D. Neither the new triangle nor the original triangle, nor the new rectangle nor the original rectangle are similar.",
+4382,"Xiaoming, who is 1.7 meters tall, is standing on a flat road. He sees two buildings, AB and CD, ahead of him. At this moment, he can still see part of AB from the top of CD, and the angle between his line of sight and the horizontal line is α = 30°. It is known that CD is 16.7 meters high. If Xiaoming continues to walk forward to position N, CD just blocks AB. At this time, the angle between his line of sight and the horizontal line is β = 45°. How far did Xiaoming walk from M to N?",
+4383,"The three views of a geometric body are shown in the figure. Its side view is an equilateral triangle. What is the volume of this geometric body? ( ) 
+A. $4\sqrt{3}$
+B. $3\sqrt[]{3}$
+C. $2\sqrt{3}$
+D. $\sqrt{3}$",
+4384,"In the figure (2015 Wuxi School Level Mock Exam), the side length of the equilateral triangle ABC is 9 cm, and the vertex R of the equilateral triangle RPQ with a side length of 3 cm coincides with point A. Points P and Q are located on sides AC and AB, respectively. The triangle RPQ is flipped continuously along sides AB, BC, and CA (as shown in the figure) until point P returns to its original position for the first time. What is the length of the path traveled by point P in cm? (Result retains π)",
+4385,"如图，⊙O的弦AB、CD的延长线交圆外于某点，若∠AOC＝100°，∠BCD＝20°，则∠E的大小是（）
+Choices:
+(A) 20°
+(B) 25°
+(C) 30°
+(D) 50°",
+4386,"The trademark pattern of a certain product is shown in the figure (the shaded part in the figure). It is known that the diameter AB of circle O is perpendicular to CD, and AB = 8 cm. The arc AB is centered at D with radius DA. What is the area of the trademark pattern in cm²?",
+4387,"In the Cartesian coordinate system $x O y$, points are given as $A(1, 0)$, $B(1, 1)$, and $C(0, 1)$. The mapping $f$ corresponds a point $P(x, y)$ in the plane to another point $P(2xy, x^2 - y^2)$ in a different Cartesian coordinate system $u O \nu$. When point $P$ moves along the polyline $A - B - C$, what is the trajectory of point $\mathcal{P}$ under the mapping $f$?",
+4388,"In the spring of 2013, at the Chongqing school-level final exam, point O is a point inside quadrilateral ABCD. Points A', B', C', and D' are points on OA, OB, OC, and OD respectively, such that the ratios OA': A'A = OB': B'B = OC': C'C = OD': D'D = 2: 1. If the area of quadrilateral A'B'C'D' is 12 cm², what is the area of quadrilateral ABCD?
+A. 18 cm²
+B. 27 cm²
+C. 36 cm²
+D. 54 cm²",
+4389,"In the complex plane, the vectors corresponding to the complex numbers \(z_{1}\) and \(z_{2}\) are \( \overrightarrow{OA}\) and \( \overrightarrow{OB}\), respectively. Then \(|z_{1}+z_{2}|=(\) \()\)
+A. \(1\)
+B. \( \sqrt {5}\)
+C. \(2\)
+D. \(3\)",
+4390,"Count the number of triangles in the image.
+A. 19
+B. 20
+C. 21
+D. 22",
+4391,"In the figure, triangle ABC overlaps with a circle. This circle is tangent to line BC at point C and intersects AC at another point D. Given that ∠A = 70° and ∠B = 60°, what is the degree measure of \( \sim CD \) ( )?
+A. 50°
+B. 60°
+C. 100°
+D. 120°",
+4392,"In the figure, the area of the tangram pattern is 256 cm². Do you know how much the shaded area is?",
+4393,"The three views of a certain geometric body are shown in the figure, then the volume of this geometric body is ________________.",
+4394,"In the figure, circles ⊙O₁ and ⊙O₂ are tangent at point A, with radii 6 and 3 respectively. When circle ⊙O₂ is translated along the line O₁O₂ until the two circles are externally tangent, the distance that point O₂ moves is ( )
+A. 3
+B. 6
+C. 12
+D. 6 or 12",
+4395,"In the grid of size \(6 \times 7\), points \(A\), \(B\), \(C\), and \(D\) are grid points. The line segment \(CD\) is obtained by a similarity transformation of the line segment \(AB\). What is their center of similarity?
+A. \(P_{1}\)
+B. \(P_{2}\)
+C. \(P_{3}\)
+D. \(P_{4}\)",
+4396,Calculate the area of the shaded part in the figure. The diameter is 10 decimeters.,
+4397,"In the figure, triangles ABC and DEF are symmetric about the line MN. Which of the following conclusions is incorrect? ( )
+AB ∥ DF
+∠B = ∠E
+C. AB = DE
+The line segment AD is perpendicular to and bisected by MN",
+4398,The figure shows the front view and top view of a geometric body made up of several identical small cubes. What is the maximum number of small cubes that can form this geometric body?,
+4399,"For the ellipses \(c_{1}, c_{2}\) and hyperbolas \(c_{3}, c_{4}\) shown in the figure, where \(c_{1}, c_{3}\) are solid lines and \(c_{2}, c_{4}\) are dashed lines, their eccentricities are respectively \(e_{1}, e_{2}, e_{3}, e_{4}\). Which of the following is true?
+A. \(e_{1} < e_{2} < e_{3} < e_{4}\)
+B. \(e_{2} < e_{1} < e_{3} < e_{4}\)
+C. \(e_{1} < e_{2} < e_{4} < e_{3}\)
+D. \(e_{2} < e_{1} < e_{4} < e_{3}\)",
