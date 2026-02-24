@@ -4,6 +4,9 @@ dataset/
 # Exclude large parquet files (exceeds GitHub 100MB limit)
 *.parquet
 
+# Secrets
+.env
+
 # Python cache
 __pycache__/
 *.pyc
@@ -14,8 +17,15 @@ __pycache__/
 
 # Virtual environment
 venv/
+.venv/
 env/
 ENV/
+
+# Translations working folder
+translations/
+
+# Temporary / check scripts
+notebooks/_*.py
 
 # IDE
 .vscode/
