@@ -1,0 +1,302 @@
+[
+  {
+    "id": "8240d01f-9bc8-4722-9f4b-dcbee45b419b",
+    "images": [
+      "images/30182_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-তে, AB = AC। বৃত্ত O, যার ব্যাস AB, AC-কে E বিন্দুতে এবং BC-কে D বিন্দুতে ছেদ করে। পাঁচটি সিদ্ধান্ত দেওয়া হলো: 1. BD = DC; 2. CB = 2ED; 3. AE ~ DE; 4. ∠A = ∠EDC; 5. ত্রিভুজ ABC এবং ত্রিভুজ DCE সদৃশ। সঠিক সিদ্ধান্তগুলোর নম্বর হলো ______।\nOptions:\nগ) Circle O, with diameter AB, intersects AC at E and BC at ঘ) The following five conclusions are given: \n1. BD = DC; \n2. CB = 2ED; \n3. \\( AE \\sim DE \\); \n4. \\( \\angle A = \\angle EDC \\); \n5. Triangle ABC is similar to triangle DCE. \nThe correct conclusion numbers are ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "56d429d2-29bc-46da-94a2-ac6da27f0ec1",
+    "images": [
+      "images/39331_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্তের ব্যাস AB = 10। C এবং D বিন্দু দুটি অর্ধবৃত্তের সমত্রিখণ্ডক বিন্দু এবং P হলো AB-এর ওপর একটি বিন্দু। ছায়াবৃত অঞ্চলের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nB) Find the area of the shaded region.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e18f6516-f413-436b-8541-0fbc109ba909",
+    "images": [
+      "images/23010_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-তে ∠ABC=90°, AB=BC এবং AC=2√85 দেওয়া আছে। তিনটি শীর্ষবিন্দু C, A এবং B যথাক্রমে তিনটি সমান্তরাল রেখা l₁, l₂ এবং l₃-এর উপর অবস্থিত এবং l₂ ও l₃ রেখাদ্বয়ের মধ্যবর্তী দূরত্ব 7। l₁ ও l₂ রেখাদ্বয়ের মধ্যবর্তী দূরত্ব কত?\n\nOptions:\nক) \\(5\\)\nখ) \\(4\\)\nগ) \\(3\\)\nঘ) \\(2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6387867-26da-4c16-b692-584e3b0e21dd",
+    "images": [
+      "images/36419_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখা যাচ্ছে নীচের কোন শর্তটি AD সমান্তরাল BC হওয়ার জন্য ব্যবহার করা যেতে পারে?\nক. ∠1 = ∠2\nখ. ∠3 = ∠4\nগ. ∠DAB + ∠ABC = 180°\nঘ. ∠ABC + ∠BCD = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c76846c1-f710-4b95-b1b7-ed4f319562b7",
+    "images": [
+      "images/8003_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে (যেখানে সম্মুখ দৃশ্যের বৃত্তচাপটি একটি অর্ধবৃত্ত), এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) $92+14\\pi$\nখ) $82+14\\pi$\nগ) $92+24\\pi$\nঘ) $82+14\\pi$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2f5a2065-b4a0-480d-a807-167987f7cafe",
+    "images": [
+      "images/triangle_ext_2f5a2065-b4a0-480d-a807-167987f7cafe.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 10টি বিন্দু নিয়ে গঠিত একটি ত্রিভুজাকার ল্যাটিস দেওয়া আছে (যেখানে যেকোনো দুটি সংলগ্ন বিন্দুর দূরত্ব 1), যেকোনো তিনটি বিন্দুকে শীর্ষবিন্দু হিসেবে নির্বাচন করে কতগুলো সমবাহু ত্রিভুজ গঠন করা সম্ভব:\nক. \\(12\\)\nখ. \\(13\\)\nগ. \\(15\\)\nঘ. \\(16\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17a5ca7a-3525-4bc4-bb63-49eaff996671",
+    "images": [
+      "images/62120_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্র অনুযায়ী, AB রেখা CD রেখার সমান্তরাল হওয়ার শর্তটি হলো ( )\n\nOptions:\nক) ∠3 + ∠4 = 180°\nখ) ∠3 = ∠4\nগ) ∠1 + ∠3 = 180°\nঘ) ∠1 = ∠2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a442569c-2068-4b24-b786-1c9de1758908",
+    "images": [
+      "images/3303_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য সমান এবং A, B ও C বিন্দুগুলো ছোট বর্গগুলোর শীর্ষবিন্দু। ∠ABC কোণের মান কত ডিগ্রি?\n\nOptions:\nক) 30°\nখ) 45°\nগ) 60°\nঘ) 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54fc043a-267c-4caa-a1ad-8906a28be30d",
+    "images": [
+      "images/17913_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এর আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2294e992-6bf1-4b26-bf1e-b51808996d1c",
+    "images": [
+      "images/74680_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, দেওয়া আছে AB || DC, AD || BC এবং AM = CN। চিত্রে সর্বসম ত্রিভুজের কত জোড়া বিদ্যমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3a9c743-62a7-4481-83f1-a8c48e7dd53a",
+    "images": [
+      "images/31564_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সামান্তরিকটির ক্ষেত্রফল 240 বর্গমিটার। মিটার এককে এই সামান্তরিকটির পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bcbf0a1c-dc86-49b4-a1f5-5d6f1e8a9e8c",
+    "images": [
+      "images/3262_0.png"
+    ],
+    "english_question": "<image>\nসূর্যের আলো মাটির সাথে 60° কোণে আপতিত হলে মাটির উপর থাকা একটি বলের ছায়ার দৈর্ঘ্য 10√3 সেমি হয়। বলটির ব্যাস কত?\nক. 5√3\nখ. 15\nগ. 10\nঘ. 8√3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c1fab24-8f40-469e-8bd6-5372679e5ec9",
+    "images": [
+      "images/53461_0.png"
+    ],
+    "english_question": "<image>\nচারটি বর্গক্ষেত্রের সমন্বয়ে গঠিত চিত্রে, প্রদর্শিত দশটি বিন্দুর মধ্যে যেকোনো তিনটি বিন্দুকে শীর্ষবিন্দু হিসেবে ব্যবহার করে কতটি সমকোণী সমদ্বিবাহু ত্রিভুজ গঠন করা সম্ভব?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18ed476e-68da-4c2e-a940-0c432d0d557b",
+    "images": [
+      "images/56536_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমকোণী ট্রাপিজিয়ামের তিনটি বাহুর দৈর্ঘ্য দেওয়া আছে (একক: ডেসিমিটার)। যদি ট্রাপিজিয়ামের তীর্যক বাহু দুটিকে বর্ধিত করা হয় তবে তারা মিলিত হয়, চিত্রে চিহ্নিত ড্যাশ লাইনের দৈর্ঘ্য নির্ণয় করো। (সংকেত: সমাধানের জন্য একটি সমীকরণ গঠন করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "215d5b28-fb82-419d-ad97-1644469f8a04",
+    "images": [
+      "images/triangle_ext_215d5b28-fb82-419d-ad97-1644469f8a04.png"
+    ],
+    "english_question": "<image>\nদুটি সর্বসম সমদ্বিবাহু সমকোণী ত্রিভুজ ABC এবং AFG এর সাধারণ শীর্ষবিন্দু A, যেখানে ∠BAC = ∠AGF = 90° এবং অতিভুজের দৈর্ঘ্য 2। ত্রিভুজ ABC স্থির এবং ত্রিভুজ AFG বিন্দু A এর চারদিকে ঘোরে। D এবং E বিন্দুদ্বয় যথাক্রমে AF ও AG রেখার সাথে BC এর ছেদবিন্দু। যদি BE = m এবং CD = n হয়, তবে m এবং n এর মধ্যে সম্পর্ক নির্ণয় করো।\nOptions:\nA) Let D and E be the intersection points of AF and AG with BC respectively. If BE = m and CD = n, find the relationship between m and n.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c309a406-39df-4479-9cc5-2240552f5727",
+    "images": [
+      "images/32589_0.png"
+    ],
+    "english_question": "<image>\nদুটি রেস্তোরাঁ তাদের ছাড়ের কৌশল নিচে ছবিতে প্রদর্শন করেছে। যদি 3 জন প্রাপ্তবয়স্ক এবং 5 জন শিশু খেতে যায়, তবে প্রতিটি রেস্তোরাঁর মোট খরচ হিসাব করো এবং কোনটি বেশি সাশ্রয়ী তা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "77b34ed7-85a5-42df-aef7-f0aba1102ce6",
+    "images": [
+      "images/24653_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি গাড়ি দুটি বাঁক নেওয়ার পর তার আদি দিকের সমান্তরাল দিকে চলতে থাকে। যদি প্রথম বাঁকের কোণ α এবং দ্বিতীয় বাঁকের কোণ β হয়, তবে β এর মান কত? \nক. α \nখ. 90°-α \nগ. 180°-α \nঘ. 90°+α",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b707bfb7-3155-4dac-a6d3-0bbaaec4a04a",
+    "images": [
+      "images/40511_0.png"
+    ],
+    "english_question": "<image>\nABCD বর্গক্ষেত্রে, কর্ণ বরাবর একটি বিন্দু E এমনভাবে নেওয়া হলো যেন ∠BAE = 15° হয়। AE এবং CE যোগ করি, CE-কে F পর্যন্ত বর্ধিত করি যেন BF = BC হয়। তাহলে ∠F এর মান কত ডিগ্রি?\nOptions:\nC) Then the degree measure of ∠F is equal to °.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4e329521-0728-4d8a-8905-bef0f0769a14",
+    "images": [
+      "images/46099_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AC সমান্তরাল BD এবং AE সমান্তরাল BF। নিচের কোন সিদ্ধান্তটি ভুল? ( )\nক. ∠A = ∠B\nখ. ∠A = ∠1\nগ. ∠B = ∠2\nঘ. ∠A + ∠B = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55d7d753-cb51-4e4d-bd39-c38a11c05cf9",
+    "images": [
+      "images/38159_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা a, রেখা b-এর সমান্তরাল, ত্রিভুজ ABC একটি সমবাহু ত্রিভুজ, বিন্দু A রেখা a-এর ওপর এবং বাহু BC রেখা b-এর ওপর অবস্থিত। ত্রিভুজ ABC-কে BC বরাবর অর্ধেক অনুবাদ (translation) করে ত্রিভুজ A'B'C' পাওয়া যায় (চিত্র 1-এ প্রদর্শিত); এই অনুবাদ অব্যাহত রাখলে চিত্র 2 পাওয়া যায়, এবং আরও অনুবাদ করলে চিত্র 3 পাওয়া যায়। 100তম চিত্রে মোট কয়টি সমবাহু ত্রিভুজ আছে?\nOptions:\nb. Triangle ABC is translated halfway along BC to obtain triangle A'B'C' (as shown in figure 1); continuing this translation results in figure 2, and further translations yield figure 3, and so on. How many equilateral triangles are there in the 100th figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

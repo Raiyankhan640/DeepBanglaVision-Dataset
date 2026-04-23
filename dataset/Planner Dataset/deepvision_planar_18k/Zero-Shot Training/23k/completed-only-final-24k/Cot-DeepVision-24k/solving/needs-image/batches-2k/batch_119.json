@@ -1,0 +1,302 @@
+[
+  {
+    "id": "911a9cee-a728-4111-bc60-fb747bef3c88",
+    "images": [
+      "images/58587_0.png"
+    ],
+    "english_question": "<image>\nকমিউনিটিতে একটি খালি জায়গা আছে (চিত্রে প্রদর্শিত)। এই খালি জায়গার মাঝখানে একটি আয়তাকার ফুটবল মাঠ তৈরি করার পরিকল্পনা করা হয়েছে এবং এর চারপাশে ঘাস লাগানোর সিদ্ধান্ত নেওয়া হয়েছে। ঘাস লাগানোর জন্য নির্ধারিত জায়গার ক্ষেত্রফল বর্গমিটারে নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b2de41f4-ed71-40dd-9767-9ea3eaf44409",
+    "images": [
+      "images/58391_0.png"
+    ],
+    "english_question": "<image>\nযদি সরলরেখা l₁ ও l₂ সমান্তরাল হয়, তবে ∠1 = ______ ডিগ্রি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29282ebc-5d6e-4654-9c2a-da84bb451dd3",
+    "images": [
+      "images/5220_0.png"
+    ],
+    "english_question": "<image>\nছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0dc5c3b-f08b-4d2c-8c00-f3792f12eacb",
+    "images": [
+      "images/63373_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, চতুর্ভুজের অস্থিরতা ব্যবহার করে একটি কাপড় ঝোলানোর হ্যাঙ্গার তৈরি করা হয়েছে। রম্বসের প্রতিটি বাহুর দৈর্ঘ্য 20 সেমি এবং হ্যাঙ্গারটি যে দেয়ালে ঝোলানো আছে সেখানে দুটি পেরেক A ও B এর মধ্যবর্তী দূরত্ব 20√3 সেমি। ∠1 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9e328e76-66e8-4b2c-91fa-bcabed5f9620",
+    "images": [
+      "images/6805_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে, একটি বর্গাকার গ্রিডে, ∠AOB কোণটি দেখানো হয়েছে, তাহলে cos∠AOB এর মান কত? ( )\n\nOptions:\nক) \\( \\frac { 2 \\sqrt { 5 } } { 5 } \\)\nখ) 2\nগ) \\( \\frac { 1 } { 2 } \\)\nঘ) \\( \\frac { \\sqrt { 5 } } { 5 } \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d104de33-e35e-4ef1-9538-da8676776469",
+    "images": [
+      "images/49392_0.png"
+    ],
+    "english_question": "<image>\nধরি P একটি চলমান বিন্দু যা উপবৃত্ত $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ (যেখানে $a > b > 0, xy \\neq 0$) এর ওপর অবস্থিত এবং এর উপকেন্দ্রদ্বয় $F_1$ ও $F_2$। বিন্দু M, $\\angle F_1PF_2$ এর সমদ্বিখণ্ডকের ওপর এমনভাবে অবস্থিত যেন $\\vec{F_2M} \\cdot \\vec{MP} = 0$ হয়। $|OM|$ এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20e96a18-ff5d-470b-8f14-c7e763418b4e",
+    "images": [
+      "images/1298_0.png"
+    ],
+    "english_question": "<image>\n(2014 উহান সিমুলেশন) প্রদর্শিত ফ্লোচার্টটি কার্যকর করো। যদি ইনপুট N=4 হয়, তবে আউটপুট S কত?\n\nOptions:\nক) 1+ \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4}\nখ) 1+ \\frac{1}{2} + \\frac{1}{3\\!\\times\\!2} + \\frac{1}{4\\!\\times\\!3\\!\\times\\!2}\nগ) 1+ \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4} + \\frac{1}{5}\nঘ) 1+ \\frac{1}{2} + \\frac{1}{3\\!\\times\\!2} + \\frac{1}{4\\!\\times\\!3\\!\\times\\!2} + \\frac{1}{5\\!\\times\\!4\\!\\times\\!3\\!\\times\\!2}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ee3c2f84-3deb-4ec4-8daf-3d29cf8f1438",
+    "images": [
+      "images/58860_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি ঘনকের নেট (net) দেখানো হয়েছে। এদের মধ্যে কতটি সঠিক নেট?\n\nOptions:\nক) 1 net\nখ) 2 nets\nগ) 3 nets\nঘ) 4 nets",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1b5256fc-d194-43ac-8d7e-0edfc5589166",
+    "images": [
+      "images/39990_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A বিন্দুটি O বিন্দুর কোন দিকে অবস্থিত?\n\nOptions:\nক) South-East 35°\nখ) North-West 65°\nগ) South-East 65°\nঘ) South-West 65°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0dea4e76-5a88-4b4a-b512-f03ede254f41",
+    "images": [
+      "images/9685_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে তিনটি বর্গের অবস্থান দেখানো হয়েছে। ∠1 কোণের পরিমাপ কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "713f33da-479e-4761-a511-8b490f68e4cb",
+    "images": [
+      "images/triangle_ext_713f33da-479e-4761-a511-8b490f68e4cb.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, তবে এর পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\nক. \\(12π\\)\nখ. \\(57π\\)\nগ. \\(54π\\)\nঘ. \\(81π\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec093d0b-2920-4e5a-9055-4694ff9975aa",
+    "images": [
+      "images/54777_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, ∠1 + ∠2 = 180°, ∠3 = 100° হলে, ∠4 এর মান কত? \nক. 70° \nখ. 80° \nগ. 90° \nঘ. 100°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d3574353-a51c-49a4-926f-2b1cd5836640",
+    "images": [
+      "images/67713_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি ত্রিভুজাকার পিরামিডের সম্মুখ দৃশ্য ও উপর দৃশ্য চিত্রে দেখানো হয় এবং উপর দৃশ্য একটি সমবাহু ত্রিভুজ যার বাহু 2√3 এবং তার অনুলিখিত বৃত্ত, তবে এর পার্শ্ব দৃশ্যের ক্ষেত্রফল কত? ক. 6+π খ. 4√3+π গ. 6+4π ঘ. 4√3+4π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20682db0-93ef-43ca-a9e9-235ad52b6e3c",
+    "images": [
+      "images/7832_0.png"
+    ],
+    "english_question": "<image>\nএকটি শহরে পূর্ব থেকে পশ্চিমে 7 লি এবং উত্তর থেকে দক্ষিণে 9 লি দীর্ঘ প্রাচীর আছে। প্রতিটি প্রাচীরের মাঝখানে একটি গেট আছে। যদি আপনি পূর্ব গেট থেকে 15 লি বাইরে যান, তবে একটি গাছ দেখতে পাবেন। দক্ষিণ গেট থেকে কত লি বাইরে গেলে আপনি গাছটি দেখতে পাবেন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29c53c0b-fdc6-4120-a81e-341f5646788b",
+    "images": [
+      "images/56985_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2012 শরৎ, শিজিয়াজুয়াং ফাইনাল পরীক্ষা): সামান্তরিক ABCD, EF ∥ AB, GH ∥ BC, EF এবং GH রেখাংশদ্বয় BD কর্ণের উপর P বিন্দুতে ছেদ করে। চতুর্ভুজগুলোর ক্ষেত্রফল সমান। এখানে কত জোড়া চতুর্ভুজ আছে?\nOptions:\nD) The areas of the quadrilaterals are equal. How many pairs of quadrilaterals are there?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "25b1a1f5-67a4-43af-ac25-0f61ca53bf23",
+    "images": [
+      "images/74950_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গাকার কাগজটিকে তিনবার ভাঁজ করে (উপরে, ডানে এবং নিচে) এবং ড্যাশযুক্ত রেখা বরাবর কাটার পর, প্রাপ্ত আকৃতিটি কী হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae20472e-09c9-47b0-8463-b61637356a31",
+    "images": [
+      "images/57133_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, চতুর্ভুজ PAOB হলো সেক্টর OMN এর একটি অন্তর্লিখিত আয়তক্ষেত্র, যেখানে শীর্ষবিন্দু P, চাপ MN এর উপর অবস্থিত এবং M বা N বিন্দুর সাথে মিলে যায় না। P বিন্দু যখন চাপ MN বরাবর চলে, তখন আয়তক্ষেত্র PAOB এর আকার ও আকৃতি পরিবর্তিত হয়। PA² + PB² এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "956b5239-8b67-4b62-9235-873daf17e396",
+    "images": [
+      "images/18754_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 4 × 4 গ্রিডের মধ্যে, AB কে একটি বাহু হিসেবে নিয়ে একটি সমকোণী ত্রিভুজ ABC গঠন করো, যেন বিন্দুগুলো গ্রিড বিন্দুতে অবস্থিত হয়। এমন কতটি সমকোণী ত্রিভুজ গঠন করা সম্ভব?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b284d3a1-0a0c-4e24-a20d-9f54995aa0ab",
+    "images": [
+      "images/60543_0.png"
+    ],
+    "english_question": "<image>\n45° কোণবিশিষ্ট দুটি সমকোণী ত্রিভুজাকার বোর্ড চিত্রে দেখানো হয়েছে। বিন্দু D, BC রেখার উপর অবস্থিত। BE এবং AD যোগ করি এবং AD-এর বর্ধিতাংশ BE-কে F বিন্দুতে ছেদ করে। ∠AFB-এর মান কত ডিগ্রি?\nOptions:\nC) Connect BE and AD, and the extension of AD intersects BE at point F. What is the measure of ∠AFB in degrees?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "82de02c8-8388-4c36-a22e-2207f8ab3af5",
+    "images": [
+      "images/27813_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিচের কোন শর্তটি থেকে নিশ্চিত হওয়া যায় যে a ∥ b? ( )\n\nOptions:\nক) ∠1 = ∠2\nখ) ∠2 and ∠4 are complementary\nগ) ∠1 and ∠3 are complementary\nঘ) ∠2 = ∠3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

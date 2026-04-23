@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1ec40cd6-6460-4d49-b87c-9f31d4721e6f",
+    "images": [
+      "images/69885_0.png"
+    ],
+    "english_question": "<image>\nচিত্র b-তে দেখানো হয়েছে যে, AB সমান্তরাল CD, ∠B = 40°, CN হলো ∠BCE এর সমদ্বিখণ্ডক এবং CN লম্ব CM। ∠BCM এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ef7e899d-2cca-435c-abb9-a6f65a43cfca",
+    "images": [
+      "images/45910_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, তীরচিহ্নযুক্ত দুটি সরলরেখা সমান্তরাল এবং একটি রেখা একটি সুষম পঞ্চভুজের একটি শীর্ষবিন্দু দিয়ে অতিক্রম করে। যদি ∠1 = 45° হয়, তবে ∠2 = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5953892d-17ae-4f41-9b97-52ce82201bcd",
+    "images": [
+      "images/35624_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, AB রেখা CD রেখার সমান্তরাল হওয়ার শর্তটি হলো ( )\n\nOptions:\nক) ∠1=∠2\nখ) ∠3=∠4\nগ) ∠1+∠4=180°\nঘ) ∠3+∠4=90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6df237c0-454c-4fe9-a358-5321b7135568",
+    "images": [
+      "images/47112_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে, AB রেখা এবং CD রেখা O বিন্দুতে ছেদ করে। EO, CD রেখার উপর O বিন্দুতে লম্ব এবং OF, ∠AOC এর সমদ্বিখণ্ডক। যদি ∠BOE : ∠AOC = 4 : 5 হয়, তবে ∠EOF এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "23bfc53d-2dfd-44cb-8ddf-efddd8904884",
+    "images": [
+      "images/47232_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, যেখানে কোণ C = 90°, AC = BC = 5, ত্রিভুজ ABC-কে CB-এর দিকে 2 একক দূরত্বে সরিয়ে ত্রিভুজ A'B'C'-এর অবস্থানে নেওয়া হলো। চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b27fc38-af8d-4402-8b6e-d43b766ee4b0",
+    "images": [
+      "images/43654_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, পঞ্চভুজ ABCDE-তে, AB || CD, কোণ ∠1, ∠2, এবং ∠3 যথাক্রমে ∠BAE, ∠AED, এবং ∠EDC-এর বহিঃস্থ কোণ। ∠1 + ∠2 + ∠3-এর মান কত ডিগ্রি?\n\nOptions:\nক) \\(270^{\\circ}\\)\nখ) \\(210^{\\circ}\\)\nগ) \\(180^{\\circ}\\)\nঘ) \\(90^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3d528792-ef25-48b8-906e-62fe00b1c87b",
+    "images": [
+      "images/76647_0.png"
+    ],
+    "english_question": "<image>\nছোট ছোট ঘনক দিয়ে তৈরি জ্যামিতিক চিত্রটির উপর থেকে দেখা দৃশ্য (top view) কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "67c4f9f5-b33c-43fd-ba06-c1dc0dbb1ab8",
+    "images": [
+      "images/9315_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-এ, E হলো AB-এর মধ্যবিন্দু এবং F হলো BC-এর ওপর যেকোনো একটি বিন্দু। ত্রিভুজ BEF-কে EF রেখা বরাবর ভাঁজ করলে, B বিন্দুর অনুরূপ বিন্দু B' কর্ণ AC-এর ওপর পড়ে। ∠FEB ব্যতীত কতগুলো কোণ ∠FEB-এর সমান?\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0dfa5b65-04d2-4c1c-9a4a-17766674dffd",
+    "images": [
+      "images/999_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, দেওয়া আছে যে |AC| = 1, ∠ABC = 120°, ∠BAC = θ, এবং f(θ) = \\vec{AB} \\cdot \\vec{BC}। θ এর মাধ্যমে f(θ) এর রাশিমালা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6cd35eed-5c5d-4183-b0c2-9bb346f938ed",
+    "images": [
+      "images/triangle_ext_6cd35eed-5c5d-4183-b0c2-9bb346f938ed.png"
+    ],
+    "english_question": "<image>\n2 বাহু বিশিষ্ট সুষম বর্গাকার পিরামিড P-ABCD তে, E বিন্দুটি PC এর মধ্যবিন্দু। নিচের কোন বক্তব্যটি সঠিক? ( )\nখ. E, PAD তলের সমান্তরাল এবং BE রেখা থেকে PAD তলের দূরত্ব √3\nখ. E, PAD তলের সমান্তরাল এবং BE রেখা থেকে PAD তলের দূরত্ব 2√6/3\nগ. BE, PAD তলের সমান্তরাল নয় এবং BE ও PAD তলের মধ্যবর্তী কোণ π/6 এর চেয়ে বড়\nখ. E, PAD তলের সমান্তরাল নয় এবং BE ও PAD তলের মধ্যবর্তী কোণ π/6 এর চেয়ে ছোট",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e3763058-7732-4eaa-a849-5f34000a5b6e",
+    "images": [
+      "images/25255_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রম্বস OABC এর শীর্ষবিন্দু O, A এবং C পরাবৃত্ত y = 1/3 x² এর ওপর অবস্থিত। O বিন্দুটি মূলবিন্দুতে এবং কর্ণ OB, y-অক্ষের ওপর অবস্থিত যেখানে OB = 2। রম্বস OABC এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f2b511e3-a53f-4eb7-8b42-c00ed48ff782",
+    "images": [
+      "images/60152_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, তিনটি অভিন্ন বর্গাকার কাগজের টুকরো দেখানো হয়েছে। কোণ ∠1 এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "de0ea95e-6e3c-4a41-84cd-5786b771d3bf",
+    "images": [
+      "images/32345_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, কর্ণ AC এবং BD বিন্দু O-তে ছেদ করে। চিত্রটিতে সর্বসম ত্রিভুজের সর্বোচ্চ সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "14246f94-ff0c-463d-915c-3317e4fd7d30",
+    "images": [
+      "images/601_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে, এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) \\( \\dfrac {2}{3}\\)\nখ) \\( \\dfrac {4}{3}\\)\nগ) \\(2\\)\nঘ) \\( \\dfrac {8}{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9400d6d-8107-4189-8597-ed163cc9e1d7",
+    "images": [
+      "images/54872_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, শিয়াও মিং খেলার মাঠের বিন্দু A থেকে যাত্রা শুরু করে প্রথমে পশ্চিমের 30° উত্তরে বিন্দু B-এর দিকে হাঁটে এবং তারপর পূর্বের 45° উত্তরে বিন্দু C-এর দিকে হাঁটে। কোণ ∠ABC-এর মান কত ডিগ্রি?\n\nOptions:\nক) 105°\nখ) 75°\nগ) 45°\nঘ) 165°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7870e25d-e79d-4a10-b34d-2e3ee169af21",
+    "images": [
+      "images/67986_0.png"
+    ],
+    "english_question": "<image>\nএকটি চলমান বিন্দু P, A বিন্দু থেকে যাত্রা শুরু করে l পরিসীমা বিশিষ্ট একটি সমতলীয় চিত্রের চারপাশ দিয়ে ঘড়ির কাঁটার বিপরীত দিকে ঘুরছে। A ও P বিন্দুর মধ্যবর্তী দূরত্ব y এবং P বিন্দুর অতিক্রান্ত দূরত্ব x-এর মধ্যকার সম্পর্ক চিত্রে দেখানো হয়েছে। চলমান বিন্দু P কোন আকৃতির পথ দিয়ে ঘুরছে?\n\nOptions:\nক) \\(\\bigtriangleup\\)\nখ) \\(\\square _ { A }\\)\nগ) \\(\\textcircled { < } P\\)\nঘ) \\(\\wp\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fff36328-9541-4711-899c-1f61698babee",
+    "images": [
+      "images/22411_0.png"
+    ],
+    "english_question": "<image>\n2 একক বাহুবিশিষ্ট একটি সুষম ষড়ভুজকে তিনটি সমান্তরাল রেখার সেট দ্বারা ছোট ছোট সমবাহু ত্রিভুজে বিভক্ত করা হয়েছে। যদি চিত্র থেকে দৈবচয়ন পদ্ধতিতে একটি সমবাহু ত্রিভুজ নির্বাচন করা হয়, তবে নির্বাচিত ত্রিভুজটির বাহুর দৈর্ঘ্য ঠিক 2 একক হওয়ার সম্ভাবনা কত?\n\nOptions:\nক) \\( \\frac{1}{4} \\)\nখ) \\( \\frac{3}{16} \\)\nগ) \\( \\frac{6}{19} \\)\nঘ) \\( \\frac{1}{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4cbf9fb-9bf0-4ecc-af3b-4df7bad30316",
+    "images": [
+      "images/14965_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত: AP, PB এবং AB তিনটি অর্ধবৃত্তের ব্যাস। PQ ⊥ AB, এবং O বৃত্তের ক্ষেত্রফল 9π, যা উভয় অর্ধবৃত্ত এবং PQ-এর সাথে স্পর্শক। ছায়াযুক্ত অংশের ক্ষেত্রফল 39π হলে, AB-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8d82101-9c83-4521-8f86-133a9bc71226",
+    "images": [
+      "images/74630_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 70 সেমি দৈর্ঘ্যের একটি আয়তাকার কাগজের টুকরো ABCD-কে প্রতিসাম্য অক্ষ EF বরাবর ভাঁজ করা হয়েছে, যার ফলে চিত্রে প্রদর্শিত আকৃতিটি পাওয়া যায়। ভাঁজ করার পর AB এবং CD-এর মধ্যবর্তী দূরত্ব 60 সেমি হলে, কাগজটির মূল প্রস্থ কত?\n\nOptions:\nক) 20 cm\nখ) 15 cm\nগ) 10 cm\nঘ) 30 cm",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "828d21be-e99b-4827-9b5f-e8f6fd338c0b",
+    "images": [
+      "images/63069_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a ও b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিচের কোন উক্তিটি সঠিক? ( )\n\nOptions:\nক) When ∠1 = ∠2, then a ∥ b\nখ) When a ∥ b, then ∠1 = ∠2\nগ) When a ∥ b, then ∠1 + ∠2 = 180°\nঘ) When a ∥ b, then ∠1 + ∠2 = 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

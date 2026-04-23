@@ -1,0 +1,302 @@
+[
+  {
+    "id": "57f14645-5482-4770-a227-68267f2d72aa",
+    "images": [
+      "images/13516_0.png"
+    ],
+    "english_question": "<image>\nকয়েকটি ছোট ঘনক দিয়ে তৈরি একটি জ্যামিতিক চিত্রকে তিনটি দৃশ্যের মাধ্যমে দেখানো হয়েছে। এই জ্যামিতিক চিত্রটি তৈরি করতে মোট কয়টি ছোট ঘনক প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "821b68e7-0649-4fa1-8a41-507af89e1096",
+    "images": [
+      "images/3789_0.png"
+    ],
+    "english_question": "<image>\n1, 2, 3, 4, 5, ... সংখ্যাগুলো ব্যবহার করে পর্যায়ক্রমে সাজানো মাছের আকৃতির নকশাটিতে \"10\" সংখ্যাটি কতবার আসবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5a3aedf2-1997-4e8d-94e3-4a25f7ff3d1a",
+    "images": [
+      "images/5319_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কতগুলো বিভিন্ন আকারের সামান্তরিক আছে? ( )\n\nOptions (copied from English):\nক. 4\nখ. 6\nগ. 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd6665e9-6b80-441e-b52d-ad1057da0a0e",
+    "images": [
+      "images/61661_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী একটি ত্রিভুজাকার স্কেল ABC এবং BDE কে যুক্ত করা হয়েছে, যেখানে A, B এবং D বিন্দুগুলো একই সরলরেখায় অবস্থিত। BM হলো ∠CBE এর সমদ্বিখণ্ডক এবং BN হলো ∠DBE এর সমদ্বিখণ্ডক। ∠MBN এর মান কত ডিগ্রি? ( ) \nক. 60° \nখ. 67.5° \nগ. 75° \nঘ. 85°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0b795dec-1473-4b27-9c24-c5ca94ea7ae4",
+    "images": [
+      "images/31576_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি থেকে চারটি ধাঁধার টুকরো নির্বাচন করো যা দিয়ে একটি আয়তক্ষেত্র তৈরি করা সম্ভব। নির্বাচিত টুকরোগুলোর কোডগুলো লেখো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "12003401-c04a-4df4-aec6-c49a878b3275",
+    "images": [
+      "images/30297_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে (2009•তাইওয়ান), L রেখাটি L₁ এবং L₂ রেখাদ্বয়কে ছেদ করে আটটি কোণ উৎপন্ন করেছে। নিচের কোন শর্তটি থেকে নিশ্চিত হওয়া যায় যে L₁ এবং L₂ সমান্তরাল?\n\nOptions:\nক) ∠2 + ∠4 = 180°\nখ) ∠3 + ∠8 = 180°\nগ) ∠5 + ∠6 = 180°\nঘ) ∠7 + ∠8 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95f3e116-7fc9-4a18-b0b5-9d2a9a5de20f",
+    "images": [
+      "images/66839_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-এ ∠ACB=90°, ∠A=α। ত্রিভুজ ABC কে বিন্দু C কেন্দ্র করে কোণ θ দ্বারা ঘুরিয়ে ত্রিভুজ A₁B₁C (ঘূর্ণনের সময় ত্রিভুজ ABC-এর আকৃতি ও আকার অপরিবর্তিত) পাওয়া যায়। বিন্দু B, বিন্দু A₁B₁-এর সাথে মিলে যায়। চিত্রে দেখানো হয়েছে, ঘূর্ণন কোণ θ-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9fc47694-eac0-4029-a8ab-3bc296868b6a",
+    "images": [
+      "images/60043_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, a ও b রেখাদ্বয়কে c ও d রেখাদ্বয় ছেদ করেছে, যেখানে c রেখাটি a ও b এর উপর লম্ব এবং ∠1 = 70°। ∠2 এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "021c180d-d288-4e10-9e84-e0d77c8dc8f6",
+    "images": [
+      "images/73762_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সেক্টর DOE-এর ব্যাসার্ধ 3 এবং রম্বস OABC-এর বাহুর দৈর্ঘ্য √3। রম্বস OABC-এর শীর্ষবিন্দু A, C ও B যথাক্রমে OD, OE ও BE রেখায় অবস্থিত। যদি সেক্টর DOE কে একটি শঙ্কুতে রূপান্তরিত করা হয়, তবে এই শঙ্কুর উচ্চতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d060cb8b-fd6a-41e8-b3ab-22544b178247",
+    "images": [
+      "images/19018_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB // CD, বিন্দু E রেখা AB-এর ওপর অবস্থিত এবং EF ⊥ EG। নিচের কোন সিদ্ধান্তটি ভুল?\n\nOptions:\nক) \\(∠α + ∠β + ∠G = 90^{\\circ}\\)\nখ) \\(∠α + ∠β = ∠F\\)\nগ) \\(∠α < ∠β\\)\nঘ) \\(∠α + ∠γ = ∠G + ∠F\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c4efbbf5-678b-47e7-9034-fc292a37fc15",
+    "images": [
+      "images/31913_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 4×4 বর্গাকার গ্রিডে, ΔMNP ত্রিভুজটিকে একটি নির্দিষ্ট বিন্দুর চারদিকে 90° ঘোরানো হলে ΔM₁N₁P₁ ত্রিভুজটি পাওয়া যায়। ঘূর্ণন কেন্দ্র কোনটি হতে পারে?\n\nOptions:\nক) Point E\nখ) Point F\nগ) Point G\nঘ) Point H",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60421089-dc97-4855-8395-bdc4d0b0fce7",
+    "images": [
+      "images/66953_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি আয়তাকার কাগজের স্ট্রিপ ABCD কে AF বরাবর ভাঁজ করা হলো, এবং B বিন্দুটি E বিন্দুতে পতিত হলো। দেওয়া আছে যে ∠ADB = 24° এবং AE || BD। ∠AFE এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f8d0e2a-2331-4d8c-a1c0-6dc7742eabae",
+    "images": [
+      "images/12629_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB একটি অর্ধবৃত্তের ব্যাস এবং O হলো AB-এর মধ্যবিন্দু। C ও D বিন্দু দুটি অর্ধবৃত্তের ওপর অবস্থিত। AD, CO, BC, BD এবং OD সংযোগ করা হলো। যদি ∠COD = 62° হয় এবং AD || OC হয়, তবে ∠ABD-এর মান কত?\nক. 26°\nখ. 28°\nগ. 30°\nঘ. 32°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3ea0f33-259d-43c7-925f-81f8e0211c7c",
+    "images": [
+      "images/56499_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল DC এবং M ও N যথাক্রমে AD ও BC এর মধ্যবিন্দু। যদি চতুর্ভুজ ABCD এর ক্ষেত্রফল 36 বর্গ সেমি হয়, তবে S_{△QPO} - S_{△CDO} = কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e4b6b4f8-f2c2-490c-8d26-54ac9f04d677",
+    "images": [
+      "images/64776_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত বহুভুজটি একটি ত্রিভুজ এবং তিনটি আয়তক্ষেত্র নিয়ে গঠিত। আয়তক্ষেত্রগুলোর ক্ষেত্রফল যথাক্রমে 12 বর্গ সেমি, 4 বর্গ সেমি এবং 6 বর্গ সেমি। ত্রিভুজটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "efd27abf-748a-49f6-876f-7ec6d1f58c60",
+    "images": [
+      "images/72261_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, গ্রিড কাগজে, cos(α + β) = কত?\nOptions:\na) = \\text{?} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37340d73-4b43-489c-a939-9c31d46bc370",
+    "images": [
+      "images/70175_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1) একটি বর্গক্ষেত্র যার বাহুর দৈর্ঘ্য (m+n)। শিয়াওইং চিত্র (1)-এর ছায়াযুক্ত অংশ থেকে চিত্র (2)-এর আকৃতি তৈরি করে। চিত্র (1) এবং (2) থেকে যে সমীকরণটি যাচাই করা যায় তা হলো ( )\n\nOptions:\nক) \\((m+n)^{2}-(m-n)^{2}=4mn\\)\nখ) \\((m+n)^{2}-(m^{2}+n^{2})=2mn\\)\nগ) \\((m-n)^{2}+2mn=m^{2}+n^{2}\\)\nঘ) \\((m+n)(m-n)=m^{2}-n^{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c2d99795-9ccd-4a0a-8337-4bca7384e03a",
+    "images": [
+      "images/16496_0.png"
+    ],
+    "english_question": "<image>\na এবং b রেখাদ্বয়কে l রেখা ছেদ করেছে। ∠3 = 50° হলে, a এবং b রেখাদ্বয় সমান্তরাল হওয়ার জন্য ∠1-এর মান কত হতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6aa223c9-0ed3-4456-8962-3137981cce18",
+    "images": [
+      "images/triangle_ext_6aa223c9-0ed3-4456-8962-3137981cce18.png"
+    ],
+    "english_question": "<image>\nশহর A এবং B এর দূরত্ব 100 কিমি। একটি বন সংরক্ষণ কেন্দ্র P, শহর A থেকে উত্তর-পূর্ব দিকে 30° কোণে এবং শহর B থেকে উত্তর-পশ্চিম দিকে 45° কোণে অবস্থিত। সংরক্ষিত এলাকাটি হলো P কেন্দ্রবিশিষ্ট একটি বৃত্ত যার ব্যাসার্ধ 50 কিমি। পরিকল্পিত মহাসড়কটি (AB অংশ) কি সংরক্ষিত এলাকাটিকে অতিক্রম করবে?\nOptions:\nB) The protected area is a circle centered at P with a radius of 50 km. Will the planned highway (segment AB) cross the protected area?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "125decc1-05ef-4860-bee6-c625bfe5ed04",
+    "images": [
+      "images/18742_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে রশ্মি, রেখা এবং রেখাংশ দেখানো হয়েছে। নিচের কোন আকৃতিগুলো পরস্পরকে ছেদ করতে পারে? ( ) \nক. ①②③④\nখ. ①\nগ. ②③④\nঘ. ①③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

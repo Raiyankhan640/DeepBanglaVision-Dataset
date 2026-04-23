@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a449fad9-a3e2-4cfa-acec-f78c00f9023c",
+    "images": [
+      "images/20735_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি বল্টের ভিত্তি একটি সুষম ষড়ভুজ হয় এবং এর সম্মুখ দৃশ্য ও শীর্ষ দৃশ্য চিত্রে দেখানো হয়, তবে এর আয়তন কত?\n\nOptions:\nক) 27 $\\sqrt { 3 }$ +12π\nখ) 9 $\\sqrt { 3 }$ +12 $\\pi$\nগ) 27 $\\sqrt { 3 }$ +3π\nঘ) 54 $\\sqrt { 3 }$ +3π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20287068-6fce-4f98-a091-4002ad44c90a",
+    "images": [
+      "images/56495_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, উ বোবোর বাড়ির একটি সমবাহু ত্রিভুজাকার খালি জমি ABC, দেওয়া আছে বিন্দু E, F যথাক্রমে AB, AC প্রান্তের মধ্যবিন্দু, পরিমাপ করা হয়েছে EF=5 মিটার। তিনি চতুর্ভুজ BCFE কে বেড়া দিয়ে ঘিরে ছোট মুরগি পালন করতে চান, তবে বেড়ার দৈর্ঘ্য কত? (ক) 15 মিটার (খ) 20 মিটার (গ) 25 মিটার (ঘ) 30 মিটার",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f22f172-38d3-49b4-86b6-10953b0ffcf5",
+    "images": [
+      "images/22282_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 'O' বিন্দুকে কেন্দ্র করে 1 নং চিত্রটিকে ঘড়ির কাঁটার বিপরীত দিকে 90 ডিগ্রি ঘোরালে তা কোন চিত্রের অবস্থানে পৌঁছাবে?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "950bb459-2577-43fc-b728-23932d86ae54",
+    "images": [
+      "images/37091_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অলিম্পিক পতাকার নকশাটি পাঁচটি পরস্পর সংযুক্ত বৃত্ত দিয়ে গঠিত। এই নকশায় প্রতিফলিত দুটি বৃত্তের মধ্যে অবস্থানগত সম্পর্ক কী?\n\nOptions:\nক) Inscribed, Intersecting\nখ) Externally Distant, Intersecting\nগ) Externally Tangent, Externally Distant\nঘ) Externally Distant, Inscribed",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a9759931-40ca-4f9f-b44d-6c07982305a0",
+    "images": [
+      "images/2389_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু ত্রিভুজ \\( \\triangle ABC \\)-এ, যেখানে \\( AB = AC \\), বিন্দু \\( P \\) এবং \\( Q \\) যথাক্রমে \\( AC \\) এবং \\( AB \\) বাহুর উপর অবস্থিত এবং দেওয়া আছে যে \\( AP = PQ = QB = BC \\)। \\( \\angle PCQ \\)-এর পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca8cd027-7cbc-43f9-ad8b-849ce202f9c8",
+    "images": [
+      "images/29801_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি সাধারণ বইয়ের কাগজ মূল কাগজকে বারবার ভাঁজ করে তৈরি করা হয়। আয়তক্ষেত্র ABCD-কে EF বরাবর ভাঁজ করা হলো, এবং তারপর আয়তক্ষেত্র EFCD-কে MN বরাবর ভাঁজ করা হলো, এভাবে চলতে থাকল। যদি সব ধরনের আয়তক্ষেত্র সদৃশ হয়, তবে 4D/4B এর মান কত? \nক. 0.618 \nখ. √2/2 \nগ. √2 \nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "afc4e841-2760-4e09-87db-027da1976a0a",
+    "images": [
+      "images/40378_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিম্নোক্ত চারটি শর্ত দেওয়া আছে: (1) ∠1 = ∠5; (2) ∠4 = ∠7; (3) ∠2 + ∠3 = 180°; (4) ∠1 = ∠7। নিচের কোন শর্তগুলো দ্বারা a ∥ b নিশ্চিত করা যায়? ( )\n\nOptions:\nক) (1), (2)\nখ) (1), (3)\nগ) (1), (4)\nঘ) (3), (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f496dc6-e7b4-4b4e-9213-810c2bca610b",
+    "images": [
+      "images/27184_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তক্ষেত্রের দৈর্ঘ্য 8 এবং প্রস্থ 4। যদি আয়তক্ষেত্রটিকে এর একটি কর্ণের বরাবর ভাঁজ করে সমতল করা হয়, যেমনটি চিত্রে দেখানো হয়েছে, তবে উপরিপাতিত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ae5b3e9-dc4c-4a01-9c17-0b000a3fd99c",
+    "images": [
+      "images/27521_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-এর ক্ষেত্রফল 6 বর্গ সেমি। ত্রিভুজটিকে BC বরাবর DEF অবস্থানে স্থানান্তর করা হলো এবং স্থানান্তরের দূরত্ব BC-এর দৈর্ঘ্যের 2 গুণ। ত্রিভুজ ABC দ্বারা অতিক্রান্ত অঞ্চলের ক্ষেত্রফল কত?\n\nOptions:\nক) \\(18cm^{2}\\)\nখ) \\(24cm^{2}\\)\nগ) \\(27cm^{2}\\)\nঘ) \\(30cm^{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6be7176d-b82a-4593-8b91-3d66535a0c62",
+    "images": [
+      "images/56158_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সুষম ষড়ভুজ P₁P₂P₃P₄P₅P₆ দেওয়া আছে। নিচের কোন ভেক্টর ডট গুণফলটি সবচেয়ে বড়? ( )\n\nOptions:\nক) $\\overline { { \\mathcal { P } _ { 1 } \\mathcal { P } _ { 2 } } } \\cdot \\overline { { \\mathcal { P } _ { 1 } \\mathcal { P } _ { 3 } } }$\nখ) $\\overline { { \\mathcal { P } _ { : } \\mathcal { P } _ { : } } } \\cdot \\overline { { \\mathcal { P } _ { : } \\mathcal { P } _ { : } } }$\nগ) $\\overline { { \\mathcal { P } _ { 1 } \\mathcal { P } _ { 2 } } } \\cdot \\overline { { \\mathcal { P } _ { 1 } \\mathcal { P } _ { 3 } } } ^ { \\cdot }$\nঘ) $\\overline { { \\mathcal { P } _ { 1 } \\mathcal { P } _ { 2 } } } \\cdot \\overline { { \\mathcal { P } _ { 1 } \\mathcal { P } _ { 6 } } }",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5969f3a8-3d70-4648-af11-c1bf0a230247",
+    "images": [
+      "images/54623_0.png"
+    ],
+    "english_question": "<image>\nএকটি স্কুলের গেট হলো একটি সংকোচনযোগ্য গেট (চিত্র 1-এ দেখানো হয়েছে)। সংকোচনযোগ্য গেটের প্রতিটি রম্বসের সারিতে 20টি রম্বস আছে এবং প্রতিটি রম্বসের বাহুর দৈর্ঘ্য 30 সেমি। গেটটি বন্ধ থাকলে, প্রতিটি রম্বসের সূক্ষ্মকোণ হয় 60° (চিত্র 2-এ দেখানো হয়েছে); গেটটি খোলা হলে, প্রতিটি রম্বসের সূক্ষ্মকোণ 60° থেকে কমে 10° হয় (চিত্র 3-এ দেখানো হয়েছে)। প্রশ্ন হলো: গেটটি কত মিটার খোলা হয়েছে? (ফলাফল 1 মিটারের সঠিক মানে, রেফারেন্স ডেটা: sin 5° ≈ 0.0872, cos 5° ≈ 0.9962, sin 10° ≈ 0.1736, cos 10° ≈ 0.9848)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aff1a994-f605-404b-a372-a7a0255254bf",
+    "images": [
+      "images/39918_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ট্রাপিজিয়াম ABCD-তে, যেখানে AD সমান্তরাল BC, ∠C = 90°, এবং AB > AD + BC, AB হলো বৃত্ত O-এর ব্যাস। রেখা CD এবং বৃত্ত O-এর মধ্যে অবস্থানগত সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc68599d-2739-4b54-9f66-77be9d0ea907",
+    "images": [
+      "images/15213_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজকে ভাঁজ করে চিত্রে প্রদর্শিত ট্রাপিজিয়ামের আকৃতি দেওয়া হয়েছে। দেওয়া আছে ∠1 = ∠2 = 45 ডিগ্রি এবং AB বাহুর দৈর্ঘ্য 10 সেমি হলে, ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc9cd693-a100-45cf-a714-466d56ef5ab5",
+    "images": [
+      "images/9403_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্রে দৈবভাবে একটি ডার্ট নিক্ষেপ করা হলো। ডার্টটি ছায়াবৃত অঞ্চলে পড়ার সম্ভাবনা কত?\nOptions:\na.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ecadb05b-c883-4ff8-9d41-21f7a84ff370",
+    "images": [
+      "images/28474_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB এবং CD রেখা দুটি সমান্তরাল এবং BE ও CF রেখা দুটিও সমান্তরাল। কোণ ∠ABE এবং কোণ ∠DCF-এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f6657505-72c8-48e2-a921-6f71ed9b0b5e",
+    "images": [
+      "images/5138_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, কর্ণ AC = 21 সেমি, BE ⊥ AC এবং E বিন্দুতে ছেদ করে, BE = 5 সেমি এবং AD = 7 সেমি। AD এবং BC বাহুদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "984775a3-c062-44af-a763-b671217606aa",
+    "images": [
+      "images/491_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠A=∠D। ΔAOB এবং ΔDOC সর্বসম হওয়ার জন্য নিচের কোন শর্তটি সঠিক নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a60b7905-2e16-4c80-b8cd-73066ea5cfe7",
+    "images": [
+      "images/23332_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত O-তে, AB ব্যাস, CD একটি জ্যা এবং AB, CD-এর ওপর M বিন্দুতে লম্ব। নিচের চারটি সিদ্ধান্ত দেওয়া হলো: ① CM = DM, ② AC = AD, ③ চাপ BC = চাপ AD, ④ ∠C = ∠D। নিচের কোন সিদ্ধান্তগুলো সঠিক?\n\nOptions:\nক) 1 conclusion\nখ) 2 conclusions\nগ) 3 conclusions\nঘ) 4 conclusions",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9edfa50b-cb31-491a-b526-a5a16cbd9586",
+    "images": [
+      "images/22929_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে যে রেখা \\(a\\) এবং \\(b\\) পরস্পর \\(O\\) বিন্দুতে ছেদ করে, এবং \\(2∠2=3∠1\\), তবে \\(∠3\\)-এর মান কত ডিগ্রি?\n\nOptions:\nক) \\(60^{\\circ}\\)\nখ) \\(72^{\\circ}\\)\nগ) \\(108^{\\circ}\\)\nঘ) \\(120^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f9949c8-6c4b-4903-b508-77eecd83a362",
+    "images": [
+      "images/18574_0.png"
+    ],
+    "english_question": "<image>\nসূর্যের আলো ভূমির সাথে 60° কোণ তৈরি করে এবং একটি হেলে থাকা গাছ ভূমির সাথে 30° কোণ তৈরি করে। ভূমিতে গাছের ছায়ার দৈর্ঘ্য 10 মিটার হলে গাছের প্রকৃত দৈর্ঘ্য কত? (2টি সার্থক অঙ্ক পর্যন্ত)\nOptions:\nd. The length of the tree's shadow on the ground is measured to be approximately 10m. What is the approximate length of the tree in meters (to two significant figures)? The following data can be used: $\\sqrt{2} \\approx 1.41$, $\\sqrt{3} \\approx 1.73$.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

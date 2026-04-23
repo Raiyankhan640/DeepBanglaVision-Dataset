@@ -1,0 +1,302 @@
+[
+  {
+    "id": "023d0373-f523-49eb-a673-d48dad5543d1",
+    "images": [
+      "images/48245_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, ছোট বৃত্তগুলো একটি নেটওয়ার্কের নোড নির্দেশ করে এবং নোডগুলোর মধ্যবর্তী রেখাংশগুলো নির্দেশ করে যে তারা নেটওয়ার্ক কেবল দ্বারা সংযুক্ত। সংযোগগুলোর ওপর লেখা সংখ্যাগুলো প্রতি একক সময়ে সেই কেবল দিয়ে প্রবাহিত তথ্যের সর্বোচ্চ পরিমাণ নির্দেশ করে। এখন যদি নোড A থেকে নোড B-তে তথ্য পাঠানো হয় এবং তথ্যগুলো একই সাথে বিভিন্ন পথে পাঠানো সম্ভব হয়, তবে এক একক সময়ে A থেকে B-তে সর্বোচ্চ কত তথ্য পাঠানো যাবে?\nক. 19\nখ. 20\nগ. 24\nঘ. 25",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be0aa890-d99f-4c92-a149-f2f72d1de825",
+    "images": [
+      "images/43241_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বিন্দু E ও F আয়তক্ষেত্র ABCD-এর দীর্ঘ বাহুর পঞ্চভাগ বিন্দু এবং বিন্দু G ও H আয়তক্ষেত্র ABCD-এর সংক্ষিপ্ত বাহুর ত্রিভাগ বিন্দু। E, G, F ও H-কে পর্যায়ক্রমে যুক্ত করলে সমান্তরিক EGFH পাওয়া যায়। দেওয়া আছে সমান্তরিক EGFH-এর ক্ষেত্রফল 21, তবে আয়তক্ষেত্র ABCD-এর ক্ষেত্রফল কত?\nOptions:\nD) By connecting E, G, F, and H in sequence, we obtain parallelogram EGFH. Given that the area of parallelogram EGFH is 21, what is the area of rectangle ABCD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "463e1c3e-dd14-4f8f-bab2-de85f4e63214",
+    "images": [
+      "images/59556_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, ∠A = 50° এবং ∠C = 150°। কাগজটিকে এমনভাবে ভাঁজ করা হলো যাতে D বিন্দুটি D' বিন্দুতে পতিত হয় এবং ভাঁজ করার পর MD' রেখাটি AB-এর সমান্তরাল এবং ND' রেখাটি BC-এর সমান্তরাল হয়। ∠D-এর মান নির্ণয় করো।\nOptions:\nC) Find the measure of ∠D)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f6807975-ee27-4482-bbbf-ec4266e3866e",
+    "images": [
+      "images/53384_0.png"
+    ],
+    "english_question": "<image>\nযদি ইনপুট ডেটা n=6, a_1=-2, a_2=-2.4, a_3=1.6, a_4=5.2, a_5=-3.4, a_6=4.6 হয়, তবে চিত্রে প্রদর্শিত অ্যালগরিদম প্রোগ্রামটি কার্যকর করলে আউটপুট হবে ( )\n\nOptions:\nক) 0.6\nখ) 0.7\nগ) 0.8\nঘ) 0.9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe4b38ae-a6de-4135-bbef-bdc097df57d0",
+    "images": [
+      "images/59186_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ কোণ C = 90° এবং কোণ BAC = 30°। যদি BD AE-এর সমান্তরাল হয় এবং কোণ DBC = 20° হয়, তবে কোণ CAE-এর ডিগ্রি পরিমাপ হলো ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb57e98a-7326-4093-9d97-9fb2e4c96247",
+    "images": [
+      "images/45316_0.png"
+    ],
+    "english_question": "<image>\nনিচে প্রদর্শিত চারটি চিত্রের মধ্যে কোনটিতে ∠1 এবং ∠2 অনুরূপ কোণ (corresponding angles)?\nক. ②③\nখ. ①②③\nগ. ①②④\nঘ. ①④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d4a9f093-baf7-4dda-bb68-235742ff6e08",
+    "images": [
+      "images/4364_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত অংশের পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "501e3243-a328-43da-a8b4-8f7c0ebc9bb9",
+    "images": [
+      "images/71464_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের চতুর্ভুজটির ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6c81e85f-a58e-4d60-b03c-9af538055e8b",
+    "images": [
+      "images/62270_0.png"
+    ],
+    "english_question": "<image>\nএই যৌগিক চিত্রটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71a5136a-3b83-490f-a40c-9d580eed0aa7",
+    "images": [
+      "images/triangle_ext_71a5136a-3b83-490f-a40c-9d580eed0aa7.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্রের মধ্যে কোনগুলো সর্বসম চিত্র? ( )\nক. ① and ②\nখ. ② and ③\nগ. ① and ③\nঘ. ② and ④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4f2c149-ceeb-41b9-b06a-7c2d8c8b22f2",
+    "images": [
+      "images/37766_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি সামান্তরিক, O হলো কর্ণ AC এবং BD-এর ছেদবিন্দু। ধরি, সেট M = {A, B, C, D, O} এবং ভেক্টর সেট T = {PQ | P, Q ∈ M এবং P, Q সমাপতিত নয়}। সেট T-এর উপাদান সংখ্যা নির্ণয় করো।\nOptions:\nD) Let the set M = {A, B, C, D, O}, and the vector set T = {PQ | P, Q \\in M and P, Q are not coincident}. Find the number of elements in the set T.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3b1dbc09-e787-4ec8-9020-0ee0e19494d1",
+    "images": [
+      "images/60318_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের প্রতিটি বড় ত্রিভুজের ভেতরে সাদা ত্রিভুজগুলোর বিন্যাস পর্যবেক্ষণ করো। 5ম বড় ত্রিভুজটিতে মোট কয়টি সাদা ত্রিভুজ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae1bbb05-985f-4a11-b3ab-755b6548eb43",
+    "images": [
+      "images/53892_0.png"
+    ],
+    "english_question": "<image>\nধরি, একটি ত্রিভুজ ABC যেখানে CA = CB এবং একটি রশ্মি CD, শীর্ষবিন্দু C দিয়ে যায় এবং ∠BCA-এর অভ্যন্তর দিয়ে ছেদ করে। E এবং F বিন্দুগুলো CD রশ্মির উপর এমনভাবে অবস্থিত যেন ∠BEC = ∠CFA = ∠α হয়। যদি 0° < ∠BCA < 90° হয়, তবে EF = BE - AF শর্তটি সিদ্ধ হওয়ার জন্য ∠α-এর মান কত হওয়া উচিত?\nOptions:\nA) Points E and F lie on ray CD such that ∠BEC = ∠CFA = ∠α. If 0° < ∠BCA < 90°, what condition must ∠α satisfy so that EF = BE - AF holds?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b18ce13-781f-45e4-8ab5-c34896de1112",
+    "images": [
+      "images/18650_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, যেখানে AD = 3 এবং ∠CAB = 30°, P হলো AC রেখাংশের ওপর একটি চলমান বিন্দু এবং Q হলো CD রেখাংশের ওপর একটি চলমান বিন্দু। AQ + QP এর সর্বনিম্ন মান কত?\nOptions:\nD) What is the minimum value of AQ + QP?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a81a4dda-9219-40d0-8f0d-e9f88bf120b4",
+    "images": [
+      "images/45353_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি সড়ক OM ও ON পরস্পর 30° কোণে ছেদ করেছে। একটি আশা প্রাথমিক বিদ্যালয় A বিন্দুতে অবস্থিত, যা OM সড়কের দিকে ছেদ বিন্দু O থেকে 80 মিটার দূরে। যখন একটি ট্রাক্টর ON-এর দিকে ভ্রমণ করে, তখন শব্দটি সড়কের উভয় পাশের 50 মিটারের মধ্যে অবস্থিত এলাকাকে প্রভাবিত করবে। জানা যায়, ON বরাবর 30 মিটার ব্যবধানে দুটি ট্রাক্টর ভ্রমণ করছে, উভয়ই 5 মিটার প্রতি সেকেন্ড গতিতে। ON বরাবর ভ্রমণকালে এই দুটি ট্রাক্টরের কারণে প্রাথমিক বিদ্যালয়ে শব্দের প্রভাবের সময়কাল কত?\nOptions:\nd. It is known that there are two tractors traveling along ON, 30 meters apart, both moving at a speed of 5 meters per second. What is the duration of the noise impact on the primary school caused by these two tractors while traveling along ON?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ac84ddf-8484-4f5c-8457-e2ad21360ba5",
+    "images": [
+      "images/7074_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E বিন্দুটি ত্রিভুজ ABC এর বাইরে অবস্থিত, D বিন্দুটি BC বাহুর উপর অবস্থিত এবং DE রেখা AC কে F বিন্দুতে ছেদ করে। যদি ∠1 = ∠2 = ∠3 এবং AC = AE হয়, তবে নিচের কোনটি সঠিক? ( )\n\nOptions (copied from English):\nB. Triangle AFE can be obtained by rotating triangle ADC.\nTriangle AFE can be obtained by rotating triangle DFC.\nTriangle ABC can be obtained by rotating triangle ADE.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92ce9f77-2e01-49af-aa55-b26b22be4cac",
+    "images": [
+      "images/68059_0.png"
+    ],
+    "english_question": "<image>\nএকটি চার-অংশের টার্নটেবিল আছে, যার উপরে, ডানে, নিচে এবং বামে যথাক্রমে '众', '志', '成' এবং '城' অক্ষরগুলো ঝোলানো আছে। যদি উপরের ও নিচের অক্ষরগুলো অদলবদল করা হয় এবং একই সাথে বাম ও ডান দিকের অক্ষরগুলো অদলবদল করা হয়, এবং তারপর টার্নটেবিলটিকে ঘড়ির কাঁটার দিকে 90° ঘোরানো হয়, তবে এটি একটি রূপান্তর সম্পন্ন করে। চিত্র 2 এবং 3 যথাক্রমে প্রথম এবং দ্বিতীয় রূপান্তর নির্দেশ করে। উপরের নিয়ম অনুযায়ী 9ম রূপান্তর সম্পন্ন করার পর, টার্নটেবিলে '众' অক্ষরটির অবস্থান কোথায় হবে? ( )\nক. উপরে\nখ. নিচে\nগ. বামে\nঘ. ডানে",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a45332d-d87b-490e-aa35-ada9e5c5fc2c",
+    "images": [
+      "images/49782_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, শাও মিন ভুলবশত একটি সামান্তরিক আকৃতির কাঁচকে চারটি টুকরোয় ভেঙে ফেলেছে। মূল সামান্তরিকটির মতো হুবহু একটি সামান্তরিক পেতে হলে, তাকে ভাঙা কাঁচের কোন দুটি টুকরো নিতে হবে, যা সংখ্যা দ্বারা চিহ্নিত? \nক. (1), (2)\nখ. (2), (3)\nগ. (3), (4)\nঘ. (1), (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "13544402-daac-4598-90e5-caee6165e155",
+    "images": [
+      "images/11766_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল, ∠1 = (3x + 20)° এবং ∠2 = (2x + 10)°। ∠3 এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f361dca7-f9ea-4168-bcf3-5533b8bc6bd4",
+    "images": [
+      "images/triangle_ext_f361dca7-f9ea-4168-bcf3-5533b8bc6bd4.png"
+    ],
+    "english_question": "<image>\nযদি বিন্দু \\(P\\), ত্রিভুজ \\(ABC\\)-এর সমতলের বাইরে অবস্থিত হয়, যেখানে \\(PA \\perp PB\\), \\(PB \\perp PC\\), এবং \\(PC \\perp PA\\), এবং \\(PH \\perp\\) ত্রিভুজ \\(ABC\\)-এর সমতল হয়, তবে বিন্দু \\(H\\) হলো ত্রিভুজ \\(ABC\\)-এর ( )।\nক. ভরকেন্দ্র\nখ. Orthocenter\nঘ. Incenter",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

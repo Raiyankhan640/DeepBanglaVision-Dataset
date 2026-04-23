@@ -1,0 +1,362 @@
+[
+  {
+    "id": "33b3f65c-ad48-4fc0-a8d2-d321b96b8ae1",
+    "images": [
+      "images/33939_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চারটি বৃত্তের ব্যাসার্ধ 1 সেমি। ছায়াযুক্ত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) 3 square centimeters\nখ) 4 square centimeters\nগ) 3.2π square centimeters\nঘ) 5 square centimeters",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "627b2744-7717-4f55-9a33-52cc4a6bd971",
+    "images": [
+      "images/71179_0.png"
+    ],
+    "english_question": "<image>\nসমান্তরিক ABCD-এ বিন্দু F, BC-এর প্রসারিত অংশের উপর, রেখা AF, BD-কে O-এ ছেদ করে এবং DC-কে E-এ ছেদ করে। চিত্রে অনুরূপ ত্রিভুজের (অভিন্ন বাদে) কয়টি জোড় আছে? ক. 3 খ. 4 গ. 5 ঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06f0fb68-cd70-42ae-83ef-375459e7685a",
+    "images": [
+      "images/triangle_ext_06f0fb68-cd70-42ae-83ef-375459e7685a.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি চতুস্তলকের তিনটি দৃশ্য দেখানো হয়েছে। এই চতুস্তলকের কোন ধারটি দীর্ঘতম?\nক. 5 $\\sqrt{2}$\nখ. $\\sqrt{41}$\nগ. 4 $\\sqrt{2}$\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e4d8281b-b092-48c2-b696-b669ace13f1a",
+    "images": [
+      "images/48185_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড কাগজের ছোট বর্গগুলোর বাহুর দৈর্ঘ্য 1। মোটা রেখাগুলো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য নির্দেশ করে এবং পার্শ্ব দৃশ্যের বক্ররেখাগুলো বৃত্তচাপ। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 8π\nখ) 8π + 4\nগ) 6π + 4\nঘ) 6π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0e50d73-415f-463d-a5a7-4f1c23487e6b",
+    "images": [
+      "images/54727_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি আয়তাকার কাগজের স্ট্রিপ O কেন্দ্রবিশিষ্ট একটি বৃত্তের ওপর রাখা হয়েছে এবং রেখাংশের দৈর্ঘ্য চিত্রে চিহ্নিত করা হয়েছে (একক: সেমি)। রেখাংশ AB-এর দৈর্ঘ্য কত সেমি?\n\nOptions:\nক) 11\nখ) 12\nগ) 13\nঘ) 14",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "58a96532-a6c1-4ddf-b246-fd8e7dea8981",
+    "images": [
+      "images/triangle_ext_58a96532-a6c1-4ddf-b246-fd8e7dea8981.png"
+    ],
+    "english_question": "<image>\nপ্রশ্ন ১: চিত্রে প্রদর্শিত বর্গাকার গ্রিডে, α, β এবং θ কোণগুলোর মধ্যকার সম্পর্ক হলো ( ) \nক. α=β＜θ \nখ. α＜β＜θ \nগ. α＜β=θ \nঘ. α=β=θ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33b0c9e6-2935-40dd-b36b-91f4e713762a",
+    "images": [
+      "images/15955_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AB হলো বৃত্ত O-এর ব্যাস এবং BC, CD, DA হলো বৃত্তের তিনটি জ্যা, যেখানে BC = CD = DA। ∠BCD-এর পরিমাপ কত?\nক. 105°\nখ. 120°\nগ. 135°\nঘ. 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "db026128-d7ec-4b2c-9b3d-34e57d380c60",
+    "images": [
+      "images/30307_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। A, B এবং C বিন্দুগুলো ছোট বর্গগুলোর শীর্ষবিন্দু। ∠ABC কোণের মান কত ডিগ্রি? ( )\nক. 90°\nখ. 60°\nগ. 45°\nঘ. 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08fe03b4-37e1-416e-8604-c11fbfc67b02",
+    "images": [
+      "images/48473_0.png"
+    ],
+    "english_question": "<image>\nগ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 এবং বিন্দু A, B, C গ্রিড বিন্দুতে অবস্থিত। ∠ABC-এর ট্যানজেন্ট (tangent) মান কত?\n\nOptions:\nক) 2\nখ) \\frac{2{\\sqrt{5}}}{5}\nগ) \\frac{\\sqrt{5}}{5}\nঘ) \\textstyle{\\frac{1}{2}}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "915c5806-1e8e-4ff1-a99c-441326b40c8e",
+    "images": [
+      "images/triangle_ext_915c5806-1e8e-4ff1-a99c-441326b40c8e.png"
+    ],
+    "english_question": "<image>\nএকটি আলোর উৎস P টেবিল A-এর ঠিক উপরে, একটি 2 ব্যাসার্ধের গোলক টেবিলটিকে স্পর্শ করে আছে, এবং PA গোলকটির স্পর্শক। আলোর উৎস P-এর নিচে ছোট বলটির টেবিলের উপর অভিক্ষেপ একটি উপবৃত্ত গঠন করে, যেমনটি চিত্রে দেখানো হয়েছে, একটি স্থানিক জ্যামিতিক বস্তু তৈরি করে, এবং সম্মুখ দৃশ্য একটি সমকোণী ত্রিভুজ PAB, যেখানে PA=6। উপবৃত্তের ক্ষুদ্র অক্ষের দৈর্ঘ্য কত?\nক. 6\nখ. 8\nগ. $4 \\sqrt {3}$\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "919a9e16-e6fb-47e8-af51-06bea5b25791",
+    "images": [
+      "images/25396_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কাঠামোর বিন্যাস অনুযায়ী 20তম চিত্রে ত্রিভুজের সংখ্যা কত? ( ) \nক. 75\nখ. 77\nগ. 79\nঘ. 81",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9351c6be-4b07-4737-95db-c826a6c1ed0a",
+    "images": [
+      "images/triangle_ext_9351c6be-4b07-4737-95db-c826a6c1ed0a.png"
+    ],
+    "english_question": "<image>\nএকটি সোজা স্কেল EF-কে ত্রিভুজের ∠BAC-এর 30° কোণের ওপর রাখা হয়েছে, যা AC ও AB বাহুকে M ও N বিন্দুতে ছেদ করে। ∠CME এবং ∠BNF-এর সমষ্টি কত? ( )\nক. 150°\nখ. 180°\nগ. 135°\nঘ. Cannot be determined",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c35f1d72-6b70-4417-91f6-b81d5180b27b",
+    "images": [
+      "images/63630_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1)-এ একটি ছোট ঘনকের পার্শ্বদৃশ্য দেখানো হয়েছে। ছোট ঘনকটি চিত্র (2)-এ প্রদর্শিত অবস্থান থেকে উল্টে 1ম বর্গক্ষেত্রে, তারপর 2য় বর্গক্ষেত্রে এবং সবশেষে 3য় বর্গক্ষেত্রে যায়। এই অবস্থায়, ছোট ঘনকের উপরের তলে থাকা শব্দটি হলো ( )।\nক. 泉\nখ. 州\nগ. 和\nঘ. 谐",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6be303b-c1c8-4791-a3c2-8c8469068797",
+    "images": [
+      "images/triangle_ext_b6be303b-c1c8-4791-a3c2-8c8469068797.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। যদি এই জ্যামিতিক বস্তুর আয়তন \\( \\frac{1}{3} + \\pi \\) হয়, তবে \\( a = ( \\) \\()\\)\nক. \\( \\frac{1}{2}\\)\nখ. \\( 1 \\)\nগ. \\( 2 \\)\nঘ. \\( 3 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55434000-96f8-485b-af4a-5b3e9e0cfdf0",
+    "images": [
+      "images/72103_0.png"
+    ],
+    "english_question": "<image>\nএকটি সিলিন্ডারের উচ্চতা 2 এবং ভূমির পরিধি 16। সিলিন্ডারের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। সামনের দৃশ্যে সিলিন্ডারের পৃষ্ঠের M বিন্দুর অনুরূপ বিন্দু হলো A এবং বাম দিকের দৃশ্যে সিলিন্ডারের পৃষ্ঠের N বিন্দুর অনুরূপ বিন্দু হলো B। সিলিন্ডারের পার্শ্বতলে M বিন্দু থেকে N বিন্দুর ক্ষুদ্রতম পথের দৈর্ঘ্য কত?\n\nOptions:\nক) \\(2\\sqrt{17}\\)\nখ) \\(2\\sqrt{5}\\)\nগ) \\(3\\)\nঘ) \\(2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be22af6f-e219-4933-b727-091a58fb1417",
+    "images": [
+      "images/57566_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তে AB এবং AD দুটি জ্যা। দেওয়া আছে, ∠B = 20°, বিন্দু C, AB জ্যা-এর উপর অবস্থিত এবং CO রেখাকে বর্ধিত করলে তা বৃত্তকে D বিন্দুতে ছেদ করে। যদি ∠D = 15° হয়, তবে ∠BAD এর মান কত?\nক. 30°\nখ. 45°\nগ. 20°\nঘ. 35°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "df1b6949-40e8-455b-9537-c14ab3b07731",
+    "images": [
+      "images/30052_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AOB সেক্টরে, ∠AOB=150°, AC=AO=6, D হলো AC-এর মধ্যবিন্দু। যখন জ্যা AC সেক্টর বরাবর চলে, তখন বিন্দু D দ্বারা অতিক্রান্ত দূরত্ব কত? ( ) ক. 3π খ. √3π গ. 3√3/2π ঘ. 4π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "839840fb-e435-496a-a448-fc28ace8295d",
+    "images": [
+      "images/triangle_ext_839840fb-e435-496a-a448-fc28ace8295d.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক বস্তুর তিনটি দৃশ্য থেকে, জ্যামিতিক বস্তুর আয়তন কত? ( )\nক. \\( \\dfrac {10}{3}\\)\nখ. \\(4\\)\nগ. \\( \\dfrac {13}{3}\\)\nঘ. \\(5\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9b245939-ed31-4e2c-a64e-95708ca2dab1",
+    "images": [
+      "images/51856_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, A₁ (1, 0) বিন্দুটি x-অক্ষের উপর অবস্থিত এবং B₁, B₂, B₃, …, Bₙ বিন্দুগুলো y = \\frac{\\sqrt{3}}{3} x রেখার উপর অবস্থিত। যদি △A₁B₁A₂, △A₂B₂A₃, …, △AₙBₙAₙ₊₁ প্রতিটি সমবাহু ত্রিভুজ হয়, তবে বাম থেকে ডানে ছোট ত্রিভুজগুলোর (ছায়াঘেরা অংশ) ক্ষেত্রফল S₁, S₂, S₃, …, Sₙ হলে, Sₙ কে কীভাবে প্রকাশ করা যায়?\n\nOptions:\nক) 2<sup>2n</sup> \\( \\sqrt{3} \\)\nখ) 2<sup>2n-1</sup> \\( \\sqrt{3} \\)\nগ) 2<sup>2n-2</sup> \\( \\sqrt{3} \\)\nঘ) 2<sup>2n-3</sup> \\( \\sqrt{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0628f59-a8da-456e-8336-1222f6697ce7",
+    "images": [
+      "images/triangle_ext_d0628f59-a8da-456e-8336-1222f6697ce7.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ত্রিভুজ ABC-তে, যেখানে AB = AC, P বিন্দুটি ভূমি কোণের সমদ্বিখণ্ডকগুলোর ছেদবিন্দু। যখন ত্রিভুজ BCP-কে CP বরাবর ভাঁজ করা হয়, তখন B বিন্দুটি AC বাহুর ওপর D বিন্দুর সাথে মিলে যায়। যদি DA = DP হয়, তবে কোণ A-এর মান কত ( )?\nক. 20°\nখ. 30°\nগ. 32°\nঘ. 36°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

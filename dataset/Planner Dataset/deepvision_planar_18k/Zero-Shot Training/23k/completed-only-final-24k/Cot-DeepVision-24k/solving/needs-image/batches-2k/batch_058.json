@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0a542991-4559-474b-9d6d-f32f6818d576",
+    "images": [
+      "images/74124_0.png"
+    ],
+    "english_question": "<image>\nধরি, xoy সমতলে ABCD একটি বর্গক্ষেত্র যার শীর্ষবিন্দুগুলো হলো A(0,0), B(1,0), C(1,1) এবং D(0,1)। xoy সমতল থেকে uov সমতলে রূপান্তরটি হলো u=2xy এবং v=x^2-y^2। (u,v) বিন্দু সেটে বর্গক্ষেত্র ABCD-এর প্রতিচ্ছবি কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "282b7b7b-ea52-4391-85ed-ac305b2274b1",
+    "images": [
+      "images/triangle_ext_282b7b7b-ea52-4391-85ed-ac305b2274b1.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো অনুযায়ী, ত্রিভুজ ABC-তে, MN, AC-এর সমান্তরাল, BD, AC-এর ওপর D বিন্দুতে লম্ব এবং MN-কে E বিন্দুতে ছেদ করে। নিচের কোন বক্তব্যটি ভুল? ( )\nখ. D হলো ত্রিভুজ ABC-এর উচ্চতা\nগ. D হলো ত্রিভুজ BCD-এর উচ্চতা\nগ. ME is the height of triangle ABD\nঘ. BE is the height of triangle BMN",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41841d22-747c-4ad0-9ab8-50b066ec5a32",
+    "images": [
+      "images/57178_0.png"
+    ],
+    "english_question": "<image>\nজটিল আকৃতিটির ক্ষেত্রফল নির্ণয় করো: (একক: মি.)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1b53cf67-9a54-45f9-b699-fb238528e420",
+    "images": [
+      "images/42583_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল এবং ∠1 = 50°। ∠2 এর মান কত ডিগ্রি? ( )\n\nOptions:\nক) 50°\nখ) 45°\nগ) 40°\nঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6137db9a-54f6-4abd-8980-a9ba84c6b02f",
+    "images": [
+      "images/75989_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, বিন্দু A, বিন্দু O থেকে কোন দিকে অবস্থিত?\n\nOptions:\nক) 35 degrees South by East\nখ) 65 degrees North by West\nগ) 65 degrees South by East\nঘ) 65 degrees South by West",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "958eb9e0-5c76-40f4-b4ca-ec2e993abd0f",
+    "images": [
+      "images/52009_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে ∠1 = ∠2, তবে সিদ্ধান্তগুলো হলো: (1) ∠3 = ∠4, (2) AB || CD, (3) AD || BC। সঠিক কোনটি?\n\nOptions:\nক) Only one is correct\nখ) Only one is incorrect\nগ) All three are correct\nঘ) All three are incorrect",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae77d644-bed3-490b-8618-8088fa307043",
+    "images": [
+      "images/56030_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনগুলো কেন্দ্রিক প্রতিসম (centrally symmetric)?\nক. 1টি চিত্র\nখ. 2টি চিত্র\nগ. 3টি চিত্র\nঘ. 4টি চিত্র",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2eafe381-3869-45bf-846e-fb49839e050d",
+    "images": [
+      "images/4786_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছায়াবৃত অংশ S1 এর ক্ষেত্রফল ছায়াবৃত অংশ S2 এর ক্ষেত্রফল অপেক্ষা 12 বর্গ সেন্টিমিটার বেশি এবং BD = 4 সেমি, DC = 1 সেমি। AB রেখাংশের দৈর্ঘ্য কত সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af18e9f1-c167-4194-bf33-f9ff49dda2ad",
+    "images": [
+      "images/813_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2016 শরৎ, হেপিং ডিস্ট্রিক্ট মিডটার্ম), রুলার ও কম্পাস ব্যবহার করে ∠PCD = ∠AOB অঙ্কন করতে, কোন বৃত্তচাপটি ∼MN হবে?\n\nOptions (copied from English):\nখ. - An arc with center C and radius EF\nগ. - An arc with center G and radius OE\nঘ. - An arc with center G and radius EF",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "764d970a-836b-445a-8b71-28490dd78175",
+    "images": [
+      "images/49451_0.png"
+    ],
+    "english_question": "<image>\nএকটি 5×5 বর্গাকার গ্রিডে, যেখানে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1, একটি চতুর্ভুজ গ্রিডটিকে ঢেকে রেখেছে (চিত্রে প্রদর্শিত)। গ্রিডের ঢাকা পড়া উল্লম্ব রেখাংশের দৈর্ঘ্যের সমষ্টিকে m এবং অনুভূমিক রেখাংশের দৈর্ঘ্যের সমষ্টিকে n ধরা হলে, m - n = কত?\n\nOptions:\nক) \\(0\\)\nখ) \\(0.5\\)\nগ) \\(-0.5\\)\nঘ) \\(0.75\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f93ce7ba-75c5-4a40-9abc-def28ec96ac5",
+    "images": [
+      "images/61727_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, কোণগুলোর অনুপাত ∠A: ∠B: ∠C = 3: 5: 10। ত্রিভুজ A'B'C', ত্রিভুজ ABC-এর সর্বসম। ∠BCA' এবং ∠BCB'-এর অনুপাত কত?\nOptions:\nগ) What is the ratio of ∠BCA' to ∠BCB'?\nক) 1: 2\nখ) 1: 3\nগ) 2: 3\nঘ) 1: 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1a3732c0-8226-498a-bef9-4d92ded027e4",
+    "images": [
+      "images/54985_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে a এবং b রেখা দুটি c রেখা দ্বারা ছেদ করা হয়েছে। নিচের কোন বিবৃতিটি ভুল? ( )\nক. ∠1 এবং ∠2 সন্নিহিত সম্পূরক কোণ\nখ. ∠1 এবং ∠3 বিপ্রতীপ কোণ\nগ. ∠3 এবং ∠4 একান্তর কোণ\nঘ. ∠2 এবং ∠4 অনুরূপ কোণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51107762-f505-4ccd-b11e-19d4cc7d6934",
+    "images": [
+      "images/68886_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f9f3a0d-189a-4162-94d6-384de79bd9ee",
+    "images": [
+      "images/73140_0.png"
+    ],
+    "english_question": "<image>\nনিচের আকৃতিগুলোর মধ্যে কতটি অক্ষ-প্রতিসম চিত্র আছে?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "efc82160-09db-4da9-9f03-e2c99218494e",
+    "images": [
+      "images/triangle_ext_efc82160-09db-4da9-9f03-e2c99218494e.png"
+    ],
+    "english_question": "<image>\nচিত্র 4-এ, ত্রিভুজ ABC-কে যথাক্রমে AB এবং AC বাহু বরাবর 180° ভাজ করার ফলে ত্রিভুজ ABE এবং ADC গঠিত হয়। যদি কোণগুলোর অনুপাত ∠1: ∠2: ∠3 = 28: 5: 3 হয়, তবে ∠α-এর মান কত? ( )\nক. 80°\nখ. 100°\nগ. 60°\nঘ. 45°.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "77973c8d-030a-45f9-b114-c2f8b5ad6115",
+    "images": [
+      "images/39863_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2014 বসন্ত, উডালিয়ানচি সিটি স্কুল লেভেল মাসিক পরীক্ষা) অনুযায়ী, AB এবং CD রেখাদ্বয় সমান্তরাল হওয়ার জন্য প্রয়োজনীয় শর্তটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f4897a6c-1d0f-4121-95ab-9b5314b111b0",
+    "images": [
+      "images/56725_0.png"
+    ],
+    "english_question": "<image>\nনিচের শর্তগুলো দেওয়া আছে: ①∠1=∠2; ②∠3=∠4; ③AD∥BE, এবং ∠D=∠B; ④AD∥BE, এবং ∠BAD=∠BCD। কোন শর্তটি AB∥DC প্রমাণ করতে পারে ( )\n\nOptions:\nক) ①\nখ) ②\nগ) ②③\nঘ) ②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2dc1132e-5fa3-4bb5-bdf8-a93afb3e5c83",
+    "images": [
+      "images/30413_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমবাহু ত্রিভুজ, AE ⊥ BC, AD ⊥ CD এবং AB ∥ CD। চিত্রে কতগুলো 60° কোণ আছে?\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a351217c-319e-4225-a746-5213af6d3caa",
+    "images": [
+      "images/9267_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সূর্যালোক ভূমির সাথে 60° কোণ উৎপন্ন করছে এবং একটি হেলানো গাছ ভূমির সাথে 30° কোণ উৎপন্ন করছে। ভূমিতে গাছটির ছায়ার দৈর্ঘ্য 8 m পরিমাপ করা হয়েছে। গাছটির উচ্চতা মিটারে কত?\nOptions:\nd. The shadow of the tree on the ground is measured to be 8 m long. What is the height of the tree in meters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e755d16-f7b0-4876-af74-52b0cc9ec21b",
+    "images": [
+      "images/11668_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজের দৈর্ঘ্য 9 সেমি এবং প্রস্থ 6 সেমি। চিত্র অনুযায়ী একটি বর্গক্ষেত্র কেটে নেওয়ার পর, অবশিষ্ট অংশের পরিসীমা কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

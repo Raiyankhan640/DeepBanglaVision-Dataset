@@ -1,0 +1,302 @@
+[
+  {
+    "id": "81b4d666-389e-4661-a04c-aa55156ad2a5",
+    "images": [
+      "images/36885_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে আয়তক্ষেত্রের ক্ষেত্রফলের কত অংশ ছায়াবৃত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49d38b9f-79bd-4927-b6f5-a95148796441",
+    "images": [
+      "images/75338_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করলে, ∠1 এর অনুরূপ কোণ কোনটি?\nক. ∠5\nখ. ∠4\nগ. ∠3\nঘ. ∠2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3646b959-b940-422c-a404-8633be3f5036",
+    "images": [
+      "images/8451_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কয়টি রেখাংশ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5c01740e-1b28-484d-a27a-ce454d1ca44a",
+    "images": [
+      "images/38061_0.png"
+    ],
+    "english_question": "<image>\nচীনা জাতির বৈজ্ঞানিক ও সাংস্কৃতিক ইতিহাস দীর্ঘ এবং উজ্জ্বল। আমাদের পূর্বপুরুষরা হাজার হাজার বছর আগে উৎপাদন ব্যবস্থায় গণিতের প্রয়োগ করতে সক্ষম ছিলেন। 1300 বছরেরও বেশি আগে, সুই রাজবংশের সময় নির্মিত ঝাওঝৌ পাথরের খিলান সেতুর একটি বৃত্তাকার খিলান রয়েছে (চিত্রে দেখানো হয়েছে)। পরিমাপ করে দেখা গেছে যে, খিলানের নিচের পানির পৃষ্ঠ খিলানের শীর্ষ থেকে 6 মিটার নিচে হলে, পানির পৃষ্ঠের প্রস্থ হয় 34.64 মিটার। খিলানের বিস্তার 37.4 মিটার দেওয়া থাকলে, আপনার জ্ঞান ব্যবহার করে ঝাওঝৌ সেতু খিলানের আনুমানিক উচ্চতা গণনা করুন। (গণনার জন্য 37.4 = 14√7, 34.64 = 20√3 ব্যবহার করুন)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9e052cdf-c431-4ed6-9347-3c68b574bea3",
+    "images": [
+      "images/49809_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। যদি a সমান্তরাল b হয় এবং ∠1 = 50°, তবে ∠2 এর মান কত?\nOptions:\nc. If a is parallel to b and ∠1 = 50°, then what is the measure of ∠2 in degrees?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "207e2976-095e-412f-b5f6-35766dfa9313",
+    "images": [
+      "images/67007_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত O-তে, জ্যা AB এবং CD পরস্পর E বিন্দুতে ছেদ করে। যদি ∠A = 40° এবং ∠AED = 70° হয়, তবে ∠B এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "76bbb7c4-fe62-4fdd-a443-6d72129d1a83",
+    "images": [
+      "images/12569_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ঘনক ABCD-A₁B₁C₁D₁ এর প্রতিটি ধারের দৈর্ঘ্য 1। B₁D₁ রেখাংশের উপর E ও F দুটি চলমান বিন্দু, যেখানে EF = √2/2। তাহলে, নিচের সিদ্ধান্তগুলোর মধ্যে ভুল সিদ্ধান্তের সংখ্যা কতটি ( ) \n(1) AC ⊥ BE.\n(2) যদি P, AA₁ এর উপর একটি বিন্দু হয়, তবে P থেকে BEF সমতলের দূরত্ব √2/2।\n(3) ত্রিভুজাকার পিরামিড A-BEF এর আয়তন একটি ধ্রুবক।\n(4) মহাশূন্যে এমন অসংখ্য রেখা আছে যা DD₁, AC এবং B₁C₁ কে ছেদ করে।\n(5) এমন 2টি রেখা আছে যা CC₁ এর মধ্যবিন্দুতে AC₁ রেখার সাথে 40 ডিগ্রি কোণ এবং BEF সমতলের সাথে 50 ডিগ্রি কোণ উৎপন্ন করে।\nক. 0\nখ. 1\nগ. 2\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed94ddbc-6f91-4906-818d-22a9e7a5b812",
+    "images": [
+      "images/15541_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, C বিন্দুটি AB রেখাংশের উপর অবস্থিত। △ACD এবং △BCE উভয়ই সমবাহু ত্রিভুজ। AE রেখাংশ CD-কে M বিন্দুতে ছেদ করে, BD রেখাংশ CE-কে N বিন্দুতে ছেদ করে এবং AE-কে O বিন্দুতে ছেদ করে। তাহলে: 1) DB = AE; 2) ∠AMC = ∠DNC; 3) ∠AOB = 60°; 4) DN = AM; 5) △CMN একটি সমবাহু ত্রিভুজ। নিচের কোন উক্তিটি সঠিক?\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "728d6b05-e24d-4006-b12d-68abdea25b61",
+    "images": [
+      "images/31089_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রটি থেকে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d7bbd93f-4bf8-490a-9d06-bba937f31fe7",
+    "images": [
+      "images/52528_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD হওয়ার শর্তটি হলো ( )\n\nOptions:\nক) ∠1 = ∠2\nখ) ∠2 = ∠3\nগ) ∠2 = ∠4\nঘ) ∠1 = ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d30de16-48ad-4e32-9b22-8c2d17605714",
+    "images": [
+      "images/triangle_ext_8d30de16-48ad-4e32-9b22-8c2d17605714.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখাটি A(4,0) এবং B(0,3) বিন্দুগামী। ব্যস্তানুপাতিক ফাংশন $ y = \\frac{p}{x} $ (যেখানে $ p > 0 $) AB রেখাকে C এবং D বিন্দুতে ছেদ করে। যদি ত্রিভুজ AOC, COD এবং DOB-এর ক্ষেত্রফল সমান হয়, তবে ব্যস্তানুপাতিক ফাংশনটির সমীকরণ নির্ণয় করো।\nOptions:\nD) If the areas of triangles AOC, COD, and DOB are all equal, find the equation of the inverse proportional function.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0f2fb0cc-871e-46a3-ac7c-cf20825da182",
+    "images": [
+      "images/10430_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1 থেকে 3-এর প্যাটার্ন অনুযায়ী, 10ম চিত্রে ডটের সংখ্যা কতটি?\n\nOptions:\nক) 40\nখ) 36\nগ) 44\nঘ) 52",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d360e4e3-4393-4f3c-a6f5-52b068edf542",
+    "images": [
+      "images/21013_0.png"
+    ],
+    "english_question": "<image>\nবিন্দু M এবং N হলো ঘনক ABCD-A_1B_1C_1D_1 এর ধার A_1B_1 এবং A_1D_1 এর মধ্যবিন্দু। A, M, N এবং D, N, C_1 দিয়ে ছেদক তল ব্যবহার করে ঘনকটির দুটি কোণা কেটে ফেলার পর, প্রাপ্ত জ্যামিতিক বস্তুটির সম্মুখ দৃশ্য, পার্শ্ব দৃশ্য (বাম দৃশ্য) এবং উপর থেকে দৃশ্য চিত্র 2-এ দেখানো হয়েছে ( )।\nক. ①、②、③\nখ. ②、③、④\nগ. ①、③、④\nঘ. ②、④、③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2ac9c04a-cd27-4b82-844c-039923831e8f",
+    "images": [
+      "images/triangle_ext_2ac9c04a-cd27-4b82-844c-039923831e8f.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, নিচের কোন বিবৃতিটি সঠিক?\nক. ∠A > ∠2 > ∠1\nখ. ∠1 > ∠2 > ∠A\nগ. ∠2 > ∠1 > ∠A\nঘ. ∠1 > ∠A > ∠2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8b523e4-b99f-467e-83b0-d70c285d2f1e",
+    "images": [
+      "images/37493_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, ∠AOB = 30°, বিন্দু C রশ্মি OB-এর উপর অবস্থিত এবং OC = 4। যদি C কেন্দ্রবিশিষ্ট এবং r ব্যাসার্ধের একটি বৃত্ত রশ্মি OA-কে দুটি ভিন্ন বিন্দুতে ছেদ করে, তবে r-এর মানের পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "915a9889-abb0-4890-8f84-e8f94ff1f787",
+    "images": [
+      "images/48044_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের দৃশ্য অনুযায়ী (একক: মিমি), বস্তুটির আয়তন নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fb21b7a-2644-42c2-9c38-23fea27267f6",
+    "images": [
+      "images/67494_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, যেখানে AB = DC এবং কর্ণ AC ও BD পরস্পর O বিন্দুতে ছেদ করে, চিত্রটিতে সর্বসম ত্রিভুজের কত জোড়া বিদ্যমান?\n\nOptions:\nক) 2 pairs\nখ) 3 pairs\nগ) 4 pairs\nঘ) 5 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cf67958d-96c4-4682-ac5d-9af3a4849a77",
+    "images": [
+      "images/61912_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল। ত্রিভুজ ABC-এর ∠A = 60°। যদি ∠1 = 55° হয়, তবে ∠2 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b12646c5-49ad-4a76-ab13-8b687bf67f33",
+    "images": [
+      "images/37844_0.png"
+    ],
+    "english_question": "<image>\nছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3b617d96-ba43-4805-8be7-06248e219b98",
+    "images": [
+      "images/51879_0.png"
+    ],
+    "english_question": "<image>\nবর্গ ABCD-এ বিন্দু E, AB সরলরেখার উপর এবং বিন্দু F, BC সরলরেখার উপর, EF = AE + CF। ∠EDF-এর মান কত ডিগ্রি? ক. 30° খ. 60° গ. 45° ঘ. 60°-এর কম",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

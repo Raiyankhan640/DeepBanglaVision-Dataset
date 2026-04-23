@@ -1,0 +1,342 @@
+[
+  {
+    "id": "29988c9f-8208-4de2-9698-a468579c4313",
+    "images": [
+      "images/48828_0.png"
+    ],
+    "english_question": "<image>\nযদি প্রতিটি বর্গের ক্ষেত্রফল 1 হয়, তবে O বিন্দুকে কেন্দ্র করে ত্রিভুজ ABC-কে দ্বিগুণ বর্ধিত করলে যে ত্রিভুজ A₁B₁C₁ পাওয়া যায়, তার ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "475979b8-74aa-4202-bab9-cd1f4754a01d",
+    "images": [
+      "images/52320_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কত? ( ) ক. 200+9π খ. 200+18π গ. 140+9π ঘ. 140+18π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7fc861da-19c1-48d6-b128-78640dd57030",
+    "images": [
+      "images/62983_0.png"
+    ],
+    "english_question": "<image>\n2 সেমি ধারবিশিষ্ট একটি ছোট ঘনক চিত্রে প্রদর্শিত উপায়ে মাটিতে রাখা হয়েছে। উন্মুক্ত পৃষ্ঠতলের ক্ষেত্রফল কত বর্গ সেমি?\n\nOptions:\nক) 24\nখ) 48\nগ) 96\nঘ) 128",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "499030fe-ac53-4200-8989-ae9090adafe5",
+    "images": [
+      "images/54808_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি আয়তাকার কাগজকে ড্যাশ লাইন বরাবর কেটে দুটি সর্বসম ট্রাপিজিয়ামে বিভক্ত করা হয়েছে। চিত্রে নির্দেশিত দৈর্ঘ্য ও কোণ অনুযায়ী, ট্রাপিজিয়ামের ক্ষুদ্রতর সমান্তরাল বাহুর দৈর্ঘ্য কত?\n\nOptions:\nক) 4\nখ) 5\nগ) 6\nঘ) 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e00101b7-3b9c-43eb-bd8d-61df58a35a13",
+    "images": [
+      "images/56995_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি দিনের বিভিন্ন সময়ে সূর্যের আলোয় একটি কাঠের খুঁটির ছায়া প্রদর্শন করছে। সময়ের ক্রমানুসারে সঠিক বিন্যাসটি কোনটি?\n\nOptions:\nক) ①③②④\nখ) ④①③②\nগ) ④②①③\nঘ) ②③①④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92a64df9-0ac7-4210-a0da-eeeda72b17ae",
+    "images": [
+      "images/39112_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, দেওয়া আছে AO, BC-এর ওপর O বিন্দুতে লম্ব, DO, OE-এর ওপর লম্ব এবং ∠1 = 65°, ∠2-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e621bc2-37d8-460c-be39-9b254a548c32",
+    "images": [
+      "images/7441_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে ∠1 = 70°, ∠2 = 110°, ∠3 = 80°, তবে ∠4 = ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e7e8180c-8e3a-4a4d-ac2c-bd3eef1ff03c",
+    "images": [
+      "images/triangle_ext_e7e8180c-8e3a-4a4d-ac2c-bd3eef1ff03c.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমকোণী ত্রিভুজাকৃতি কাগজ আছে যার একটি কোণ 30° এবং ক্ষুদ্রতম বাহুর দৈর্ঘ্য 2। চিত্রে দেখানো মধ্যমার বরাবর কাটার পর, দুটি অংশকে যুক্ত করে একটি চতুর্ভুজ তৈরি করা হয়। প্রাপ্ত চতুর্ভুজের পরিসীমা হলো\nক. 8 or $2\\sqrt{3}$\nখ. 10 or $4+2\\sqrt{3}$\nগ. 10 or $2\\sqrt{3}$\nঘ. 8 or $4+2\\sqrt{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "595c4f87-f4c4-4c4b-959c-e6ae10e3a9f1",
+    "images": [
+      "images/58396_0.png"
+    ],
+    "english_question": "<image>\n12√3 আয়তন বিশিষ্ট একটি নিয়মিত ত্রিভুজাকার প্রিজমের তিনটি দৃশ্য দেখানো হয়েছে। এই প্রিজমের পার্শ্ব দৃশ্যের ক্ষেত্রফল কত? ( ) ক. 12 খ. 8√3 গ. 8 ঘ. 6√3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7dd75511-9004-4075-a055-1ab1d2eed70c",
+    "images": [
+      "images/73179_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ট্রাপিজিয়াম ABCD-তে, যেখানে ∠B=90°, AD∥BC, AB=2 সেমি, BC=7 সেমি এবং AD=3 সেমি। যদি ট্রাপিজিয়াম ABCD-কে AD রেখার চারদিকে একবার পূর্ণ ঘূর্ণন দেওয়া হয়, তবে উৎপন্ন জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cd570c8d-94c7-422c-b0b8-ba77dd11f204",
+    "images": [
+      "images/24635_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল DE, ∠B = 80°, এবং ∠D = 140°। ∠BCD-এর মান নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "25cb4b75-8ef5-4f45-a50a-155e4f9b93d5",
+    "images": [
+      "images/45574_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, বিন্দু E হলো CB-এর বর্ধিতাংশের ওপর একটি বিন্দু। DE যোগ করলে তা AC-কে G বিন্দুতে এবং AB-কে F বিন্দুতে ছেদ করে। চিত্রটিতে কত জোড়া সদৃশ ত্রিভুজ (সর্বসম ত্রিভুজ বাদে) রয়েছে?\nক. 6 জোড়া\nখ. 5 জোড়া\nগ. 4 জোড়া\nঘ. 3 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb1f9880-664c-4ac6-8191-e6af2c3d80a2",
+    "images": [
+      "images/17522_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বৈদ্যুতিক খুঁটি AB-এর ছায়া ঢালু তল CD এবং সমতল BC-এর উপর পড়েছে। দেওয়া আছে CD = 8 মিটার, BC = 20 মিটার, ∠DCE = 30°, এবং 1 মিটার খুঁটির ছায়া 2 মিটার হয়, তবে খুঁটি AB-এর উচ্চতা নির্ণয় করো।\nOptions:\nC) Given CD = 8 meters, BC = 20 meters, ∠DCE = 30°, and the shadow of a 1-meter pole is 2 meters, find the height of pole AB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08fd7b06-018a-4713-8554-f556aa418fde",
+    "images": [
+      "images/12424_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2010 চেনঝু স্কুল-লেভেল ইন্ডিপেন্ডেন্ট অ্যাডমিশন), ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল 34 বর্গ সেমি, AE = BF, CE এবং DF রেখাংশ O বিন্দুতে ছেদ করে এবং ত্রিভুজ OCD-এর ক্ষেত্রফল 11 বর্গ সেমি। ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9aae654b-57b1-4bf7-a90a-fe40b9cfc86b",
+    "images": [
+      "images/18496_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এর পার্শ্ব দৃশ্য এবং সম্মুখ দৃশ্য একই। বস্তুটির আয়তন কত? \nক. 2+ (4√2π)/3 \nখ. 4+ (8√2π)/3 \nগ. 2+ (8√2π)/3 \nঘ. 4+ (4√2π)/3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "26158280-98e6-41de-836f-83a1c28af344",
+    "images": [
+      "images/triangle_ext_26158280-98e6-41de-836f-83a1c28af344.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ঘনক $A \\! \\! \\! \\! / \\; B C \\! \\! \\! \\! / \\; \\textrm { - } \\; A \\! \\! \\! \\! / _ { 1 } B \\! \\! \\! \\! / _ { 1 } C \\! \\! \\! \\! / _ { 1 } D \\! \\! \\! \\! / _ { 1 }$-এ, E ও F বিন্দুগুলো যথাক্রমে $D D _ { 1 }$ ও $A B$ ধারে অবস্থিত। নিচের বিবৃতিগুলো দেওয়া হলো: ① $A _ { 1 } C ^ { \\wedge }$ রেখাটি তল $B _ { 1 } E F$-এর ওপর লম্ব; ② পার্শ্ব তল $B C C _ { 1 } B _ { 1 }$-এর ওপর ত্রিভুজ $D B _ { 1 } E F$-এর লম্ব অভিক্ষেপ একটি ধ্রুবক ক্ষেত্রফলের ত্রিভুজ; ③ তল $4 _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }$-এর ভেতরে সর্বদা এমন একটি রেখা বিদ্যমান যা তল $B _ { 1 } E F$-এর সমান্তরাল; ④ তল $B _ { 1 } E F$ এবং তল $A B C D$-এর মধ্যবর্তী দ্বিমাত্রিক কোণ (সূক্ষ্মকোণ) E বিন্দুর অবস্থানের ওপর নির্ভর করে এবং F বিন্দুর অবস্থানের ওপর স্বাধীন। কতগুলো বিবৃতি সঠিক?\nক. 1 statement\nখ. 2 statements\nগ. 3 statements\nঘ. 4 statements",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41dde8fd-ba59-4c2c-b294-f0966af2417b",
+    "images": [
+      "images/39091_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয় O বিন্দুতে ছেদ করে এবং ∠1 = ∠2। যদি ∠AOE = 160° হয়, তবে ∠AOD এর পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0d9e73e4-4300-4c35-a85f-0e8889765ab9",
+    "images": [
+      "images/triangle_ext_0d9e73e4-4300-4c35-a85f-0e8889765ab9.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে a বাহুবিশিষ্ট ত্রিভুজ ABC-এর মধ্যমা AF, মধ্যরেখা DE-কে G বিন্দুতে ছেদ করে। ত্রিভুজ AED-কে DE বরাবর ভাঁজ করে ত্রিভুজ A'ED তৈরি করা হলো। নিচের চারটি সিদ্ধান্ত দেওয়া হলো:\n① চলন্ত রেখা A'F, রেখা DE-এর উপর লম্ব;\n② সমতল A'GF সবসময় BCED সমতলের উপর লম্ব;\n③ চতুস্তলক A'-BCED-এর আয়তনের একটি সর্বোচ্চ মান আছে;\n④ ত্রিভুজাকার পিরামিড A'-DEF-এর পার্শ্বতলের ক্ষেত্রফলের কোনো সর্বোচ্চ মান নেই।\nউপরে উল্লেখিত সিদ্ধান্তগুলোর কতটি সঠিক? ( )\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20e9e6d8-696d-4617-9f6d-babfdd9357d1",
+    "images": [
+      "images/14907_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি সমকেন্দ্রিক বৃত্তের কেন্দ্র O। বড় বৃত্তের জ্যা AB ছোট বৃত্তকে P বিন্দুতে স্পর্শ করে। বৃত্ত দুটির ব্যাসার্ধ যথাক্রমে 6 এবং 3। চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8c92f547-3a58-4c90-b556-884c5f338b54",
+    "images": [
+      "images/24741_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, জাহাজ A প্রতি ঘন্টায় 15√2 নটিক্যাল মাইল বেগে উত্তর দিকে যাত্রা করছে। জাহাজ B একটি নির্দিষ্ট দিকে স্থির বেগে চলছে। জাহাজ A যখন A₁ বিন্দুতে ছিল, তখন জাহাজ B এর অবস্থান ছিল B₁ বিন্দুতে, যা জাহাজ A এর 75° দক্ষিণ-পশ্চিমে এবং জাহাজ দুটির মধ্যবর্তী দূরত্ব 20 নটিক্যাল মাইল। 40 মিনিট পর জাহাজ A যখন A₂ বিন্দুতে পৌঁছায়, তখন জাহাজ B এর অবস্থান B₂ বিন্দুতে, যা জাহাজ A এর 45° দক্ষিণ-পশ্চিমে এবং জাহাজ দুটির মধ্যবর্তী দূরত্ব 10 নটিক্যাল মাইল। জাহাজ B প্রতি ঘন্টায় কত নটিক্যাল মাইল বেগে চলছে?\nOptions:\nd. When Ship A is at point \\(A_{1}\\), Ship B is located at point \\(B_{1}\\), which is \\(75^{\\circ}\\) south-west of Ship A, and the distance between the two ships is \\(20\\) nautical miles. After \\(40\\) minutes, when Ship A reaches point \\(A_{2}\\), Ship B is at point \\(B_{2}\\), which is \\(45^{\\circ}\\) south-west of Ship A, and the distance between the two ships is \\(10\\) nautical miles. How many nautical miles per hour is Ship B sailing?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

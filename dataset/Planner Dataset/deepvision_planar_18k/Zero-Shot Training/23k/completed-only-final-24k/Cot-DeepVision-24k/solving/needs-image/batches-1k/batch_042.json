@@ -1,0 +1,302 @@
+[
+  {
+    "id": "5dca23c6-1439-4569-acbb-cbe31451eca5",
+    "images": [
+      "images/72838_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি চাঁদার বাইরের প্রান্তে A এবং B দুটি বিন্দু আছে, যা যথাক্রমে 80° এবং 50° নির্দেশ করে। ∠ACB এর মান কত হওয়া উচিত? ( )\n\nOptions:\nক) 40°\nখ) 30°\nগ) 25°\nঘ) 15°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8a7f3eda-138c-4a90-b1de-0fa7ebee18e2",
+    "images": [
+      "images/46516_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 এবং ∠2 হলো অনুরূপ কোণ, যা হলো ()\n\nOptions:\nক) \\(①②\\)\nখ) \\(①③\\)\nগ) \\(②③\\)\nঘ) \\(②④\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8015c611-cb9f-4548-9ecc-f5621456af88",
+    "images": [
+      "images/14839_0.png"
+    ],
+    "english_question": "<image>\n△ACF এবং △DBE ত্রিভুজদ্বয়ে, দেওয়া আছে AF = ED এবং AB = DC। △ACF এবং △DBE সর্বসম হওয়ার জন্য আর কী শর্ত প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37db16ca-27ef-4fec-b57d-5b31268386d0",
+    "images": [
+      "images/55834_0.png"
+    ],
+    "english_question": "<image>\nযদি AO বৃত্ত O-এর ব্যাসার্ধ হয় এবং কোণ ACB = 15 ডিগ্রি হয়, তবে AOB বৃত্তকলাটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b086e96-8daf-4cf8-8a43-068e5c3cc964",
+    "images": [
+      "images/1771_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ভবন AB-র চূড়ায় থাকা একজন ব্যক্তি চিমনি CD-র চূড়া C-এর উন্নতি কোণ 45° পরিমাপ করেন। হ্রদের জলে C-এর প্রতিবিম্ব C₁-এর অবনতি কোণ 60° পরিমাপ করা হলো। যদি AB = 20 মিটার হয়, তবে চিমনি CD-র উচ্চতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc5f4432-03ba-488d-b4b3-d9afccb0e0f1",
+    "images": [
+      "images/31310_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি আয়তক্ষেত্র, যেখানে AB = a এবং BC = b (a > b)। A কেন্দ্রবিশিষ্ট এবং AD ব্যাসার্ধের একটি বৃত্ত CD বাহুকে D বিন্দুতে এবং AB বাহুকে E বিন্দুতে ছেদ করে। যদি ∠CAB = 30° হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল a ও b এর মাধ্যমে প্রকাশ করো।\nOptions:\nb). A circle with center A and radius AD intersects CD at D and intersects AB at E. If ∠CAB = 30°, please express the area of the shaded region in terms of a and b.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2f1a911-4692-462e-b9af-8bf731073ed7",
+    "images": [
+      "images/22561_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি আয়তাকার গ্রিডের ওপর প্রতিটি ছোট আয়তক্ষেত্রের দৈর্ঘ্য 2 এবং প্রস্থ 1। A এবং B বিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত, এবং যদি C বিন্দুটিও একটি গ্রিড পয়েন্টে থাকে, তবে A, B এবং C বিন্দু দ্বারা গঠিত ত্রিভুজের ক্ষেত্রফল 2। কতটি C বিন্দু এই শর্তটি পূরণ করে?\n(ক) 2\n(খ) 3\n(গ) 4\n(ঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c317535-6058-4739-82da-a0d39869d193",
+    "images": [
+      "images/18578_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AOB বৃত্তকলার ব্যাসার্ধ 6 সেমি এবং কেন্দ্রস্থ কোণ 120° দেওয়া আছে। যদি এই বৃত্তকলাটিকে একটি কোণ বা শঙ্কুতে রূপান্তর করা হয়, তবে শঙ্কুটির বক্রতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f101307-182b-4651-abb3-8b0de3f9f369",
+    "images": [
+      "images/76125_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BD, GE-এর সমান্তরাল, AQ, ∠FAC-কে সমদ্বিখণ্ডিত করে এবং BD-কে Q বিন্দুতে ছেদ করে, ∠GFA = 50°, ∠Q = 25°, তবে ∠ACB-এর মান কত ডিগ্রি?\n\nOptions:\nক) 90°\nখ) 95°\nগ) 100°\nঘ) 105°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69e8e46b-4251-4490-9c5d-02355d710111",
+    "images": [
+      "images/52956_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল EF এবং ∠BCD = 90°। চিত্রে x, y এবং z কোণগুলোর মধ্যে সম্পর্ক কী? ( )\n\nOptions:\nক) y = x + z\nখ) x + y + z = 180°\nগ) x + y - z = 180°\nঘ) z + 90° = y + x",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f643cd53-39e0-4163-b30b-4fad15529ced",
+    "images": [
+      "images/20946_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকার স্কেল চিত্রে প্রদর্শিত অবস্থায় রাখা হয়েছে। যদি AE, BC-এর সমান্তরাল হয়, তবে কোণ CAD-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb308efe-f736-4e20-b07c-3b755df90fe6",
+    "images": [
+      "images/5068_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 4 × 4 বর্গাকার গ্রিডে, ত্রিভুজ MNP একটি নির্দিষ্ট বিন্দুকে কেন্দ্র করে একটি নির্দিষ্ট কোণে আবর্তিত হয়ে ত্রিভুজ M₁N₁P₁ উৎপন্ন করে। সুতরাং, ঘূর্ণন কেন্দ্রটি অবশ্যই ( )\n\nOptions:\nক) Point E\nখ) Point F\nগ) Point G\nঘ) Point H",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d1294240-7ffd-418f-8dc3-6109832406bd",
+    "images": [
+      "images/17820_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে, ∠1=∠2 দেওয়া থাকলে কোনটির ক্ষেত্রে AB∥CD সিদ্ধান্ত নেওয়া যায়?\n\nOptions (copied from English):\nক.\nখ.\nগ.\nঘ.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f51fa597-1293-4091-bcc0-5d719fe48d07",
+    "images": [
+      "images/37136_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD-এর ক্ষেত্রফল 20 বর্গ সেমি এবং কর্ণদ্বয়ের ছেদবিন্দু O; AB এবং AO বাহু ব্যবহার করে একটি সামান্তরিক AO C1B গঠন করা হয়েছে, যার কর্ণদ্বয়ের ছেদবিন্দু O1; একইভাবে AB এবং AO1 বাহু ব্যবহার করে আরেকটি সামান্তরিক AO1C2B গঠন করা হয়েছে, যার কর্ণদ্বয়ের ছেদবিন্দু O2; এভাবে প্রক্রিয়াটি চলতে থাকলে, সামান্তরিক AO4C5B-এর ক্ষেত্রফল কত?\n\nOptions:\nক) \\(\\dfrac{5}{4}c{{m}^{2}}\\)\nখ) \\(\\dfrac{5}{8}c{{m}^{2}}\\)\nগ) \\(\\dfrac{5}{16}c{{m}^{2}}\\)\nঘ) \\(\\dfrac{5}{32}c{{m}^{2}}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "116eaeb1-4da6-45d5-b8a8-37a619646101",
+    "images": [
+      "images/22303_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি আলোক রশ্মি একটি সমতল দর্পণে α কোণে আপতিত হয় এবং দর্পণ I ও II এর মধ্যে প্রতিফলিত হতে থাকে। যদি α = 60° এবং β = 50° হয়, তবে γ এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e3df4e02-fecc-4b99-8b2b-c164d399b557",
+    "images": [
+      "images/31564_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সামান্তরিকটির ক্ষেত্রফল 240 বর্গমিটার। এই সামান্তরিকটির পরিসীমা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0cc308a0-09a8-4d1f-9e93-dac4632d7965",
+    "images": [
+      "images/44754_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন আকৃতিটি একটি মৌলিক আকৃতিকে স্থানান্তর (translation) করে পাওয়া যেতে পারে? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ae1ae1a-1f9a-429c-a520-18273290d39e",
+    "images": [
+      "images/1166_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজ \\(ABCD\\)-এ, জানা আছে যে \\(AB=BC=CD\\), এবং দুটি কোণ \\(∠BAD\\) এবং \\(∠CDA\\) সূক্ষ্ম। বিন্দু \\(F\\) হল কর্ণ \\(BD\\)-এর একটি বিন্দু, রেখা \\(EF\\) সমান্তরাল \\(AB\\) এবং \\(AD\\)-কে বিন্দু \\(E\\)-এ ছেদ করে, রেখা \\(FG\\) সমান্তরাল \\(BC\\) এবং \\(DC\\)-কে বিন্দু \\(G\\)-এ ছেদ করে। চতুর্ভুজ \\(EFGP\\) একটি সমান্তরাল চতুর্ভুজ, এবং নিম্নলিখিত সিদ্ধান্তগুলি দেওয়া আছে: \\(①\\) চতুর্ভুজ \\(EFGP\\) একটি রম্বস; \\(②\\)\\(\\triangle PED\\) একটি সমদ্বিবাহু ত্রিভুজ; \\(③\\) যদি \\(∠ABD=90^\\{\\circ\\}\\), তবে \\(\\triangle EFP\\) সমান \\(\\triangle GPD\\); \\(④\\) যদি চতুর্ভুজ \\(FPDG\\) একটি সমান্তরাল চতুর্ভুজ, তবে \\(BC\\) সমান্তরাল \\(AD\\) এবং \\(∠CDA=60^\\{\\circ\\}\\)। সঠিক সিদ্ধান্ত সংখ্যাগুলি হল ______ (সঠিক সিদ্ধান্ত সংখ্যাগুলি লিখুন লাইনে)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21f57166-c156-422c-82b1-887c568c756f",
+    "images": [
+      "images/61298_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-তে ত্রিভুজ ABD-কে D বিন্দুকে কেন্দ্র করে 40° কোণে ঘূর্ণনের ফলে ত্রিভুজ ECD গঠিত হয়। A বিন্দুটি AB রেখার ওপর E বিন্দুতে সরে যায়। তাহলে, ∠1 + ∠2 = ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95291a73-83fc-4acd-a435-85b29600fba1",
+    "images": [
+      "images/6385_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কার্তেসীয় স্থানাঙ্ক ব্যবস্থা x'oy-এর তলকে β এবং xoy-এর তলকে α দ্বারা চিহ্নিত করা হয়েছে। α এবং β তলের মধ্যবর্তী দ্বিতল কোণ 30°। যদি β তলে বক্ররেখা C'-এর সমীকরণ 3(x - 2√3)^2 + 4y^2 - 36 = 0 হয়, তবে α তলে বক্ররেখা C'-এর অভিক্ষেপের সমীকরণ কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

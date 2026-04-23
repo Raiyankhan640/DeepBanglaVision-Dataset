@@ -1,0 +1,362 @@
+[
+  {
+    "id": "4d29781f-02ab-4356-bf69-d90fdccfb6de",
+    "images": [
+      "images/62949_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি সমান প্রস্থের কাগজের ফিতাকে AB বরাবর ভাঁজ করা হলো। যদি ∠1 = 130° হয়, তবে ∠2 এর মান কত ডিগ্রি? ( )\n\nOptions:\nক) 50°\nখ) 115°\nগ) 120°\nঘ) 130°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "23eeef20-84bd-47e5-aecd-4b10b46911c0",
+    "images": [
+      "images/triangle_ext_23eeef20-84bd-47e5-aecd-4b10b46911c0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজাকার প্রিজম ABC-A₁B₁C₁-এ, E এবং F বিন্দু দুটি যথাক্রমে AB এবং AC বাহুর মধ্যবিন্দু। সমতল EFC₁B₁ প্রিজমটিকে দুটি আয়তন V₁ এবং V₂-এ বিভক্ত করে (বাম দিকে V₁ এবং ডান দিকে V₂)। তবে অনুপাত V₁: V₂ = ( )\nক. 7: 5\nখ. 4: 3\nগ. 3: 1\nঘ. 2: 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8889fc5-aba8-449f-acc9-561aabbc9fe0",
+    "images": [
+      "images/15780_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য (চিত্রে প্রদর্শিত) দেওয়া আছে। সম্মুখ দৃশ্য এবং পার্শ্ব দৃশ্য উভয়ই দুটি সমান সমবাহু ত্রিভুজ এবং শীর্ষ দৃশ্যটি একটি বর্গক্ষেত্র। জ্যামিতিক বস্তুটির আয়তন কত? ( )\n\nOptions:\nক) $\\sqrt { 3 }$\nখ) 4 $\\sqrt { 3 }$\nগ) 9 $\\sqrt { 3 }$\nঘ) 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e449b1f6-1de7-4632-b566-1e832ec1bc81",
+    "images": [
+      "images/409_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে OC, AB-এর উপর লম্ব এবং DE, ∠AOC-কে সমদ্বিখণ্ডিত করে। ∠AOE-এর মান কত? ( )\n\nOptions:\nক) 135°\nখ) 50°\nগ) 45°\nঘ) 155°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b3299c3c-d0b3-4cac-8a5a-82dd5439cad2",
+    "images": [
+      "images/19127_0.png"
+    ],
+    "english_question": "<image>\nABCD সামান্তরিকের M বিন্দুটি CD বাহুর মধ্যবিন্দু এবং DC = 2AD। ∠AMB-এর মান কত ডিগ্রি?\n\nOptions:\nক) 100°\nখ) 95°\nগ) 90°\nঘ) 85°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3a59d391-6282-4205-975e-101759e3489c",
+    "images": [
+      "images/triangle_ext_3a59d391-6282-4205-975e-101759e3489c.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি পিরামিডের তিনটি দৃশ্য দেওয়া আছে, পিরামিডটির পৃষ্ঠতলের ক্ষেত্রফল কত?\nক. \\(2+ \\sqrt {5}\\)\nখ. \\(3+ \\dfrac { \\sqrt {5}}{2}\\)\nগ. \\(2+ \\dfrac { \\sqrt {5}}{2}\\)\nঘ. \\(3+ \\sqrt {5}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f17f3fa-9bd0-4cc8-8d1c-7eeeca9049ee",
+    "images": [
+      "images/61654_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l হলো x=4 বিন্দুতে y=f(x) বক্ররেখার স্পর্শক। তাহলে f'(4) = কত?\n\nOptions:\nক) 1\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7bb7b00f-4300-4574-90e0-bf3a79a7426c",
+    "images": [
+      "images/triangle_ext_7bb7b00f-4300-4574-90e0-bf3a79a7426c.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, কোণ A = 35°। DE রেখা বরাবর ত্রিভুজ ABC-কে ভাঁজ করার পর, কোণ BDA' পরিমাপ করে 110° পাওয়া গেল। কোণ CEA'-এর মান কত ডিগ্রি?\nক. 30°\nখ. 35°\nগ. 40°\nঘ. 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7961c04c-5ba4-4e8d-9ee8-c84a6472d286",
+    "images": [
+      "images/44011_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BC চাপটিকে BC জ্যা বরাবর ভাঁজ করা হয়েছে যাতে তা AB ব্যাসকে D বিন্দুতে ছেদ করে। যদি AD = 6 এবং DB = 7 হয়, তবে BC এর দৈর্ঘ্য কত?\nক. √91\nখ. 7√3\nগ. √134\nঘ. √130",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7acfb77c-a300-4a36-9330-dcb917614514",
+    "images": [
+      "images/13045_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, A (-3, 0) এবং B (0, 4) বিন্দু দুটি দেওয়া আছে। ত্রিভুজ OAB-কে ধারাবাহিকভাবে ঘূর্ণন প্রয়োগ করে ত্রিভুজ △1, △2, △3, △4, ... পাওয়া যায়। ত্রিভুজ △2016-এর সমকোণ বিশিষ্ট শীর্ষবিন্দুর x-স্থানাঙ্ক কত?\n\nOptions:\nক) 8065\nখ) 8064\nগ) 8063\nঘ) 8062",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9429d2b0-f305-49f9-892f-39abd9f5a3e6",
+    "images": [
+      "images/76026_0.png"
+    ],
+    "english_question": "<image>\nফ্লোচার্টে প্রদর্শিত সম্ভাব্য অঞ্চলের মধ্যে একটি বিন্দু দৈবচয়ন পদ্ধতিতে নির্বাচন করা হলো। (x, y) জোড়া আউটপুট পাওয়ার সম্ভাবনা কত? ( )\n\nOptions:\nক) \\( \\frac { \\pi } { 8 } \\)\nখ) \\( \\frac { \\pi } { 4 } \\)\nগ) \\( \\frac { \\pi } { 6 } \\)\nঘ) \\( \\frac { \\pi } { 2 } \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "161484da-d582-4a8d-b634-0ed9367d8c7a",
+    "images": [
+      "images/46220_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l₁ এবং l₂ রেখাদ্বয় সমান্তরাল। α এবং β এর মাধ্যমে γ কে প্রকাশ করলে, γ = কত?\n\nOptions:\nক) α + β\nখ) 180° - α + β\nগ) 180° - α - β\nঘ) α + β - 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5a3e31b6-5c10-4afb-bf4a-4f6dbfbd61dc",
+    "images": [
+      "images/triangle_ext_5a3e31b6-5c10-4afb-bf4a-4f6dbfbd61dc.png"
+    ],
+    "english_question": "<image>\nক. ার্তেসীয় স্থানাঙ্ক ব্যবস্থায় ত্রিভুজ ABC-কে ত্রিভুজ A'B'C'-তে স্থানান্তরিত করা হয়েছে। A-এর অনুরূপ বিন্দু হলো A' (0, 9)। নিচের উক্তিগুলো হলো: ① B বিন্দুর অনুরূপ বিন্দু B'-এর স্থানাঙ্ক (-3, 4); ② বিন্দু A এবং C' x-অক্ষের সাপেক্ষে প্রতিসাম্য; ③ ত্রিভুজ A'B'C'-এর ক্ষেত্রফল y-অক্ষ দ্বারা সমদ্বিখণ্ডিত হয়। কোন উক্তিগুলো সঠিক ( )?\nক. Only ①③\nখ. Only ①\nগ. Only ②③\nঘ. ①②③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "59aa5c51-b744-43c4-92fb-8d0e8c4153a7",
+    "images": [
+      "images/63127_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 5π\nখ) 6π\nগ) 7π\nঘ) 8π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0d6c2fb0-bf3b-412c-97a8-692c8e3807b6",
+    "images": [
+      "images/60991_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছায়াবৃত অংশটি 1 ব্যাসার্ধের দুটি বৃত্তকলার সমন্বয়ে গঠিত। যদি α = 120° এবং β = 60° হয়, তবে বড় বৃত্তকলা এবং ছোট বৃত্তকলার ক্ষেত্রফলের পার্থক্য কত?\nক. π/6\nখ. π/6\nগ. 5π/3\nঘ. 5π/6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37cbc92a-f03f-481e-a8f5-ec5684a28f3e",
+    "images": [
+      "images/75148_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক নকশা অনুযায়ী, 20তম চিত্রে ত্রিভুজের সংখ্যা কত? ( ) \nক. 75 \nখ. 77 \nগ. 79 \nঘ. 81",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a0d5078c-74dc-4f27-87c4-ba69ff33028d",
+    "images": [
+      "images/38903_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা c দুটি সমান্তরাল রেখা a এবং b কে ছেদ করেছে। নিচের কোন উক্তিটি সর্বদা সত্য? ( )\n\nOptions:\nক) ∠1=∠2\nখ) ∠1=∠3\nগ) ∠1=∠4\nঘ) ∠1=∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d246ff48-7620-494f-839d-c295c7fb414a",
+    "images": [
+      "images/62598_0.png"
+    ],
+    "english_question": "<image>\nriangle ABC-এ, AB=10, AC=12, BC=9 এবং AD হলো BC বাহুর ওপর লম্ব। চিত্রানুসারে \triangle ABC-কে এমনভাবে ভাঁজ করা হলো যেন A বিন্দুটি D বিন্দুর ওপর পতিত হয় এবং ভাঁজের রেখাটি হয় EF। \triangle DEF-এর পরিসীমা কত?\n\nOptions:\nক) \\(9.5\\)\nখ) \\(10.5\\)\nগ) \\(11\\)\nঘ) \\(15.5\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f0aac620-88f0-433f-bd0b-2dd266aaf9ee",
+    "images": [
+      "images/64563_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি নির্দিষ্ট প্যাটার্ন বা বিন্যাস অনুযায়ী সাজানো হয়েছে। এই প্যাটার্ন অনুযায়ী, 10ম চিত্রটিতে কতটি রেখাংশ আছে? ( )\n\nOptions:\nক) 125\nখ) 140\nগ) 155\nঘ) 160",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "386438c2-9114-4b19-9e2c-ea7f36d05005",
+    "images": [
+      "images/11038_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, AE ⊥ BC, E বিন্দুতে ছেদ করে। B বিন্দুকে কেন্দ্র করে ত্রিভুজ BAE-কে ∠ABC কোণে ঘড়ির কাঁটার দিকে ঘোরালে ত্রিভুজ BA'E' পাওয়া যায়। যদি ∠ADC = 60° এবং ∠ADA' = 50° হয়, তবে ∠DA'E'-এর মান কত?\n\nOptions:\nক) 130°\nখ) 150°\nগ) 160°\nঘ) 170°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

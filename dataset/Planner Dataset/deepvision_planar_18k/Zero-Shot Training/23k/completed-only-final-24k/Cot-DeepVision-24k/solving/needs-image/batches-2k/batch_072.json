@@ -1,0 +1,302 @@
+[
+  {
+    "id": "37073ec9-8aab-48d6-9ff6-2ec18b8d8a62",
+    "images": [
+      "images/2930_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি জ্যামিতিক বস্তুর সমতলীয় বিস্তার, যেখানে ABCD একটি বর্গক্ষেত্র এবং E ও F যথাক্রমে PA ও PD-এর মধ্যবিন্দু। এই জ্যামিতিক বস্তুর ক্ষেত্রে, নিচের চারটি সিদ্ধান্ত দেওয়া হলো: \n① রেখা BE এবং রেখা CF বিপ্রতিপ (skew); \n② রেখা BE এবং রেখা AF বিপ্রতিপ (skew); \n③ রেখা EF, সমতল PBC-এর সমান্তরাল; \n④ সমতল BCE, সমতল PAD-এর ওপর লম্ব। \nউক্ত বিবৃতিগুলোর মধ্যে কয়টি সঠিক?\nOptions:\nD) \nHow many of the statements are correct?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ebf35898-7487-4e8a-8ae4-4a51b5cb6eb0",
+    "images": [
+      "images/35755_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। A, B এবং C বিন্দুগুলো ছোট বর্গগুলোর শীর্ষবিন্দু। ∠ABC কোণের পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d5ec9d6-4b9a-432f-ae6f-52f377c9b89c",
+    "images": [
+      "images/70204_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB || CD || EF এবং AF || CG। ∠A এর সমান কোণগুলো (∠A ব্যতীত) কয়টি?\n\nOptions:\nক) \\(5\\)\nখ) \\(4\\)\nগ) \\(3\\)\nঘ) \\(2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f9fda0e-27c8-4ec7-be5d-e1870f97588e",
+    "images": [
+      "images/38440_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি সুষম বর্গাকার পিরামিড P-ABCD-এর তিনটি দৃশ্য দেখানো হয়েছে, যেখানে সম্মুখ দৃশ্যটি 1 একক বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজ। এই পিরামিডটির সমগ্রতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed94f10a-a700-4014-8304-945b200d2d4d",
+    "images": [
+      "images/27231_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমকোণী ত্রিভুজ যার কোণ C সমান 90°। ত্রিভুজটিকে চিত্রে দেখানো মধ্যমা রেখা DE বরাবর কাটা হয় এবং তারপর দুটি অংশকে এমনভাবে পুনরায় সাজানো হয় যাতে তারা একে অপরের ওপর না পড়ে। নিচের কোন আকৃতিটি গঠন করা সম্ভব নয়?\nক. সামান্তরিক\nখ. আয়তক্ষেত্র\nগ. সমদ্বিবাহু ট্রাপিজয়েড\nঘ. সমকোণী ট্রাপিজয়েড",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2cca3956-dc8f-4b79-9d20-1f4bce46d28e",
+    "images": [
+      "images/72755_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অ্যানুলাসের (বলয়াকার ক্ষেত্র) ক্ষেত্রফল 28.26 বর্গ সেন্টিমিটার। বৃত্তের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "30e244d9-6664-493f-a70d-ba4acb5efa7c",
+    "images": [
+      "images/38504_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ত্রিভুজাকার স্কেল এমনভাবে রাখা হয়েছে যে এর সমকোণী শীর্ষবিন্দুটি 'a' রেখার ওপর অবস্থিত, যেখানে 'a' রেখাটি 'b' রেখার সমান্তরাল। যদি ∠1 = 50° এবং ∠2 = 60° হয়, তবে ∠3 এর মান নির্ণয় করো।\nOptions:\nb. Given ∠1 = 50° and ∠2 = 60°, find the measure of ∠3.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "862c087d-62f5-4ef0-828f-727d0b2c0a18",
+    "images": [
+      "images/34014_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত বৃত্তটির ক্ষেত্রফল 31.4 বর্গ সেন্টিমিটার হলে বড় বর্গক্ষেত্রটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0f595bc8-3215-4bb2-89e1-e0787bd87047",
+    "images": [
+      "images/43750_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমকোণী ত্রিভুজাকৃতির কাগজের টুকরো আছে, যার দুই বাহু AC = 5 সেমি এবং BC = 10 সেমি। যখন ত্রিভুজ ABC-কে এমনভাবে ভাঁজ করা হয় যেন বিন্দু B, বিন্দু A-এর সাথে মিলে যায়, তখন ভাঁজের রেখাটি হয় DE। ত্রিভুজ ACD-এর পরিসীমা কত?\nক. 10 সেমি\nখ. 12 সেমি\nগ. 15 সেমি\nঘ. 20 সেমি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8f4e00b-d3bb-4099-ae23-063b26945ac6",
+    "images": [
+      "images/triangle_ext_b8f4e00b-d3bb-4099-ae23-063b26945ac6.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি নির্দিষ্ট চতুস্তলকের তিনটি দৃশ্য (সবগুলোই সমকোণী ত্রিভুজ) দেখায়, তাহলে এই চতুস্তলকের পৃষ্ঠতল ত্রিভুজগুলোর মধ্যে কতগুলো সমকোণী ত্রিভুজ রয়েছে ( )\nক. (1)\nখ. (2)\nগ. (3)\nঘ. (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4035301f-0b50-4564-b4a5-f4383af4d559",
+    "images": [
+      "images/47858_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে নিম্নোক্ত শর্তগুলো দেওয়া আছে: 1) ∠1 = ∠2; 2) ∠3 = ∠4; 3) AD ∥ BE এবং ∠D = ∠B; 4) AD ∥ BE এবং ∠BAD = ∠BCD। কোন শর্তগুলো AB ∥ DC প্রমাণ করতে সাহায্য করবে? ( )\n\nOptions:\nক) 1)\nখ) 2)\nগ) 2) 3)\nঘ) 2) 3) 4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "495f4611-6bff-4332-a47b-624c65765cd5",
+    "images": [
+      "images/19320_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে মোট ত্রিভুজের সংখ্যা গণনা করুন।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2eee15f-ecec-4311-9743-18cf682c39d8",
+    "images": [
+      "images/23590_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী: শাওমিনের বাড়ি স্কুল থেকে 300 মিটার দূরে 30° কোণে অবস্থিত। সঠিক দিকটি চিহ্নিত করুন।\nক. পূর্ব-উত্তর\nখ. পশ্চিম-উত্তর\nগ. পূর্ব-দক্ষিণ\nঘ. পশ্চিম-দক্ষিণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6471e7d3-a214-4245-8a13-987471990234",
+    "images": [
+      "images/75357_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রেখাটি চতুর্ভুজ ABCD-এর প্রতিসাম্য অক্ষ। যদি AB = CD হয়, তবে নিচের সিদ্ধান্তগুলোর মধ্যে কোনটি সঠিক: ① AB ∥ CD; ② AO = OC; ③ AB ⊥ BC; ④ AC ⊥ BD। সঠিক সিদ্ধান্তের সংখ্যা কত ( )\nOptions:\nD) If AB = CD, then the following conclusions are true: ① AB ∥ CD; ② AO = OC; ③ AB ⊥ BC; ④ AC ⊥ BD) The number of correct conclusions is ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "885e3f0c-8074-4464-835b-139358e80e73",
+    "images": [
+      "images/63601_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 + ∠2 + ∠3 এর সমষ্টি কত ডিগ্রি, যেখানে চিত্রটি 4টি অভিন্ন ছোট বর্গ দ্বারা গঠিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43765105-7b60-4521-ad87-fd0914487a6d",
+    "images": [
+      "images/67237_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OAB বৃত্তকলাটির কেন্দ্রস্থ কোণ 122° এবং C বিন্দুটি চাপ AB-এর উপর অবস্থিত। ∠ACB-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "03373b3f-1ac3-4e95-bc0e-3e0e0641a819",
+    "images": [
+      "images/24821_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, রম্বস OABC চিত্রে প্রদর্শিত অবস্থানে আছে, যেখানে ∠AOC = 45°। বিন্দু A এর স্থানাঙ্ক (2, 0)। বিন্দু B এর স্থানাঙ্ক কত?\nক. (2, 1)\nখ. (1, 2)\nগ. (1, 3)\nঘ. (3, 1)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d6e816b-c0d9-4019-a48d-fab91e6bf909",
+    "images": [
+      "images/41733_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90° এবং ∠B=50°, D বিন্দুটি BC বাহুর উপর এমনভাবে অবস্থিত যে BD=2CD। ত্রিভুজ ABC-কে D বিন্দুর সাপেক্ষে α ডিগ্রি কোণে (0<α<180°) ঘড়ির কাঁটার দিকে ঘোরানোর পর, যদি B বিন্দুটি আদি সমকোণী ত্রিভুজ ABC-এর বাহুর উপর পতিত হয়, তবে α= কত?\nOptions:\nD) After rotating triangle ABC clockwise around point D by α degrees (0<α<180°), if point B lands exactly on the edge of the initial right triangle ABC, then α= .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c60c8bbb-7e0c-40de-8643-8e83223acf51",
+    "images": [
+      "images/74972_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক কঠিন বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, যেখানে সামনের দৃশ্য (front view) এবং পাশের দৃশ্য (side view) হলো 1 একক বাহুবিশিষ্ট দুটি সর্বসম সমদ্বিবাহু সমকোণী ত্রিভুজ। এই জ্যামিতিক কঠিন বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bd0fab06-a15b-4044-9d4f-c72a30e4b171",
+    "images": [
+      "images/49228_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD সামান্তরিকের AE এবং BF কোণ যথাক্রমে A এবং B-কে সমদ্বিখণ্ডিত করে এবং G বিন্দুতে ছেদ করে। যদি AE = 10 এবং BG = 5 হয়, তবে ABCD সামান্তরিকের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

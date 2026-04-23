@@ -1,0 +1,348 @@
+[
+  {
+    "id": "89ce1ebf-951f-47c2-9002-5c7157025cba",
+    "images": [
+      "images/29753_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন উক্তিটি ভুল? ( )\nক. OB এর দিক উত্তর 15º পশ্চিম\nখ. OA এর দিক উত্তর 30º পূর্ব\nগ. OC এর দিক দক্ষিণ 25º পশ্চিম\nঘ. OD এর দিক দক্ষিণ-পূর্ব",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d125840-fa71-4333-a2e2-99fd8453ce52",
+    "images": [
+      "images/36077_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, গ্রিডের ছোট বর্গগুলোর বাহুর দৈর্ঘ্য 1। যদি আমরা গ্রিডের ছায়াবৃত অংশটি কেটে নিই এবং পুনরায় সাজিয়ে একটি বর্গক্ষেত্র তৈরি করি (কোনো ফাঁক বা উপরিপাতন ছাড়া), তবে গঠিত বর্গক্ষেত্রের বাহুর দৈর্ঘ্য কত?\n\nOptions:\nক) \\(\\sqrt{3}\\)\nখ) 2\nগ) \\(\\sqrt{5}\\)\nঘ) \\(\\sqrt{6}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bfb6354c-5803-46fb-94f9-c82461f60ccd",
+    "images": [
+      "images/triangle_ext_bfb6354c-5803-46fb-94f9-c82461f60ccd.png"
+    ],
+    "english_question": "<image>\nচিত্রে, পরাবৃত্তের বাম শাখার একটি বিন্দু A-কে দুটি লম্ব রেখা দ্বারা দুটি উপকেন্দ্রের সাথে যুক্ত করা হয়েছে। এই রেখাগুলোর একটি পরাবৃত্তটিকে বিন্দু B-তে ছেদ করে। যদি ত্রিভুজ ABF₂ একটি সমদ্বিবাহু ত্রিভুজ হয়, তবে পরাবৃত্তের উৎকেন্দ্রিকতা কত? ( )\nক. $\\sqrt { 5 + 2 \\sqrt { 2 } }$\nখ. $\\sqrt { 5 - 2 \\sqrt { 2 } }$\nগ. $\\sqrt { 4 + 2 \\sqrt { 2 } }$\nঘ. $\\sqrt { 4 - 2 \\sqrt { 2 } }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fba4fcb7-5114-460f-8802-836cf53c9f4d",
+    "images": [
+      "images/1602_0.png"
+    ],
+    "english_question": "<image>\nপ্লাস্টিকের তৈরি একটি স্বচ্ছ আয়তাকার পাত্রে কিছু পানি ঢালা হলো। পাত্রটির একপাশ কাত করলে, পানির উপরিভাগের আকৃতি ও আয়তন কাত করার কোণের সাথে পরিবর্তিত হয়। একজন শিক্ষার্থী এই উপরিভাগের আকৃতি ও আয়তন সম্পর্কে কিছু 'নিয়ম' খুঁজে পেয়েছে: 1) পানির অংশটি সর্বদা প্রিজম আকৃতির হয়; 2) পানিহীন অংশটি সর্বদা প্রিজম আকৃতির হয়; 3) পানির উপরিভাগের ক্ষেত্রফল পরিবর্তিত হয়, যেমনটি দ্বিতীয় চিত্রে দেখানো হয়েছে; কাত করার পরিমাণ যত বেশি হয় (অর্থাৎ α যত ছোট হয়), পানির উপরিভাগের ক্ষেত্রফল তত বড় হয়। 4) যদি আয়তাকার পাত্রটির কাত করার কোণ α হয়, তবে পানির উপরিভাগ এবং পাত্রের তলদেশের মধ্যবর্তী কোণ হয় 90° - α। 'নিয়ম'গুলো সম্পর্কে কয়টি বিবৃতি সঠিক?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "68c353af-371c-49ee-8a97-370a19750481",
+    "images": [
+      "images/14779_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা a, রেখা b এর সমান্তরাল এবং রেখা l, a ও b কে ছেদ করেছে। নিচের কোন সিদ্ধান্তটি নিশ্চিতভাবে সঠিক বলা যায় না? ( )\n\nOptions:\nক) ∠1=∠5\nখ) ∠1=∠3\nগ) ∠2=∠6\nঘ) ∠2+∠4=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0c71ec4f-1f95-4b55-9289-871b38215c51",
+    "images": [
+      "images/61086_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক ঘনবস্তুর তিনটি দৃশ্য দেওয়া আছে, এই ঘনবস্তুর পৃষ্ঠতলের ক্ষেত্রফল কত?\nক. \\(2\\left( 1{+}\\sqrt{5} \\right)\\pi{+}16\\)\nখ. \\(2\\left( 1{+}\\sqrt{5} \\right)\\pi{+}24\\)\nগ. \\(2\\sqrt{5}\\pi{+}16\\)\nঘ. \\(\\dfrac{8\\pi{+}16}{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "695bdefe-b909-4323-9d2d-c829458b1fe9",
+    "images": [
+      "images/17659_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD-কে কর্ণ BD বরাবর ভাঁজ করা হলো, যার ফলে C বিন্দুটি C' বিন্দুতে পতিত হয়। BC' রেখাংশ AD-কে F বিন্দুতে ছেদ করে। নিচের কোন উক্তিটি সত্য নয়?\nক. AF = C'F\nখ. BF = DF\nগ. ∠BDA = ∠ADC'\nঘ. ∠ABC' = ∠ADC'",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d96ceba5-81d8-4c14-9745-b766f73cf01f",
+    "images": [
+      "images/61401_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াবৃত অংশের ক্ষেত্রফল 16 বর্গ সেমি। আয়তক্ষেত্রটির পরিসীমা কত?\n\nOptions:\nক) Cannot be determined\nখ) 28 cm\nগ) 24 cm\nঘ) 25 cm",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f16d547c-228d-4af8-8b07-aac41288585c",
+    "images": [
+      "images/20793_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে। দৃশ্যগুলো হলো 'a' বাহুবিশিষ্ট একটি সমদ্বিবাহু ত্রিভুজ এবং 'a' বাহুবিশিষ্ট একটি বর্গক্ষেত্র। জ্যামিতিক বস্তুটির আয়তন কত?\nক. \\( \\dfrac {1}{6}a^{3} \\)\nখ. \\( \\dfrac {1}{3}a^{3} \\)\nগ. \\( \\dfrac {1}{2}a^{3} \\)\nঘ. \\( \\dfrac {2}{3}a^{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ac7f3e6c-79cd-4216-9d0c-f3a0d34937be",
+    "images": [
+      "images/6812_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি জাহাজ A বিন্দুতে অবস্থিত, যা বাতিঘর P থেকে দক্ষিণ দিকে 37° কোণে দক্ষিণ-পূর্ব দিকে 40 নটিক্যাল মাইল দূরে অবস্থিত। কিছু সময় উত্তর দিকে চলার পর, এটি B বিন্দুতে পৌঁছায়, যা বাতিঘর P-এর ঠিক পূর্ব দিকে অবস্থিত। এই বিন্দুতে, B বিন্দু থেকে বাতিঘর P-এর দূরত্ব BP-কে কীভাবে প্রকাশ করা যায়?\n\nOptions:\nক) 40 nautical miles\nখ) 40tan37° nautical miles\nগ) 40cos37° nautical miles\nঘ) 40sin37° nautical miles",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 65,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad4e827c-18d2-4e02-803d-af43d1813c4b",
+    "images": [
+      "images/53556_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD সামান্তরিকের BC বাহুর বর্ধিতাংশের উপর E একটি বিন্দু। AE রেখাংশ CD-কে F বিন্দুতে এবং BD-কে M বিন্দুতে ছেদ করে। চিত্রে কত জোড়া সদৃশ ত্রিভুজ রয়েছে?\n\nOptions:\nক) \\(4\\) pairs\nখ) \\(5\\) pairs\nগ) \\(6\\) pairs\nঘ) \\(7\\) pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 60,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3f24cd0-1ac7-41ea-b354-1021ad72c1ae",
+    "images": [
+      "images/triangle_ext_a3f24cd0-1ac7-41ea-b354-1021ad72c1ae.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, তবে এই জ্যামিতিক বস্তুর পৃষ্ঠতলের ক্ষেত্রফল হলো ( )\nক. 54\nখ. 60\nগ. 66\nঘ. 72",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 60,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1acee29f-42c4-4563-ac30-382f01159dde",
+    "images": [
+      "images/9527_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক $ABCD$-এ, E ও F বিন্দু দুইটি যথাক্রমে AD ও CD বাহুর উপর অবস্থিত। BE ও AF যোগ করলে তা G বিন্দুতে ছেদ করে। BE-কে বর্ধিত করলে তা CD-এর বর্ধিতাংশকে H বিন্দুতে ছেদ করে। চিত্রে কত জোড়া সদৃশ ত্রিভুজ রয়েছে?\nক. $2$ জোড়া\nখ. $3$ জোড়া\nগ. $4$ জোড়া\nঘ. $5$ জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 60,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "242362bd-d615-4318-a0ab-1150aa027c62",
+    "images": [
+      "images/9527_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক $ABCD$-এ, E ও F বিন্দু দুইটি যথাক্রমে AD ও CD বাহুর উপর অবস্থিত। BE ও AF যোগ করলে তা G বিন্দুতে ছেদ করে। BE-কে বর্ধিত করলে তা CD-এর বর্ধিতাংশকে H বিন্দুতে ছেদ করে। চিত্রে কত জোড়া সদৃশ ত্রিভুজ রয়েছে?\nক. $2$ জোড়া\nখ. $3$ জোড়া\nগ. $4$ জোড়া\nঘ. $5$ জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 60,
+      "anomalies": [
+        "Ground Truth Mismatch"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fa61e26-cf52-4f51-9974-024d700a48b9",
+    "images": [
+      "images/triangle_ext_5fa61e26-cf52-4f51-9974-024d700a48b9.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট স্থানিক জ্যামিতিক বস্তুর তিনটি ভিউ চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কত? \\((\\) \\()\\)\nক. \\(32\\)\nখ. \\(32 \\sqrt {2}\\)\nগ. \\( \\dfrac {32}{3}\\)\nঘ. \\( \\dfrac {32}{3} \\sqrt {2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ba432f2f-c3f3-41d6-862c-f3aabf547091",
+    "images": [
+      "images/39197_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেওয়া হলো। বস্তুটির আয়তন কত?\n\nOptions:\nক) 8\nখ) 4\nগ) \\frac{3}{4}\nঘ) 2\\sqrt{3}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cdc72350-469b-42fb-bef9-237ba7ab9a9d",
+    "images": [
+      "images/14146_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD রেখার ওপর O বিন্দুতে লম্ব এবং EF রেখাটি O বিন্দু দিয়ে অতিক্রম করে। ∠1-এর সন্নিহিত সম্পূরক কোণ কোনটি?\n\nOptions:\nক) ∠2\nখ) ∠COE\nগ) ∠BOF\nঘ) ∠BOC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "04b25b8c-e0d4-47ba-ab72-96e75bdd5b0e",
+    "images": [
+      "images/29035_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AOB সেক্টরে, OA=10 এবং ∠AOB=36°। যদি বিন্দু B স্থির থাকে এবং এই সেক্টরটিকে ঘড়ির কাঁটার দিকে ঘোরানো হয়, তবে একটি নতুন সেক্টর A'O'B গঠিত হয়, যেখানে বিন্দু A, O'B এর উপর অবস্থিত। তাহলে, বিন্দু O থেকে O' পর্যন্ত অতিক্রান্ত পথের দৈর্ঘ্য কত? ( )\n\nOptions:\nক) π\nখ) 2π\nগ) 3π\nঘ) 4π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20122edc-9e2d-4774-bafe-a4669e084f33",
+    "images": [
+      "images/5380_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, ∠B=90°, AB=3, BC=4, AC=5 এবং ∠1=∠2। বিন্দু C থেকে রেখা AE-এর দূরত্ব কত?\n\nOptions:\nক) 3\nখ) 4\nগ) 4.5\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50cfb987-3a6e-4523-b9bb-7a19402720ed",
+    "images": [
+      "images/62372_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ প্রদর্শিত $a$ দৈর্ঘ্য এবং $b$ প্রস্থবিশিষ্ট (যেখানে $a > b$) সাতটি আয়তাকার কাগজের টুকরোকে চিত্র 2-এর ABCD আয়তক্ষেত্রে এমনভাবে রাখা হয়েছে যাতে তারা একে অপরের ওপর না পড়ে। ছায়াবৃত অংশগুলো (দুটি আয়তক্ষেত্র) দ্বারা অছায়াবৃত অংশগুলোকে নির্দেশ করা হয়েছে। উপরের বাম কোণ এবং নিচের ডান কোণের ছায়াবৃত অংশ দুটির ক্ষেত্রফলের পার্থক্যকে $S$ ধরা হলো। BC-এর দৈর্ঘ্য পরিবর্তিত হলেও, একই বিন্যাস পদ্ধতিতে $S$ অপরিবর্তিত থাকে। তাহলে, $a$ এবং $b$-এর সম্পর্কটি হবে 【 】\nক. a= $\\frac{5}{2}$ b\nখ. a=3b\nগ. a= $\\frac{7}{2}$ b\nঘ. a=4b",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0bd9effe-dd48-4b97-a396-0ed697e67663",
+    "images": [
+      "images/7962_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তে ABC ত্রিভুজটি অন্তর্লিখিত। AB রেখাংশের মধ্যবিন্দু D এবং OD রেখাংশ বর্ধিত করলে তা বৃত্তকে E বিন্দুতে ছেদ করে। AE এবং BE যোগ করা হলো। নিচের পাঁচটি সিদ্ধান্তের মধ্যে কোনটি সঠিক? 1) AB ⊥ DE; 2) AE = BE; 3) OD = DE; 4) ∠AEO = ∠C; 5) ⌢AE = 1/2 ⌢AEB। কয়টি সিদ্ধান্ত সঠিক?\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f23efef2-384b-40df-80c0-79936114f173",
+    "images": [
+      "images/49683_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত গ্রিডে A বিন্দু থেকে B বিন্দুতে যাওয়ার মোট কতটি ভিন্ন ক্ষুদ্রতম পথ রয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "26a542de-7cdb-4743-8b4d-f43f5d3b492c",
+    "images": [
+      "images/26754_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD রেখাকে O বিন্দুতে ছেদ করে এবং EO, AB এর উপর O বিন্দুতে লম্ব। কোণ 1 এবং কোণ 2 এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b817415b-1269-4517-a793-1ac4b8755710",
+    "images": [
+      "images/20599_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তাকার প্রিজম A¯B¯C¯D-A_{1}¯B_{1}¯C_{1}¯D_{1}-কে উপরের ডানদিকে তল ℂ ℌ ℍ ℎ দ্বারা কাটা হয়েছে যা প্রান্ত ℌ_{1}C_{1}-এর সমান্তরাল। অবশিষ্ট জ্যামিতিক বস্তুকে Ω দ্বারা চিহ্নিত করা হয়েছে। নিচের কোন সিদ্ধান্তটি ভুল? ( ) \nক. ℎ ℍ // ℌ⊙\nখ. চতুর্ভুজ ℂ ℌ ℍ ℎ একটি সামান্তরিক\nগ. Ω একটি প্রিজম\nঘ. Ω একটি ফ্রাস্টাম",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20900dba-bfda-499b-bb86-5ecedd716e68",
+    "images": [
+      "images/2162_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, তবে এর পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "42ec6bfe-1304-4ff4-a407-d048d87c55a5",
+    "images": [
+      "images/66399_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কার্ডবোর্ডের প্রতিটি কোণা থেকে 'a' বাহুবিশিষ্ট একটি বর্গক্ষেত্র কেটে নেওয়া হলো। পাশগুলো ভাঁজ করে উপরে খোলা একটি বাক্স তৈরি করা হলো যার উচ্চতা 'a' এবং ভূমির মাত্রা 'b' ও 'l'। যদি বাক্সের আয়তন 4a²b হয় এবং b < 4a হয়, তবে মূল আয়তাকার কার্ডবোর্ডের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nd. After folding up the sides, an open-top box with height a and base dimensions b and l is formed. Given that the volume of the box is 4a²b and b < 4a, find the area of the original rectangular cardboard.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6c6f055-6ab2-44ce-b6da-85975240b919",
+    "images": [
+      "images/55146_0.png"
+    ],
+    "english_question": "<image>\nচতুস্তলক ABCD-তে, ধরি G হলো CD-এর মধ্যবিন্দু। তাহলে, AB + 1/2(BD + BC) = ( )\n\nOptions (copied from English):\nD. AG",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f0771d8-7692-4aa6-9711-6153f854a6ff",
+    "images": [
+      "images/18743_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BE এবং CE যথাক্রমে ∠ABC এবং ∠ACD এর সমদ্বিখণ্ডক। যদি ∠BEC = 30° হয়, তবে ∠EAC এর মান নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0d622d19-e3bc-46e3-baee-83b1e4fab410",
+    "images": [
+      "images/74407_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে নিচের কোন উক্তিটি সঠিক? ( )\nক. যদি AB \\/\\/ CD হয়, তবে $ \\angle 1 = \\angle 2 $\nখ. যদি AD \\/\\/ BC হয়, তবে $ \\angle 3 = \\angle 4 $\nগ. যদি $ \\angle 1 = \\angle 2 $ হয়, তবে AB \\/\\/ CD\nঘ. যদি $ \\angle 1 = \\angle 2 $ হয়, তবে AD \\/\\/ BC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "229eeb45-58e6-492a-ab75-1c66d020f82e",
+    "images": [
+      "images/61966_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC O বৃত্তে অন্তর্লিখিত। বহিঃস্থ কোণ ∠BAM-এর সমদ্বিখণ্ডক O বৃত্তকে D বিন্দুতে ছেদ করে। DE, AB-এর উপর লম্ব এবং DF, AC-এর উপর লম্ব। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① AE = AF; ② ∠BD = ∠CD; ③ BE = CF; ④ DF, O বৃত্তের একটি স্পর্শক। নিচের কোনটি সঠিক? ( )\n\nOptions:\nক) ①②④\nখ) ②③④\nগ) ①③④\nঘ) ①②③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a90b0b90-3d71-41a3-b3e4-de6baf54c74f",
+    "images": [
+      "images/20647_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্তটির ব্যাসার্ধ 1 এবং এটি রেখা l-কে দুটি ভিন্ন বিন্দু A ও B-তে ছেদ করে। ধরি, ∠AOB = x। যখন রেখা l সমান্তরালভাবে সরে যায়, তখন রেখাটি দ্বারা বৃত্তের যে অংশটি অতিক্রম করা হয় (চিত্রে ছায়াবৃত অংশ) তার ক্ষেত্রফল s, x-এর একটি ফাংশন হিসেবে প্রকাশ করলে হয় s(x) = ।\nOptions:\nB) Let ∠AOB = x. When line l moves parallel, the area s of the part of the circle swept by the line (the shaded area in the figure) is a function of x, denoted as s(x) = .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e6d52ac-181a-4280-bf6b-960cce3c7e8c",
+    "images": [
+      "images/53840_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সুষম ষড়ভুজ ABCDEF এর বাহুর দৈর্ঘ্য 2। শীর্ষবিন্দু A এবং B যথাক্রমে x-অক্ষ এবং y-অক্ষ বরাবর চলে। শীর্ষবিন্দু D থেকে মূলবিন্দু O এর সর্বোচ্চ এবং সর্বনিম্ন দূরত্বের গুণফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e458629-19b3-49d0-91b5-1d15d1e3ca67",
+    "images": [
+      "images/39522_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ একটি চতুর্ভুজাকৃতির কাগজের টুকরো ABCD দেওয়া আছে, যেখানে ∠B = 120° এবং ∠D = 50°। যদি নিচের ডানদিকের কোণটিকে ভাঁজ করে চিত্র 2-এর মতো △PCR তৈরি করা হয়, যাতে CP ∥ AB এবং RC ∥ AD হয়, তবে ∠C-এর মান কত? ( )\n\nOptions:\nক) 105°\nখ) 100°\nগ) 95°\nঘ) 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7a6405e6-6620-45bf-b19f-4f6e5091946c",
+    "images": [
+      "images/25066_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, E হলো BC-এর মধ্যবিন্দু এবং ∠AEC = ∠DCE। নিচের কোন সিদ্ধান্তটি সঠিক? 1. BF = ½ DF 2. S△AFD = 2S△EFB 3. চতুর্ভুজ AECD একটি সমদ্বিবাহু ট্রাপিজিয়াম 4. ∠AEB = ∠ADC\n\nOptions:\nক) 1 correct\nখ) 2 correct\nগ) 3 correct\nঘ) 4 correct",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9a936d3b-19b8-4827-a8b3-739149b2bbe2",
+    "images": [
+      "images/58001_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে (2013 শরৎকালীন, নানজিং ফাইনাল এক্সাম), এটি জানা আছে যে চতুর্ভুজাকার প্রিজম ABCD-A₁B₁C₁D₁-এর ভূমি একটি আয়তক্ষেত্র, যেখানে AB = 4, AA₁ = 3 এবং ∠BAA₁ = 60°। E হলো ধারের (edge) C₁D₁-এর মধ্যবিন্দু। AB • AE-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f48c04c0-d401-4e6b-a5a3-0d69d15dc940",
+    "images": [
+      "images/63645_0.png"
+    ],
+    "english_question": "<image>\nনিচের সুন্দর নকশাগুলোর মধ্যে কয়টি অক্ষীয় প্রতিসম (axis-symmetric) এবং কেন্দ্রিক প্রতিসম (centrally symmetric) উভয়ই? ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ff99e15e-9ae1-4ebf-a012-05b8d3b4e28e",
+    "images": [
+      "images/48624_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমান প্রস্থের একটি কাগজের ফিতাকে ভাঁজ করা হলো। তাহলে, ∠1 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ef1d68e-3a93-463b-84a9-9b8277c5a548",
+    "images": [
+      "images/32647_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি রাস্তার মানচিত্র দেওয়া আছে। বিন্দু A থেকে বিন্দু D পর্যন্ত কতগুলো ভিন্ন ক্ষুদ্রতম পথ আছে যা ছেদবিন্দু B দিয়ে যায় কিন্তু বিন্দু C দিয়ে যায় না?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "22631a39-8379-48b9-ac25-01d7b6d39eda",
+    "images": [
+      "images/301_0.png"
+    ],
+    "english_question": "<image>\nছোট ছোট হীরা দিয়ে তৈরি একটি সাজানো চেইনের কিছু অংশ কেটে ফেলা হয়েছে এবং অবশিষ্ট অংশটি চিত্রে দেখানো হয়েছে। কতগুলো ছোট হীরা কেটে ফেলা হয়ে থাকতে পারে?\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8843c9fe-8ab1-439d-858a-e699fca3e52f",
+    "images": [
+      "images/50769_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো মতো, \\(x\\)-অক্ষের সাপেক্ষে বিন্দু \\(A\\)-এর প্রতিসম বিন্দুর স্থানাঙ্ক ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "36f4c8e6-d05f-4013-bff9-169eecf1c5e8",
+    "images": [
+      "images/33544_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নদীর বিপরীত তীরে অবস্থিত A ও B বিন্দুর মধ্যবর্তী দূরত্ব পরিমাপের জন্য নদীর তীরে C ও D দুটি বিন্দু নেওয়া হলো, যাদের মধ্যবর্তী দূরত্ব 40 মিটার। পরিমাপকৃত কোণগুলো হলো: ∠ACB = 60°, ∠BCD = 45°, ∠ADB = 60°, এবং ∠ADC = 30°। A ও B বিন্দুর মধ্যবর্তী দূরত্ব নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0fdf9c3-1075-4965-b6b8-b5373e820cff",
+    "images": [
+      "images/4741_0.png"
+    ],
+    "english_question": "<image>\nএকটি কুকুর চিত্রে প্রদর্শিত বর্গাকার টাইলসের উপর দিয়ে এদিক-সেদিক হাঁটছে। কুকুরটি শেষ পর্যন্ত ছায়াযুক্ত টাইলসে থামার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3dbfdfa6-d796-4c88-a87d-7b1f199459f4",
+    "images": [
+      "images/34343_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: সঠিক উক্তিটি হলো ( ) \nক. A এবং D এর x-স্থানাঙ্ক একই \nখ. C এবং D এর y-স্থানাঙ্ক একই \nগ. B এবং C এর y-স্থানাঙ্ক একই \nঘ. B এবং D এর x-স্থানাঙ্ক একই",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "746a5a59-986d-4b52-a092-b21ca683c37e",
+    "images": [
+      "images/13468_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমকোণী ত্রিভুজ ABC-এর অতিভুজ AB একটি চাঁদার ব্যাসের সাথে মিলে আছে এবং বিন্দু D, 54° নির্দেশ করে। ∠BCD-এর মান কত?\n\nOptions:\nক) 27°\nখ) 54°\nগ) 63°\nঘ) 36°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cef637be-3781-4fa9-9826-8225da407f02",
+    "images": [
+      "images/38828_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, অক্ষীয় প্রতিসম আকৃতির সংখ্যা কত? ( ) ক. 1 খ. 2 গ. 3 ঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "710a9f67-a9c7-4f2d-9445-7f6e16d4f96c",
+    "images": [
+      "images/29014_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজাকৃতির কাঁচের একটি টুকরো দুর্ঘটনাবশত মাটিতে পড়ে তিন খণ্ডে ভেঙে গেল। এখন, কাঁচের দোকান থেকে আগের আকৃতি ও আকারের অনুরূপ নতুন একটি কাঁচের টুকরো তৈরি করতে হলে, তোমাকে কেবল কত নম্বর টুকরোটি নিয়ে যেতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "144dd742-0a89-4387-b7c7-503d08276e8e",
+    "images": [
+      "images/37817_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে, যেখানে সামনের দৃশ্যের অর্ধবৃত্তের ব্যাসার্ধ 1। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\nক. 46+π\nখ. 46+2π\nগ. 46+3π\nঘ. 52",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "691be527-e418-4047-81d2-ac21f8cf663e",
+    "images": [
+      "images/64367_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0efe0c39-ecd7-45a1-b04b-5813f20be714",
+    "images": [
+      "images/45165_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার জমির ওপর ফুলের বাগান তৈরির জন্য, ফুলের বাগানের নকশাটি অবশ্যই একটি অক্ষ-প্রতিসম (axis-symmetric) চিত্র হতে হবে। চিত্রে প্রদর্শিত নকশাগুলোর মধ্যে কোনগুলো এই শর্ত পূরণ করে?\n\nOptions:\nক) 4\nখ) 3\nগ) 2\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6cad5a4-3e00-43c7-b2ec-f86b5bc424be",
+    "images": [
+      "images/9394_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে বর্গক্ষেত্রের ক্ষেত্রফল 8 বর্গ সেমি। চিত্রটিতে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d8e4aa47-11e5-40d9-91a6-3c6b6095bbca",
+    "images": [
+      "images/triangle_ext_d8e4aa47-11e5-40d9-91a6-3c6b6095bbca.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC তে, দেওয়া আছে ∠A = 70°, BD = BE, এবং CD = CF, তবে ∠EDF এর পরিমাপ কত?\nক. 65°\nখ. 55°\nগ. 125°\nঘ. 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "074d5966-faaa-4b6c-bdab-e20294cbb657",
+    "images": [
+      "images/76827_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্রের মধ্যে কয়টি অক্ষীয় প্রতিসম (axisymmetric) চিত্র?\n\nOptions:\nক) 4\nখ) 3\nগ) 2\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1be9f062-1bc1-42e4-85cf-f6d3f45390fe",
+    "images": [
+      "images/52185_0.png"
+    ],
+    "english_question": "<image>\nসাপ্তাহিক ছুটির দিনে, 1.6 মিটার উচ্চতার শিয়াওফাং এবং শিয়াওলি শিজিয়াং পার্কে গিয়ে তাদের জ্যামিতিক জ্ঞান ব্যবহার করে সাউথ টাওয়ারের উচ্চতা পরিমাপ করল। চিত্রে প্রদর্শিত অনুযায়ী, শিয়াওফাং বিন্দু A-তে দাঁড়িয়ে টাওয়ারের চূড়ার উন্নতি কোণ α পরিমাপ করল 45 ডিগ্রি। শিয়াওলি বিন্দু B-তে দাঁড়িয়ে (A এবং B টাওয়ারের অক্ষের সাথে একই সরলরেখায় অবস্থিত) উন্নতি কোণ β পরিমাপ করল 30 ডিগ্রি। তারা বিন্দু A এবং B-এর মধ্যবর্তী দূরত্ব পরিমাপ করল 30 মিটার। তাদের চোখ মাথার 1.6 মিটার উপরে অবস্থিত ধরে নিলে, টাওয়ারের উচ্চতা কত হবে? (ফলাফল 0.01 পর্যন্ত আসন্ন, তথ্য: √2 ≈ 1.414, √3 ≈ 1.732)\n\nOptions:\nক) 36.21 meters\nখ) 37.71 meters\nগ) 40.98 meters\nঘ) 42.48 meters",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4161cad-d580-480a-8cb2-dda6197d52e0",
+    "images": [
+      "images/73966_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন শর্তগুলো থেকে নিশ্চিত হওয়া যায় যে রেখা দুটি সমান্তরাল (l₁ ∥ l₂)? ( ) ① ∠1 = ∠2; ② ∠1 + ∠2 = 180°; ③ ∠3 = ∠4; ④ ∠3 + ∠4 = 180°; ⑤ ∠1 + ∠2 = 90°; ⑥ ∠3 + ∠4 = 90°; ⑦ ∠2 + ∠4 = 180°।\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "62dfa1a5-4cd1-4c4e-a588-ceb1ae59f6c8",
+    "images": [
+      "images/65827_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি চতুর্ভুজ ABCD রয়েছে যেখানে AC এবং BD পরস্পরকে E বিন্দুতে ছেদ করে এবং দুটি ধূসর অঞ্চলের ক্ষেত্রফল সমান। যদি AD = 11 এবং BC = 10 হয়, তবে নীচের কোন সম্পর্কটি সঠিক? ( )\nক. ∠DAE < ∠BCE\nখ. ∠DAE > ∠BCE\nগ. BE > DE\nঘ. BE < DE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5018ce13-e744-4b9c-afcd-50f6875d6af5",
+    "images": [
+      "images/64211_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AF = FD = DB, FG ∥ DE ∥ BC এবং BC = 5 হলে, PE = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00b6a4f2-5225-4a9e-8d65-5efb8846e514",
+    "images": [
+      "images/23155_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি রম্বস, BD একটি কর্ণ এবং ∠A=72°। ত্রিভুজ BCD-কে চিত্রে প্রদর্শিত তিনটি সমদ্বিবাহু ত্রিভুজে বিভক্ত করা হয়েছে। তাহলে, ∠1 + ∠2 + ∠3 = কত?\n\nOptions:\nক) 80°\nখ) 90°\nগ) 100°\nঘ) 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "de13defb-d8e8-4418-84d5-2236c3e0dcc1",
+    "images": [
+      "images/61563_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজ ABCD-এ, E, F, G এবং H বিন্দুগুলো যথাক্রমে AB, BC, CD এবং DA বাহুর মধ্যবিন্দু। চতুর্ভুজ EFGH একটি আয়তক্ষেত্র হওয়ার জন্য কর্ণ AC এবং BD-কে কোন শর্ত পূরণ করতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c434ef80-50ad-42e3-b10d-2437d5239570",
+    "images": [
+      "images/16215_0.png"
+    ],
+    "english_question": "<image>\nপ্রাচীন চীনা গণিতশাস্ত্রের ধ্রুপদী গ্রন্থ 《নাইন চ্যাপ্টারস অন দ্য ম্যাথমেটিক্যাল আর্ট》-এ একটি খড়ের চালের বর্ণনা দেওয়া হয়েছে। চিত্র অনুযায়ী, খড়ের চালটির তিনটি দৃশ্য দেওয়া আছে, যেখানে সামনের দৃশ্যটি একটি সমদ্বিবাহু ট্রাপিজিয়াম এবং পাশের দৃশ্যটি একটি সমদ্বিবাহু ত্রিভুজ। এর আয়তন কত?\n\nOptions:\nক) \\(\\dfrac{160}{3}\\)\nখ) \\(160\\)\nগ) \\(\\dfrac{256}{3}\\)\nঘ) \\(64\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21498244-4080-4b43-ab8e-a419916f93de",
+    "images": [
+      "images/50138_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, বিন্দু A-তে অবস্থিত ক্লাস 1, 5 কিমি দূরে অবস্থিত বিন্দু B-তে অবস্থিত ক্লাস 2-এর সাথে মিলিত হওয়ার প্রস্তুতি নিচ্ছে। ক্লাস 1-এর সাপেক্ষে ক্লাস 2-এর অবস্থান নির্ণয় করতে কোনটি ব্যবহার করা যেতে পারে?\n\nOptions:\nক) North-East 50°, 5km\nখ) North-West 50°, 5km\nগ) South-East 50°, 5km\nঘ) South-West 50°, 5km",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

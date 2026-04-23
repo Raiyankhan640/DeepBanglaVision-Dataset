@@ -1,0 +1,302 @@
+[
+  {
+    "id": "67b72894-0014-4ad8-9a7b-7c829670cea8",
+    "images": [
+      "images/71812_0.png"
+    ],
+    "english_question": "<image>\nনিচের প্যাটার্নগুলো কয়েকটি বিখ্যাত গাড়ির লোগো: এদের মধ্যে কতটি কেন্দ্রীয় প্রতিসম আকৃতি?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d2d67f2-6b80-4945-9e54-110bae5c8f67",
+    "images": [
+      "images/27653_0.png"
+    ],
+    "english_question": "<image>\nআকৃতিটির পরিসীমা নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60a0336d-a147-4529-b53f-49ac6c2fffdd",
+    "images": [
+      "images/12145_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যখন দুটি ত্রিভুজাকার বোর্ডকে তাদের সমকোণী শীর্ষবিন্দুগুলো একত্রে স্থাপন করা হয়, যদি ∠1 = 40° হয়, তবে ∠2 এর মান কত ডিগ্রি?\n\nOptions:\nক) 60°\nখ) 50°\nগ) 40°\nঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "30951f97-6627-47ce-b187-5b52324b741e",
+    "images": [
+      "images/25333_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, জাহাজ A, বন্দর P থেকে 80 নটিক্যাল মাইল দূরে উত্তর-পশ্চিম দিকে (উত্তর থেকে 60°) অবস্থিত এবং AP বরাবর 12 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে বন্দর P-এর দিকে যাচ্ছে। জাহাজ B বন্দর P থেকে যাত্রা শুরু করে উত্তর-পূর্ব দিকে (উত্তর থেকে 45°) যাচ্ছে। উভয় জাহাজ একই সময়ে যাত্রা শুরু করে এবং 2 ঘণ্টা পর, জাহাজ A বিন্দু B-তে পৌঁছায়, যখন জাহাজ B বিন্দু C-তে থাকে, যা জাহাজ A-এর ঠিক পূর্বে অবস্থিত। জাহাজ B-এর গতিবেগ নির্ণয় করো। (0.1 নটিক্যাল মাইল প্রতি ঘণ্টা পর্যন্ত সঠিক, দেওয়া আছে √2 ≈ 1.41)\nOptions:\nক) Find the sailing speed of Ship খ) (Accurate to 0.1 nautical miles per hour, reference data $\\sqrt{2} \\approx 1.41$)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a7b73ae9-66e5-4bf8-a0b8-4029b3b201e2",
+    "images": [
+      "images/60267_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের গ্রিডে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 এবং A, B ও C বিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত। ∠ABC কোণের ট্যানজেন্ট (tangent) মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "685b0037-2f97-4175-8401-0677f5009416",
+    "images": [
+      "images/33694_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AC হলো রম্বস ABCD-এর একটি কর্ণ, AE = EF = FC হলে ত্রিভুজ BMN-এর ক্ষেত্রফল এবং রম্বস ABCD-এর ক্ষেত্রফলের অনুপাত কত? ( )\nক. 3:4\nখ. 3:7\nগ. 3:8\nঘ. 3:10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4849baf1-e048-4de2-bd20-ee9f5eaafb93",
+    "images": [
+      "images/54423_0.png"
+    ],
+    "english_question": "<image>\nগ্রীষ্মের এক দুপুরে বাবা সুপারমার্কেট থেকে 4 বোতল কোলা কিনলেন। প্রতিটি বোতলের তলদেশের ব্যাস 7 cm। চিত্রে প্রদর্শিত অনুযায়ী বোতলগুলোকে একত্রে বাঁধা হলো। যদি দড়ি দিয়ে 5টি প্যাঁচ দিতে হয়, তবে কত সেন্টিমিটার লম্বা দড়ি লাগবে?\nOptions:\na. Each bottle has a base diameter of 7 cm. The supermarket bundled the colas together, as shown in the image. If we need to tie 5 loops with a rope, how many centimeters of rope are needed?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "616e3fd6-dcda-485c-a16b-0e4b9404160c",
+    "images": [
+      "images/23558_0.png"
+    ],
+    "english_question": "<image>\nABCD রম্বসের ∠A = 60°। রম্বসটিকে BD কর্ণের সাপেক্ষে ভাঁজ করে একটি চতুস্তলক তৈরি করা হলো যেখানে AC = BD। একটি বিন্দু P এমনভাবে অবস্থিত যে PA, PB এবং PC পরস্পর লম্ব। নিচের কোনটি ভুল?\n\nOptions:\nক) The cosine of dihedral angle A-BD-C is 1/3.\nখ) PC is parallel to plane ABD.\nগ) PB forms an angle of 45° with CD.\nঘ) PB is perpendicular to BD.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2948c097-7a24-4f66-9682-e6c70be49f5e",
+    "images": [
+      "images/49630_0.png"
+    ],
+    "english_question": "<image>\nনিচের আকৃতির ক্ষেত্রফল নির্ণয় করো (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8985b48f-b5d5-4131-9660-dd30226b4734",
+    "images": [
+      "images/58469_0.png"
+    ],
+    "english_question": "<image>\nশিক্ষক লি-এর একটি সবজি বাগান আছে (চিত্রে দেখানো হয়েছে)। এই সবজি বাগানের ক্ষেত্রফল কত বর্গ মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71434de8-52fc-43c2-8543-1565c46e0028",
+    "images": [
+      "images/5632_0.png"
+    ],
+    "english_question": "<image>\nবন্দর B, বন্দর A-এর উত্তর-পশ্চিম দিকে অবস্থিত। সকাল 8টায়, একটি জাহাজ বন্দর A থেকে উত্তর দিকে ঘণ্টায় 15 নটিক্যাল মাইল বেগে যাত্রা শুরু করে। একই সময়ে, একটি স্পিডবোট বন্দর B থেকে উত্তর দিকে যাত্রা শুরু করে। সকাল 10টায়, জাহাজটি D বিন্দুতে এবং স্পিডবোটটি C বিন্দুতে পৌঁছায়। C বিন্দুটি D বিন্দুর উত্তর-পশ্চিম দিকে 30° কোণে অবস্থিত এবং CD দূরত্ব 100 নটিক্যাল মাইল। স্পিডবোটের গতিবেগ ঘণ্টায় কত নটিক্যাল মাইল? (0.1 নটিক্যাল মাইল পর্যন্ত আসন্ন মান নির্ণয় করো; √2 ≈ 1.41, √3 ≈ 1.73 ব্যবহার করো)\nOptions:\nক) At 8 AM, a ship departs from port A and sails north at 15 nautical miles per hour. Simultaneously, a speedboat departs from port B sailing north. At 10 AM, the ship arrives at point D, and the speedboat arrives at point গ) Point C is located in the northwest direction of point D at an angle of 30°, and the distance CD is 100 nautical miles. What is the speed of the speedboat in nautical miles per hour? (Round to 0.1 nautical miles per hour; use √2 ≈ 1.41, √3 ≈ 1.73)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f0d8a920-1d55-4077-a268-c5fc615f9bed",
+    "images": [
+      "images/5069_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি ত্রিভুজাকার প্লেটের সমকোণদ্বয়কে একটি বিন্দুতে স্থাপন করে উপরিপাতিত করা হলো। যদি ∠1 = 40° হয়, তবে ∠2 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ea466b0-d6da-416d-8056-4dce534051ec",
+    "images": [
+      "images/1152_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, যেখানে ∠C=90°, CD লম্ব AB এবং D হলো লম্বের পাদবিন্দু, নিচের কোন সমীকরণটি সঠিক নয়? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d5103a44-861f-4438-b754-a1d8eb066f4f",
+    "images": [
+      "images/8962_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ট্রাপিজিয়াম ABCD-তে, E বিন্দুটি AD বাহুর ওপর অবস্থিত এবং BE হলো ভাঁজ করার রেখা। ত্রিভুজ ABE-কে ওপরের দিকে ভাঁজ করলে A বিন্দুটি CD রেখার ওপর F বিন্দুতে পতিত হয়। যদি ত্রিভুজ FDE-এর পরিসীমা 8 সেমি এবং ত্রিভুজ FCB-এর পরিসীমা 20 সেমি হয়, তবে FC-এর দৈর্ঘ্য কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f1bdf58-1fed-4675-aefc-ec35daf9cfce",
+    "images": [
+      "images/4058_0.png"
+    ],
+    "english_question": "<image>\n18.84 ডেসিমিটার প্রশস্ত এবং 10 ডেসিমিটার উচ্চতাবিশিষ্ট আয়তাকার লোহার পাত ব্যবহার করে, যার উপরের অংশে দুটি অভিন্ন বৃত্ত আছে, একটি সিলিন্ডার আকৃতির তেলের ড্রাম তৈরি করা হলো। ড্রামটি এমনভাবে তৈরি করা হয়েছে যেন বৃত্ত দুটি ড্রামের ভূমি হিসেবে কাজ করে। এই তেলের ড্রামের আয়তন কত লিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "84d0444b-06c6-40e9-a4f3-aa9f718b2eba",
+    "images": [
+      "images/67398_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্রতিটি আকৃতির ক্ষেত্রফল ( )\n\nOptions (copied from English):\nD. They are the same size",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "19a8d9a9-de0a-4970-aaee-2378c25ae18c",
+    "images": [
+      "images/24526_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন উক্তিটি সঠিক? ( )\n\nOptions:\nক) If ∠1 + ∠2 = 180°, then l₁ ∥ l₂\nখ) If ∠2 = ∠3, then l₁ ∥ l₂\nগ) If ∠1 + ∠2 + ∠3 = 180°, then l₁ ∥ l₂\nঘ) If ∠2 + ∠4 = 180°, then l₁ ∥ l₂",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17144df2-efd7-4b87-8d8f-4e04842a22bc",
+    "images": [
+      "images/67713_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি ত্রিভুজাকার পিরামিডের সম্মুখ দৃশ্য ও উপর দৃশ্য চিত্রে দেখানো হয় এবং উপর দৃশ্য একটি সমবাহু ত্রিভুজ যার বাহু 2√3 এবং তার অনুলিখিত বৃত্ত, তবে এর পার্শ্ব দৃশ্যের ক্ষেত্রফল কত? ক. 6+π খ. 4√3+π গ. 6+4π ঘ. 4√3+4π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ef7a7dd-69e0-48ff-8d3a-ac47956fd4e2",
+    "images": [
+      "images/31097_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্র ABCD-তে কতটি খালি ছোট বর্গক্ষেত্র কালো রঙ করতে হবে যাতে রঙিন চিত্রটি কর্ণ BD-এর সাপেক্ষে প্রতিসম হয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "75cc6152-af16-4c6c-b8da-1bf5542e25f9",
+    "images": [
+      "images/27555_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বড় বর্গক্ষেত্রটি চারটি 1×1 ছোট বর্গক্ষেত্র নিয়ে গঠিত। তাহলে, ∠1 + ∠2 + ∠3 + ∠4 = ( )\nক. 180°\nখ. 150°\nগ. 135°\nঘ. 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

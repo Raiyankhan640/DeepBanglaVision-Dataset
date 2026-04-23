@@ -1,0 +1,342 @@
+[
+  {
+    "id": "5510884c-8d78-46d9-ad9f-b55ec5909dc2",
+    "images": [
+      "images/76347_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল DF, AC লম্ব BC বিন্দুতে, এবং CB-এর বর্ধিতাংশ DF-কে E বিন্দুতে ছেদ করে। যদি ∠A = 20° হয়, তবে ∠CEF-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "168d5dcb-9dac-44ef-92bd-4e0911410e30",
+    "images": [
+      "images/25970_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটির ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b721efdb-7e14-4a6e-afa8-06206b17b86a",
+    "images": [
+      "images/39018_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজাকার পিরামিড P-ABCD-এর তিনটি দৃশ্য চিত্র দেখানো হয়েছে। পাঁচটি শীর্ষবিন্দু একই গোলকে অবস্থিত। যদি চতুর্ভুজাকার পিরামিড P-ABCD-এর পার্শ্ব পৃষ্ঠের ক্ষেত্রফল 4(1 + √2) হয়, তবে বহির্বৃত্তাকার গোলকের পৃষ্ঠের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "10213434-0955-43af-a911-b8a969e8afce",
+    "images": [
+      "images/5538_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তাকার খিলান সেতুর বিস্তার AB = 20 মিটার এবং উচ্চতা OP = 4 মিটার। AB বরাবর প্রতি 4 মিটার অন্তর সাপোর্ট কলাম বসানো হয়েছে। A₂B₂ সাপোর্ট কলামের উচ্চতা নির্ণয় করো (0.01 মিটার পর্যন্ত সঠিক)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4aa91f5d-7692-4391-b76d-043e4864ef87",
+    "images": [
+      "images/24832_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DH সমান্তরাল EG এবং BC, এবং DC সমান্তরাল EF। ∠1 এর সমান কোণের সংখ্যা কতটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc3e1370-cf24-4795-a15d-7b37e92ae081",
+    "images": [
+      "images/38583_0.png"
+    ],
+    "english_question": "<image>\nউপকূলে দুটি পর্যবেক্ষণ বিন্দু C এবং D-এর মধ্যবর্তী দূরত্ব 1 কিলোমিটার। সকাল 10:00 টায়, একটি জাহাজ A বিন্দুতে ছিল, যেখানে ∠ADC = 30°। তিন মিনিট পর, জাহাজটি B বিন্দুতে পৌঁছায়, যেখানে ∠ACB = 60°, ∠BCD = 45° এবং ∠ADB = 60°। কিলোমিটার প্রতি মিনিটে জাহাজটির গতিবেগ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "540eb60d-429f-498a-aaa5-6aa1a6f85840",
+    "images": [
+      "images/44865_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অ্যাডজাস্টেবল কোট র‍্যাকটি তিনটি রম্বস দ্বারা গঠিত। চতুর্ভুজের অস্থিতিশীলতা কাজে লাগিয়ে রম্বসের অভ্যন্তরীণ কোণ $\\alpha$ পরিবর্তন করে কোট র‍্যাকটিকে প্রসারিত বা সংকুচিত করা যায়। যখন রম্বসের বাহুর দৈর্ঘ্য 18 সেমি এবং $\\alpha = 120^{\\circ}$ হয়, তখন A ও B বিন্দুর মধ্যবর্তী দূরত্ব কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d8be87c7-8545-4b5b-9095-f161e49ffe8e",
+    "images": [
+      "images/52633_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, ∠C=90°, AC=3, BC=4। ODF সেক্টরটি BC বাহুকে E বিন্দুতে স্পর্শ করে এবং FO, AB বাহুর ওপর লম্ব। ODF সেক্টরের ব্যাসার্ধ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bacbbf0d-29a4-4953-b2ae-657a82174c66",
+    "images": [
+      "images/triangle_ext_bacbbf0d-29a4-4953-b2ae-657a82174c66.png"
+    ],
+    "english_question": "<image>\nচিত্রে, পপকর্ন রাখার জন্য একটি মোচাকৃতির কাগজের কাপ আছে। কাপের বৃত্তাকার মুখের ব্যাস EF 10 সেমি এবং হেলানো উচ্চতা OE (OF) 10 সেমি। হেলানো উচ্চতা OF-এর বিন্দু A-তে একটি পপকর্নের দানা আছে, যেখানে FA = 2 সেমি। একটি পিঁপড়া কাপের মুখ থেকে বিন্দু E-তে শুরু করে মোচাকৃতির পৃষ্ঠতল বরাবর বিন্দু A-তে যায়। পিঁপড়াটি অতিক্রান্ত সংক্ষিপ্ততম দূরত্ব কত?\nOptions:\nA) What is the shortest distance the ant crawls?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "76c0dc8d-d23e-407b-8d19-a50e853d4435",
+    "images": [
+      "images/24480_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $\\sqrt{3}$ ব্যাসার্ধের তিনটি বৃত্ত একে অপরের সাথে বহিঃস্থভাবে স্পর্শ করে আছে এবং $\\triangle ABC$ ত্রিভুজের প্রতিটি বাহু এই বৃত্তগুলোর দুটির সাথে স্পর্শক হিসেবে আছে। $\\triangle ABC$ ত্রিভুজের পরিসীমা কত?\n\nOptions:\nক) 12 + 6 \\( \\sqrt{3} \\)\nখ) 18 + 6 \\( \\sqrt{3} \\)\nগ) 18 + 12 \\( \\sqrt{3} \\)\nঘ) 12 + 12 \\( \\sqrt{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a74bb43b-94c1-4314-9a91-4f57f85c12e5",
+    "images": [
+      "images/16407_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠4 = 70°, ∠3 = 110°, ∠1 = 46° হলে, ∠2 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "72c83a99-3f97-4645-8b78-7276aefadbe9",
+    "images": [
+      "images/46098_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2013, হুয়ারু ডিস্ট্রিক্ট মক এক্সাম), দেওয়া আছে যে AB রেখা CD রেখার সমান্তরাল, ∠C = 125° এবং ∠A = 45°। ∠E এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "86328e20-03fb-4ca2-b751-8ee12dcc3484",
+    "images": [
+      "images/62059_0.png"
+    ],
+    "english_question": "<image>\nশাওমিংয়ের পরিবার তাদের নতুন বাড়ি সংস্কার করার সময় বারান্দার মাঝখানে একটি বৃত্তাকার ভিউয়িং প্ল্যাটফর্ম তৈরির পরিকল্পনা করে। বারান্দার প্রস্থ 80 সেমি, করিডোরের প্রস্থ 60 সেমি, ভিউয়িং প্ল্যাটফর্ম AB-এর বিস্তার 120 সেমি এবং ভিউয়িং প্ল্যাটফর্মের বাইরের প্রান্ত থেকে দেয়াল EF-এর নিকটতম দূরত্ব 40 সেমি। নকশা করা বৃত্তাকার ভিউয়িং প্ল্যাটফর্মের ব্যাসার্ধ কত সেমি হওয়া উচিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95c372ac-4bde-47aa-9711-d61967b6e0ab",
+    "images": [
+      "images/63694_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল EF, ∠C = 60°, ∠A = α, ∠E = β, ∠D = γ হলে, α, β এবং γ এর মধ্যে সম্পর্কটি কী হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "933d5b8d-308b-484e-b97a-5fc5e4bc5f46",
+    "images": [
+      "images/9751_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াবৃত অংশটি একটি বর্গক্ষেত্র। তুমি কি চিত্রের বৃহত্তম আয়তক্ষেত্রটির পরিসীমা নির্ণয় করতে পারবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd23ef0b-0795-4cf1-9c53-c5db59851bc0",
+    "images": [
+      "images/34232_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, √3 বাহুবিশিষ্ট বর্গক্ষেত্র ABCD-কে A বিন্দুর সাপেক্ষে ঘড়ির কাঁটার বিপরীতে 30° ঘুরিয়ে বর্গক্ষেত্র A'B'C'D' পাওয়া গেল। ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ একক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c70fd5ed-495c-445e-940e-c610ac6c2d32",
+    "images": [
+      "images/36083_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে যে, OA ⊥ OB এবং OC ⊥ OD। ∠BOA ও ∠AOD এর অনুপাত 2:3 হলে, ∠BOD এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54c68caa-f74f-44fa-84e7-6fcb55cb3448",
+    "images": [
+      "images/3815_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশটি একটি বিজ্ঞাপনের লোগো। যদি দুটি বৃত্তচাপের ব্যাসার্ধ যথাক্রমে 20 সেমি এবং 10 সেমি হয় এবং ∠AOB = 120° হয়, তবে এই বিজ্ঞাপনের লোগোটির পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3d5ed6a5-5bbc-4240-8065-bb8059fa092e",
+    "images": [
+      "images/13865_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত ⊙U তে PQRST একটি সমবাহু পঞ্চভুজ অন্তর্লিখিত থাকলে, চাপ PS দ্বারা উৎপন্ন কেন্দ্রস্থ কোণের পরিমাপ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6896dde0-1a89-415d-9fe9-648a723908d3",
+    "images": [
+      "images/43869_0.png"
+    ],
+    "english_question": "<image>\nদিয়াওয়ু দ্বীপ আমাদের দেশের অবিচ্ছেদ্য অংশ। দিয়াওয়ু দ্বীপের দুই প্রান্ত A ও B-এর মধ্যে দূরত্ব পরিমাপ করতে চিত্রে দেখানো হয়েছে, সমুদ্রপৃষ্ঠ থেকে 1 কিলোমিটার উপরে বিন্দু C থেকে বিন্দু A-এর অবনত কোণ 45°। তারপর AB-এর সমান্তরাল দিকে 3.2 কিলোমিটার উড়ে বিন্দু D-তে গিয়ে বিন্দু B-এর অবনত কোণ 37° পরিমাপ করা হয়েছে। দিয়াওয়ু দ্বীপের দুই প্রান্তের মধ্যে দূরত্ব AB নির্ণয় করো। (ফলাফল 0.1 কিলোমিটার পর্যন্ত সঠিক, রেফারেন্স তথ্য: sin37°≈0.60, cos37°≈0.80, tan37°≈0.75, √2 ≈1.41)\nOptions:\nd. (Result accurate to 0.1 kilometers, reference data: sin37°≈0.60, cos37°≈0.80, tan37°≈0.75, $ \\sqrt {2} $ ≈1.41)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

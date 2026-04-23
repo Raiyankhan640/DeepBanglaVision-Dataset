@@ -1,0 +1,342 @@
+[
+  {
+    "id": "b7230b48-2028-454b-b89b-77357e15bd95",
+    "images": [
+      "images/56117_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 = ___ ডিগ্রি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4515fbe7-d8c9-42f1-9403-1dcda1598064",
+    "images": [
+      "images/30363_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2010 শরৎ, শিশান জেলা ফাইনাল পরীক্ষা), একটি আয়তাকার রঙিন পতাকা পুরোপুরি খোলা অবস্থায় দেখানো হয়েছে (একক: সেমি)। আয়তাকার ABCD পতাকাটি পতাকাদণ্ডের জন্য দুই স্তরের সাদা কাপড় দিয়ে তৈরি। পতাকাদণ্ডের শীর্ষ থেকে ভূমির উচ্চতা 220 সেমি। শান্ত আবহাওয়ায়, পতাকাটি স্বাভাবিকভাবে ঝুলে থাকে। ঝুলে থাকা পতাকার সর্বনিম্ন বিন্দুর ভূমি থেকে উচ্চতা কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d1d7cc8-1a7d-4ed0-a9e2-b623d76ea27b",
+    "images": [
+      "images/43869_0.png"
+    ],
+    "english_question": "<image>\nদিয়াওয়ু দ্বীপ আমাদের দেশের অবিচ্ছেদ্য অংশ। দিয়াওয়ু দ্বীপের দুই প্রান্ত A ও B-এর মধ্যে দূরত্ব পরিমাপ করতে চিত্রে দেখানো হয়েছে, সমুদ্রপৃষ্ঠ থেকে 1 কিলোমিটার উপরে বিন্দু C থেকে বিন্দু A-এর অবনত কোণ 45°। তারপর AB-এর সমান্তরাল দিকে 3.2 কিলোমিটার উড়ে বিন্দু D-তে গিয়ে বিন্দু B-এর অবনত কোণ 37° পরিমাপ করা হয়েছে। দিয়াওয়ু দ্বীপের দুই প্রান্তের মধ্যে দূরত্ব AB নির্ণয় করো। (ফলাফল 0.1 কিলোমিটার পর্যন্ত সঠিক, রেফারেন্স তথ্য: sin37°≈0.60, cos37°≈0.80, tan37°≈0.75, √2 ≈1.41)\nOptions:\nd. (Result accurate to 0.1 kilometers, reference data: sin37°≈0.60, cos37°≈0.80, tan37°≈0.75, $ \\sqrt {2} $ ≈1.41)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7de777ef-2fd7-403a-9887-d194243fb7cc",
+    "images": [
+      "images/8265_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-এর ত্রিভুজ ABD-কে শীর্ষবিন্দু D-এর চারদিকে 40^{\\circ} কোণে ঘুরিয়ে ত্রিভুজ ECD তৈরি করা হয়েছে। শীর্ষবিন্দু A, রেখা AB-এর ওপর বিন্দু E-তে স্থানান্তরিত হয়। তাহলে, ∠1 + ∠2 = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b4ff7ed-6e28-4ae8-b1ff-74354fbca869",
+    "images": [
+      "images/73671_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, ∠ECD = 60° এবং ∠E = 20°। ∠ABE এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe11d859-5490-49cd-94fa-7bcc5768a6ad",
+    "images": [
+      "images/25323_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একই আকৃতির কিন্তু ভিন্ন আকারের তিনটি সমকোণী ত্রিভুজাকার কাঠের বোর্ড ব্যবহার করে চতুর্ভুজ ABCD গঠন করা হয়েছে। যদি AE = 2 এবং CE = 3BE হয়, তবে এই চতুর্ভুজের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b9329d38-1e66-4a44-996f-709ac2250fc9",
+    "images": [
+      "images/34230_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, যখন ছোট হুয়া আয়না EF এর সামনে A বিন্দুতে দাঁড়ায়, তখন আয়নায় তার পায়ের অবনতি কোণ হয় 45°। যদি ছোট হুয়া 0.5 মিটার পিছিয়ে B বিন্দুতে যায়, তবে আয়নায় তার পায়ের অবনতি কোণ হয় 30°। ছোট হুয়ার চোখ থেকে ভূমির উচ্চতা কত? (ফলাফল 0.1 মিটারের নির্ভুলতায়, রেফারেন্স ডেটা: √3 ≈ 1.73)\nOptions:\nd. (Result accurate to 0.1 meters, reference data: \\(\\sqrt{3}\\) ≈ 1.73)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "601d6ee4-fd61-476e-b8f4-2fa359865909",
+    "images": [
+      "images/72408_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া হলো। এই জ্যামিতিক বস্তুটির আয়তন কত?\nক. 10\nখ. 20\nগ. 40\nঘ. 60",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69694b8b-f45c-48ab-b3db-2b0f1cb6e6a3",
+    "images": [
+      "images/73058_0.png"
+    ],
+    "english_question": "<image>\nছোট বর্গক্ষেত্র দিয়ে গঠিত গ্রিডে ছায়াবৃত ত্রিভুজগুলোর মধ্যে কোনটি বাম পাশের চিত্রের ত্রিভুজটির সদৃশ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "67c5be2e-5e81-420c-94d0-6ba4e508de09",
+    "images": [
+      "images/51571_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বড় বর্গক্ষেত্র যার বাহুর দৈর্ঘ্য a (যেখানে a > b) থেকে b বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র কেটে নেওয়া হলো। অবশিষ্ট অংশটিকে একটি ট্রাপিজিয়ামে রূপান্তর করা হলো। দুটি চিত্রের ছায়াবৃত অংশের ক্ষেত্রফলের সম্পর্কের ভিত্তিতে a এবং b এর একটি অভেদ পাওয়া যায়, তা হলো ( )\n\nOptions:\nক) $\\left(a-b\\right)^{2}=a^{2}-2a b+b^{2}$\nখ) $\\left(a+b\\right)^{2}=a^{2}+2a b+b^{2}$\nগ) $a^{2}-b^{2}=(a+b)(a-b)$\nঘ) 无法确定",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f5a33a9d-aeab-47ff-8459-172ed7d15bc2",
+    "images": [
+      "images/12304_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে: ∠3 + ∠4 = 180°, ∠1 = 108°। ∠2 এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "567e69b3-dc92-4c54-a62e-633095f92c11",
+    "images": [
+      "images/40797_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী একটি ত্রিভুজাকার রুলার (∠A=30°, ∠E=45°) এমনভাবে রাখা হয়েছে যেন BA, EF-এর সমান্তরাল হয়। ∠AOF-এর মান কত?\nক. 75°\nখ. 90°\nগ. 105°\nঘ. 115°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00553d3c-7401-4ca2-a8ba-bb343ecc32b7",
+    "images": [
+      "images/17122_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে AB সমান্তরাল CD, ∠1 = ∠2 এবং ∠EFD = 56°। ∠EGD-এর মান নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f26dccb-2cf7-4215-9311-b5db56360e3f",
+    "images": [
+      "images/16607_0.png"
+    ],
+    "english_question": "<image>\nএকটি 4×5 বর্গাকার গ্রিডে, A, B এবং C বিন্দুগুলো গ্রিড পয়েন্টের ওপর অবস্থিত। তাহলে, tan ∠ABC = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06e5ba15-38d3-422a-a13f-b62a437dd5bc",
+    "images": [
+      "images/67192_0.png"
+    ],
+    "english_question": "<image>\nসমান্তরিক ABCD-এ ∠B=60°, ত্রিভুজ ABC কে কর্ণ AC বরাবর ভাঁজ করে বিন্দু B, বিন্দু E-এর সাথে মিলে যায় যাতে বিন্দু B, A ও E সমরেখায়। রেখা CE, AD-কে F বিন্দুতে ছেদ করে। চিত্রে কয়টি সমবাহু ত্রিভুজ আছে? ক. 4 খ. 3 গ. 2 ঘ. 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9188f2b-c37e-4ab5-aa75-14be61f045ad",
+    "images": [
+      "images/63297_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে a এবং b রেখা দুটি সমান্তরাল, ∠1 = 55°, ∠2 = 40°, তবে ∠3 এর মান কত?\nক. 85°\nখ. 95°\nগ. 105°\nঘ. 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7f7a36b1-144a-45c6-9fe2-e56ea5e42c2c",
+    "images": [
+      "images/triangle_ext_7f7a36b1-144a-45c6-9fe2-e56ea5e42c2c.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর সম্মুখ দৃশ্য (front view) এবং বাম পার্শ্ব দৃশ্য (left view) উভয়ই 2 একক বাহুবিশিষ্ট সমবাহু ত্রিভুজ এবং শীর্ষ দৃশ্য (top view) 2 একক ব্যাসবিশিষ্ট একটি বৃত্ত। এই জ্যামিতিক বস্তুটির পরিবৃত্তের (circumscribed sphere) পৃষ্ঠতলের ক্ষেত্রফল কত?\nক. \\( \\dfrac {4}{3}π\\)\nখ. \\( \\dfrac {8}{3}π\\)\nগ. \\( \\dfrac {16}{3}π\\)\nঘ. \\( \\dfrac {32}{3}π\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c36ef5a9-d424-49e4-9b8c-960d13cfdabf",
+    "images": [
+      "images/8628_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু A-এর স্থানাঙ্ক (5, 0)। রেখা y = x + b (b > 0) y-অক্ষকে বিন্দু B-তে ছেদ করে। AB যোগ করলে একটি কোণ α = 75° উৎপন্ন হয়। b-এর মান কত?\nOptions:\nB) Connecting AB forms an angle α = 75°. What is the value of b?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6949b003-9dee-482c-8695-1da79ea8bf0e",
+    "images": [
+      "images/triangle_ext_6949b003-9dee-482c-8695-1da79ea8bf0e.png"
+    ],
+    "english_question": "<image>\nনিচের অবরোহী যুক্তি প্রক্রিয়াটি বিবেচনা করো:\nপ্রধান আশ্রয়বাক্য: প্রিজমের আয়তনের সূত্র হলো: ভূমির ক্ষেত্রফল × উচ্চতা।\nঅপ্রধান আশ্রয়বাক্য: চিত্রে, সমকোণী ত্রিভুজাকার প্রিজম ABC-DEF এর AB ধারের মধ্যবিন্দু H, ABED হলো ভূমি এবং CH ⊥ তল ABED, অর্থাৎ CH হলো উচ্চতা।\nসিদ্ধান্ত: সমকোণী ত্রিভুজাকার প্রিজম ABC-DEF এর আয়তন S_{ABED} · CH। এই যুক্তি প্রক্রিয়াটি ( )\nক. Correct\nখ. Incorrect, major premise is wrong\nগ. Incorrect, minor premise is wrong\nঘ. Incorrect, conclusion is wrong",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "61611012-1df9-4c86-a949-f80c8ef72a1f",
+    "images": [
+      "images/triangle_ext_61611012-1df9-4c86-a949-f80c8ef72a1f.png"
+    ],
+    "english_question": "<image>\nচিত্রে, স্থূলকোণী ত্রিভুজ ABC-এর উচ্চতা BE অংকনে কয়টি ভুল আছে?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f83e3ac1-13a8-455b-80b1-1eb3184d9479",
+    "images": [
+      "images/19037_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী: দেওয়া আছে যে, শিমুলের বাড়ি বিন্দু A তে এবং বিন্দু B হলো স্কুল। (চিত্রে সময় মিনিট এককে দেওয়া আছে) শিমুলের বাড়ি থেকে স্কুলে যেতে কমপক্ষে কত সময় প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "052d59bd-cf11-463d-b6ce-9cd8936a5644",
+    "images": [
+      "images/17798_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু P একটি পরাবৃত্তীয় ফাংশন y = k/x এর ওপর অবস্থিত। রেখা PA, x-অক্ষের ওপর বিন্দু A-তে লম্ব এবং রেখা PB, y-অক্ষের ওপর বিন্দু B-তে লম্ব। যদি আয়তক্ষেত্র OAPB-এর ক্ষেত্রফল 2 হয়, তবে এই পরাবৃত্তীয় ফাংশনটির সম্পর্কটি কী?\nOptions:\nB) If the area of rectangle OAPB is 2, then the relationship of this hyperbolic function is:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08992b83-1c11-4590-9d24-ac190bbe4ec9",
+    "images": [
+      "images/76459_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-তে, AD সমান্তরাল BC, AD = AB, ∠BCD = 45°, ∠BAD = 90°। ত্রিভুজ ADB-কে BD বরাবর ভাঁজ করা হলো যাতে CD, তল ABD-এর ওপর লম্ব হয়, ফলে একটি ত্রিভুজাকার পিরামিড A-BCD গঠিত হয়। ত্রিভুজাকার পিরামিড A-BCD-এর ক্ষেত্রে নিচের কোন সিদ্ধান্তটি সঠিক?\nAD ⊥ তল BCD\nAB ⊥ তল BCD\nতল BCD ⊥ তল ABC\nতল ADC ⊥ তল ABC\nOptions:\nD) Which of the following conclusions is correct in the triangular pyramid A-BCD?\nAD ⊥ plane BCD\nAB ⊥ plane BCD\nplane BCD ⊥ plane ABC\nplane ADC ⊥ plane ABC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d56190e4-6994-4016-b62f-ec0a94c54938",
+    "images": [
+      "images/6217_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ট্রাপিজিয়াম BCEF-এ, ∠CBF = ∠BCE = 90°, বিন্দু A এবং D যথাক্রমে BF এবং CE-এর উপর অবস্থিত, AD ∥ BC, এবং AB = DE = 2BC = 2AF। যখন চতুর্ভুজ ADEF-কে AD বরাবর ভাঁজ করা হয় এবং রেখা BE, BF, CE যুক্ত করা হয়, তখন নিচের কোন বিবৃতিটি ভুল?\n\nOptions (copied from English):\nD. Plane BCE and plane BEF may be perpendicular",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "acce0ead-4615-4f95-b884-5857cd2b3eb2",
+    "images": [
+      "images/9743_0.png"
+    ],
+    "english_question": "<image>\nজিনানের ডামিং লেকের পাশে অবস্থিত \"চাও রান লো\" \"জিয়াংবেই-এর প্রথম ভবন\" হিসেবে পরিচিত। একটি স্কুলের গণিত ক্লাবের শিক্ষার্থীরা চাও রান লো-এর উচ্চতা পরিমাপ করল। চিত্রে দেখানো অনুযায়ী, তারা A বিন্দু থেকে টাওয়ারের চূড়ার দিকে তাকিয়ে উন্নতি কোণ 30° পেল। এরপর তারা ভবনের দিকে 60 মিটার এগিয়ে B বিন্দুতে এসে উন্নতি কোণ 60° পেল। শিক্ষার্থীদের উচ্চতা উপেক্ষা করে এবং √3 ≈ 1.7 ধরে, ভবন CD-এর উচ্চতা 1 মিটারের সঠিক মানে কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a697cb20-55f2-41ec-9ffa-3475c245dd10",
+    "images": [
+      "images/69760_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গ ABCB_{1} এ, AB=1 এবং AB এবং রেখা l এর মধ্যবর্তী কোণ 30^\\circ। CB_{1} বর্ধিত করে l রেখাকে A_{1} বিন্দুতে ছেদ করে। A_{1}B_{1}C_{1}B_{2} বর্গ অঙ্কন করা হয়। C_{1}B_{2} বর্ধিত করে l রেখাকে A_{2} বিন্দুতে ছেদ করে। A_{2}B_{2}C_{2}B_{3} বর্গ অঙ্কন করা হয়। C_{2}B_{3} বর্ধিত করে l রেখাকে A_{3} বিন্দুতে ছেদ করে। A_{3}B_{3}C_{3}B_{4} বর্গ অঙ্কন করা হয়, এভাবে অগ্রসর হয়ে। এই পদ্ধতি অনুসরণ করে, A_{2014}A_{2015}= ______ ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e5ae2c7-f755-497c-8ac1-9a57997aba78",
+    "images": [
+      "images/20536_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a ও b সমান্তরাল রেখাদ্বয়কে c রেখা ছেদ করেছে। যদি ∠1 = ∠2 এবং ∠4 = 70° হয়, তবে ∠3 এর মান কত? ( )\n\nOptions:\nক) 40°\nখ) 50°\nগ) 70°\nঘ) 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ded06af1-5005-4d49-a9b0-5daae986fddf",
+    "images": [
+      "images/12124_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত O-এর উপর C বিন্দু দিয়ে দুটি স্পর্শক AC এবং BC টানা হলো। D এবং E বিন্দু দুটি যথাক্রমে AC এবং BC বাহুর উপর অবস্থিত। যদি ত্রিভুজ CED-এর পরিসীমা AC-এর দ্বিগুণ হয়, তবে DE এবং বৃত্ত O-এর মধ্যে অবস্থানগত সম্পর্ক কী?\nOptions:\nC) Points D and E are on sides AC and BC, respectively. If the perimeter of triangle CED is twice that of AC, what is the positional relationship between DE and circle O?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bdc5ace5-0a83-4650-aed4-0d2a98d646d4",
+    "images": [
+      "images/triangle_ext_bdc5ace5-0a83-4650-aed4-0d2a98d646d4.png"
+    ],
+    "english_question": "<image>\n\"নয়টি গাণিতিক অধ্যায়\" বইয়ে, আয়তাকার ভূমিসম্পন্ন একটি সমকোণী ত্রিভুজ প্রিজমকে 'ট্রেনচ ড্যাম' বলা হয়। চিত্রে প্রদর্শিত একটি 'ট্রেনচ ড্যাম'-এর তিনটি দৃশ্য দেওয়া আছে এবং জানা আছে যে শীর্ষ দৃশ্যের ড্যাশ রেখাটি আয়তক্ষেত্রের ক্ষেত্রফলকে সমদ্বিখণ্ডিত করে। এই 'ট্রেনচ ড্যাম'-এর পৃষ্ঠতলের ক্ষেত্রফল কত?\nক. \\(5+4\\sqrt{2}\\)\nখ. \\(4+2 \\sqrt{2} \\)\nগ. \\(4+4 \\sqrt{2} \\)\nঘ. \\(6+4 \\sqrt{2} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "686fbcf8-ff98-4dc0-b800-24c1a87290f1",
+    "images": [
+      "images/60119_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্তকলা OAB একটি কোণকের পার্শ্বতলের বিস্তৃতি নির্দেশ করে। যদি ছোট বর্গাকার গ্রিডের বাহুর দৈর্ঘ্য 1 cm হয়, তবে এই কোণকের ভূমির ব্যাসার্ধ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8b1935a-5365-4e87-9054-7db853fd0b87",
+    "images": [
+      "images/30961_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হল O বৃত্তের ব্যাস, বিন্দু C, AB-এর বর্ধিতাংশের উপর অবস্থিত, এবং CD বৃত্ত O-কে D বিন্দুতে স্পর্শ করে। যদি ∠C = 18° হয়, তাহলে ∠CDA = _________ ডিগ্রি।\nOptions:\nD) If ∠C = 18°, then ∠CDA = _________ degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45b63a2b-aec4-43b6-8cb7-21766df3e3a3",
+    "images": [
+      "images/60515_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, বিন্দু A হলো ∠MON-এর সমদ্বিখণ্ডকের উপর একটি বিন্দু। A বিন্দুগামী একটি সরলরেখা ∠MON-এর বাহুদ্বয়কে B এবং C বিন্দুতে ছেদ করে। P হলো BC-এর মধ্যবিন্দু এবং P থেকে BC-এর উপর অঙ্কিত লম্ব OA-কে D বিন্দুতে ছেদ করে। যদি ∠MON = 50° হয়, তবে ∠BDC-এর মান নির্ণয় করো।\n\nOptions:\nক) 120°\nখ) 130°\nগ) 140°\nঘ) 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5cb34d42-779a-4377-9a57-04ee4009b5dd",
+    "images": [
+      "images/67296_0.png"
+    ],
+    "english_question": "<image>\nবাম পাশের চিত্রটিকে l রেখার সাপেক্ষে একবার পূর্ণ ঘূর্ণন করা হলে নিচের কোন আকৃতিটি পাওয়া যাবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b24d9f54-787f-42e5-86bf-5c84d00af5b8",
+    "images": [
+      "images/4178_0.png"
+    ],
+    "english_question": "<image>\nগ্রিড পেপারে স্থাপিত স্থানাঙ্ক ব্যবস্থায়, ত্রিভুজ ABC সি বিন্দুকে কেন্দ্র করে ঘড়ির কাঁটার দিকে 90° আবর্তিত হয়ে ত্রিভুজ FEC তে পরিণত হয়। A বিন্দুর অনুরূপ F বিন্দুর স্থানাঙ্ক কত?\nক. (-1, 1)\nখ. (-1, 2)\nগ. (1, 2)\nঘ. (2, 1)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eef6730a-f919-4823-98f9-15c811501460",
+    "images": [
+      "images/28848_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াযুক্ত অংশটি একটি ভগ্নাংশ হিসেবে প্রকাশ করা হয়েছে ( )\n\nOptions:\nক) 1/2\nখ) 1/5\nগ) 1/3\nঘ) 2/5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "63b228f2-9c0d-45cd-9a8a-9628d1c63291",
+    "images": [
+      "images/36714_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2016 উহান স্কুল-লেভেল সিমুলেশন), ABCD সামান্তরিকের AD বাহুর ওপর E একটি বিন্দু। ত্রিভুজ ABE-কে BE রেখা বরাবর ভাঁজ করে ত্রিভুজ FBE পাওয়া গেল, যেখানে F বিন্দুটি BD কর্ণের ওপর অবস্থিত এবং EF = DF। যদি ∠C = 52° হয়, তবে ∠ABE-এর মান কত?\nOptions:\nD) Triangle ABE is folded along line BE to obtain triangle FBE, where point F lies on line BD, and EF = DF. If ∠C = 52°, what is ∠ABE?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5bbdbdcd-f0c7-4e89-9122-27452348e9e1",
+    "images": [
+      "images/41708_0.png"
+    ],
+    "english_question": "<image>\nএকটি সিলিন্ডারের পৃষ্ঠতল চিত্রে প্রদর্শিত উপায়ে খোলা হয়েছে। এই সিলিন্ডারের আয়তন নির্ণয় করো। (একক: সেন্টিমিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "09b2ff5c-eef9-4545-9c65-fe03fa536048",
+    "images": [
+      "images/40097_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2012, গুলাং কাউন্টি স্কুল লেভেল মক এক্সাম), AOB এবং COD দুটি বৃত্তকলা, যাদের প্রত্যেকের কেন্দ্রীয় কোণ 90°, একত্রে স্থাপন করা হয়েছে। AC এবং BD যোগ করলে, যদি OA = 3 সেমি এবং OC = 1 সেমি হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cac742cd-1179-4bd0-ab54-b7e08fc79dce",
+    "images": [
+      "images/28122_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি বেলনাকার কাগজের টিউবকে AB জেনারেট্রিক্স বরাবর কেটে সমতল করা হয়, তবে একটি আয়তক্ষেত্র পাওয়া যায় (চিত্রে দেখানো হয়েছে)। যদি এই কাগজের টিউবটিকে B⇒M⇒A রেখা বরাবর কেটে সমতল করা হয়, তবে কী আকৃতি পাওয়া যাবে?\nক. সামান্তরিক\nখ. আয়তক্ষেত্র\nগ. ত্রিভুজ\nঘ. অর্ধবৃত্ত",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8c4de0af-dce0-4a53-88cc-3b175b112600",
+    "images": [
+      "images/62685_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD এবং EF-এর সমান্তরাল, আবার BC রেখা AD-এর সমান্তরাল। AC কোণ ∠BAD-কে সমদ্বিখণ্ডিত করে। চিত্রে কতটি কোণ ∠AGE-এর সমান?\nক. 1\nখ. 2\nগ. 3\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

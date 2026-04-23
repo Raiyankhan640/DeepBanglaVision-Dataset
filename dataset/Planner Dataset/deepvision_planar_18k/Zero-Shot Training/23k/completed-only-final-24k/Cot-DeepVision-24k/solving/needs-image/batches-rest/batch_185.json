@@ -1,0 +1,302 @@
+[
+  {
+    "id": "934f3f99-c619-4b92-82b7-8f7f242e9e4d",
+    "images": [
+      "images/70492_0.png"
+    ],
+    "english_question": "<image>\nচীনের একটি গবেষণা জাহাজ বন্দর O থেকে OZ রশ্মি বরাবর উত্তর-পূর্ব দিকে α কোণে যাত্রা করে, যেখানে tan(α) = 1/3। দ্বীপ A, O থেকে উত্তর-পূর্ব দিকে β কোণে অবস্থিত, যেখানে OA = 300√13 নটিক্যাল মাইল এবং cos(β) = 2/√13। একটি সরবরাহকারী জাহাজ O থেকে পূর্ব দিকে m নটিক্যাল মাইল দূরে অবস্থিত বিন্দু B থেকে যাত্রা শুরু করে দ্বীপ A-তে পৌঁছায়, তারপর BA দিক বরাবর এগিয়ে গিয়ে বিন্দু C-তে গবেষণা জাহাজটিকে বাধা দেয়। m > 700 এর মান নির্ণয় করো যা ত্রিভুজ OBC-এর ক্ষেত্রফল S-কে সর্বনিম্ন করে।\nOptions:\nC) Find the value of m > 700 that minimizes the area S of triangle OBC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4022bc9-82d8-4bb8-ac74-3afeceedd149",
+    "images": [
+      "images/26954_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে: আমার মৎস্য প্রশাসন জাহাজ (310) দক্ষিণ চীন সাগরে পূর্ব দিকে স্থির গতিতে চলছে। বিন্দু A-তে, এটি আমার মাছ ধরার নৌকা (গ)-কে উত্তর দিক থেকে 60 ডিগ্রি কোণে উত্তর-পূর্ব দিকে পর্যবেক্ষণ করে। যদি মৎস্য প্রশাসন জাহাজ (310) তার গতিপথ বজায় রাখে এবং আধা ঘণ্টা পর বিন্দু B-তে পৌঁছায়, তবে এটি মাছ ধরার নৌকা (গ)-কে উত্তর-পূর্ব দিকে পর্যবেক্ষণ করে। মাছ ধরার নৌকা (গ)-এর সবচেয়ে কাছে পৌঁছানোর জন্য মৎস্য প্রশাসন জাহাজ (310)-কে তার মূল গতিপথে আরও কতক্ষণ চলতে হবে? (মাছ ধরার সময় নৌকা (গ)-এর অতিক্রান্ত দূরত্ব নগণ্য এবং ফলাফলটি আসন্ন নয়।)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e40d3886-fbc5-4280-8733-b06d152d4be7",
+    "images": [
+      "images/21076_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সামান্তরিক ABCD-কে যদি ড্যাশ রেখা EF বরাবর কাটা হয়, তবে উৎপন্ন চতুর্ভুজ ABFE কী ধরনের হবে? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3225110f-485b-43b8-82e6-08f401d682a6",
+    "images": [
+      "images/31719_0.png"
+    ],
+    "english_question": "<image>\nএকটি নতুন 20 মিটার উঁচু ভবন একটি আবাসিক ভবনের সামনে নির্মাণ করা হবে। শীতকালে দুপুরে সূর্যের আলোর সাথে অনুভূমিক রেখার কোণ 30° হলে, ভবন দুটির মধ্যে কত দূরত্ব থাকা উচিত যাতে সুপারমার্কেটের আলোর কোনো ক্ষতি না হয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ee9a0933-931a-4216-b197-6c942924a4f2",
+    "images": [
+      "images/12778_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-তে, যদি ∠BAD = 76° হয় এবং AB-এর লম্ব দ্বিখণ্ডক EF, AC-কে F বিন্দুতে ছেদ করে, তবে ∠CDF এর মান কত ডিগ্রি?\n\nOptions:\nক) \\(66^{\\circ}\\)\nখ) \\(52^{\\circ}\\)\nগ) \\(104^{\\circ}\\)\nঘ) \\(86^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6be594f-e839-415e-8ddd-c07d048d7c60",
+    "images": [
+      "images/19459_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD-তে, O হলো কর্ণ AC এবং BD-এর ছেদবিন্দু, এবং E ও F বিন্দুদ্বয় যথাক্রমে OD এবং OC-এর মধ্যবিন্দু। যদি AC = 10 এবং BC = 8 হয়, তবে EF-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 6\nখ) 5\nগ) 4\nঘ) 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b858a50f-5697-48db-a845-960b193344b3",
+    "images": [
+      "images/33703_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, 'a' বাহুবিশিষ্ট একটি বর্গক্ষেত্র থেকে 'b' বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র কেটে নেওয়া হলো (যেখানে a > b)। অবশিষ্ট অংশটিকে একটি ট্রাপিজিয়ামে রূপান্তর করা হলো। চিত্র দুটির ছায়াবৃত অংশের ক্ষেত্রফলের সম্পর্কের ভিত্তিতে 'a' ও 'b' সম্পর্কিত নিচের কোন অভেদটি পাওয়া যায়? ( )\n\nOptions:\nক) \\((a-b)^{2}=a^{2}-2ab+b^{2}\\)\nখ) \\((a+b)^{2}=a^{2}+2ab+b^{2}\\)\nগ) \\(a^{2}-b^{2}=(a+b)(a-b)\\)\nঘ) \\(a^{2}+ab=a(a+b)\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9cca5d54-6179-46ae-9636-f20f90786383",
+    "images": [
+      "images/52356_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: ট্রাপিজয়েডের উপরের ভূমি 10 সেমি, যা নিচের ভূমির অর্ধেক। ট্রাপিজয়েডের ক্ষেত্রফল 120 বর্গ সেমি। ছায়াযুক্ত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "30f54e94-0f40-4c38-91ad-816723d81e62",
+    "images": [
+      "images/17349_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ট্রাপিজিয়াম ABCD-তে AD || BC, ∠C = 90° এবং AB > AD + BC। AB যদি বৃত্ত O-এর ব্যাস হয়, তবে রেখা CD এবং বৃত্ত O-এর পারস্পরিক অবস্থান কীরূপ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00c98939-689d-43cb-b4df-f41bc4f74edb",
+    "images": [
+      "images/22863_0.png"
+    ],
+    "english_question": "<image>\nপ্রাচীন গ্রিকরা সংখ্যা অধ্যয়নের জন্য সমুদ্র সৈকতে ছোট ছোট নুড়ি পাথর ব্যবহার করে বিভিন্ন আকৃতি তৈরি করত। উদাহরণস্বরূপ, তারা চিত্র 1-এ প্রদর্শিত 1, 3, 6, 10... সংখ্যাগুলো নিয়ে অধ্যয়ন করত, যেগুলোকে ত্রিভুজাকার সংখ্যা হিসেবে প্রকাশ করা যায়; একইভাবে, চিত্র 2-এ প্রদর্শিত 1, 4, 9, 16... সংখ্যাগুলোকে বর্গ সংখ্যা বলা হয়। নিচের কোন সংখ্যাটি একই সাথে একটি ত্রিভুজাকার সংখ্যা এবং একটি বর্গ সংখ্যা?\n\nOptions:\nক) 289\nখ) 1024\nগ) 1225\nঘ) 1378",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf636ca4-2c58-4de4-99a5-2553dfa4bd3c",
+    "images": [
+      "images/44052_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল। AC রেখা a এবং b কে যথাক্রমে B ও C বিন্দুতে ছেদ করে এবং AD রেখা a কে D বিন্দুতে ছেদ করে। যদি ∠1 = 25° এবং ∠2 = 65° হয়, তবে ∠3 এর মান কত?\nOptions:\nD) If ∠1 = 25°, ∠2 = 65°, then the measure of ∠3 is equal to ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ea1d6894-fce2-466e-bd41-5acc3e0f5219",
+    "images": [
+      "images/23341_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AD সমান্তরাল EF, যা BC-এর সমান্তরাল এবং FG সমান্তরাল BD। চিত্রে কোণ 1-এর সমান কতটি কোণ আছে?\nOptions:\nD) How many angles in the figure are equal to angle 1?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f312de34-c881-4e69-9a41-a55fc8b840f9",
+    "images": [
+      "images/27505_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, 'ক' ভবনের পাদদেশ A বিন্দু থেকে 'খ' ভবনের শীর্ষবিন্দু C-এর উন্নতি কোণ 30° এবং 'ক' ভবনের শীর্ষবিন্দু B থেকে 'খ' ভবনের পাদদেশ D-এর অবনতি কোণ 45°। যদি 'ক' ভবনের উচ্চতা AB = 120 মিটার হয়, তবে 'খ' ভবনের উচ্চতা CD কত মিটার (বর্গমূল আকারে প্রকাশ করো)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21f817a5-66a6-420f-8944-973864d8ed5c",
+    "images": [
+      "images/71942_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, △AOB-কে O বিন্দুর চারদিকে 30° ঘড়ির কাঁটার দিকে ঘুরিয়ে △COD পাওয়া যায়। C বিন্দুটি AB রেখার উপর অবস্থিত এবং ∠AOD = 90°। যদি AO = 2√3 হয় এবং CD রেখা OB-কে E বিন্দুতে ছেদ করে, তবে BE-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2f7fe4e8-c844-4f58-be46-73e49c407a70",
+    "images": [
+      "images/54497_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD দেওয়া থাকলে, চিহ্নিত কোণগুলোর মধ্যে ∠1 এর সমান (∠1 ব্যতীত) কয়টি কোণ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8235999e-7551-46af-a5ba-5addcfef9bc4",
+    "images": [
+      "images/426_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তিনটি আকৃতির পরিসীমা সমান। (উক্তিটি সত্য না মিথ্যা তা নির্ধারণ করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eda3a7cc-3356-4cab-911b-defb14e6c1e6",
+    "images": [
+      "images/76212_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্র ABCD-এর ভেতরের আকৃতিটি BMW গাড়ির লোগোর ভেতরের অংশ থেকে নেওয়া হয়েছে। বর্গক্ষেত্রের অন্তর্লিখিত বৃত্তের কালো ও সাদা অংশগুলো বর্গক্ষেত্রের বিপরীত বাহুগুলোর মধ্যবিন্দু সংযোগকারী রেখার সাপেক্ষে প্রতিসম। যদি বর্গক্ষেত্রের ভেতরে দৈবভাবে একটি বিন্দু নির্বাচন করা হয়, তবে বিন্দুটি কালো অংশের হওয়ার সম্ভাবনা কত?\n\nOptions:\nক) \\( \\dfrac {1}{4}\\)\nখ) \\( \\dfrac {1}{2}\\)\nগ) \\( \\dfrac {π}{8}\\)\nঘ) \\( \\dfrac {π}{4}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33dbdd65-5b7f-4118-9fb8-0c13bd7c9628",
+    "images": [
+      "images/35862_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে প্রদর্শিত AB সমান্তরাল CD। ∠1, ∠2 এবং ∠3 এর মধ্যে সম্পর্কটি লেখো।\nOptions:\nD) Write the relationship between ∠1, ∠2, and ∠3: .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "57218206-6034-4504-b21c-fd0bc1e439fc",
+    "images": [
+      "images/28423_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014 ডংইয়াং সিটি স্কুল-লেভেল সিমুলেশন), দেওয়া আছে যে রেখা l1 ∥ l2 ∥ l3 ∥ l4 এবং প্রতিটি সংলগ্ন সমান্তরাল রেখার মধ্যবর্তী দূরত্ব 1। যদি বর্গক্ষেত্র ABCD-এর চারটি শীর্ষবিন্দু চারটি রেখার ওপর অবস্থিত হয়, তবে tan α = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c895802-d4bd-4dda-aaec-cd5cd79c073f",
+    "images": [
+      "images/41443_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি 13টি দিয়াশলাইয়ের কাঠি দিয়ে তৈরি, যা 7টি ত্রিভুজ গঠন করে। মাত্র 3টি ত্রিভুজ অবশিষ্ট রাখতে হলে সর্বনিম্ন কয়টি দিয়াশলাইয়ের কাঠি সরিয়ে ফেলতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

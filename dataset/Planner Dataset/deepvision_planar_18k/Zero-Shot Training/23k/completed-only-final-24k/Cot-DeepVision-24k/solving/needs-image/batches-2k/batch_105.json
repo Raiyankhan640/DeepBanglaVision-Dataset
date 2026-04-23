@@ -1,0 +1,302 @@
+[
+  {
+    "id": "369e36d0-6760-4960-97a2-71e751448081",
+    "images": [
+      "images/65880_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমকোণী ত্রিভুজটির ক্ষেত্রফল 50 বর্গ সেন্টিমিটার। ত্রিভুজটিকে পরিবেষ্টনকারী বৃত্তটির ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb577e8c-d8ba-4679-bc49-9e551b299e00",
+    "images": [
+      "images/67270_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অর্ধবৃত্ত A-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c688505f-1e20-48f4-af33-b904aa71eda5",
+    "images": [
+      "images/2165_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AOB একটি সরলরেখা এবং ∠AOD ও ∠DOB এর অনুপাত 3:1। OD রেখাটি ∠COB কে সমদ্বিখণ্ডিত করে। AB এবং OC এর মধ্যবর্তী অবস্থানগত সম্পর্ক নির্ণয় করো।\nOptions:\nB) Please determine the positional relationship between AB and OC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc4a07b3-654d-4d19-99cf-df871c453f30",
+    "images": [
+      "images/61355_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, একটি বর্গাকার গ্রিডে, একটি বৃত্তচাপ A, B এবং C বিন্দু দিয়ে অতিক্রম করে। এই বৃত্তচাপটি যে বৃত্তের অংশ, তার কেন্দ্র কোনটি?\n\nOptions:\nক) Point P\nখ) Point Q\nগ) Point R\nঘ) Point M",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4e14a14e-6e8e-4d07-8515-4b353c9ebd9b",
+    "images": [
+      "images/76099_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB = 90°, AC = BC = 1, ত্রিভুজ ABC-কে A বিন্দুর চারদিকে 30° ঘড়ির কাঁটার বিপরীত দিকে ঘোরানোর পর আমরা ত্রিভুজ ADE পাই। B বিন্দুর চলার পথকে চিহ্নিত করা হয়েছে। চিত্রের ছায়াবৃত অঞ্চলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f92153d6-1e97-429a-bbdb-829c7d3484f5",
+    "images": [
+      "images/52314_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, সরল কোণের চেয়ে ছোট কোণগুলোর সংখ্যা কত? ( )\n\nOptions:\nক) 5\nখ) 6\nগ) 7\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fd844a6-caa5-48c0-a253-544a413c9cf6",
+    "images": [
+      "images/58412_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে, চিত্রটিতে α কোণের অবস্থান দেখানো হয়েছে। tanα এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c45e5a1c-a073-4b8e-81fd-d8c9efce2a25",
+    "images": [
+      "images/34903_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাস, P হলো চাপের উপর একটি বিন্দু, এবং M ও N হলো ব্যাস AB-এর উপর দুটি বিন্দু যা O-এর সাপেক্ষে প্রতিসম। যদি AB=6 এবং MN=4 হয়, তবে PM * PN = কত?\n\nOptions:\nক) 13\nখ) 7\nগ) 5\nঘ) 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54b38ab8-851d-46e1-90e4-5a824ff2dc8f",
+    "images": [
+      "images/39815_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে (সামনের দৃশ্যের বৃত্তচাপটি একটি অর্ধবৃত্ত)। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) \\(12+3\\pi\\)\nখ) \\(10+3\\pi\\)\nগ) \\(12+4\\pi\\)\nঘ) \\(10+4\\pi\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e5c89e72-4149-4b7a-8ff3-5691061e77e2",
+    "images": [
+      "images/65143_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি নিয়মিত ত্রিভুজাকার গ্রিডে, রম্বস M-কে ঘূর্ণনের মাধ্যমে রম্বস N-এ রূপান্তরিত করা যায়। নিচের কোন বিন্দুটি ঘূর্ণনের কেন্দ্র হতে পারে?\n\nOptions:\nক) Point D\nখ) Point B\nগ) Point A\nঘ) Point C",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ac525fb-8d00-4410-8be7-a5d2d6679712",
+    "images": [
+      "images/32337_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত প্রতিটি বহুভুজের শীর্ষবিন্দুতে 1 একক ব্যাসার্ধের বৃত্তকলাগুলো ছায়াবৃত করা হয়েছে এবং বহুভুজের প্রতিটি বাহুর দৈর্ঘ্য 2-এর চেয়ে বড়। তাহলে, n-তম বহুভুজের সকল বৃত্তকলার ক্ষেত্রফলের সমষ্টি কত? (ফলাফলে π থাকবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fa477e7c-20a9-4b5a-848c-470b6de9f126",
+    "images": [
+      "images/66083_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট একটি বর্গক্ষেত্র ব্যবহার করে একটি ট্যাংগ্রাম তৈরি করা হয়েছে যা চিত্রে দেখানো সেতুর আকৃতি ধারণ করে। মূল বর্গক্ষেত্রের ক্ষেত্রফলের সাপেক্ষে সেতুর ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0228f7f-863c-4057-82a6-f9279d5ae4f4",
+    "images": [
+      "images/11489_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পরিবৃত্তের ব্যাসার্ধ কত?\n\nOptions:\nক) \\(2 \\sqrt{3} \\)\nখ) \\( \\sqrt{3} \\)\nগ) \\(3 \\sqrt{2} \\)\nঘ) \\( \\sqrt{2} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21e0631a-da52-4921-91f2-c95430dc82fb",
+    "images": [
+      "images/42651_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি পর্যবেক্ষণ করো; এখানে মোট কতটি কোণ আছে তা খুঁজে বের করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d357f87-ceaf-458e-adcd-13e3374ca2e9",
+    "images": [
+      "images/47075_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠C=90°, BC ব্যাসবিশিষ্ট বৃত্ত O, AB-কে E বিন্দুতে ছেদ করে। রেখা OD, BC-এর ওপর লম্ব এবং বৃত্ত O-কে D বিন্দুতে ছেদ করে। রেখা DE, BC-কে F বিন্দুতে ছেদ করে। P হলো CB-এর বর্ধিতাংশের ওপর একটি বিন্দু, এবং রেখা PE বর্ধিত হয়ে AC-কে G বিন্দুতে ছেদ করে, যেখানে PE=PF। শিয়াও হুয়া তিনটি সিদ্ধান্ত গ্রহণ করে: ① GE=GC; ② AG=GE; ③ OG∥BE। এই সিদ্ধান্তগুলোর মধ্যে কোনটি সঠিক? ( )\n\nOptions:\nক) ①②\nখ) ①③\nগ) ②③\nঘ) ①②③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "348a0473-4140-404f-bc0c-4336327b77fb",
+    "images": [
+      "images/57204_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014, জিয়াডিং ডিস্ট্রিক্ট সেকেন্ড মক এক্সাম), দেওয়া আছে যে BD হলো বৃত্ত O-এর ব্যাস, বিন্দু A এবং C বৃত্ত O-এর ওপর অবস্থিত এবং AB = BC। যদি ∠AOB = 60° হয়, তবে ∠COD-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0c162058-93fb-42fe-a19d-bd3c9ac4e417",
+    "images": [
+      "images/72326_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস এবং C ও D হলো অর্ধবৃত্তের ত্রিখণ্ডক বিন্দু। যদি AB = 12 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a11d67bf-5a6b-4192-9a54-937090d2742e",
+    "images": [
+      "images/24389_0.png"
+    ],
+    "english_question": "<image>\nনিচের নকশাগুলোর মধ্যে, অক্ষীয় প্রতিসম (axisymmetric) চিত্রের সংখ্যা কতটি?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3300b5be-b143-4c23-b6e2-8fe760e08cd4",
+    "images": [
+      "images/71294_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট ছোট সমবাহু ত্রিভুজ দ্বারা গঠিত চিত্রে, মোট কতটি সুষম ষড়ভুজ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1935db6d-9ce9-420d-962b-1294c1337e85",
+    "images": [
+      "images/63751_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB অর্ধবৃত্ত O-এর ব্যাস এবং AD ও BC জ্যা দুটি P বিন্দুতে ছেদ করে। যদি CD = 3 এবং AB = 4 হয়, তবে tan ∠BPD-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

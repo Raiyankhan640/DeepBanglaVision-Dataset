@@ -1,0 +1,343 @@
+[
+  {
+    "id": "f8fc2455-27f8-4f8c-b0bf-b797592948e0",
+    "images": [
+      "images/50035_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, জানা আছে ∠ACD = 75°, এবং বিন্দু E, AB রেখার উপর অবস্থিত। যদি ∠FEB = ∠A হয়, যেখানে F, EF রেখা ও CD রেখার ছেদ বিন্দু, তাহলে ∠CFE-এর ডিগ্রি পরিমাপ নির্ণয় করো।\nOptions:\nB) If ∠FEB = ∠A, where F is the intersection of line EF and line CD, find the degree measure of ∠CFE.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "807e994c-2f7a-4630-b634-af0bcf3be6c9",
+    "images": [
+      "images/46205_0.png"
+    ],
+    "english_question": "<image>\nএকটি 'a' বাহুবিশিষ্ট বর্গক্ষেত্র থেকে 'b' বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র (যেখানে a > b) কেটে নেওয়া হলো। অবশিষ্ট অংশটিকে দুটি সমকোণী ট্রাপিজিয়ামে বিভক্ত করে পুনরায় সাজিয়ে একটি সমদ্বিবাহু ট্রাপিজিয়াম তৈরি করা হলো। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয়ের মাধ্যমে একটি সমীকরণ যাচাই করা হয়। এই সমীকরণটি কী?\nOptions:\nb) is cut out. The remaining part is then cut into two right trapezoids and reassembled into an isosceles trapezoid. By calculating the area of the shaded part, a certain equation is verified. What is this equation?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3a8a7e14-2625-44b2-8d8b-8f8e7b513ebc",
+    "images": [
+      "images/60512_0.png"
+    ],
+    "english_question": "<image>\nস্থানাঙ্ক সমতলে, 'মাছ' আকৃতির প্রতিটি শীর্ষবিন্দুর y-স্থানাঙ্ক অপরিবর্তিত রেখে x-স্থানাঙ্ককে এক-তৃতীয়াংশ করলে, বিন্দু A-এর অনুরূপ বিন্দু A'-এর স্থানাঙ্ক কত হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e2a0279-d9f8-4ea7-9fc2-df66d2e010f4",
+    "images": [
+      "images/43631_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে যে, OC রেখাটি ∠AOB কে সমদ্বিখণ্ডিত করে এবং ∠AOD = ∠BOE = 20°। চিত্রে কত জোড়া পূরক কোণ রয়েছে?\n\nOptions:\nক) 1 pair\nখ) 2 pairs\nগ) 3 pairs\nঘ) 4 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a0016120-899d-41e8-9849-0ce870b87745",
+    "images": [
+      "images/74159_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-এ, দেওয়া আছে AB=5, BC=8 এবং cos B = 4/5, E হলো BC বাহুর ওপর একটি চলমান বিন্দু। যখন C কেন্দ্রবিশিষ্ট এবং CE ব্যাসার্ধের বৃত্তটি AD বাহুকে দুটি বিন্দুতে ছেদ করে, তখন ব্যাসার্ধ CE-এর মানের সীমা কত? \nক. 0 < CE ≤ 8 \nখ. 0 < CE ≤ 5 \nগ. 3 < CE ≤ 8 \nঘ. 3 < CE ≤ 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a652937e-71b9-435c-9e53-9acef8ae1f33",
+    "images": [
+      "images/54142_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 20 ব্যাসার্ধবিশিষ্ট বৃত্ত O-এর উপর A একটি বিন্দু। OA-কে কর্ণ ধরে একটি আয়তক্ষেত্র OBAC অঙ্কন করা হলো। BC রেখাটি বৃত্ত O-কে D এবং E বিন্দুতে ছেদ করে। যদি OC = 12 হয়, তবে CE এবং BD রেখাংশের দৈর্ঘ্যের পার্থক্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "df767fba-0d0b-4683-8142-720bd72209de",
+    "images": [
+      "images/43144_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, সমান বাহুবিশিষ্ট ছয়টি বর্গের সমন্বয়ে গঠিত চিত্রে ∠1, ∠2 এবং ∠3-এর সমষ্টি কত?\n\nOptions:\nক) 45°\nখ) 90°\nগ) 135°\nঘ) 225°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd4b47e3-55ba-4c44-b895-cad44b4b7d0f",
+    "images": [
+      "images/triangle_ext_fd4b47e3-55ba-4c44-b895-cad44b4b7d0f.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার পিরামিডের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে (একক: cm)। এই বর্গাকার পিরামিডের পৃষ্ঠতলের ক্ষেত্রফল কত?\nক. \\((13+3 \\sqrt {7})cm^{2}\\)\nখ. \\((12+4 \\sqrt {3})cm^{2}\\)\nগ. \\((18+3 \\sqrt {7})cm^{2}\\)\nঘ. \\((15+3 \\sqrt {7})cm^{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "552ee5e1-cadd-4ca2-b8ab-ebc471c0d357",
+    "images": [
+      "images/24841_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে, যেখানে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য সমান, A, B এবং O বিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত। cos ∠AOB এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8da36455-525f-4e8d-a865-6c0592670540",
+    "images": [
+      "images/75250_0.png"
+    ],
+    "english_question": "<image>\nনিচে প্রদত্ত জ্যামিতিক আকৃতি ও সংখ্যার ধারাটি পর্যবেক্ষণ করো এবং খালি ঘরে পরবর্তী সংখ্যাটি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "89eaf3d0-21a6-4124-a396-2c8774e86dff",
+    "images": [
+      "images/8733_0.png"
+    ],
+    "english_question": "<image>\nট্রাপিজিয়াম ABCD-তে, যেখানে AD সমান্তরাল BC, ∠BCD = 90°, ∠B = 30°, E বিন্দুটি BC-এর উপর এমনভাবে অবস্থিত যে ∠CED = 60°, যদি AD = 1 এবং BE = 4 হয়, তবে AB-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "661c7638-6c7e-4a41-be57-6ec724605f61",
+    "images": [
+      "images/26848_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AOB সেক্টরে, OA=10 এবং ∠AOB=36°। যদি এই সেক্টরটিকে B বিন্দুর সাপেক্ষে ঘড়ির কাঁটার দিকে ঘোরানো হয়, তবে একটি নতুন সেক্টর A'O'B গঠিত হয়, যেখানে A বিন্দুটি O'B রেখার উপর অবস্থিত। O বিন্দুর অতিক্রান্ত পথের দৈর্ঘ্য কত সেমি? (ফলাফলে π রাখতে হবে)\nOptions:\nB) The length of the path traced by point O is ______ cm. (Result should retain π)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "19936d6c-f9d9-4a6d-9983-0c7d69616f3d",
+    "images": [
+      "images/21128_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং AD রেখাদ্বয় যথাক্রমে B ও D বিন্দুতে O কেন্দ্রবিশিষ্ট বৃত্তের স্পর্শক। C বিন্দুটি বৃত্তের ওপর অবস্থিত এবং ∠BCD = 140°। ∠A-এর মান কত ডিগ্রি?\n\nOptions:\nক) 70°\nখ) 105°\nগ) 100°\nঘ) 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2ded2e9f-c815-4b06-b784-7b6204a0cdcb",
+    "images": [
+      "images/67666_0.png"
+    ],
+    "english_question": "<image>\nS ক্ষেত্রফলবিশিষ্ট একটি সমবাহু ত্রিভুজের বাহুগুলোকে n সমান ভাগে ভাগ করা হলো (যেখানে n একটি পূর্ণসংখ্যা এবং n > 2)। প্রতিটি বিভাজন বিন্দুর সংলগ্ন বাহু থেকে বাইরের দিকে ছোট সমবাহু ত্রিভুজ গঠন করা হলো (চিত্রে প্রদর্শিত)। যখন n=12, তখন এই ছোট সমবাহু ত্রিভুজগুলোর মোট ক্ষেত্রফল S-এর মাধ্যমে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1fdd0eb2-0ff3-4ec3-acf3-5181298331ee",
+    "images": [
+      "images/21993_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি সর্বসম সমকোণী ত্রিভুজাকার কাগজের টুকরো △ABC এবং △DEF একত্রে রাখা হয়েছে, যেখানে ∠ACB=∠E=90°, BC=DE=6, AC=FE=8। চিত্রে, △DEF ত্রিভুজটিকে D বিন্দুর চারদিকে এমনভাবে ঘোরানো হলো যেন D বিন্দুটি AB বাহুর মধ্যবিন্দুতে পতিত হয়। DE এবং DF রেখাংশদ্বয় AC বাহুকে যথাক্রমে M এবং N বিন্দুতে ছেদ করে, যেখানে DM=MN। তাহলে, উপরিপাতিত অংশ (ত্রিভুজ △DMN)-এর ক্ষেত্রফল কত?\nOptions:\nB) The segments DE and DF intersect AC at points M and N respectively, such that DM=MN. Then, the area of the overlapping part (triangle △DMN) is",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "047dd4b0-2658-4a25-b6ab-e4798ae349bc",
+    "images": [
+      "images/52778_0.png"
+    ],
+    "english_question": "<image>\nABCD বর্গক্ষেত্রে, E হলো CD বাহুর মধ্যবিন্দু এবং F বিন্দুটি এমনভাবে অবস্থিত যে BC = 3BF। EF = কত?\n\nOptions (copied from English):\nC. 1/2 AB - 2/3 AD\n1/3 AB + 1/2 DA",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "31dbe308-eb67-4b4f-8a79-ba61d785c74e",
+    "images": [
+      "images/68388_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রেখা AD এবং BC পরস্পর O বিন্দুতে ছেদ করে। AB সমান্তরাল CD, ∠AOC = 95°, ∠A = 40°, এবং BO হলো ত্রিভুজ ABD-এর কোণ দ্বিখণ্ডক। ∠BDC নির্ণয় করো।\nOptions:\nD) Find ∠BDC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "371fdae7-c7e7-4c8e-8e09-596352e66295",
+    "images": [
+      "images/72776_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলো লক্ষ্য করো। পরিবর্তনের ধারা অনুযায়ী, n-তম চিত্রে ত্রিভুজের সংখ্যা কত তা নির্ণয় করো।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9de3474c-e6b9-4231-8d19-0b93579ffcf1",
+    "images": [
+      "images/triangle_ext_9de3474c-e6b9-4231-8d19-0b93579ffcf1.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির আয়তন কত?\nক. 1\nখ. \\( \\dfrac {1}{3}\\)\nগ. \\( \\dfrac {1}{2}\\)\nঘ. \\( \\dfrac {3}{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "543721c6-dae1-456d-bded-907daaaf1574",
+    "images": [
+      "images/16127_0.png"
+    ],
+    "english_question": "<image>\nতেংফেই মিডল স্কুলের টিচিং বিল্ডিংয়ের সামনে একটি নতুন 'তেংফেই' ভাস্কর্য তৈরি করা হয়েছে (চিত্রে দেখানো হয়েছে)। ভাস্কর্যের উচ্চতা পরিমাপের জন্য, শিয়াও মিং একটি ত্রিভুজাকার রুলার ব্যবহার করে ভাস্কর্যের শীর্ষবিন্দু A-এর উন্নতি কোণ 30° এবং পাদবিন্দু B-এর অবনতি কোণ 45° পরিমাপ করল। শিয়াও হুয়া পঞ্চম তলায় একটি বিন্দু D খুঁজে পেল এবং শীর্ষবিন্দু A-এর অবনতি কোণ 60° পরিমাপ করল (চিত্রে দেখানো হয়েছে)। যদি CD = 10 মিটার হয়, তবে ভাস্কর্য AB-এর উচ্চতা নির্ণয় করো (0.1 মিটারের নিকটতম মানে, দেওয়া আছে √3 = 1.73)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 45,
+      "anomalies": [
+        "Placeholder Text",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

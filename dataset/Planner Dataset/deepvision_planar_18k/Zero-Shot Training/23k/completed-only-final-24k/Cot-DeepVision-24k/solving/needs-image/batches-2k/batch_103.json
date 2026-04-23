@@ -1,0 +1,302 @@
+[
+  {
+    "id": "086fbdf8-f789-4b4d-8bd6-2bbb7738b184",
+    "images": [
+      "images/46858_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, পর্যবেক্ষণ বিন্দু A থেকে পোর্ট B উত্তর দিকের 53.2° পূর্ব দিকে অবস্থিত এবং পর্যবেক্ষণ বিন্দু A থেকে প্রকৃত উত্তর দিকে BD দূরত্ব 16 কিমি। একটি কার্গো জাহাজ পোর্ট B থেকে BC দিকে 40 কিমি/ঘণ্টা বেগে যাত্রা শুরু করে 15 মিনিট পর C বিন্দুতে পৌঁছায়। পরিমাপ করে দেখা যায় যে, পর্যবেক্ষণ বিন্দু A থেকে C বিন্দু উত্তর দিকের 79.8° পূর্ব দিকে অবস্থিত। কার্গো জাহাজ এবং পর্যবেক্ষণ বিন্দু A-এর মধ্যবর্তী দূরত্ব AC নির্ণয় কর (0.1 কিমি পর্যন্ত নির্ভুল)। (তথ্য: sin53.2°≈0.80, cos53.2°≈0.60, sin79.8°≈0.98, cos79.8°≈0.18, tan26.6°≈0.50, √2 ≈1.41, √5 ≈2.24)\nOptions:\nA) Find the distance AC between the cargo ship and Observation Point A (accurate to 0.1 km). (Reference data: sin53.2°≈0.80, cos53.2°≈0.60, sin79.8°≈0.98, cos79.8°≈0.18, tan26.6°≈0.50, $\\sqrt { 2 }$ ≈1.41, $\\sqrt { 5 }$ ≈2.24)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d250042d-e970-4194-ac02-48b093904afd",
+    "images": [
+      "images/66301_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ট্রাপিজিয়াম ABCD-এর দুটি কর্ণ E বিন্দুতে ছেদ করে। চিত্রে সমান ক্ষেত্রফলবিশিষ্ট ত্রিভুজের সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "27550d8f-0ec8-4f6a-9aac-a4d06973ebdc",
+    "images": [
+      "images/41869_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-এ, M বিন্দুটি কর্ণ AC-এর উপর অবস্থিত। BM রেখাংশ AD-কে N বিন্দুতে ছেদ করে এবং CD রেখাকে E বিন্দুতে বর্ধিত করে। চিত্রে কত জোড়া ভিন্ন ভিন্ন সদৃশ ত্রিভুজ বিদ্যমান? সম্ভব হলে সবগুলো উল্লেখ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b94451f9-3836-49ff-bf78-f95026e91e1a",
+    "images": [
+      "images/37677_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস এবং জ্যা AD ও BC বিন্দু P-তে ছেদ করে। যদি ∠DPB = α হয়, তবে CD/AB এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2bb0c15-3bc0-47f7-a5db-f5ed9bc011c4",
+    "images": [
+      "images/20534_0.png"
+    ],
+    "english_question": "<image>\nএকটি টাইফুন বর্তমানে শহর O থেকে দক্ষিণ-পূর্ব দিকে 300 কিমি দূরে P বিন্দুতে অবস্থিত, যেখানে কোণ θ এর মান cos θ = √2/10। টাইফুনটি 45° কোণে 20 কিমি/ঘণ্টা বেগে উত্তর-পশ্চিম দিকে অগ্রসর হচ্ছে এবং এর প্রভাবের ব্যাসার্ধ 60 কিমি, যা প্রতি ঘণ্টায় 10 কিমি হারে বৃদ্ধি পাচ্ছে। শহর O কখন টাইফুনের প্রভাবে আসবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "788f9594-421e-4c48-8b3f-2283598e4c6a",
+    "images": [
+      "images/37314_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, রেখা l চতুর্ভুজ ABCD এর প্রতিসাম্য অক্ষ। ABCD একটি রম্বস হওয়ার জন্য কোন একক শর্ত যোগ করা যেতে পারে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5cfe183b-7822-456f-926a-313ad6c49b97",
+    "images": [
+      "images/64311_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস, C এবং D বিন্দু দুটি অর্ধবৃত্তের উপর অবস্থিত এবং D হলো AC-এর মধ্যবিন্দু। যদি ∠B = 70° হয়, তবে ∠DAB এর মান কত?\n\nOptions:\nক) 54°\nখ) 55°\nগ) 56°\nঘ) 57°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d382e293-13e9-4b00-b4f1-1b282a8de9bb",
+    "images": [
+      "images/46609_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, AB রেখা এবং CD রেখা সমান্তরাল হওয়ার জন্য কোণদ্বয়ের সমান হওয়ার শর্তটি কী? (কেবল একটি শর্ত লিখুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "516be541-da20-4558-b5df-08efa0f6c6e2",
+    "images": [
+      "images/65497_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার সাদা কাগজকে চিত্রে প্রদর্শিত উপায়ে ভাঁজ করা হলো, যাতে বিন্দু D সরে D'-তে, বিন্দু E সরে E'-তে যায় এবং রেখা BD' ও রেখা BE' একই সরলরেখায় অবস্থিত হয়। রেখা AB এবং BC-এর অবস্থানের মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "781acbf1-c6f2-4631-aeb4-a83c3a873a9b",
+    "images": [
+      "images/19376_0.png"
+    ],
+    "english_question": "<image>\nএকটি স্কুল একটি ফুলের বাগানের পাঁচটি ভিন্ন এলাকা A, B, C, D এবং E কে সতেজ ফুল দিয়ে সাজাতে চায়। শর্ত হলো একই এলাকায় একই রঙের ফুল ব্যবহার করতে হবে এবং পাশাপাশি এলাকায় ভিন্ন রঙের ফুল ব্যবহার করতে হবে। পাঁচটি ভিন্ন রঙের ফুল পাওয়া যাচ্ছে: লাল, হলুদ, নীল, সাদা এবং বেগুনি। যখন এলাকা A এবং D উভয়ই লাল রঙের ফুল দিয়ে সাজানো হয়, তখন ফুলের বাগানটি সাজানোর ভিন্ন উপায় সংখ্যা নির্ণয় করো।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "edd71745-517f-42f2-9b1a-edf4f632ee34",
+    "images": [
+      "images/43851_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত নিয়মিত চতুস্তলক ABCD-এর শীর্ষবিন্দু A, B এবং C তিনটি পরস্পর লম্ব রশ্মি Ox, Oy এবং Oz-এর উপর অবস্থিত। নিচের চারটি প্রস্তাবনা বিবেচনা করো: ① O-ABC একটি নিয়মিত ত্রিভুজাকার পিরামিড; ② OB রেখাটি ACD তলের সমান্তরাল; ③ AD এবং OB রেখাদ্বয়ের মধ্যবর্তী কোণ 45°; ④ D-OB-A দ্বিতল কোণটি 45°। সঠিক প্রস্তাবনাগুলো চিহ্নিত করো (সঠিক প্রস্তাবনাগুলোর নম্বর লেখো)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dcefc418-655b-4488-8927-431f6e49ed59",
+    "images": [
+      "images/12664_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের দুটি ত্রিভুজ সদৃশ এবং তাদের সদৃশতার কেন্দ্র হলো ( )\n\nOptions:\nক) Point P\nখ) Point D\nগ) Point M\nঘ) Point N",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6788a4ff-879a-467d-83e1-7edf337bb118",
+    "images": [
+      "images/69395_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো কোণ ∠A, ∠B, ∠C, ∠D, ∠E, ∠F এবং ∠G-এর সমষ্টি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55bf2dc7-88b9-4e94-b731-47119e9ff5f7",
+    "images": [
+      "images/50288_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক ঘনবস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। শীর্ষ দৃশ্যটি একটি সমদ্বিবাহু সমকোণী ত্রিভুজ যার বাহুর দৈর্ঘ্য 2 এবং পার্শ্ব দৃশ্যটি একটি সমকোণী ত্রিভুজ যার বাহুর দৈর্ঘ্য 1। এই ঘনবস্তুটির পরিবৃত্তের আয়তন কত?\n\nOptions:\nক) \\(36π\\)\nখ) \\(9π\\)\nগ) \\( \\dfrac {9}{2}π\\)\nঘ) \\( \\dfrac {27}{5}π\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "347309f4-cf61-4369-91df-78d85bdafd16",
+    "images": [
+      "images/29213_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে DG ⊥ BC, AC ⊥ BC, CD ⊥ AB এবং EF ⊥ AB। DG এবং AC-এর মধ্যবর্তী দূরত্ব হলো রেখাংশ GC-এর দৈর্ঘ্য। CD এবং EF-এর মধ্যবর্তী দূরত্বের প্রতিনিধিত্বকারী রেখাংশের দৈর্ঘ্য কত?\nOptions:\nC) What is the length of segment representing the distance between CD and EF?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a799e27d-89bf-4e90-9d05-21e0c234a86b",
+    "images": [
+      "images/73357_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্তের ব্যাস AB = 6, O বৃত্তের কেন্দ্র এবং C অর্ধবৃত্তের ওপর A ও B ভিন্ন যেকোনো একটি বিন্দু। যদি P, ব্যাসার্ধ OC-এর ওপর একটি চলমান বিন্দু হয়, তবে (PA + PB) * PC-এর সর্বনিম্ন মান কত? \nক. 9/2 \nখ. 9 \nগ. -9/2 \nঘ. -9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a0b7cd96-ec7b-44d3-a080-f1d745ec7c2d",
+    "images": [
+      "images/42926_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সরলরেখা l₁ ∥ l₂, যদি ∠1 = 100° এবং ∠2 = 160° হয়, তবে ∠3-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "30b3cc75-66ae-46d6-b9fe-9ab014189693",
+    "images": [
+      "images/76762_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, শিক্ষার্থীরা 'চাও রান লো' ভবনের চূড়ার উন্নতি কোণ বিন্দু A থেকে 30° এবং বিন্দু B (যা ভবনের দিকে 60 মিটার নিকটবর্তী) থেকে 60° পরিমাপ করল। যদি √3 ≈ 1.7 হয়, তবে ভবনটির উচ্চতা CD কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6765551-a21a-43db-b533-abbfd9958d93",
+    "images": [
+      "images/61102_0.png"
+    ],
+    "english_question": "<image>\nআকৃতিটির কত অংশ নীল রঙের?\n\nOptions:\nক) 4/6\nখ) 6/8\nগ) 4/11\nঘ) 5/6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc512d31-b2a5-4a0e-9d73-c34831e96503",
+    "images": [
+      "images/12452_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চিত্র 1 হলো 1 একক বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজাকার কার্ডবোর্ড, যার পরিসীমা P_1। চিত্র 1-এর ভূমি বরাবর 1/2 একক বাহুবিশিষ্ট একটি ছোট সমবাহু ত্রিভুজাকার কার্ডবোর্ড কেটে নিলে চিত্র 2 পাওয়া যায়। এরপর, একই ভূমি বরাবর, পূর্বের কাটা ত্রিভুজের বাহুর দৈর্ঘ্যের 1/2 গুণ বাহুবিশিষ্ট একটি ছোট সমবাহু ত্রিভুজাকার কার্ডবোর্ড কেটে নিলে চিত্র 3, 4, ... পাওয়া যায়। n-তম (n≥3) কার্ডবোর্ডের পরিসীমা P_n হলে, P_n - P_{n-1} এর মান কত?\n\nOptions:\nক) (\\frac{1}{2})^n\nখ) (\\frac{1}{2})^{n-1}\nগ) (\\frac{1}{2})^n\nঘ) (\\frac{1}{2})^{n-1}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

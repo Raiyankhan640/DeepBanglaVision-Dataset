@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c31a1306-3aae-4ee3-acce-efd21b51fa64",
+    "images": [
+      "images/44132_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা a এবং b কে রেখা c ছেদ করেছে। ∠1 এর অনুরূপ কোণ কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "607d2e29-df09-495a-8b63-95c9b1a3b0cf",
+    "images": [
+      "images/76624_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি ঘনকের নেট নির্দেশ করে। এই ঘনকে, (1) BM, ED এর সমান্তরাল; (2) CN এবং BE বিপ্রতিপ রেখা; (3) CN, BM এর সাথে 60° কোণ উৎপন্ন করে; (4) DM, BN এর উপর লম্ব। উপরের চারটি বিবৃতির মধ্যে সঠিক বিবৃতিগুলো হলো ( )\n\nOptions:\nক) (1)(2)(3)\nখ) (2)(4)\nগ) (3)(4)\nঘ) (2)(3)(4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "830997e6-85b3-4fad-a8b4-2d9c515e4e6b",
+    "images": [
+      "images/56353_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র ABCD বৃত্ত O-এর মধ্যে অন্তর্লিখিত। বিন্দু P ক্ষুদ্রতর চাপ AB-এর উপর অবস্থিত এবং রেখা DP, AC-কে বিন্দু Q-তে ছেদ করে। যদি QP = QO হয়, তবে QC/QA-এর মান কত?\n\nOptions:\nক) \\(2\\sqrt{3}-1\\)\nখ) \\(2\\sqrt{3}\\)\nগ) \\(\\sqrt{3}+\\sqrt{2}\\)\nঘ) \\(\\sqrt{3}+2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e098050-b54a-4430-92cb-24c7ad5c09ba",
+    "images": [
+      "images/67438_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সমান্তরিক BCEF এবং ত্রিভুজ ACB একটি সমকোণী ত্রিভুজ যেখানে BC = 8 সে.মি. এবং AC = 7 সে.মি.। ধূসর অংশের ক্ষেত্রফল ত্রিভুজ ADH-এর ক্ষেত্রফল থেকে 12 সে.মি.² বেশি। HC-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "09226a05-b208-4ed9-9394-e1074f376657",
+    "images": [
+      "images/39999_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l রেখাটি O কোণের দুটি বাহুকে A এবং B বিন্দুতে ছেদ করে। O, A এবং B বিন্দুগুলোকে প্রান্তবিন্দু ধরে মোট কতটি রশ্মি পাওয়া যাবে?\n\nOptions:\nক) 5\nখ) 6\nগ) 7\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3aab2797-116f-43f7-b22d-be9def34aa69",
+    "images": [
+      "images/7925_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি সমকোণী ট্রাপিজিয়াম, যেখানে AB = BC = 10 সেমি এবং BE = 8 সেমি। AD এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a50ebb3c-d6ba-4a04-a1c0-6998249f3b58",
+    "images": [
+      "images/57829_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সরলরেখা l₁ ও l₂ সমান্তরাল হলে নিম্নলিখিত শর্তগুলোর মধ্যে যেগুলো l₁ ∥ l₂ নির্ধারণ করতে পারে: 1. ∠1 = ∠2; 2. ∠3 = ∠4; 3. ∠3 + ∠4 = 180°; 4. ∠1 + ∠2 = 180°; 5. ∠1 + ∠2 = 90°; 6. ∠3 + ∠4 = 90°; 7. ∠1 = ∠4। কোন শর্তগুলো l₁ ∥ l₂ নির্ধারণ করতে পারে? ক. 2, 4 খ. 1, 2, 7 গ. 3, 4 ঘ. 2, 3, 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8c5ade6c-6797-4e72-b97b-17f52475e735",
+    "images": [
+      "images/37711_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিচের কোন উক্তিটি ভুল? ( )\nক. ∠1 এবং ∠3 বিপ্রতীপ কোণ\nখ. ∠2 এবং ∠3 সন্নিহিত সম্পূরক কোণ\nগ. ∠2 এবং ∠4 অনুরূপ কোণ\nঘ. ∠1 এবং ∠4 একান্তর অন্তঃস্থ কোণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9c355068-60dd-4917-8066-b47a666d58cb",
+    "images": [
+      "images/30703_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, AB=6, AD=8, ∠B=60°। ∠BAD এবং ∠CDA এর সমদ্বিখণ্ডকদ্বয় G বিন্দুতে ছেদ করে এবং যথাক্রমে BC বাহুকে E ও F বিন্দুতে মিলিত হয়। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af6f3043-f53d-4402-bc08-e55b63dc926f",
+    "images": [
+      "images/11368_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং EF-এর, এবং AF সমান্তরাল CG-এর। চিত্রের কোন কোণগুলো ∠A-এর সমান (∠A ব্যতীত)?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "46425069-50ee-4ea6-b131-f680e8683252",
+    "images": [
+      "images/75285_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, একটি বর্গাকার কাগজ দুবার ভাঁজ করা হয়েছে এবং তারপর একটি ছোট বৃত্তাকার ছিদ্র কাটা হয়েছে। খোলার পর আকৃতিটি কেমন হবে? সঠিক বিকল্প নির্বাচন করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79f4bfa0-82b1-4804-a2d1-0611cdcd65b8",
+    "images": [
+      "images/6861_0.png"
+    ],
+    "english_question": "<image>\nএকটি পর্যটকবাহী নৌকা বন্দর A থেকে উত্তর-পূর্ব দিকে 60° কোণে 80 নটিক্যাল মাইল ভ্রমণ করে C বিন্দুতে ডুবে যায়। সাথে সাথে একটি বিপদ সংকেত পাঠানো হয় এবং বন্দর B-এর ঠিক পূর্বে অবস্থিত একটি কোস্ট গার্ড নৌকা সংকেতটি পায়। কোস্ট গার্ড নৌকাটি নির্ণয় করে যে দুর্ঘটনা কবলিত নৌকাটি তার অবস্থান থেকে উত্তর-পূর্ব দিকে 37° কোণে রয়েছে এবং সে 40 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে সেদিকে রওনা হয়। কোস্ট গার্ড নৌকাটির C বিন্দুতে পৌঁছাতে কত সময় লাগবে তা নির্ণয় করো। (তথ্য: sin(53°) ≈ 0.8, cos(53°) ≈ 0.6)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "53cf7b99-ddd4-4f77-afb9-cb6f97c1a0df",
+    "images": [
+      "images/46773_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রটি কোন দিক থেকে দেখা হয়েছে: ① সম্মুখ (Front), ② ওপর (Top), ③ বাম (Left)। সঠিক বিকল্পটি বেছে নাও।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "16eedb91-7886-461c-a3f2-1d072ae7d3b7",
+    "images": [
+      "images/256_0.png"
+    ],
+    "english_question": "<image>\nঅসমতা জোট \\( \\binom { 3x - 1 > 2 } { x - 2 \\leq 0 } \\)-এর সমাধান সেট সংখ্যারেখায় কোনটি দ্বারা নির্দেশিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ac7609e-c336-43ce-8ac1-99117837f7be",
+    "images": [
+      "images/14565_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তক্ষেত্রের দৈর্ঘ্য 16 সেমি এবং প্রস্থ 12 সেমি। ত্রিভুজ CEF-এর ক্ষেত্রফল 64 বর্গ সেমি। OG-এর দৈর্ঘ্য কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f87266f4-b4d8-4aa3-a04c-e233e998e232",
+    "images": [
+      "images/25471_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন উক্তিটি ভুল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed347036-72a6-4dac-ac25-27b419df2168",
+    "images": [
+      "images/62619_0.png"
+    ],
+    "english_question": "<image>\nদুটি অভিন্ন আয়তাকার ব্লক ব্যবহার করে চিত্রে প্রদর্শিত জ্যামিতিক আকৃতিটি তৈরি করা হয়েছে। সামনে থেকে দেখলে এই জ্যামিতিক আকৃতিটি কেমন দেখাবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "144edf1b-50c1-4a90-8914-c189f08e776f",
+    "images": [
+      "images/74546_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত [0, 1] ব্যবধিতে সংজ্ঞায়িত y=f(x) ফাংশনটির জন্য, যেকোনো x1 এবং x2 এর ক্ষেত্রে যেখানে 0 < x1 < x2 < 1, নিচের সিদ্ধান্তগুলো দেওয়া হলো: 1. f(x2) - f(x1) > x2 - x1; 2. x2f(x1) > x1f(x2); 3. (f(x1) + f(x2))/2 < f((x1 + x2)/2)। সঠিক সিদ্ধান্তগুলোর নম্বর লিখো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3bd9cc9c-8122-4810-bae9-8502f70538ef",
+    "images": [
+      "images/74253_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে কোণ \\( \\alpha \\)-এর অবস্থান চিত্রে দেখানো হয়েছে। \\( \\tan \\alpha \\)-এর মান কত?\nক. \\( \\frac{\\sqrt{3}}{3} \\)\nখ. \\( \\frac{\\sqrt{5}}{3} \\)\nগ. \\( \\frac{1}{2} \\)\nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e12c1eff-c119-4ef5-8395-c45b10b8886a",
+    "images": [
+      "images/6945_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঘনকের প্রতিটি তলে একটি করে চীনা অক্ষর আছে এবং চিত্রটিতে তার নকশা বা নেট (net) দেখানো হয়েছে। এই ঘনকটিতে '甲' অক্ষরের বিপরীতে কোন অক্ষরটি থাকবে?\nক. 卫\nখ. 防\nগ. 讲\nঘ. 生",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "b4759022-41eb-4b5b-84d3-3b547829cd74",
+    "images": [
+      "images/7935_0.png"
+    ],
+    "english_question": "<image>\nওয়াং আঙ্কেল একটি দেওয়াল ব্যবহার করে একটি মুরগির খাঁচা ঘেরাও করেছেন (ছবিতে যেমন দেখানো হয়েছে)। বেড়ার মোট দৈর্ঘ্য 11.5 মিটার। ওয়াং আঙ্কেলকে মুরগির খাঁচার ক্ষেত্রফল বর্গমিটারে কত তা নির্ণয় করতে সাহায্য করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "28859e71-58b3-43e2-8e34-5663816f3cd9",
+    "images": [
+      "images/68004_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি L-আকৃতির ধাতব পাত দেখানো হয়েছে, এই ধাতব পাতটির ক্ষেত্রফল কত?\n\nOptions:\nক) 4a^{2}-b^{2}\nখ) 4ab\nগ) 4ab-b^{2}\nঘ) 4a^{2}-4ab-b^{2}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7a7266c-2020-433a-8aed-3ecc5812a305",
+    "images": [
+      "images/47738_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন শর্তটি দ্বারা এটি নিশ্চিত করা যায় না যে AB রেখা CD রেখার সমান্তরাল? ( ) \nক. ∠HEG = ∠EGF \nখ. ∠EHF + ∠CFH = 180° \nগ. ∠EHF = ∠CFH \nঘ. ∠AEG = ∠DGE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "889df9ea-1100-4e89-b55b-5d5008eb9951",
+    "images": [
+      "images/63015_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD দুটি দালানের মাঝে EF একটি পতাকাদণ্ড। AB দালানের শীর্ষবিন্দু A থেকে পতাকাদণ্ড EF-এর শীর্ষবিন্দু E এবং দালান CD-এর পাদবিন্দু D-কে 45° অবনতি কোণে দেখা যায়। দালান CD-এর শীর্ষবিন্দু C থেকে পতাকাদণ্ড EF-এর শীর্ষবিন্দু E এবং AB দালানের G বিন্দুকে (যেখানে BG = 1 মিটার) 30° অবনতি কোণে দেখা যায়। AB দালানের উচ্চতা 20 মিটার হলে, পতাকাদণ্ড EF-এর উচ্চতা নির্ণয় করো। (ফলাফল 1 মিটারের কাছাকাছি পূর্ণসংখ্যায় প্রকাশ করো। দেওয়া আছে: √2 ≈ 1.41, √3 ≈ 1.73)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9e58781-fc44-4124-9e54-af44a0f6eac7",
+    "images": [
+      "images/51034_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজ ABCD-তে, AD সমান্তরাল BC, AD = AB, ∠BCD = 45°, ∠BAD = 90°। ত্রিভুজ ABD-কে BD রেখা বরাবর এমনভাবে ভাঁজ করা হলো যেন তল ABD, তল BCD-এর ওপর লম্ব হয়, ফলে একটি চতুস্তলক A-BCD গঠিত হয়। চতুস্তলকটির ক্ষেত্রে নিচের কোন উক্তিটি সঠিক? তল ABD, তল ABC-এর ওপর লম্ব। তল ACD, তল BCD-এর ওপর লম্ব। তল ABC, তল BCD-এর ওপর লম্ব। তল ACD, তল ABC-এর ওপর লম্ব।\nOptions:\nD) Which of the following statements about the tetrahedron is correct? Plane ABD is perpendicular to plane ABC) Plane ACD is perpendicular to plane BCD) Plane ABC is perpendicular to plane BCD) Plane ACD is perpendicular to plane ABC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45251ec2-a352-4f21-979e-ec01a5d601ef",
+    "images": [
+      "images/51779_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, তবে এই জ্যামিতিক বস্তুর পৃষ্ঠতলের ক্ষেত্রফল কত? ( ) \nক. 4 + 2√6 \nখ. 4 + √6 \nগ. 4 + 2√2 \nঘ. 4 + √2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "64391a73-2b94-4f64-bb30-d5d3d6427899",
+    "images": [
+      "images/47822_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে ABCD একটি সামান্তরিক, BC:CE = 3:2, এবং ত্রিভুজ ODE এর ক্ষেত্রফল 6 বর্গ সেমি হলে, ছায়াবৃত অঞ্চল ABCO এর ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "93185a8f-9427-4b30-be57-f660169216d1",
+    "images": [
+      "images/10184_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি সুষম অষ্টভুজাকার প্রিজমের ওপরের দৃশ্য প্রদর্শন করছে। এই সুষম অষ্টভুজাকার প্রিজমের ঠিক তিনটি পার্শ্বতল দেখার জন্য, চিত্রে চিহ্নিত চারটি এলাকার মধ্যে কোনটিতে দাঁড়িয়ে থাকা উচিত?\n\nOptions:\nক) ①\nখ) ②\nগ) ③\nঘ) ④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af9c305c-9892-4e8e-b0d5-500940ccf4d1",
+    "images": [
+      "images/23285_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট একটি বর্গক্ষেত্র ABCD-কে কর্ণ BD বরাবর ভাঁজ করা হলো, যাতে তল ABD এবং তল CBD পরস্পর লম্ব হয়। ত্রিভুজাকার পিরামিড C-ABD-এর সম্মুখ দৃশ্য এবং শীর্ষ দৃশ্য চিত্রে দেখানো হয়েছে। বাম দিকের দৃশ্যের ক্ষেত্রফল কত? ( ) ক. 1/2 খ. √2/2 গ. 1/4 ঘ. √2/4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79f3ed0c-f475-4a07-8cdf-006bb44f2f95",
+    "images": [
+      "images/11608_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, নিচের কোন শর্তটি AD সমান্তরাল BC প্রমাণ করতে যথেষ্ট নয়? ( )\n\nOptions (copied from English):\nক. ∠1=∠2\nখ. ∠3=∠4\n∠ABC=∠ADC\n∠BAD+∠ABC=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ac5a00f-1217-4c5d-9f20-ac7164da2331",
+    "images": [
+      "images/30297_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2009•তাইওয়ান), রেখা L দুটি রেখা L₁ এবং L₂-কে ছেদ করে আটটি কোণ তৈরি করে। নিচের কোন শর্তটি নির্ধারণ করতে পারে যে L₁ রেখা L₂-এর সমান্তরাল? ( )\n\nOptions:\nক) ∠2 + ∠4 = 180°\nখ) ∠3 + ∠8 = 180°\nগ) ∠5 + ∠6 = 180°\nঘ) ∠7 + ∠8 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9b478940-dfc0-4e29-83b2-1e0b7672d8ce",
+    "images": [
+      "images/53118_0.png"
+    ],
+    "english_question": "<image>\nশাওমিং এবং তার মা 90 মিটার বাহুবিশিষ্ট একটি বর্গাকার খেলার মাঠে হাঁটছেন। শাওমিং বিন্দু A থেকে এবং তার মা বিন্দু B থেকে হাঁটা শুরু করেন, উভয়ই তীরচিহ্নিত দিকে হাঁটছেন। শাওমিং প্রতি মিনিটে 65 মিটার এবং তার মা প্রতি মিনিটে 72 মিটার বেগে হাঁটছেন। যখন তার মা প্রথমবার শাওমিংকে ধরে ফেলেন, তখন তিনি খেলার মাঠের কোন বাহুতে থাকবেন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "992665a5-6425-4e5b-b4a4-fdb3e0e8ea84",
+    "images": [
+      "images/27649_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত একটি অর্ধবৃত্তাকার যন্ত্রাংশ শুরুতে ছবিতে দেখানো অবস্থানে ছিল এবং এর ব্যাস মাটির সমান্তরাল ছিল। চলাচলের সময় বৃত্তচাপ অংশটিকে ক্ষতি থেকে রক্ষা করতে অর্ধবৃত্তটিকে প্রথমে না পিছলিয়ে উল্টিয়ে দেওয়া হলো যেন এর ব্যাস মাটির সংস্পর্শে থাকে এবং তারপর একে মাটির ওপর দিয়ে 50 মিটার সরানো হলো। অর্ধবৃত্তের ব্যাস 4 মিটার। কেন্দ্র O যে পথটি অতিক্রম করে তার দৈর্ঘ্য কত? ( )\nক. 2π + 50\nখ. π + 50\nগ. 3π + 50\nঘ. 2π + 40",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "696b8d7d-4a34-4aba-a571-334fb2eb3cce",
+    "images": [
+      "images/53912_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $a$, $b$, $c$ এবং $d$ রেখাগুলো সমান্তরাল এবং সমদূরবর্তী। $ABCD$ আয়তক্ষেত্রের শীর্ষবিন্দুগুলো এই চারটি রেখার ওপর অবস্থিত। যদি $AB = 4$ এবং $BC = 6$ হয়, তবে $\\tan \\alpha$ এর মান কত?\n\nOptions:\nক) \\( \\dfrac{2}{3} \\)\nখ) \\( \\dfrac{3}{2} \\)\nগ) \\( \\dfrac{4}{3} \\)\nঘ) \\( \\dfrac{3}{4} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3a2b181-6efe-4af0-8049-0137b1328ce1",
+    "images": [
+      "images/triangle_ext_f3a2b181-6efe-4af0-8049-0137b1328ce1.png"
+    ],
+    "english_question": "<image>\nচতুস্তলক ABCD-তে, ছেদক AEF চতুস্তলকের অন্তকেন্দ্র O (যে গোলকটি চারটি তলকেই স্পর্শ করে) দিয়ে যায় এবং যথাক্রমে BC ও DC-কে E ও F বিন্দুতে ছেদ করে। যদি ছেদকটি চতুস্তলকটিকে সমান আয়তনের দুটি অংশে বিভক্ত করে, তবে পিরামিড A-BEFD এবং ত্রিভুজাকার পিরামিড A-EFC-এর পৃষ্ঠতলের ক্ষেত্রফল যথাক্রমে S_1 এবং S_2 হলে, নিচের কোনটি অবশ্যই সত্য? ( )\nক. S_1 < S_2\nখ. S_1 > S_2\nগ. S_1 = S_2\nঘ. The relationship between S_1 and S_2 cannot be determined",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "beb18444-94fb-4fda-920d-140a5976fdc8",
+    "images": [
+      "images/51748_0.png"
+    ],
+    "english_question": "<image>\nযদি শিয়াও লি, শিয়াও বো-এর পরে ঘুরায়, তবে তার খেলনা পাওয়ার সম্ভাবনা কত? তালিকা পদ্ধতি ব্যবহার করে সমাধান করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9b024e1f-68b6-49d2-a7aa-93dffa7816da",
+    "images": [
+      "images/24513_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি বাঁকানো রাস্তার অংশ দেখানো হয়েছে। যদি BD চাপের দৈর্ঘ্য 50 মি এবং AC চাপের দৈর্ঘ্য 30 মি হয়, তবে বাঁকানো রাস্তার কেন্দ্ররেখা EF এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c3f25780-25fa-45b4-bd52-d546fb66e7d6",
+    "images": [
+      "images/36391_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC এবং FED-এ, দেওয়া আছে যে AD = FC এবং AB = FE, ত্রিভুজ ABC ত্রিভুজ FED-এর সর্বসম—এটি সিদ্ধান্তে পৌঁছানোর জন্য অতিরিক্ত কোন শর্তটি প্রয়োজন? (শুধুমাত্র একটি শর্ত প্রদান করুন যা আপনি সঠিক মনে করেন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d28e2ebd-acdf-4b5d-adc5-348e654e520a",
+    "images": [
+      "images/43667_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে AB সমান্তরাল EF এবং BC লম্ব CD। তাহলে ∠α, ∠β এবং ∠γ এর মধ্যে সম্পর্ক কী? ( )\n\nOptions:\nক) ∠β=∠α+∠γ\nখ) ∠α+∠β+∠γ=180°\nগ) ∠α+∠β−∠γ=90°\nঘ) ∠β+∠γ−∠α=90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8cfe1caf-3a6b-45eb-8175-c86e8c90a2ce",
+    "images": [
+      "images/48072_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, নিচের কোন শর্তটি দ্বারা নিশ্চিত হওয়া যায় যে রেখা a এবং রেখা b সমান্তরাল?\n\nOptions:\nক) ∠1 = ∠4\nখ) ∠4 = ∠5\nগ) ∠3 + ∠5 = 180°\nঘ) ∠2 = ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

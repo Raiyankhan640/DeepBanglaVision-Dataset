@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ec84abe6-6456-420a-91a7-c349cc45a509",
+    "images": [
+      "images/67177_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, B, C এবং D বিন্দুগুলো একই বৃত্তের ওপর অবস্থিত। নিচের কোন উক্তিটি সঠিক? ( ) \nক. ∠C + ∠D = 180° \nখ. যখন E বৃত্তের কেন্দ্র, তখন ∠C = ∠D = 90° \nগ. যদি E, AB এর মধ্যবিন্দু হয়, তবে E অবশ্যই এই বৃত্তের কেন্দ্র হবে \nঘ. ∠COD = 2∠CAD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb74bfd3-0340-4c41-9a3d-444dd650f84a",
+    "images": [
+      "images/35056_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমকোণী ট্রাপিজিয়াম ABCD-এর উপরের ভূমি এবং উচ্চতা সমান, বর্গক্ষেত্র DEFH-এর বাহুর দৈর্ঘ্য 6 সেমি হলে, ছায়াঘেরা অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8c266dd0-1ec2-48a7-82aa-7a61f011a1ba",
+    "images": [
+      "images/50105_0.png"
+    ],
+    "english_question": "<image>\nপ্রতিটি a দৈর্ঘ্যের এবং b প্রস্থের চারটি সর্বসম আয়তক্ষেত্র একটি কেন্দ্রীয় বর্গক্ষেত্রের চারপাশে সাজিয়ে একটি বড় বর্গক্ষেত্র তৈরি করা হলো। কেন্দ্রীয় বর্গক্ষেত্রের ক্ষেত্রফলকে দুটি ভিন্ন উপায়ে প্রকাশ করো এবং a ও b এর মাধ্যমে একটি অভেদ নির্ণয় করো।\nOptions:\nb.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bd26c919-1f24-4beb-be69-5ac09570b992",
+    "images": [
+      "images/51192_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখাংশ CD, রেখাংশ BE-এর ওপর লম্ব এবং একে সমদ্বিখণ্ডিত করে। AD ⊥ DB এবং ∠BDE = 70°। ∠CAD = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5be2b1b0-4be5-4b26-af7e-8d4773a2b47a",
+    "images": [
+      "images/65137_0.png"
+    ],
+    "english_question": "<image>\nদুটি উল্লম্ব নিচু দেয়াল 135° কোণে মিলিত হয়েছে। এই দুটি দেয়াল এবং একটি বেড়া ব্যবহার করে 54 বর্গমিটার ক্ষেত্রফলের একটি সমকোণী ট্রাপিজিয়াম আকৃতির সবজির বাগান তৈরি করা হলো (দেয়ালগুলো যথেষ্ট লম্বা)। বেড়া তৈরির খরচ প্রতি মিটারে 50 ইউয়ান হলে, এই বাগানটি তৈরির সর্বনিম্ন খরচ কত ইউয়ান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74f561fa-70f0-4758-8789-2e8dbed2c265",
+    "images": [
+      "images/51122_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\(AB\\), \\(EF\\) এবং \\(DC\\) রেখাগুলো সমান্তরাল এবং \\(EG\\) রেখাটি \\(DB\\) রেখার সমান্তরাল। চিত্রে \\(\\angle EGA\\)-এর সমান কতটি কোণ আছে?\nOptions:\nB) How many angles in the figure are equal to ∠EGA?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1fec999b-cd0d-407a-8824-cba5ed437b7b",
+    "images": [
+      "images/5449_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, c রেখাটি দুটি সমান্তরাল রেখা a এবং b কে ছেদ করেছে। নিচের কোন উক্তিটি সর্বদা সত্য? ক. ∠1=∠2 খ. ∠1=∠3 গ. ∠1=∠4 ঘ. ∠1=∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa391794-c930-4891-9854-867e8bdbcbb9",
+    "images": [
+      "images/22714_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $l_1, l_2$ এবং $l_3$ রেখা তিনটি তিনটি ছেদকারী রাস্তাকে নির্দেশ করে। একটি কার্গো ট্রান্সফার স্টেশন এমনভাবে তৈরি করতে হবে যেন তা তিনটি রাস্তা থেকে সমদূরবর্তী হয়। স্টেশনের সম্ভাব্য অবস্থানগুলো হলো ( )\n\nOptions:\nক) Location 1\nখ) Location 2\nগ) Location 3\nঘ) Location 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9d01c9d4-2ff4-48d5-a596-55c35688a2f3",
+    "images": [
+      "images/59014_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত ⊙O এর ব্যাস, C এবং D বিন্দু দুটি বৃত্ত ⊙O এর উপর অবস্থিত, CF, AB এর উপর F বিন্দুতে লম্ব, CE, AD এর উপর লম্ব এবং AD এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে, এবং CE=CF। CD এবং CB যোগ করি। যদি AD=CD=1 হয়, তবে চতুর্ভুজ ABCD এর ক্ষেত্রফল কত?\n\nOptions:\nক) \\(9 \\sqrt {3}\\)\nখ) \\(3 \\sqrt {3}\\)\nগ) \\( \\dfrac {9 \\sqrt {3}}{4}\\)\nঘ) \\( \\dfrac {3 \\sqrt {3}}{4}\\",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d4c9aadc-06f3-46cb-bd4c-4f71a141c1cb",
+    "images": [
+      "images/58933_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC কে বিন্দু A কেন্দ্র করে ঘড়ির কাঁটার দিকে 100° ঘুরিয়ে ত্রিভুজ AEF পাওয়া যায়। যদি ∠C = 60° এবং ∠E = 100° হয়, তবে α-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ca849ac-85ac-4610-8212-506cecf9e717",
+    "images": [
+      "images/30789_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তাকার কাগজের টুকরো ABCD-কে এমনভাবে ভাঁজ করা হলো যাতে বিন্দু D, বিন্দু B-এর ওপর পড়ে এবং EF হলো ভাঁজের রেখা। নিচের কোন উক্তিটি সর্বদা সত্য নয়? ( )\n\nOptions (copied from English):\nC. △BEF∽△FD'B\n△AEB≌△D'FB",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1027d18a-f56d-4b33-bbaa-12466c777ac6",
+    "images": [
+      "images/23240_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য (একক: সেমি) চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুর পৃষ্ঠতলের ক্ষেত্রফল (একক: সেমি²) কত?\nOptions:\nক) 24+4\\(3\\)\nখ) 48+8\\(3\\)\nগ) 24+8\\(3\\)\nঘ) 48+4\\(3\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1eabcb9f-3185-4c86-b4c9-c212899f99a7",
+    "images": [
+      "images/44513_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর সমান্তরাল বাহুদ্বয়ের দৈর্ঘ্যের পার্থক্য এর তির্যক বাহুর দৈর্ঘ্যের সমান। DE, AB-এর সমান্তরাল হলে, ∠DEC-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "56ce3ce5-f075-474f-93a0-a80ad7293ad2",
+    "images": [
+      "images/37796_0.png"
+    ],
+    "english_question": "<image>\nযখন n = 1, 2, 3 ইত্যাদি হয়, তখন সাদা ও কালো ছোট বর্গক্ষেত্র দ্বারা গঠিত চিত্রগুলো দেখানো হয়েছে। n-তম চিত্রে সাদা ও কালো ছোট বর্গক্ষেত্রের মোট সংখ্যা কত হবে (n-এর মাধ্যমে প্রকাশ করো, যেখানে n একটি ধনাত্মক পূর্ণসংখ্যা)?\nOptions:\nc., the figures composed of white small squares and black small squares are shown in the images. The total number of white small squares and black small squares in the \\(n\\)-th figure is equal to ______ (expressed in terms of \\(n\\), where \\(n\\) is a positive integer).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "01a5a934-068d-4cc7-9834-67cf257d62d8",
+    "images": [
+      "images/47851_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ট্রাপিজিয়ামটিতে, বৃহত্তম ত্রিভুজটি কেটে ফেলার পর অবশিষ্ট অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "313eb8be-53d0-4c85-a7da-bf10beb8cc0e",
+    "images": [
+      "images/57305_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD ট্রাপিজিয়ামে, ∠ABC এবং ∠DCB এর সমদ্বিখণ্ডকদ্বয় ট্রাপিজিয়ামের মধ্যরেখা EF এর উপর P বিন্দুতে ছেদ করে। যদি EF = 3 হয়, তবে ABCD ট্রাপিজিয়ামের পরিসীমা কত?\n\nOptions:\nক) 9\nখ) 10.5\nগ) 12\nঘ) 15",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e6fbdeb-8aa9-4449-91d3-5ab6bbf2b41d",
+    "images": [
+      "images/21802_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, যেখানে কোণ C = 90° এবং কোণ B = 70°, অন্তর্বৃত্ত O বাহু AB, BC এবং CA-কে যথাক্রমে D, E এবং F বিন্দুতে স্পর্শ করে। কোণ DEF-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "404ac834-2566-4976-a783-528b4aca3293",
+    "images": [
+      "images/70121_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বাতিঘর A থেকে দ্বীপ B-কে দক্ষিণ থেকে 50° পশ্চিমে এবং দ্বীপ C-কে দক্ষিণ থেকে 20° পূর্বে দেখা যায়। বিন্দু C থেকে দ্বীপ B-কে দক্ষিণ থেকে 80° পশ্চিমে দেখা যায়। ∠ACB-এর মান নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a1d6955e-d617-4bf4-9d2a-65334dde87e2",
+    "images": [
+      "images/68007_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a রেখা b রেখার সমান্তরাল। l রেখাটি a ও b রেখাকে যথাক্রমে E ও F বিন্দুতে ছেদ করে। FP রেখাটি ∠EFD-কে সমদ্বিখণ্ডিত করে এবং a রেখাকে P বিন্দুতে ছেদ করে। যদি ∠1 = 64° হয়, তবে ∠2-এর মান নির্ণয় করো।\nOptions:\nb. Line l intersects a and b at points E and F, respectively. FP bisects angle EFD and intersects line a at point P. Given that angle 1 is 64°, find angle 2.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fccba6c4-9686-4195-abb0-1b48b74f0f00",
+    "images": [
+      "images/51070_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল 34 বর্গ সেমি, AE = BF, CE এবং DF রেখাদ্বয় O বিন্দুতে ছেদ করে এবং ত্রিভুজ OCD-এর ক্ষেত্রফল 11 বর্গ সেমি। ছায়াযুক্ত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

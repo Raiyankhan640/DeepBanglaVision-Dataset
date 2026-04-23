@@ -1,0 +1,302 @@
+[
+  {
+    "id": "7fa12489-b947-4c95-90be-af2471aac9b2",
+    "images": [
+      "images/triangle_ext_7fa12489-b947-4c95-90be-af2471aac9b2.png"
+    ],
+    "english_question": "<image>\nএকটি জাহাজ ঘণ্টায় 60 নটিক্যাল মাইল গতিতে চলে। A বিন্দুতে, তেল কূপ P কে দক্ষিণ-পূর্ব দিকে 60° কোণে দেখা যায়। 40 মিনিট উত্তরে চলার পর, জাহাজটি B বিন্দুতে পৌঁছায়, যেখানে তেল কূপ P কে দক্ষিণ-পূর্ব দিকে 30° কোণে দেখা যায়। এরপর জাহাজটি তার গতিপথ পরিবর্তন করে উত্তর-পূর্ব দিকে 60° কোণে আরও 80 মিনিট চলে C বিন্দুতে পৌঁছায়। P এবং C বিন্দুর মধ্যবর্তী দূরত্ব নির্ণয় করো।\nOptions:\nগ) Find the distance between points P and গ)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f4919fe3-20b1-47b5-937d-02709bf8124c",
+    "images": [
+      "images/58645_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, টেস্ট টিউবের মুখের ব্যাস পরিমাপের জন্য ABC পরিমাপক যন্ত্রটি ব্যবহৃত হয়েছে। AB-এর দৈর্ঘ্য 10 সেমি এবং AC-কে 60টি সমান ভাগে ভাগ করা হয়েছে। যদি টেস্ট টিউবের মুখ DE পরিমাপক যন্ত্রের 20টি সমান ভাগের সাথে মিলে যায় (DE ∥ AB), তবে টেস্ট টিউবের মুখের ব্যাস DE কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9e296e7f-391f-413e-956c-934f8ceaf6d2",
+    "images": [
+      "images/71106_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কতটি অক্ষীয় প্রতিসম (axisymmetric) চিত্র রয়েছে? ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "34ca6863-f15d-4006-bde4-d133e3df9df5",
+    "images": [
+      "images/22969_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "475cede4-421a-40df-9d9c-1e12d8e4a6ee",
+    "images": [
+      "images/6461_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB || CD এবং ∠E = ∠G = 30°। নিচের কোন উক্তিটি সঠিক?\n\nOptions (copied from English):\nক. \\(∠D = ∠F = ∠B\\)\n\\(∠B + ∠F + ∠D = 60^{\\circ}\\)\nগ. \\(∠B + ∠F + ∠D = 120^{\\circ}\\)\n\\(GD \\parallel EF\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17331676-0ec9-498b-8d89-77a45ec30000",
+    "images": [
+      "images/13428_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ঘনক এবং একটি সুষম চতুস্তলকের ভূমি একই সমতল α তে অবস্থিত এবং AB || CD। রেখা EF ঘনকের ছয়টি তলের কয়টির সাথে ছেদ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe19e576-c335-4e1e-953c-e96b982c00bd",
+    "images": [
+      "images/19022_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি 'প্যাগোডা' আকৃতির চিত্রে 64টি ছোট ত্রিভুজ থাকে, তবে এতে কতগুলো স্তর আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33f77bd0-430b-41e0-a7d3-71bfdeca0a46",
+    "images": [
+      "images/28349_0.png"
+    ],
+    "english_question": "<image>\nধরা যাক, বিন্দু A এবং B যথাক্রমে পরাবৃত্ত \\( y^2 = 4x \\) এবং উপবৃত্ত \\( _x000C_rac{x^2}{4} + _x000C_rac{y^2}{3} = 1 \\) এর ওপর দিয়ে চলাচল করে। যদি AB রেখাটি x-অক্ষের সমান্তরাল হয় এবং বিন্দু N এর স্থানাঙ্ক (1, 0) হয়, তবে ত্রিভুজ ABN এর পরিসীমা \\( l \\) এর মান কত?\n\nOptions:\nক) (3, 4]\nখ) (3, 4)\nগ) (\\frac{10}{3}, 4]\nঘ) (\\frac{10}{3}, 4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d27232f-d923-45b7-b542-9b6f690a615e",
+    "images": [
+      "images/72879_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে DH, EG-এর সমান্তরাল যা BC-এর সমান্তরাল এবং DC, EF-এর সমান্তরাল। চিত্রে ∠1-এর সমান কয়টি কোণ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0835e276-d3ee-4375-9148-33ad85b99b7a",
+    "images": [
+      "images/10145_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, ∠ACB = 90°, CD ⊥ AB, DE ⊥ BC হলে, ত্রিভুজ ABC-এর সদৃশ ত্রিভুজের সংখ্যা কতটি?\n\nOptions:\nক) 1\nখ) 4\nগ) 3\nঘ) 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e4a6118-462e-4e3b-8cc0-f251f52bdeef",
+    "images": [
+      "images/28979_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E বিন্দুটি CD রেখার বর্ধিতাংশে অবস্থিত। নিচের কোন শর্তটি ব্যবহার করে AD ∥ BC প্রমাণ করা সম্ভব নয়?\n\nOptions:\nক) \\(∠1=∠5 \\)\nখ) \\(∠2=∠4 \\)\nগ) \\(∠3=∠4+∠5 \\)\nঘ) \\(∠B=∠1+∠2=180^{\\circ} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2898813d-a1c0-40c7-8d12-3aabaab11cc6",
+    "images": [
+      "images/65781_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 4। ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) 16-4π\nখ) 32-8π\nগ) 8π-16\nঘ) Cannot determine",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f841c495-7d97-45a9-8715-e0a077b074f6",
+    "images": [
+      "images/63410_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে তিনটি বর্গের অবস্থান দেখানো হয়েছে, তাহলে ∠1 = ___ ডিগ্রি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74f394f7-75ca-472e-a9b5-e28e33a4fd43",
+    "images": [
+      "images/8293_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর কর্ণদ্বয় AC ও BD পরস্পর O বিন্দুতে ছেদ করে। এটিকে রম্বস बनानের জন্য একটি উপযুক্ত শর্ত লিখ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33d3ccc2-9a6f-41e7-8c80-06b66afe439d",
+    "images": [
+      "images/54306_0.png"
+    ],
+    "english_question": "<image>\nΔABC-এ, BD কোণ ABC-কে সমদ্বিখণ্ডিত করে, BC-এর লম্ব সমদ্বিখণ্ডক BC-কে E বিন্দুতে এবং BD-কে F বিন্দুতে ছেদ করে। যদি কোণ A = 60° এবং কোণ ACF = 48° হয়, তবে কোণ ABC-এর পরিমাপ কত?\n\nOptions:\nক) 48°\nখ) 36°\nগ) 30°\nঘ) 24°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "095c13c3-26db-41eb-8394-9e4f5d88c482",
+    "images": [
+      "images/triangle_ext_095c13c3-26db-41eb-8394-9e4f5d88c482.png"
+    ],
+    "english_question": "<image>\nক. BCD-A₁B₁C₁D₁ ঘনকের বাহুর দৈর্ঘ্য a। M হলো A₁D₁-এর মধ্যবিন্দু। বিন্দু M, B₁ এবং C দিয়ে একটি সেকশন তৈরি করা হলো। এই সেকশনের ক্ষেত্রফল কত?\nক. M is the midpoint of A₁D₁. A section is made through points M, B₁, and\nগ. What is the area of this section?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b3be1ee6-6a3e-4fe4-8e13-0a07cd5480bb",
+    "images": [
+      "images/36974_0.png"
+    ],
+    "english_question": "<image>\nডেস্কের ওপর একটি আয়তাকার ঘনবস্তু এবং একটি সিলিন্ডার পাশাপাশি রাখা আছে, যেমনটি চিত্রে দেখানো হয়েছে। নিচের কোনটি এর তিনটি দৃশ্যের (front, top, side view) একটি নয়?\n\nOptions:\nক) $\\prod \\sqsubset$\nখ) $\\bigcirc \\big \\lceil$\nগ) $\\boxed { - }$\nঘ) $\\Big ] \\Big |$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9f1d7d4-24fd-410f-8f58-41d47991566c",
+    "images": [
+      "images/43577_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 এর অনুরূপ কোণ কোনটি?\nক. ∠2\nখ. ∠3\nগ. ∠4\nঘ. ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a76e2613-5c1b-478a-a289-de59282f0e8c",
+    "images": [
+      "images/7381_0.png"
+    ],
+    "english_question": "<image>\nABCD সমকোণী ট্রাপিজিয়াম কাগজে, যেখানে AD সমান্তরাল BC, ∠A = 90°, ∠C = 30°, বিন্দু F বাহু CD-এর উপর অবস্থিত। কাগজটিকে BF বরাবর ভাঁজ করা হলো যাতে বিন্দু C, বিন্দু E-তে পতিত হয় এবং রেখা BE বিন্দু D দিয়ে যায়। যদি BF = CF = 8 হয়, তবে AD-এর দৈর্ঘ্য কত?\nOptions:\nঘ) The paper is folded along BF such that point C falls on point E, making line BE pass through point ঘ) If BF = CF = 8, what is the length of AD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0614a8ae-6665-442f-8062-6ba498c51dea",
+    "images": [
+      "images/2327_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রম্বস ABCD-এর বাহুর দৈর্ঘ্য 2 এবং ∠DAB = 60° হলে, কর্ণ BD-এর দৈর্ঘ্য কত?\nক. 1\nখ. 3\nগ. 2\nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

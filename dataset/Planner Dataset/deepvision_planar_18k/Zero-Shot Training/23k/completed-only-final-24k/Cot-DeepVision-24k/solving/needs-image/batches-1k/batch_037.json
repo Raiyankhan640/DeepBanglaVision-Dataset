@@ -1,0 +1,302 @@
+[
+  {
+    "id": "2d98df62-cb29-4911-9ec5-dc0331ec3dc5",
+    "images": [
+      "images/42543_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 90° কেন্দ্রীয় কোণবিশিষ্ট OAB এবং OCD সেক্টর দুটি উপরিপাতিত হয়েছে। দেওয়া আছে OA=3 এবং OC=1, এবং AC ও BD যুক্ত করা হলে, ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b74c3288-f3dc-44e8-9940-d1cc27135cf8",
+    "images": [
+      "images/3525_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-তে বিন্দু O AC-এর ওপর অবস্থিত, OA = AB এবং B, C ও D বিন্দুর মধ্য দিয়ে যাওয়া বৃত্ত O-এর ব্যাসার্ধ 1। cos ∠AOB-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d700d34c-b662-408f-b12d-aa57cdf295c8",
+    "images": [
+      "images/triangle_ext_d700d34c-b662-408f-b12d-aa57cdf295c8.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, জানা আছে যে ∠1=60°, ∠A+∠B+∠C+∠D+∠E+∠F= ( )\nক. 180°\nখ. 360°\nগ. 240°\nঘ. 200°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5cdeb20e-d3db-47ae-9a56-9eb088d5a183",
+    "images": [
+      "images/58414_0.png"
+    ],
+    "english_question": "<image>\nএকটি ট্রাকের উচ্চতা 3.6 মিটার এবং প্রস্থ 3 মিটার। ট্রাকটি কি 4.2 মিটার ব্যাসার্ধবিশিষ্ট অর্ধবৃত্তাকার প্রস্থচ্ছেদের একটি টানেল দিয়ে চলাচল করতে পারবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f8a0b7a-082b-44d5-900a-5adbe15e283e",
+    "images": [
+      "images/15082_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস, ∠BAC = 60°, এবং D অর্ধবৃত্তের ওপর যেকোনো একটি বিন্দু। ∠D-এর মান কত ডিগ্রি?\n\nOptions:\nক) 30°\nখ) 45°\nগ) 60°\nঘ) 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f86b169-566e-468e-a0c9-fd9dde678fc7",
+    "images": [
+      "images/40393_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা a ∥ b দেওয়া আছে এবং একটি সমকোণী ত্রিভুজ দেখানো হয়েছে। দেওয়া আছে, ∠DCB=90°, ∠B=30°, এবং ∠1=40°। ∠2 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b827c568-4ea8-4cd3-bedd-0fd1480f3270",
+    "images": [
+      "images/14863_0.png"
+    ],
+    "english_question": "<image>\n(2014 ডংইং মক এক্সাম) চিত্রে প্রদর্শিত, রেখা l: y=k(x+1) (যেখানে k>0) পরাবৃত্ত গ: y^2=4x-কে A এবং B বিন্দুতে ছেদ করে। A এবং B বিন্দুর পরাবৃত্ত C-এর নিয়ামক রেখার ওপর অভিক্ষেপ যথাক্রমে M এবং N। যদি |AM|=2|BN| হয়, তবে k-এর মান কত?\n\nOptions:\nক) $\\frac { 1 } { 3 }$\nখ) $\\frac { \\sqrt { 2 } } { 3 }$\nগ) $\\frac { 2 } { 3 } \\sqrt [ 2 ] { 2 }$\nঘ) 2 $\\sqrt { 2 }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ead90e0c-8265-45a1-aeed-48a42e5c7eb6",
+    "images": [
+      "images/33545_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড কাগজের ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1 সেমি। গাঢ় রেখাগুলো একটি ত্রিমাত্রিক জ্যামিতিক বস্তুর তিনটি দৃশ্য নির্দেশ করে। জ্যামিতিক বস্তুটির আয়তন কত?\nক. 2 সেমি³\nখ. 4 সেমি³\nগ. 6 সেমি³\nঘ. 8 সেমি³",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "202cd36f-1bd4-4dd2-9ea7-447055e3cd69",
+    "images": [
+      "images/31473_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি সিলিন্ডার যার ভূমির ব্যাসার্ধ R, একে একটি তল দ্বারা ছেদ করা হয়েছে যা ভূমির সাথে θ (0° < θ < 90°) কোণ উৎপন্ন করে, ফলে একটি উপবৃত্তাকার ছেদ তৈরি হয়। যখন θ = 30°, তখন এই উপবৃত্তের উৎকেন্দ্রিকতা কত?\nক. 1\nখ. 2\nগ. 3\nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cdf98dff-6195-4680-9ed4-4757135e3ec0",
+    "images": [
+      "images/13415_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 30° কোণ বিশিষ্ট একটি সমকোণী স্কেল ACB-কে B বিন্দুর চারদিকে ঘড়ির কাঁটার দিকে এমনভাবে ঘোরানো হলো যেন A বিন্দুটি CB-এর বর্ধিতাংশের E বিন্দুর সাথে মিলে যায়। CD যোগ করলে, ∠BCD-এর মান কত?\nOptions:\nB) Connecting CD, what is the degree measure of ∠BCD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f0dc33c9-5c84-4ff7-9e50-85e0b4a9996c",
+    "images": [
+      "images/5720_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ঘনক এবং একটি সুষম চতুস্তলকের ভূমি একই সমতল α-তে অবস্থিত এবং AB, CD-এর সমান্তরাল। রেখা EF ঘনকের ছয়টি তলের মধ্যে কয়টি তলের সাথে ছেদ করে?\nOptions:\nD) How many planes does the line EF intersect with the six faces of the cube?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a7ada280-b785-4b0b-8bdb-88dda8c8c1b9",
+    "images": [
+      "images/50194_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c এবং d রেখাদ্বয় ছেদ করেছে। কোণ ∠1 এবং ∠2 সম্পূরক এবং ∠3 = 117°। কোণ ∠4 এর মান নির্ণয় করো।\nOptions:\nd. Angles ∠1 and ∠2 are supplementary, and ∠3 = 117°. Find the measure of angle ∠4.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "78af7734-63ab-406f-89b6-cedb4cf3db88",
+    "images": [
+      "images/34185_0.png"
+    ],
+    "english_question": "<image>\nএকটি জমির টুকরো (চিত্রে প্রদর্শিত) আছে, যা মূলত 48 মিটার দীর্ঘ একটি বেড়া দ্বারা পরিবেষ্টিত। এখন বেড়ার কেবল দীর্ঘতর দুটি বাহু অবশিষ্ট আছে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29f36b5a-f7c3-4b88-9a5f-e08f8eea61ab",
+    "images": [
+      "images/34143_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত O-এর ব্যাসার্ধ 1 সেমি এবং সুষম ষড়ভুজ ABCDEF বৃত্ত O-এর মধ্যে অন্তরলিখিত। ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি? (ফলাফলে π থাকবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "803f217c-fe2a-4dc2-9ee1-a16093acaa49",
+    "images": [
+      "images/67041_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD রম্বসের AB=2, ∠C=60°। রম্বসটি l রেখা বরাবর পিছলে না গিয়ে ডানদিকে গড়িয়ে চলে। প্রতিটি শীর্ষবিন্দুকে কেন্দ্র করে 60° ঘূর্ণনকে একটি অপারেশন বলা হয়। 27টি অপারেশনের পর, রম্বসের কর্ণদ্বয়ের ছেদবিন্দু O দ্বারা অতিক্রান্ত পথের মোট দৈর্ঘ্য কত? (ফলাফল π এর মাধ্যমে প্রকাশ করো)\n\nOptions:\nক) 6\\frac{3}{3}\\pi\nখ) (3\\frac{3}{3}+3)\\pi\nগ) (3\\frac{3}{3}+6)\\pi\nঘ) (6\\frac{3}{3}+3)\\pi",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7071d70a-1c4f-4757-bdd6-b5fa6159ad6d",
+    "images": [
+      "images/20610_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, চিত্রে ( ) জোড়া সমকোণী কোণ রয়েছে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cd0e01c8-0c98-4f1d-8751-a50704717b42",
+    "images": [
+      "images/1665_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি 1 একক বাহুবিশিষ্ট বর্গক্ষেত্র ABCD-কে A বিন্দুকে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে 30° কোণে ঘুরিয়ে বর্গক্ষেত্র AB'C'D' তৈরি করা হয়, তবে ছায়াযুক্ত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2f6cffa0-f085-4bb6-b15f-5ceed709b766",
+    "images": [
+      "images/34654_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জরিপ যন্ত্রের কাঁটাটি শুরুতে দক্ষিণ দিক থেকে 50 ডিগ্রি পশ্চিম দিকে নির্দেশ করছে। যদি এই কাঁটাটিকে ঘড়ির কাঁটার বিপরীত দিকে 1/4 অংশ ঘোরানো হয়, তবে কাঁটাটির নতুন দিক কোনটি হবে?\n\nOptions:\nক) 50 degrees east of south\nখ) 40 degrees west of north\nগ) 40 degrees east of south\nঘ) Southeast",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "15b46ef3-5b2b-44e8-9bb0-2740edf2c00f",
+    "images": [
+      "images/17789_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি ঘনকের নেট দেওয়া আছে। '美' চিহ্নিত তলের বিপরীত তলে কোন অক্ষরটি আছে?\n\nOptions:\nক) .丽\nখ) .大\nগ) 龙\nঘ) .潭",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "36a0647f-07d4-4759-863e-ac42ed1726f9",
+    "images": [
+      "images/2404_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বড় ত্রিভুজটি 428 নির্দেশ করে এবং চিত্রের ছায়াবৃত অংশটি কত নির্দেশ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

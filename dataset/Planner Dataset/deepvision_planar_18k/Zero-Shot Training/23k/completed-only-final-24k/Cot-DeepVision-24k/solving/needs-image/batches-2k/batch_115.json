@@ -1,0 +1,302 @@
+[
+  {
+    "id": "fbd6f224-3167-4033-bf3f-18252df5263b",
+    "images": [
+      "images/10365_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি l_1 || l_2 হয়, তবে ∠1 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eec20d48-5613-4edf-9e96-5c2540b19a6b",
+    "images": [
+      "images/71579_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু P হলো সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর উপরের বাহু AD-এর ওপর একটি বিন্দু। যদি ∠A = ∠BPC হয়, তবে চিত্রে △ABP-এর সদৃশ ত্রিভুজগুলো হলো ( )\nক. △PCB এবং △DPC\nখ. △PCB\nগ. △DPC\nঘ. কোনটিই নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "842cf673-06b1-43ea-9ca2-8471b1d872f4",
+    "images": [
+      "images/35816_0.png"
+    ],
+    "english_question": "<image>\nনিচের প্রতীকগুলির মধ্যে কয়টিকে কেন্দ্র-প্রতিসম চিত্র হিসেবে বিবেচনা করা যায়? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "15d08702-d67c-487a-a64c-f41dafc91ed3",
+    "images": [
+      "images/53016_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের বর্গ টাইলে একটি কুকুর হাঁটছে। যদি এটি অবশেষে ছায়াযুক্ত টাইলে থামে, তবে A জয়ী হয়; অন্যথায় B জয়ী হয়। A-এর সাফল্যের হার কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a5c5fc3b-4957-4ed7-b0d4-88ac67ea6319",
+    "images": [
+      "images/52375_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠AOB কোণের বাহুর ওপর মোট 9টি বিন্দু আছে: A₁, A₂, A₃, A₄ এবং B₁, B₂, B₃, B₄, B₅। যদি রেখাংশ AᵢBⱼ (1≤i≤4, 1≤j≤5) পরস্পরকে ছেদ না করে, তবে তাদের \"সমন্বিত রেখা\" (harmonious lines) বলা হয়। চিত্রে কত জোড়া \"সমন্বিত রেখা\" আছে?\n\nOptions:\nক) 60\nখ) 62\nগ) 72\nঘ) 124",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5a972c0a-4017-424d-9999-f30737b1c3d2",
+    "images": [
+      "images/46045_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত জ্যামিতিক চিত্রে, এদের মধ্যে কতগুলো নিশ্চিতভাবে অক্ষ-প্রতিসম (axis-symmetric) আকৃতি? ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d15ba545-7fec-46b2-a208-a6e40216cbd5",
+    "images": [
+      "images/6983_0.png"
+    ],
+    "english_question": "<image>\nউপরের চিত্র থেকে, শিয়াও শিয়াও কী দেখছে তা কোন চিত্রে দেখানো হয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "78501629-9e6a-4c2a-8c09-196715e5f806",
+    "images": [
+      "images/31510_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো মতো, M থেকে N পর্যবেক্ষণের দিক হলো ( ▢ )\nক. উত্তর-পশ্চিম 60°\nখ. দক্ষিণ-পূর্ব 60°\nগ. উত্তর-পশ্চিম 30°\nঘ. দক্ষিণ-পূর্ব 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "994732b4-8ba5-4fd6-b9ec-fcb0e7e2c033",
+    "images": [
+      "images/70083_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি বৃত্তস্থ চতুর্ভুজ এবং E হলো BC-এর বর্ধিতাংশের ওপর একটি বিন্দু। যদি ∠BAD = 105° হয়, তবে ∠DCE-এর পরিমাপ কত?\n\nOptions:\nক) 115°\nখ) 105°\nগ) 100°\nঘ) 95°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "42ae5d2e-0b24-4b80-a822-9d07b3b88a41",
+    "images": [
+      "images/75763_0.png"
+    ],
+    "english_question": "<image>\nছায়াঘেরা অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "abc19a7e-0598-41a5-907f-9fc6369e04ec",
+    "images": [
+      "images/26386_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কিছু সংখ্যা বসানো হয়েছে এবং এই সংখ্যাগুলো একটি নির্দিষ্ট প্যাটার্ন অনুসরণ করে। এই প্যাটার্ন অনুযায়ী, '?' চিহ্নিত স্থানে কোন সংখ্যাটি বসবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f849e0a-728a-4dbe-ada5-91b73e852a2a",
+    "images": [
+      "images/27626_0.png"
+    ],
+    "english_question": "<image>\n10 একক বাহুবিশিষ্ট একটি বর্গের ভেতরের ধার দিয়ে 2 একক ব্যাসার্ধের একটি বৃত্ত গড়িয়ে চলছে। বৃত্তের কেন্দ্র দ্বারা অতিক্রান্ত পথের দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65fbd576-0501-43f5-8bc2-b22454751e03",
+    "images": [
+      "images/45219_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্রের মধ্যে কতটি অক্ষ-প্রতিসম (axis-symmetric) চিত্র রয়েছে?\n\nOptions:\nক) (1)\nখ) (2)\nগ) (3)\nঘ) (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c06b8c4-2226-481d-aebd-7260bfdd169f",
+    "images": [
+      "images/49054_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015 স্প্রিং উক্সি স্কুল লেভেল মান্থলি এক্সাম), একটি সমকোণী ত্রিভুজ ABC-কে স্থানান্তরের মাধ্যমে DEF অবস্থানে আনা হলো, যার ফলে চতুর্ভুজ DGCF-এর ক্ষেত্রফল 12 হয়। যদি ∠B = 90°, AB = 5 এবং DG = 2 হয়, তবে CF-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "adb463bc-2415-4d3b-986e-43002a9ef8f5",
+    "images": [
+      "images/8291_0.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট জ্যামিতিক ঘনবস্তুর সম্মুখ দৃশ্য ও পাশ্ব দৃশ্য চিত্র 1-এ প্রদর্শিত হয়েছে। চিত্র 2-এর চারটি চিত্রের মধ্যে কোনটিকে এই ঘনবস্তুর উপরি দৃশ্য হিসেবে বিবেচনা করা যায়? ( )\nক. (1) (3)\nখ. (1) (4)\nগ. (2) (4)\nঘ. (1) (2) (3) (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bd0f427d-9ccb-49ac-9ac8-0d28c84c6308",
+    "images": [
+      "images/42698_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D হলো ত্রিভুজ ABC এর AB বাহুর মধ্যবিন্দু। ভেক্টর CD কিসের সমান? ( )\n-BC + 1/2 BA\n-BC - 1/2 BA\nBC - 1/2 BA\nঘ. BC + 1/2 BA\n\nOptions (copied from English):\nঘ. \\( BC \\) + \\( \\frac{1}{2} BA \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "437b917e-f9b7-461a-850e-9f11fe3bb8e0",
+    "images": [
+      "images/41868_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের OA এবং OB দুটি ব্যাসার্ধ এবং OA, OB এর উপর লম্ব। C বিন্দুটি পরিধির উপর অবস্থিত (A এবং B বিন্দুর সাথে মিলে যায় না), তবে ∠ACB এর মান কত?\nOptions:\nB), then the degree measure of ∠ACB is .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7297c607-ad3d-404a-b0eb-537d4222d9c1",
+    "images": [
+      "images/67853_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, যদি ∠1 = ∠2 এবং ∠B = ∠C হয়, তবে প্রমাণ করা যায় যে AB ∥ CD। যুক্তিগুলো নিচে দেওয়া হলো: যেহেতু ∠1 = ∠2 (দেওয়া আছে), এবং ∠1 = ∠4 (যুক্তি 1: বিপ্রতীপ কোণগুলো সমান), সুতরাং ∠2 = ∠4 (প্রতিস্থাপন), সুতরাং CE ∥ BF (যুক্তি 2: অনুরূপ কোণ সমান হলে রেখাদ্বয় সমান্তরাল), সুতরাং ∠C = ∠3 (যুক্তি 3: রেখাদ্বয় সমান্তরাল হলে অনুরূপ কোণ সমান)। আবার, যেহেতু ∠B = ∠C (দেওয়া আছে), সুতরাং ∠3 = ∠B (প্রতিস্থাপন), সুতরাং AB ∥ CD (যুক্তি 4: একান্তর অন্তঃস্থ কোণ সমান হলে রেখাদ্বয় সমান্তরাল)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c185eba5-9863-419e-8eee-2d8767d174eb",
+    "images": [
+      "images/6848_0.png"
+    ],
+    "english_question": "<image>\nনিচের প্রতীকগুলো পর্যবেক্ষণ করো। প্যাটার্ন অনুযায়ী, এদের মধ্যে কয়টি অক্ষ-প্রতিসম চিত্র?\n\nOptions:\nক) $$1$$\nখ) $$2$$\nগ) $$3$$\nঘ) $$4$$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bdc098f9-e4dd-41b4-97e7-8b1bc09dd4ab",
+    "images": [
+      "images/60864_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 7×7 বর্গাকার গ্রিডে, দুটি গ্রিড বিন্দু A এবং B যুক্ত করলে, রেখাংশ AB দুটি গ্রিড রেখাকে P এবং Q বিন্দুতে ছেদ করে। AP:PQ:QB এর অনুপাত কত?\n\nOptions:\nক) \\(2\\): \\(3\\): \\(1\\)\nখ) \\(4\\): \\(5\\): \\(3\\)\nগ) \\(2\\): \\(4\\): \\(1\\)\nঘ) \\(5\\): \\(6\\): \\(3\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

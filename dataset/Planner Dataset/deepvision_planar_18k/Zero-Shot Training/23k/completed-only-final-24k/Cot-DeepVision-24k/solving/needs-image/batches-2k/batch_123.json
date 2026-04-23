@@ -1,0 +1,302 @@
+[
+  {
+    "id": "611125f5-f59f-49b0-aeb2-7f9b2cb74242",
+    "images": [
+      "images/triangle_ext_611125f5-f59f-49b0-aeb2-7f9b2cb74242.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ঘনক ABCD-A'B'C'D' এ, M হলো BC বাহুর মধ্যবিন্দু এবং বিন্দু P নিচের তল A'B'C'D' এবং পার্শ্বতল CDD'C'-এর উপর এমনভাবে চলাচল করে যে ∠MAC' = ∠PAC' হয়। বিন্দু P-এর সঞ্চারপথ কী?\nক. Two segments of circular arcs\nখ. Two segments of elliptical arcs\nগ. Two segments of hyperbolic arcs\nঘ. Two segments of parabolic arcs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "043b1297-d846-4c69-bac0-7cb70c725006",
+    "images": [
+      "images/73976_0.png"
+    ],
+    "english_question": "<image>\nABCD সামান্তরিকের, E বিন্দুটি CD রেখার উপর অবস্থিত। AE এবং BD যোগ করি, যা F বিন্দুতে ছেদ করে। যদি ত্রিভুজ DEF এবং ত্রিভুজ ABF-এর ক্ষেত্রফলের অনুপাত 4:25 হয়, তবে ত্রিভুজ ADF এবং চতুর্ভুজ BCEF-এর ক্ষেত্রফলের অনুপাত নির্ণয় করো।\nক. 10: 31\nখ. 10: 21\nগ. 4: 25\nঘ. 4: 21",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a45290a-7963-4ebe-9884-e12698b9a133",
+    "images": [
+      "images/61407_0.png"
+    ],
+    "english_question": "<image>\n1, 2, 3, 4, 5, ... ক্রমানুসারে সাজানো মাছের আকৃতির প্যাটার্নে '10' সংখ্যাটি কতবার উপস্থিত আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20b38b5d-8dbd-4d0a-8dfc-dd8065733cbc",
+    "images": [
+      "images/55766_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দাবা বোর্ডে একটি উপযুক্ত কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করো যাতে 'কামান' (-1, 1) বিন্দুতে এবং 'হাতি' (4, -2) বিন্দুতে অবস্থিত হয়। তাহলে, 'রাজা' কোথায় অবস্থিত?\n\nOptions:\nক) (-3, 3)\nখ) (-2, 2)\nগ) (3, -3)\nঘ) (2, -1)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "88e1890c-332d-41f1-91b3-14ef1f9316b0",
+    "images": [
+      "images/19710_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, ∠BAD-এর সমদ্বিখণ্ডক AG, BC-কে E বিন্দুতে ছেদ করে। যদি BF = 6 এবং AB = 5 হয়, তবে AE-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ac1a903-a5dd-4bb2-9a59-fba3e7860a60",
+    "images": [
+      "images/72954_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB = 20 সেমি ব্যাসবিশিষ্ট একটি অর্ধবৃত্তাকার স্টিলের পাত আছে। এই পাত থেকে একটি সমদ্বিবাহু ট্রাপিজয়েড কাটার পরিকল্পনা করা হয়েছে যার নিচের ভূমি AB এবং উপরের ভূমি CD-এর প্রান্তবিন্দুগুলো পরিধির ওপর অবস্থিত, যেখানে CD = 10 সেমি। চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9cc441fe-511b-4a7a-8de4-68665e897029",
+    "images": [
+      "images/35610_0.png"
+    ],
+    "english_question": "<image>\n10 মিটার ব্যাসবিশিষ্ট একটি সিলিন্ডার আকৃতির তেলের ট্যাংকে কিছু তেল ভরা হলো। যদি তেলের উপরিভাগের প্রস্থ AB = 8 মিটার হয়, তবে তেলের সর্বোচ্চ গভীরতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c1039f25-12b4-4ddd-8546-24d44b4c2d04",
+    "images": [
+      "images/45899_0.png"
+    ],
+    "english_question": "<image>\nপ্রতিজন অংশগ্রহণকারী দুটি চাকা ঘোরানোর জন্য 5 ইউয়ান প্রদান করেন, যার প্রতিটি 1 থেকে 4 পর্যন্ত চিহ্নিত চারটি সমান ভাগে বিভক্ত। যদি সংখ্যা দুটির যোগফল 8 হয়, তবে তারা 16 ইউয়ান জেতে; যদি 7 হয়, তবে 8 ইউয়ান জেতে; যদি 6 হয়, তবে 4 ইউয়ান জেতে; অন্যথায়, কোনো পুরস্কার নেই। 2000 জন অংশগ্রহণকারীর ক্ষেত্রে, পুরস্কার প্রদানের পর দরিদ্র শিক্ষার্থীদের সহায়তার জন্য কত ইউয়ান স্পনসরশিপ অর্থ অবশিষ্ট থাকবে তা অনুমান করুন।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3a2e7ef5-93eb-4619-abef-f957fcf1e451",
+    "images": [
+      "images/62712_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB || CD || EF হয়, তবে নিচের কোনটি সঠিক? 【 】\n\nOptions (copied from English):\nB. \\( \\dfrac{CD}{EF}= \\dfrac{AD}{AF}\\)\n\\( \\dfrac{AD}{BC}= \\dfrac{CE}{DF}\\)\n\\( \\dfrac{AD}{BC}= \\dfrac{AF}{BE}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed779d49-0b68-462b-a7fb-993b94faf64a",
+    "images": [
+      "images/67624_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাসার্ধ 5 সেমি, CD একটি ব্যাস এবং AB একটি জ্যা। CD, AB জ্যা-এর উপর M বিন্দুতে লম্ব। যদি AB = 6 সেমি হয়, তবে CM-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "75617c23-ca1e-420b-af46-e66f7b522bd3",
+    "images": [
+      "images/5371_0.png"
+    ],
+    "english_question": "<image>\n2 সেমি প্রস্থের একটি আয়তাকার কাগজের ফিতাকে চিত্রে প্রদর্শিত আকারে ভাঁজ করা হলো, যেখানে ভাঁজ এবং প্রান্তের মধ্যবর্তী কোণ 60°। ভাঁজ PQ এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ac9753e1-322f-439f-a33f-8d47a6281c41",
+    "images": [
+      "images/58744_0.png"
+    ],
+    "english_question": "<image>\nএকই আকারের বৃত্ত দ্বারা গঠিত 10ম প্যাটার্নে বৃত্তের সংখ্যা কত? ( )\n\nOptions:\nক) 169\nখ) 217\nগ) 271\nঘ) 331",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "130a05fe-a668-4b9c-85dc-2c951c73e629",
+    "images": [
+      "images/41943_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি গাছ AB একটি ঢালের ওপর হেলানো আছে। C বিন্দু থেকে গাছের শীর্ষ A-এর উন্নতি কোণ 30 ডিগ্রি। গাছের দিকে 10 মিটার হেঁটে D বিন্দুতে পৌঁছালে, A-এর উন্নতি কোণ হয় 45 ডিগ্রি। গাছটির হেলানো কোণ (∠1) 75 ডিগ্রি হলে, গাছ AB-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0904a214-c5f3-4336-a2ad-7ef91c63815d",
+    "images": [
+      "images/47254_0.png"
+    ],
+    "english_question": "<image>\nনিচের প্যাটার্নটিতে কতটি অক্ষীয় প্রতিসম (axisymmetric) চিত্র রয়েছে?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be90a6a2-fecb-490d-8b30-2038f0a700d9",
+    "images": [
+      "images/36462_0.png"
+    ],
+    "english_question": "<image>\n6. চিত্রে প্রদর্শিত অনুযায়ী, E বিন্দুটি AC-এর বর্ধিতাংশের উপর অবস্থিত। নিচের কোন শর্তটি দ্বারা নিশ্চিত হওয়া যায় যে, AB সমান্তরাল CD?\nক. ∠3 = ∠4\nখ. ∠1 = ∠2\nগ. ∠D = ∠DCE\nঘ. ∠D + ∠ACD = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a64e3458-4487-40d1-802a-a8338591245c",
+    "images": [
+      "images/5332_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি ঘনকের জালের দৃশ্য নির্দেশ করে। যদি এটিকে ভাজ করে একটি ঘনক তৈরি করা হয় এবং বিপরীত তলগুলোর সংখ্যাগুলো সমান হয়, তবে চিত্রে x এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74623f16-62a8-4a14-9009-245d7f5e6100",
+    "images": [
+      "images/9463_0.png"
+    ],
+    "english_question": "<image>\nএকই আকারের কয়েকটি ছোট ঘনক দিয়ে তৈরি একটি জ্যামিতিক বস্তুর উপর থেকে দেখা দৃশ্য (top view) চিত্রে দেখানো হয়েছে, যেখানে বর্গক্ষেত্রের সংখ্যাগুলো ওই অবস্থানে থাকা ছোট ঘনকের সংখ্যা নির্দেশ করে। এই জ্যামিতিক বস্তুটির বাম দিক থেকে দেখা দৃশ্য (left view) কোনটি? 【 】",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bcf75fff-67d1-42b9-88c1-6d2a025a6810",
+    "images": [
+      "images/27040_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী: যদি ∠1 = ∠3 হয়, তবে কোনটি সঠিক?\n\nOptions (copied from English):\nক. ∠1 = ∠2\nখ. ∠2 = ∠3\n∠AOC = ∠BOD\n∠1 = \\frac{1}{2} ∠BOD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fbbd7b69-2e81-498c-9b2e-bd68e19799b1",
+    "images": [
+      "images/67991_0.png"
+    ],
+    "english_question": "<image>\nনিচের প্যাটার্নগুলো পর্যবেক্ষণ করো: এগুলো একটি নির্দিষ্ট নিয়ম মেনে সাজানো হয়েছে। এই নিয়ম অনুযায়ী, 6ষ্ঠ প্যাটার্নে মোট কতটি ত্রিভুজ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2821f8d-0aca-40b0-bbfd-3b8fbe1e5d75",
+    "images": [
+      "images/1890_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, CB বিন্দু B-তে বৃত্তের স্পর্শক এবং CD বিন্দু D-তে বৃত্তের স্পর্শক, যা বর্ধিত BA রেখাকে E বিন্দুতে ছেদ করে। যদি ED = √3 এবং ∠ADE = 30° হয়, তবে ΔBDC-এর পরিবৃত্তের ব্যাস কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

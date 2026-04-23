@@ -1,0 +1,302 @@
+[
+  {
+    "id": "baacd99d-9295-4e44-91bb-1da733cf4169",
+    "images": [
+      "images/23662_0.png"
+    ],
+    "english_question": "<image>\nছায়াঘেরা অংশের ক্ষেত্রফল 39 বর্গ সেন্টিমিটার দেওয়া থাকলে, EG-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2aa1bbec-a7f5-4806-8ed3-2be86fdad9a5",
+    "images": [
+      "images/19381_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত অর্ধবৃত্তের ব্যাস 50 সেমি এবং কোণ 30° হলে, ছায়াবৃত অংশের পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cb059440-71db-448c-8365-0225b63933df",
+    "images": [
+      "images/41123_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 6টি অভিন্ন রম্বস একটি গ্রিড তৈরি করে, যেখানে রম্বসের শীর্ষবিন্দুগুলোকে গ্রিড পয়েন্ট বলা হয়। জানা আছে যে রম্বসের একটি কোণ (∠O) 60°। বিন্দু A, B এবং C গ্রিড পয়েন্টে অবস্থিত। tan∠ABC-এর মান কত?\n\nOptions:\nক) 1\nখ) $ \\sqrt {3}$\nগ) $ \\frac { \\sqrt {3}}{3}$\nঘ) $ \\frac { \\sqrt {3}}{2}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69091c46-3af2-4e9c-bd45-803be1dbc3c7",
+    "images": [
+      "images/52474_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে, ABCD রম্বসের কর্ণ BD-এর ওপর অবস্থিত বিন্দু O থেকে AB বাহুর দূরত্ব 2 একক হলে, বিন্দু O থেকে নিচের কোনটির দূরত্বও 2 একক হবে?\nক. BC বাহুর দূরত্বও 2\nখ. CD বাহুর দূরত্বও 2\nগ. AD বাহুর দূরত্বও 2\nঘ. AC বাহুর দূরত্বও 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "62ec4b65-d7f3-40e7-8649-0e33dbc09767",
+    "images": [
+      "images/27012_0.png"
+    ],
+    "english_question": "<image>\nকোন লেবেলটি ডায়াপ্টার নির্দেশ করে?\nবিকল্পসমূহ:\n(ক) P\n(খ) W\n(গ) H\n(ঘ) L",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18f20f74-9938-424a-8de7-1e0c05a13f08",
+    "images": [
+      "images/57799_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য সমান। দুটি ছায়াযুক্ত অংশের ক্ষেত্রফল সম্পর্কে কোন বিবৃতিটি সঠিক? ( ) \nক. সমান \nখ. চিত্র 2 বড় \nগ. চিত্র 1 বড়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ff9b25e-f418-4f9c-977b-08091de5a1bb",
+    "images": [
+      "images/19707_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-তে, P হলো কর্ণ BD-এর মধ্যবিন্দু, E এবং F যথাক্রমে AB এবং CD-এর মধ্যবিন্দু। যদি AD=BC এবং ∠PEF=25° হয়, তবে ∠EPF-এর মান কত?\n\nOptions:\nক) 100°\nখ) 120°\nগ) 130°\nঘ) 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b267b580-1858-4b80-8e51-d30489aeb01c",
+    "images": [
+      "images/69968_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, 60 সেমি লম্বা একটি ফিতা সমতলভাবে রাখা এবং ভাঁজ করা হয়েছে যাতে ফিতার কিছু অংশ নিজের ওপর উপরিপাতিত হয়। এরপর, উপরিপাতিত অংশে (ছায়াবৃত এলাকা) ফিতার প্রান্তের সাথে লম্বভাবে একটি কাঁচি দিয়ে কাটা হয়, যা ফিতাটিকে তিনটি অংশে বিভক্ত করে। যদি এই তিনটি অংশের দৈর্ঘ্যের অনুপাত ক্ষুদ্রতম থেকে বৃহত্তম 1:2:3 হয়, তবে ভাঁজের জন্য সম্ভাব্য স্কেল বা দাগের সংখ্যা কতটি?\nOptions:\na), dividing the tape measure into three segments. If the lengths of these three segments are in the ratio of 1:2:3 from shortest to longest, how many possible corresponding scales are there for the crease?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b021469-d3b0-4179-bdab-f01ecef7d84f",
+    "images": [
+      "images/40354_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD-তে, DE ⊥ AC, E বিন্দুতে এবং ∠EDC ও ∠EDA-এর অনুপাত 1:3। যদি AC = 10 হয়, তবে DE-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 3\nখ) 5\nগ) $\\mathfrak{s l a}$\nঘ) $\\frac{5{\\sqrt{2}}}{2}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "99ab45e3-65a6-4108-b5c4-3e94f1fa0a99",
+    "images": [
+      "images/59225_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, AD সমান্তরাল BC, ∠B = 30°, ∠C = 60°, E, F, M এবং N বিন্দুগুলো যথাক্রমে AB, CD, BC এবং DA বাহুর মধ্যবিন্দু। যদি BC = 7 এবং MN = 3 হয়, তবে EF এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f0896c6e-3e94-4df0-9421-4662cb4bb06e",
+    "images": [
+      "images/22314_0.png"
+    ],
+    "english_question": "<image>\nদুটি বর্গক্ষেত্র পাশাপাশি একটি অর্ধবৃত্তের মধ্যে অন্তর্লিখিত আছে। যদি ছোট বর্গক্ষেত্রটির ক্ষেত্রফল 16 বর্গ সেমি হয়, তবে অর্ধবৃত্তটির ব্যাসার্ধ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c97d65e-1a37-4aca-a06c-c7f1bed93f28",
+    "images": [
+      "images/38563_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট একটি অর্ধবৃত্তের ব্যাস। জ্যা AC = 8। OD, AC এর ওপর লম্ব এবং লম্বের পাদবিন্দু E, এবং D অর্ধবৃত্তের ওপর অবস্থিত। BE যোগ করি। ধরি ∠BEC = α। sin α এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c72530c5-3743-4588-941f-ef3e5b92588b",
+    "images": [
+      "images/35075_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমন্বিত অনুশীলন ক্লাসে, শাও কং-এর দলকে একটি নদীর প্রস্থ পরিমাপ করতে হবে। চিত্রে দেখানো হয়েছে যে, নদীর তীর EF, MN-এর সমান্তরাল। শাও কং নদীর তীর MN-এর বিন্দু A-তে একটি থিওডোলাইট ব্যবহার করে দেখে যে বিপরীত তীরের ছোট গাছ C সরাসরি উত্তর-পূর্ব দিকে অবস্থিত। এরপর, সে নদীর তীর ধরে 30 মিটার হেঁটে বিন্দু B-তে পৌঁছায় এবং দেখে যে বিপরীত তীরের বৈদ্যুতিক খুঁটি D উত্তর থেকে 30 ডিগ্রি পূর্ব দিকে অবস্থিত। এসময়, অন্য সহপাঠীরা পরিমাপ করে CD = 10 মিটার। এই তথ্যের ভিত্তিতে, নদীটির প্রস্থ কত মিটার? (ফলাফল বর্গমূল আকারে রাখতে হবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2664a62c-93b3-4765-9e0d-fcb68c373572",
+    "images": [
+      "images/56059_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, CD হলো অতিভুজ AB-এর ওপর অঙ্কিত উচ্চতা, কোণ সমদ্বিখণ্ডক AE, CD-কে H বিন্দুতে ছেদ করে এবং EF, AB-এর ওপর লম্ব। নিচের কোনটি ভুল? ∠ACD = ∠B; CH = CE = EF; AC = AF; CH = HD.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9c3afcb0-5c5b-4cf8-addb-9c2e94b99a69",
+    "images": [
+      "images/13763_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ প্রদর্শিত একটি কাগজের কাপের মুখের ব্যাস 7 সেমি, নিচের দিকের ব্যাস 17/3 সেমি এবং হেলানো উচ্চতা 8 সেমি। এটিকে একটি সেক্টরে (চিত্র 2) প্রসারিত করলে, একটি ছোট পোকা নিচের বিন্দু C থেকে মুখের বিন্দু A পর্যন্ত পার্শ্ব বরাবর হেঁটে যায়। পোকাটির হেঁটে যাওয়ার সর্বনিম্ন দূরত্ব কত? (1 সেমি পর্যন্ত সঠিক)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98ad73fd-d2b6-477a-ad9e-a8cc0ef66295",
+    "images": [
+      "images/15044_0.png"
+    ],
+    "english_question": "<image>\n2013 সালের বসন্তকালে, চংকিং স্কুল-স্তরের চূড়ান্ত পরীক্ষায়, O বিন্দুটি চতুর্ভুজ ABCD-এর অভ্যন্তরে একটি বিন্দু। A', B', C' এবং D' বিন্দুগুলো যথাক্রমে OA, OB, OC এবং OD-এর ওপর এমনভাবে অবস্থিত যে, অনুপাত OA': A'A = OB': B'B = OC': C'C = OD': D'D = 2: 1। যদি চতুর্ভুজ A'B'C'D'-এর ক্ষেত্রফল 12 বর্গ সেমি হয়, তবে চতুর্ভুজ ABCD-এর ক্ষেত্রফল কত?\n\nOptions:\nক) 18 cm²\nখ) 27 cm²\nগ) 36 cm²\nঘ) 54 cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60d2134e-b44f-40cd-9158-a9f017ccc3af",
+    "images": [
+      "images/43240_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AOB সেক্টরে, OA = 10 এবং ∠AOB = 36°। যদি এই সেক্টরটিকে B বিন্দুর চারদিকে ঘড়ির কাঁটার দিকে ঘোরানো হয়, তবে একটি নতুন সেক্টর A'O'B তৈরি হয়, যেখানে A বিন্দুটি O'B-এর উপর অবস্থিত। O বিন্দু দ্বারা অতিক্রান্ত পথের দৈর্ঘ্য কত সেমি? (ফলাফলে π অন্তর্ভুক্ত থাকতে হবে)\nOptions:\nB) The length of the path traced by point O is cm. (Result should include π)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dda844d2-5bd6-4a32-9d5e-17acf57e88b1",
+    "images": [
+      "images/52886_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, P হলো বৃত্তচাপ AB-এর ওপর একটি বিন্দু এবং M ও N হলো AB-এর ওপর দুটি ত্রিখণ্ডক বিন্দু, যেখানে AB = 6। PM • PN-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4d8235c1-0013-4517-b8ca-0fb38d4aefd3",
+    "images": [
+      "images/64245_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দুটি অর্ধবৃত্ত দেওয়া আছে। বড় অর্ধবৃত্তের জ্যা AB-এর দৈর্ঘ্য 16 সেমি, যা ব্যাস CD-এর সমান্তরাল এবং ছোট অর্ধবৃত্তটিকে স্পর্শ করে। ছায়াবৃত অংশের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) 34π cm²\nখ) 126π cm²\nগ) 32π cm²\nঘ) 36π cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0486ffdd-4b1a-4587-a768-ad205089a126",
+    "images": [
+      "images/680_0.png"
+    ],
+    "english_question": "<image>\nএকটি কারখানার প্যারাবোলা আকৃতির ছাদের নিচে জানালা বসাতে হবে। প্যারাবোলার শীর্ষবিন্দু মূলবিন্দুতে অবস্থিত, এটি নিচের দিকে উন্মুক্ত এবং (6, -5.6) বিন্দু দিয়ে যায়। প্রতিটি জানালার প্রস্থ 1.5 মিটার এবং উচ্চতা 1.6 মিটার, যার নিচের প্রান্ত y = -5.6 রেখায় অবস্থিত। পাশাপাশি দুটি জানালার মধ্যবর্তী দূরত্ব 0.8 মিটার এবং প্রতিটি জানালার দুই পাশে প্যারাবোলার সাথে অন্তত 0.8 মিটার অনুভূমিক ফাঁকা জায়গা থাকতে হবে। সর্বোচ্চ কতটি জানালা বসানো সম্ভব?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

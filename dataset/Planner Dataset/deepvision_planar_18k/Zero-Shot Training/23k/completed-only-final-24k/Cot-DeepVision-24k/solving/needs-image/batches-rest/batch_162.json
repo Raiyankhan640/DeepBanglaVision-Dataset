@@ -1,0 +1,302 @@
+[
+  {
+    "id": "50794e6a-f56e-4ee4-8785-5fb3d66a5696",
+    "images": [
+      "images/9270_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াবৃত অঞ্চলটি নির্দেশকারী অসমতা জোটটি হলো __________।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "330b8ebb-0645-4381-a2e7-51f0010d748b",
+    "images": [
+      "images/33993_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত A, B এবং C বিন্দুর মধ্যবর্তী দূরত্ব দেওয়া আছে এবং B বিন্দুটি A বিন্দুর ঠিক পশ্চিমে অবস্থিত। তাহলে, B বিন্দুর সাপেক্ষে C বিন্দুটি কোন দিকে অবস্থিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9403855a-a4ba-4495-9afc-754b003176c7",
+    "images": [
+      "images/52769_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি আয়তাকার কাগজের ফালি ভাঁজ করা হয়েছে। যদি ∠1 = 110° হয়, তবে ∠2-এর মান কত?\nOptions:\nd. If ∠1 = 110°, then what is the measure of ∠2?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "67b5fda5-78e6-4bd3-a685-f8e6665a60db",
+    "images": [
+      "images/40278_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তক্ষেত্র ABCD-কে ভাঁজ করে PQ ভাঁজ রেখা পাওয়া গেল। এরপর MN বরাবর এমনভাবে ভাঁজ করা হলো যেন বিন্দু C, ভাঁজ রেখা PQ-এর ওপর বিন্দু C'-তে এবং বিন্দু D, বিন্দু D'-তে পতিত হয়, যেখানে M হলো BC-এর মধ্যবিন্দু। AC' এবং BC' যোগ করলে, চিত্রে সমদ্বিবাহু ত্রিভুজের মোট সংখ্যা কত? ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18adc2ad-ddd7-4a2c-9ea5-cd1041d2db55",
+    "images": [
+      "images/triangle_ext_18adc2ad-ddd7-4a2c-9ea5-cd1041d2db55.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে, এই জ্যামিতিক বস্তুটির আয়তন কত?\nক. \\( \\frac{1}{2} \\)\nখ. \\( 1 \\)\nগ. \\( \\frac{3}{2} \\)\nঘ. \\( 3 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "752b094f-18e0-40ba-befc-b066ddc90ff8",
+    "images": [
+      "images/74083_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঘনক ABCD-A'B'C'D'-এর পরিবৃত্তের আয়তন দেওয়া আছে \\( \\frac { \\sqrt {3}}{2} \\pi \\)। ঘনকটির একটি অংশ কেটে ফেলার পর অবশিষ্ট জ্যামিতিক আকৃতির তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। অবশিষ্ট জ্যামিতিক আকৃতির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) \\( \\frac {9}{2}+ \\frac { \\sqrt {3}}{2} \\)\nখ) \\( 3+ \\sqrt {3} \\) or \\( \\frac {9}{2}+ \\frac { \\sqrt {3}}{2} \\)\nগ) \\( 2+ \\sqrt {3} \\)\nঘ) \\( \\frac {9}{2}+ \\frac { \\sqrt {3}}{2} \\) or \\( 2+ \\sqrt {3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3b434922-656b-4990-b1ee-d9bf4b4c966a",
+    "images": [
+      "images/63763_0.png"
+    ],
+    "english_question": "<image>\nM(x₀, 4) বিন্দু থেকে নির্গত একটি আলোক রশ্মি অনুভূমিকভাবে y² = 8x পরাবৃত্তের দিকে অগ্রসর হয়ে P বিন্দুতে প্রতিফলিত হয়, ফোকাস দিয়ে যায়, পুনরায় Q বিন্দুতে প্রতিফলিত হয়, তারপর x - y - 10 = 0 রেখার ওপর N বিন্দুতে গিয়ে প্রতিফলিত হয়ে পুনরায় M বিন্দুতে ফিরে আসে। x₀ এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe9d5031-6af2-4987-bc8a-4e2939c5ed98",
+    "images": [
+      "images/31465_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন আকৃতিটি কেন্দ্রিক প্রতিসম (centrally symmetric)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e64ba9a-a016-4aa5-84eb-53bf10ebe6c8",
+    "images": [
+      "images/72222_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2011 তাইহে কাউন্টি স্কুল-লেভেল সিমুলেশন) প্রথম চিত্রটি একটি সমবাহু ত্রিভুজ। এই সমবাহু ত্রিভুজের প্রতিটি বাহুকে তিন সমান ভাগে ভাগ করা হয় এবং মাঝের অংশটিকে বাহু ধরে বাইরের দিকে একটি ত্রিভুজ গঠন করা হয়, আর মাঝের অংশটি মুছে ফেলা হয়, যার ফলে দ্বিতীয় চিত্রটি পাওয়া যায়। দ্বিতীয় চিত্রের প্রতিটি বাহুর ক্ষেত্রে একই প্রক্রিয়া পুনরাবৃত্তি করে তৃতীয় চিত্রটি পাওয়া যায়। এই প্রক্রিয়াটি n-তম চিত্র পর্যন্ত চলতে থাকে। যদি a_n দ্বারা n-তম চিত্রের বাহুর সংখ্যা নির্দেশ করা হয়, তবে অনুক্রমটির প্রথম n সংখ্যক পদের সমষ্টি S_n সমান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "abda317b-ded0-4ba1-9c8e-e6b299e2654a",
+    "images": [
+      "images/7667_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, m রেখার ওপর তিনটি সমবাহু ত্রিভুজ রাখা আছে: △ABC, △HFG এবং △DCE। দেওয়া আছে যে, BC = GE, এবং F ও G যথাক্রমে BC এবং CE-এর মধ্যবিন্দু। FM ∥ AC এবং GN ∥ DC। যদি তিনটি সামান্তরিকের ক্ষেত্রফল যথাক্রমে S₁, S₂ এবং S₃ হয় এবং S₁ + S₃ = 20 হয়, তবে S₂-এর মান কত? ( )\nOptions:\nC) Let the areas of the three parallelograms be S₁, S₂, and S₃, respectively. If S₁ + S₃ = 20, then S₂ equals ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "279c5ed6-8511-4a83-8615-3d7337af0e73",
+    "images": [
+      "images/35919_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। সামনের দৃশ্য এবং পাশের দৃশ্য উভয়ই আয়তাকার এবং উপরের দৃশ্যে একটি অর্ধবৃত্তাকার অংশ রয়েছে, যার পরিমাপ চিত্রে দেওয়া আছে। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) π + 2\nখ) π + 2 × 3\nগ) 2π + 2\nঘ) 2π + 2 × 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fc4abdcd-26b1-4e30-9149-19b159caa8a0",
+    "images": [
+      "images/43525_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, A সময়ে পতাকাদণ্ডের ছায়ার দৈর্ঘ্য 4 মিটার এবং B সময়ে ছায়ার দৈর্ঘ্য 9 মিটার। উভয় সময়ে সূর্যের আলো লম্বভাবে পতিত হলে, পতাকাদণ্ডের উচ্চতা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f7b349b-1ca0-4903-9153-23e9165935e4",
+    "images": [
+      "images/17520_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জিংঝৌ শহরের প্রাচীন নদীর বাঁকটি CC' বরাবর সমকোণ তৈরি করেছে এবং এর প্রস্থ 5 মিটার। A বিন্দু থেকে B বিন্দুতে যাওয়ার জন্য দুটি সেতু DD' এবং EE' পার হতে হয় (সেতুর প্রস্থ নগণ্য)। A এবং B বিন্দুদ্বয় পূর্ব-পশ্চিম দিকে 65 মিটার এবং উত্তর-দক্ষিণ দিকে 85 মিটার দূরত্বে অবস্থিত। ADD'E'EB পথের সর্বনিম্ন দূরত্ব কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5309af64-023e-43da-93d0-78c73d7a6721",
+    "images": [
+      "images/64447_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে, এই জ্যামিতিক বস্তুটির আয়তন কত? ( ) \nক. 1 \nখ. 1/2 \nগ. 1/3 \nঘ. 1/6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07a898a1-8532-4150-8fe8-b268bf25743e",
+    "images": [
+      "images/51197_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্রের বাইরে DCE একটি সমবাহু ত্রিভুজ অঙ্কন করা হলো। যদি ∠AED = 15° হয়, তবে ∠EAC = কত? \nক. 15° \nখ. 28° \nগ. 30° \nঘ. 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ece99e8-71d1-46cf-a44c-0b83b7560f6e",
+    "images": [
+      "images/75768_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AD = BC, AC = BD হয় এবং AC ও BD রেখাংশ O বিন্দুতে ছেদ করে, তবে চিত্রে সর্বসম ত্রিভুজের কয়টি জোড়া বিদ্যমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da0184db-6d5b-42f3-90c2-969b9e14c175",
+    "images": [
+      "images/57924_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, 1 একক বাহুবিশিষ্ট চারটি সমবাহু ত্রিভুজকে যুক্ত করে 2 একক বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজ গঠন করা হয়েছে। বিন্দুগুলোকে A_1, A_2, A_3, …, A_6 দ্বারা চিহ্নিত করা হয়েছে। ডট গুণফল A_1A_2 • A_jA_i এর মানগুলোর সেট, যেখানে (i, j ∈ [1, 2, 3, …, 6]), তা হলো ( )\n\nOptions:\nক) {-2, -1, 0, 1, 2}\nখ) {-2, -1, -1/2, 0, 1/2, 1, 2}\nগ) {-3/2, -1, -1/2, 0, 1/2, 1, 3/2}\nঘ) {-2, -3/2, -1, -1/2, 0, 1/2, 1, 3/2, 2}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d771267e-b399-49f3-9d18-49904c6d3a73",
+    "images": [
+      "images/22448_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র \\(ABCD\\)-তে \\(AB=2\\) এবং \\(AD=3\\), বিন্দু \\(E\\) বাহু \\(AD\\)-র মধ্যবিন্দু। ত্রিভুজ \\(\\triangle ABE\\) এবং \\(\\triangle DCE\\)-কে যথাক্রমে \\(BE\\) এবং \\(CE\\) বরাবর ভাঁজ করা হলো যেন বিন্দু \\(A\\) এবং \\(D\\) বিন্দু \\(F\\)-তে মিলে যায়। ডাইহেড্রাল কোণ (dihedral angle) \\(E-BC-F\\)-এর কোসাইন মান কত?\nক. \\( \\dfrac{ \\sqrt{7}}{21}\\)\nখ. \\( \\dfrac{ \\sqrt{7}}{4}\\)\nগ. \\( \\dfrac{ \\sqrt{3}}{2}\\)\nঘ. \\( \\dfrac{ \\sqrt{3}}{4}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73f50fb8-8637-4ba6-b331-298db2dcb197",
+    "images": [
+      "images/71624_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দিনের বিভিন্ন সময়ে বাঁশের খুঁটি এবং তাদের ছায়ার দৈর্ঘ্য দেখানো হয়েছে (উপরে উত্তর এবং নিচে দক্ষিণ দিক ধরা হয়েছে)। বাঁশের খুঁটিগুলো তাদের নম্বর অনুযায়ী সময়ের ক্রমানুসারে সাজাও। ( ) \nক. ②⑤④①③ \nখ. ③①④⑤② \nগ. ①③④⑤② \nঘ. ③⑤④①②",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2cda7cd9-a332-44ee-b27d-15bfc42eef95",
+    "images": [
+      "images/48332_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন শর্তটি নিশ্চিতভাবে প্রমাণ করে যে AB, CD-এর সমান্তরাল? ( )\n\nOptions:\nক) ∠2 = ∠3\nখ) ∠1 = ∠2\nগ) ∠4 = ∠5\nঘ) ∠3 = ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

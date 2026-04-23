@@ -1,0 +1,302 @@
+[
+  {
+    "id": "561cba4b-bd87-47ee-9add-84c3c1e97bac",
+    "images": [
+      "images/49843_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠DEF=60° এবং AB=BC=CD=DE=EF। ∠A এর মান ডিগ্রিতে কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0deb427d-286d-480d-a18e-b937a7071d73",
+    "images": [
+      "images/49703_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1)-এ একটি আয়তাকার কাগজের স্ট্রিপ আছে এবং ∠DEF = α। স্ট্রিপটিকে EF বরাবর ভাঁজ করে চিত্র (2) এবং এরপর BF বরাবর ভাঁজ করে চিত্র (3) তৈরি করা হলো। চিত্র (3)-এ ∠CFE-এর মান কত ডিগ্রি?\nক. 2α\nখ. 90°+2α\nগ. 180°-2α\nঘ. 180°-3α",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0bf53896-3839-46f6-b0b8-45116408bf01",
+    "images": [
+      "images/6697_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB সমান্তরাল DC এবং DE সমান্তরাল CF। দেওয়া আছে যে ত্রিভুজ ADG-এর ক্ষেত্রফল S₁ = 19, ত্রিভুজ CDO-এর ক্ষেত্রফল S₂ = 18 এবং ত্রিভুজ BCH-এর ক্ষেত্রফল S₃ = 22.8। পঞ্চভুজ EGOHF-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c1978c3c-ae41-4fdc-a9c0-b9d6dc70ed15",
+    "images": [
+      "images/30157_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, 4 একক বাহুবিশিষ্ট বর্গক্ষেত্র ABCD এর প্রতিসাম্যের কেন্দ্র মূলবিন্দু O, যেখানে AB, x-অক্ষের সমান্তরাল এবং BC, y-অক্ষের সমান্তরাল। ব্যস্তানুপাতিক ফাংশন y = 2/x এবং y = -2/x বর্গক্ষেত্র ABCD এর বাহুগুলোকে ছেদ করে। ছায়াবৃত অঞ্চলের ক্ষেত্রফলের সমষ্টি কত?\nক. 2\nখ. 4\nগ. 6\nঘ. 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "64834052-342e-4c61-8188-3d7f94d91415",
+    "images": [
+      "images/15623_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন শর্তটি দিয়ে AB সমান্তরাল CD নিশ্চিত করা যায় না ( )\n\nOptions (copied from English):\nক. ∠1=∠2\n∠B+∠BCD=180°\nগ. ∠3=∠4\nঘ. ∠B=∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc99e23e-75a6-4b6d-98c9-e3395b8d40b6",
+    "images": [
+      "images/10341_0.png"
+    ],
+    "english_question": "<image>\n$ABCD$ ট্রাপিজিয়ামে, $AB \\parallel DC$, $AB \\perp BC$, $AB = 2$ সেমি এবং $CD = 4$ সেমি। $BC$ রেখার ওপর অবস্থিত $O$ কেন্দ্রবিশিষ্ট একটি বৃত্ত $A$ ও $D$ বিন্দু দিয়ে যায় এবং $\\angle AOD = 90^\\circ$। কেন্দ্র $O$ থেকে $AD$ জ্যা-এর দূরত্ব কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b768df3-1be4-458d-aa4b-7843522f39df",
+    "images": [
+      "images/35748_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O বৃত্তের ব্যাস এবং C ও D হলো অর্ধবৃত্তের সমত্রিখণ্ডক বিন্দু। E বিন্দুটি বৃত্তের উপর এমনভাবে অবস্থিত যে CE এবং DE হলো জ্যা। ∠C + ∠E + ∠D এর মান নির্ণয় করো, যেখানে প্রতিটি কোণ তার নিজ নিজ শীর্ষবিন্দুতে উৎপন্ন পরিধিস্থ কোণ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "591a0dcf-7c2a-4f1c-a041-6c603e576c1e",
+    "images": [
+      "images/9335_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, ∠1 এবং ∠2 সম্পূরক কোণ এবং ∠3 = 104°। ∠4 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "255d90d7-10fe-47dd-b6ba-b8126a13bff3",
+    "images": [
+      "images/31731_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজের টুকরো ABCD-এর বাহুর দৈর্ঘ্য AB=8 এবং AD=4। কাগজটিকে EF রেখা বরাবর এমনভাবে ভাঁজ করা হলো যেন A বিন্দুটি C বিন্দুর সাথে মিলে যায়। ভাঁজ করার পর একটি নির্দিষ্ট অংশ রঙিন করা হলো (চিত্রে দেখানো হয়েছে), রঙিন অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3d533bc-5aeb-47f8-83f5-f9a73c6213e1",
+    "images": [
+      "images/9555_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সিলিন্ডার নেওয়া হলো যার ভূমির ব্যাসার্ধ এবং উচ্চতা উভয়ই R। সিলিন্ডারটি থেকে একটি কোণ কেটে নেওয়া হলো যার উপরের ভূমি সিলিন্ডারের ভূমির সমান এবং শীর্ষবিন্দু নিচের ভূমির কেন্দ্রে অবস্থিত। উৎপন্ন জ্যামিতিক বস্তুটি R ব্যাসার্ধের একটি অর্ধগোলকের সাথে একই অনুভূমিক তল α-তে রাখা হলো। তল α-এর সমান্তরাল একটি তল এই দুটি জ্যামিতিক বস্তুকে ছেদ করলে একটি বৃত্তাকার মুখ এবং একটি বৃত্তাকার বলয়াকার মুখ (চিত্রে ছায়াবৃত অংশ) উৎপন্ন হয়। যদি ছেদগুলোর ক্ষেত্রফল যথাক্রমে S_circle এবং S_ring হয়, তবে কোনটি সঠিক?\n\nOptions:\nক) S_{circle} > S_{ring}\nখ) S_{circle} = S_{ring}\nগ) S_{circle} < S_{ring}\nঘ) Uncertain",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9065847a-4667-4779-8be8-fc64cc6652de",
+    "images": [
+      "images/35931_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমবাহু ত্রিভুজ \\(\\triangle OAB\\)-কে বিন্দু \\(O\\)-এর সাপেক্ষে ঘড়ির কাঁটার বিপরীত দিকে \\(150^{\\circ}\\) কোণে আবর্তন করলে \\(\\triangle OA'B'\\) পাওয়া যায় (যেখানে \\(A'\\) ও \\(B'\\) বিন্দুদ্বয় যথাক্রমে \\(A\\) ও \\(B\\) বিন্দুর অনুরূপ বিন্দু)। তাহলে, \\(\\angle 1 =\\) ______ \\(^{\\circ}\\)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e8df88fa-d695-4110-8512-99c6c6392748",
+    "images": [
+      "images/29818_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে AB সমান্তরাল CD এবং BC সমান্তরাল DE। ∠B + ∠D এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5de1bb28-8908-4000-a2c7-0f0af3b324cf",
+    "images": [
+      "images/45684_0.png"
+    ],
+    "english_question": "<image>\nএকটি ফুটবল ম্যাচে, খেলোয়াড় A বলটি প্রতিপক্ষের গোল PQ-এর দিকে ড্রিবল করে নিয়ে যাচ্ছে। যখন সে বিন্দু A-তে পৌঁছায়, তার সতীর্থ B ইতিমধ্যে বিন্দু B-তে দৌড়ে অবস্থান নিয়েছে। এই মুহূর্তে, A-এর কি সরাসরি গোলপোস্টে শট নেওয়া উচিত, নাকি বলটি B-এর কাছে পাস দেওয়া উচিত যাতে B শট নিতে পারে? (শুধুমাত্র শ্যুটিং কোণ বিবেচনা করুন)\nOptions:\nB) At this moment, should A shoot directly at the goal, or should he pass the ball to B for B to shoot? (Consider only the shooting angle)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b83b51fe-e6ad-4007-967c-48ebbffd30b6",
+    "images": [
+      "images/32653_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, △ABC-এর বহিঃস্থ কোণের সমদ্বিখণ্ডকদ্বয় BD ও CD বিন্দু D-তে মিলিত হয়। যদি ∠A = 70° হয়, তবে ∠BDC-এর মান কত? ( )\n\nOptions:\nক) 35°\nখ) 55°\nগ) 70°\nঘ) 125°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c7a591c-cb1f-4a01-bbbe-8e96caf93d6f",
+    "images": [
+      "images/1179_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $AC$ হলো খুঁটি $AB$-এর একটি সাপোর্ট তার। পরিমাপ করে দেখা গেল $BC = 6$ মিটার এবং $\\triangle ACB$-এর একটি কোণ $52^\\circ$। সাপোর্ট তার $AC$-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "edf8ec53-bf64-4a9d-96c1-9a316c5238fd",
+    "images": [
+      "images/2357_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠1 = ∠3 হয়, তবে কোন জোড়া রেখা অবশ্যই সমান্তরাল হবে? বিকল্পগুলো হলো: AB ∥ CD, AD ∥ BC, AC ∥ BD।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b70dbd60-8cce-4695-b7e4-9fb215587b5f",
+    "images": [
+      "images/71507_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি অর্ধবৃত্তের ব্যাস AB এর দৈর্ঘ্য 6। যখন বিন্দু B, বিন্দু A-কে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে 60° কোণে ঘোরে, তখন বিন্দু B, বিন্দু B'-এ স্থানান্তরিত হয়। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "edf74424-a6df-402b-8cc1-ed10c1df5595",
+    "images": [
+      "images/26694_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্তস্থ চতুর্ভুজ ABCD একটি বর্গক্ষেত্র এবং E বিন্দুটি CD চাপের উপর অবস্থিত। কোণ E-এর পরিমাপ কত? ( )\n\nOptions:\nক) 90°\nখ) 60°\nগ) 45°\nঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "abc817f4-3920-4472-b87f-53f4ed4901b2",
+    "images": [
+      "images/35271_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, 12 সেমি দৈর্ঘ্য এবং 6 সেমি প্রস্থ বিশিষ্ট একটি আয়তাকার সাদা কাগজে (একই ব্যবধান যুক্ত) ছায়াযুক্ত অংশের ক্ষেত্রফল হলো ______ বর্গসেমি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1700647c-fe17-4fb8-b084-a935d28dfb2c",
+    "images": [
+      "images/11142_0.png"
+    ],
+    "english_question": "<image>\nবর্গাকার গ্রিডে, O, A এবং B বিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত। ∠AOB কোণের সাইন (sine) মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

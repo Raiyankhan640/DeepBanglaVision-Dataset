@@ -1,0 +1,328 @@
+[
+  {
+    "id": "db10201f-3a9d-451a-8bae-f3dc4d4f406c",
+    "images": [
+      "images/15595_0.png"
+    ],
+    "english_question": "<image>\n(2015 সুকিয়ান) চিত্রে প্রদর্শিত অনুযায়ী, a এবং b রেখাদ্বয়কে c রেখা ছেদ করলে, ∠1 এবং ∠2 হলো (___)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "afa8061e-0175-493d-8de0-edc82c6043a3",
+    "images": [
+      "images/13443_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি ∠1 + ∠2 = 180° হয়, তবে কী সিদ্ধান্ত নেওয়া যায়?\n\nOptions:\nক) \\(∠2 + ∠4 = 180^{\\circ}\\)\nখ) \\(∠3 + ∠4 = 180^{\\circ}\\)\nগ) \\(∠3 = ∠4\\)\nঘ) \\(∠1 = ∠3\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e0e39cd2-7b4a-4efd-a279-f37afed17dde",
+    "images": [
+      "images/30826_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, পয়েন্টারটি ছায়াযুক্ত অংশে নির্দেশ করার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c68c196f-a76f-4341-8615-1cdc450d2e3a",
+    "images": [
+      "images/triangle_ext_c68c196f-a76f-4341-8615-1cdc450d2e3a.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এর আয়তন কত?\nক. 8\nখ. 10\nগ. 12\nঘ. 14",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d3fc4321-b663-45ce-9b09-8f60080ff8bb",
+    "images": [
+      "images/27222_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্র 1-এ, G হলো BC-এর মধ্যবিন্দু, H হলো AF-এর উপর একটি বিন্দু, এবং বিন্দু P চিত্র 1-এর ধার বরাবর প্রতি সেকেন্ডে 2 সেমি বেগে G-C-D-E-F-H পথে চলছে। ত্রিভুজ ABP-এর ক্ষেত্রফল y (সেমি²) সময় t (সেকেন্ড)-এর একটি ফাংশন, যা চিত্র 2-এ দেখানো হয়েছে। যদি AB = 6 সেমি হয়, তবে নিচের চারটি সিদ্ধান্তের মধ্যে কয়টি সঠিক? ( ) \n① চিত্র 1-এ BC-এর দৈর্ঘ্য 8 সেমি, \n② চিত্র 2-এ বিন্দু M নির্দেশ করে যখন t = 4 সেকেন্ড, তখন y-এর মান 24 সেমি², \n③ চিত্র 1-এ CD-এর দৈর্ঘ্য 6 সেমি, \n④ চিত্র 2-এ বিন্দু N নির্দেশ করে যখন t = 12 সেকেন্ড, তখন y-এর মান 18 সেমি²। \nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7adb3d3d-5a5b-4a42-b525-076e9617ca9f",
+    "images": [
+      "images/43767_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, জানালা দিয়ে শ্রেণিকক্ষে সূর্যালোক প্রবেশ করছে। জানালার ফ্রেম AB-এর ভূমিতে ছায়ার দৈর্ঘ্য DE = 1.8 মি, জানালার নিচের প্রান্ত থেকে ভূমির দূরত্ব BC = 1 মি, এবং EC = 1.2 মি। জানালার উচ্চতা AB কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b9ad1d27-2227-4684-992f-e1bccd188fc0",
+    "images": [
+      "images/62964_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি EF সমান্তরাল GH হয়, তবে ( )\n\nOptions:\nক) ∠BEH=∠CHE\nখ) ∠1=∠2\nগ) ∠1=∠3\nঘ) ∠BEF=∠CHG",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b958739d-c53b-4027-9825-87dd8f2f8e1d",
+    "images": [
+      "images/35803_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OAB সেক্টরের শীর্ষবিন্দু O-কে মূলবিন্দু এবং OB ব্যাসার্ধ বরাবর রেখাকে x-অক্ষ ধরে একটি কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করা হলো। বিন্দু B-এর স্থানাঙ্ক (2, 0)। যদি পরাবৃত্ত y= 1/2 x^2 + k-এর সাথে OAB সেক্টরের সীমানার ঠিক দুটি ছেদবিন্দু থাকে, তবে বাস্তব সংখ্যা k-এর মানের পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "84a85413-b4d4-4136-afe6-ee6699747694",
+    "images": [
+      "images/440_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে AC = AE, AB = AD এবং ∠EAC = ∠DAB। যদি ∠D = 20°, ∠CAD = 15° এবং ∠BAC = 30° হয়, তবে ∠C এর মান নির্ণয় করো।\nOptions:\nB) If ∠D = 20°, ∠CAD = 15°, and ∠BAC = 30°, find the degree measure of ∠C)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1fb9f2c5-f1fc-4153-a1db-c4247d4873d6",
+    "images": [
+      "images/42748_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দুটি সমান্তরাল রেখার ওপর একটি 30° কোণবিশিষ্ট সমকোণী ত্রিভুজ রাখা হলো। তাহলে, ∠1 + ∠2 = _________°।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f09bcc8e-36df-4190-8ba7-e0808a27dc4b",
+    "images": [
+      "images/50471_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A এবং B বিন্দু দুটি একটি রেখার বিপরীত পাশে অবস্থিত। রেখাটি থেকে A বিন্দুর দূরত্ব AM=4, রেখাটি থেকে B বিন্দুর দূরত্ব BN=1 এবং MN=4। P রেখার উপর একটি চলমান বিন্দু। |PA - PB| এর সর্বোচ্চ মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dac3a38f-37ac-43c2-a454-8b48a1dbb5cf",
+    "images": [
+      "images/triangle_ext_dac3a38f-37ac-43c2-a454-8b48a1dbb5cf.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলো একই আকারের বর্গক্ষেত্র এবং সমবাহু ত্রিভুজ দিয়ে একটি নির্দিষ্ট প্যাটার্নে সাজানো হয়েছে। প্রথম চিত্রে মোট 5টি সুষম বহুভুজ আছে, দ্বিতীয় চিত্রে মোট 13টি সুষম বহুভুজ আছে, তৃতীয় চিত্রে মোট 26টি সুষম বহুভুজ আছে, এবং এভাবে চলতে থাকে। সুতরাং, ষষ্ঠ চিত্রে সুষম বহুভুজের সংখ্যা কত? ( )\nক. 90\nখ. 91\nগ. 115\nঘ. 116",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "628d5b23-bc63-4b1d-a731-b2e533beb9ed",
+    "images": [
+      "images/27937_0.png"
+    ],
+    "english_question": "<image>\nএকটি টাইফুনের কেন্দ্র O বিন্দুতে অবস্থিত, যা শহর A থেকে 300 কিমি পূর্বে। এটি 20 কিমি/ঘণ্টা বেগে পশ্চিম দিকে 60° কোণে উত্তর-পশ্চিম দিকে অগ্রসর হচ্ছে। টাইফুন কেন্দ্রের 250 কিমি ব্যাসার্ধের এলাকা ক্ষতিগ্রস্ত হবে। যদি গতিবেগ ও দিক অপরিবর্তিত থাকে, তবে শহর A কতক্ষণ টাইফুনের প্রভাবে থাকবে?\nOptions:\nd. If the speed and direction remain unchanged, how long will city A be affected by the typhoon?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1125bb30-9b17-45bf-a1c4-992342a870d8",
+    "images": [
+      "images/28425_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, ∠CDE = 119°, GF রেখা ∠DEB এর সমদ্বিখণ্ডক EF কে F বিন্দুতে ছেদ করে এবং ∠AGF = 130°। ∠F এর মান কত?\n\nOptions:\nক) 10.5°\nখ) 9.5°\nগ) 8.5°\nঘ) 8°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "050848bc-8b51-414b-b278-446942449230",
+    "images": [
+      "images/triangle_ext_050848bc-8b51-414b-b278-446942449230.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে, \\(\\triangle ABC\\)-এর অবস্থান চিত্রে দেখানো হয়েছে। \\(\\cos B\\)-এর মান কত?\nক. \\( \\dfrac { \\sqrt {5}}{5}\\)\nখ. \\( \\dfrac {2 \\sqrt {5}}{5}\\)\nগ. \\( \\dfrac {1}{2}\\)\nঘ. \\(2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "04e9d6eb-c4d3-448b-9eed-9a224c494fd0",
+    "images": [
+      "images/25785_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি শিক্ষণ ভবনের (CD) পেছনে একটি ভবন (AB) অবস্থিত। যখন ভূমির সাথে আলোর কোণ 22° হয়, তখন শিক্ষণ ভবনটি দেয়াল CE-এর ওপর 2 মিটার উচ্চতার ছায়া ফেলে। যখন ভূমির সাথে আলোর কোণ 45° হয়, তখন শিক্ষণ ভবনের শীর্ষ A থেকে ভূমির ছায়া F এবং দেয়ালের কোণা C-এর দূরত্ব 18 মিটার (বিন্দু B, F এবং C একই সরলরেখায় অবস্থিত)। শিক্ষণ ভবন AB-এর উচ্চতা নির্ণয় করো (ফলাফল পূর্ণসংখ্যায় প্রকাশ করো)। (সহায়ক তথ্য: sin 22° ≈ 0.37, cos 22° ≈ 0.93, tan 22° ≈ 0.40)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "866e96ef-86a7-4000-96c0-b3a596ee81bf",
+    "images": [
+      "images/16914_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সামান্তরিকটির ক্ষেত্রফল 36 বর্গ মিটার। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: মিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0fefc27a-43c5-44d2-963b-ed6e5069fda3",
+    "images": [
+      "images/22183_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অর্ধবৃত্ত AB-কে CD অবস্থানে স্থানান্তর করলে যে ক্ষেত্রফল অতিক্রম করে তা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "173eb910-7ced-4335-a930-618839060710",
+    "images": [
+      "images/27354_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, AB=10, BC=6, E এবং F বিন্দুদ্বয় যথাক্রমে AD এবং DC-এর মধ্যবিন্দু। যদি EF=7 হয়, তবে চতুর্ভুজ EACF-এর পরিসীমা কত?\n\nOptions:\nক) 20\nখ) 22\nগ) 29\nঘ) 31",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2541de3a-cd4a-4f31-aece-e37d42eb6448",
+    "images": [
+      "images/2926_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে OABC এবং DEFG বর্গক্ষেত্র দুটি সদৃশ। B বিন্দুর স্থানাঙ্ক (-1, 1) এবং F বিন্দুর স্থানাঙ্ক (4, 2)। যদি সদৃশতার কেন্দ্র উভয় চিত্রের একই পাশে অবস্থিত হয়, তবে সদৃশতার কেন্দ্রের স্থানাঙ্ক নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

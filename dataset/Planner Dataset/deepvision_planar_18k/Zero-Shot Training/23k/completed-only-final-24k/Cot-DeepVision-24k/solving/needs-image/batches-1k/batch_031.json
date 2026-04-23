@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0a8a462c-8f92-4ea9-9793-c002fc5e93cf",
+    "images": [
+      "images/38103_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দুটি 45° ত্রিভুজ একে অপরের ওপর রাখা আছে। $BC$ এবং $AC$-এর বর্ধিতাংশ রেখা $DE$-কে যথাক্রমে $M$ এবং $N$ বিন্দুতে ছেদ করে। যদি $∠ABD=30^{\\circ}$ হয়, তবে $∠AND$-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95a0b5d2-9b74-43a6-ae07-22388ede7849",
+    "images": [
+      "images/38176_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি নির্মাণ দল পাহাড়ের ঢালে রাস্তা তৈরির প্রস্তুতি নিচ্ছে এবং পাহাড়ের ঢাল পরিমাপ করা প্রয়োজন, যা হলো tan α-এর মান। জরিপকারী P বিন্দু থেকে বিপরীত পাহাড়ের চূড়ায় একটি লোহার টাওয়ার পর্যবেক্ষণ করেন এবং টাওয়ারের চূড়া C-এর উন্নতি কোণ 37° এবং টাওয়ারের পাদদেশ B-এর উন্নতি কোণ 26.6° পরিমাপ করেন। টাওয়ারের উচ্চতা BC = 80 মিটার, টাওয়ার যে পাহাড়ে অবস্থিত তার উচ্চতা OB = 220 মিটার এবং A বিন্দুতে পাহাড়ের উচ্চতা OA = 200 মিটার। পাহাড়ের ঢাল = কত? (তথ্য: sin 26.6° ≈ 0.45, tan 26.6° ≈ 0.50; sin 37° ≈ 0.60, tan 37° ≈ 0.75)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "def0e35b-6e42-4ca0-96d6-d0bf4af7f91e",
+    "images": [
+      "images/68535_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে ∠MON = 50°, P বিন্দুটি ∠MON এর অভ্যন্তরে অবস্থিত। A বিন্দুটি OM এর ওপর এবং B বিন্দুটি ON এর ওপর অবস্থিত। ত্রিভুজ △PAB এর পরিসীমা সর্বনিম্ন হলে, ∠APB এর মান কত ডিগ্রি?\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "82fd5669-de06-4922-9b25-8080dbb7b15e",
+    "images": [
+      "images/49677_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্র 1-এ, G বিন্দুটি BC-এর মধ্যবিন্দু, H বিন্দুটি AF-এর ওপর অবস্থিত এবং P বিন্দুটি চিত্র 1-এর ধার বরাবর 2 সেমি/সেকেন্ড বেগে G→C→D→E→F→H পথে চলছে। ত্রিভুজ ABP-এর ক্ষেত্রফল y (সেমি²) সময় t (সেকেন্ড)-এর একটি ফাংশন যা চিত্র 2-এ দেখানো হয়েছে। যদি AB = 6 সেমি হয়, তবে নিচের চারটি সিদ্ধান্তের মধ্যে কয়টি সঠিক? ( ) 1. চিত্র 1-এ BC-এর দৈর্ঘ্য 8 সেমি; 2. চিত্র 2-এর M বিন্দু নির্দেশ করে যে 4র্থ সেকেন্ডে y-এর মান 24; 3. চিত্র 1-এ CD-এর দৈর্ঘ্য 4 সেমি; 4. চিত্র 1-এ DE-এর দৈর্ঘ্য 3 সেমি; 5. চিত্র 2-এর Q বিন্দু নির্দেশ করে যে 8ম সেকেন্ডে y-এর মান 33; 6. চিত্র 2-এর N বিন্দু নির্দেশ করে যে 12তম সেকেন্ডে y-এর মান 18 সেমি²।\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5d0a2e03-f716-4b84-82ca-fc0cbdeb6319",
+    "images": [
+      "images/65279_0.png"
+    ],
+    "english_question": "<image>\nগণিত ক্লাবের শিক্ষার্থীরা একটি পুকুর দ্বারা বিচ্ছিন্ন দুটি গাছ A এবং B-এর মধ্যবর্তী দূরত্ব পরিমাপ করতে চায়। তারা চিত্রে প্রদর্শিত অনুযায়ী একটি পরিমাপ পদ্ধতি নকশা করল: গাছ A থেকে যাত্রা শুরু করে AB-এর ওপর লম্ব বরাবর E বিন্দু পর্যন্ত হেঁটে গেল এবং এরপর E থেকে AE-এর ওপর লম্ব বরাবর F বিন্দু পর্যন্ত হেঁটে গেল। C বিন্দুটি AE-এর ওপর একটি বিন্দু। তিনজন শিক্ষার্থী তিন সেট উপাত্ত পরিমাপ করল: ① AC, ∠ACB; ② EF, DE, AD; ③ CD, ∠ACB, ∠ADB। পরিমাপকৃত উপাত্তের ভিত্তিতে, কোন সেটগুলো গাছের মধ্যবর্তী দূরত্ব AB নির্ধারণ করতে সক্ষম?\nOptions:\nd. They designed a measurement scheme as shown in the figure: starting from tree A, they walk to point E along a direction perpendicular to AB, and then from E, they walk to point F along a direction perpendicular to AE. Point C is a point on AE. Three students measured three sets of data: ① AC, ∠ACB; ② EF, DE, AD; ③ CD, ∠ACB, ∠ADB) Based on the measured data, the number of groups that can determine the distance between trees A and B is ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9235f14d-96e3-4254-8c2f-7aff937ead2b",
+    "images": [
+      "images/28456_0.png"
+    ],
+    "english_question": "<image>\nনিচের ছবিতে একটি কমিউনিটির রাস্তার ম্যাপ দেখানো হয়েছে। A, B, C, ..., X, Y, Z হলো রাস্তার 17টি মোড় (intersection)। যেকোনো মোড়ে দাঁড়িয়ে সেই মোড়ের মধ্য দিয়ে যাওয়া সব রাস্তা সোজা রেখায় দেখা যায়। নিরাপত্তারক্ষীরা যেন কমিউনিটির সব রাস্তা দেখতে পারে তা নিশ্চিত করতে ন্যূনতম কতজন নিরাপত্তারক্ষী মোতায়েন করা প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "03f902ca-9948-4a28-8d54-92b6ee915030",
+    "images": [
+      "images/22252_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখাটি O কেন্দ্রবিশিষ্ট বৃত্তের কেন্দ্র দিয়ে যায় এবং বৃত্তটিকে A ও B বিন্দুতে ছেদ করে। C বিন্দুটি বৃত্তের পরিধির ওপর অবস্থিত এবং ∠AOC = 30 ডিগ্রি। E বিন্দুটি AB রেখার ওপর একটি চলমান বিন্দু (O বিন্দুর সাথে সমপাতিত নয়) এবং EC রেখাটি বৃত্তটিকে D বিন্দুতে ছেদ করে। DE = DO শর্তটি পূরণ করে এমন E বিন্দুর সংখ্যা কতটি?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9718ba89-e711-4d17-94e7-e6d6a1e3a936",
+    "images": [
+      "images/1743_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ, একটি চতুর্ভুজাকার কাগজ ABCD কে AB থেকে BC এর দিকে ভাঁজ করা হলো (যেখানে AB < BC), যাতে বিন্দু A, BC রেখার উপর পড়ে। খোলার পর, চিত্র 2-এর মতো একটি ভাঁজ রেখা BD পাওয়া গেল। এরপর, বিন্দু B কে D এর দিকে ভাঁজ করা হলো, যাতে B এবং D বিন্দুদ্বয় মিলে যায়, যেমনটি চিত্র 3-এ দেখানো হয়েছে। খোলার পর, চিত্র 4-এর মতো একটি ভাঁজ রেখা CE পাওয়া গেল। চিত্র 4-এর ভিত্তিতে, নিচের কোন সম্পর্কটি সঠিক? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a5492c03-4f75-4de3-993a-f96c74435c27",
+    "images": [
+      "images/30530_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন শর্তটি দিয়ে এটি নিশ্চিত করা যায় না যে রেখাংশ AB, রেখাংশ CD-এর সমান্তরাল:\nক. ∠1=∠2\nখ. ∠2=∠4\nগ. ∠1=∠A\nঘ. ∠2+∠3=180^{\\circ}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc8ffbb5-a104-42cd-9d44-efbc726616e4",
+    "images": [
+      "images/31286_0.png"
+    ],
+    "english_question": "<image>\nছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7301fd66-14da-44b4-8a27-522ea147330c",
+    "images": [
+      "images/24992_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 4 সেমি প্রস্থের একটি কাগজের ফিতাকে AB বরাবর ভাঁজ করা হলো। যদি ∠ACB = 30° হয়, তবে ভাঁজ করার পর উপরিপাতিত অংশের ক্ষেত্রফল কত বর্গ সেমি?\n\nOptions:\nক) 16\nখ) 14\nগ) 12\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0f037357-3548-4050-a8c6-49bcabc96e53",
+    "images": [
+      "images/16316_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তক্ষেত্রকে (চিত্রে প্রদর্শিত) দুটি সর্বসম আয়তক্ষেত্রে বিভক্ত করা হলো। যদি প্রতিটি ছোট আয়তক্ষেত্র মূল আয়তক্ষেত্রের সদৃশ হয়, তবে মূল আয়তক্ষেত্রটিকে কী শর্ত পূরণ করতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fed18e04-a7a2-473f-b002-208a70ae8ff5",
+    "images": [
+      "images/40068_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী (2012 স্প্রিং, ফেংশান কাউন্টি স্কুল-লেভেল মিডটার্ম), ∠DOF-এর বিপ্রতীপ কোণটি হলো:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "325d77eb-3982-47af-aeca-9a5f941a1048",
+    "images": [
+      "images/74061_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কোণ 1-এর সাথে একই পাশের কোণ হল ( ) ক. ∠2 খ. ∠3 গ. ∠4 ঘ. ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51cb23c7-0fd1-412d-916c-66237ac62db3",
+    "images": [
+      "images/76010_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তাকার ট্র্যাকের ভেতরের লেনের একটি সোজা অংশ 50 মিটার এবং 32 মিটার ব্যাসের অর্ধবৃত্তাকার প্রান্ত রয়েছে। যদি ট্র্যাকটিতে 4টি লেন থাকে, প্রতিটি 1.25 মিটার প্রশস্ত হয় এবং 200 মিটারের দৌড়ের জন্য এক চক্কর প্রয়োজন হয়, তবে প্রতিটি লেনের শুরুর লাইন আগের লেনের তুলনায় কত মিটার এগিয়ে থাকা উচিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd7513ad-9426-4b0e-9f15-1d1b66c40499",
+    "images": [
+      "images/27467_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ced329cb-436f-497c-8f8f-a05ea1a988a0",
+    "images": [
+      "images/52603_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92e209b2-f219-42ba-9467-4778aeadb572",
+    "images": [
+      "images/50715_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1 হলো (m+n) বাহুবিশিষ্ট একটি বর্গক্ষেত্র যা 4টি সর্বসম সমকোণী ত্রিভুজ দ্বারা গঠিত। শিয়াওইং চিত্র 1-এর ছায়াবৃত অংশগুলোকে সাজিয়ে চিত্র 2-এর আকৃতি তৈরি করে। চিত্র 1 ও 2 দ্বারা কোন সমীকরণটি যাচাই করা যায়? ( )\n\nOptions:\nক) (m+n)^{2}−(m−n)^{2}=4mn\nখ) (m+n)^{2}−(m^{2}+n^{2})=2mn\nগ) (m−n)^{2}+2mn=m^{2}+n^{2}\nঘ) (m+n)(m−n)=m^{2}−n^{2}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d6a06ce2-bfce-4787-9a33-b67ef9004cb1",
+    "images": [
+      "images/40851_0.png"
+    ],
+    "english_question": "<image>\nদেশলাই কাঠি দিয়ে তৈরি '中' আকৃতির প্যাটার্নগুলো পর্যবেক্ষণ করে, n-তম চিত্রটি তৈরি করতে কতগুলো দেশলাই কাঠির প্রয়োজন হবে তা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dd821d37-4beb-401b-82b5-df839288ad96",
+    "images": [
+      "images/10706_0.png"
+    ],
+    "english_question": "<image>\nফ্যাংফ্যাং-এর একটি ঢাকনাবিহীন স্টোরেজ বক্স আছে। বক্সটি খুলে ফেললে (অবিচ্ছিন্ন রেখার অংশ) চিত্রে দেখানো আকৃতি পাওয়া যায়। এই আকৃতির সাথে 10 সেমি বাহুবিশিষ্ট চারটি ছোট বর্গক্ষেত্র যোগ করলে একটি আয়তক্ষেত্র তৈরি হয়। যদি আয়তক্ষেত্রটির ক্ষেত্রফল 2000 বর্গ সেমি হয়, তবে চিত্র থেকে x-এর মান কত হবে?\n\nOptions:\nক) 10\nখ) 20\nগ) 25\nঘ) 30",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

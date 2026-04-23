@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a970ef0b-8eb7-43f5-9eac-9aa99eb76360",
+    "images": [
+      "images/9326_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ∠1 = ∠2 দেওয়া আছে। কোন সিদ্ধান্তটি সঠিক? \nক. ∠3 + ∠4 = 180° \nখ. ∠2 + ∠4 = 180° \nগ. c ∥ d \nঘ. ∠1 = ∠3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa23ace7-da01-4b21-a559-3a250d5dd9a7",
+    "images": [
+      "images/59071_0.png"
+    ],
+    "english_question": "<image>\nABCD রম্বসে, ∠BAD = 80°, AB এর লম্ব দ্বিখণ্ডক কর্ণ AC কে F বিন্দুতে ছেদ করে এবং লম্বের পাদবিন্দু E। তাহলে, ∠CDF এর পরিমাপ কত?\nক. 50°\nখ. 60°\nগ. 70°\nঘ. 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "53a2e0f2-27b1-4398-a1ba-4173bb4ddfd5",
+    "images": [
+      "images/61452_0.png"
+    ],
+    "english_question": "<image>\nনিচের সুন্দর নকশাগুলোর মধ্যে, কেন্দ্রিক প্রতিসম (centrally symmetric) চিত্রের সংখ্যা কত? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1da74d59-e63f-485d-8ac7-c7933e107b3a",
+    "images": [
+      "images/19453_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, CF ⊥ AB (F বিন্দুতে), BE ⊥ AC (E বিন্দুতে) এবং M হলো BC-এর মধ্যবিন্দু। চিত্রে কতগুলো সমদ্বিবাহু ত্রিভুজ রয়েছে? ( )\nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e5be7c9-0cc6-418c-940f-45baa50ce953",
+    "images": [
+      "images/58122_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, CD হলো বৃত্ত O-এর ব্যাস, জ্যা AB বিন্দু G-তে CD-এর ওপর লম্ব এবং রেখা EF বিন্দু D-তে বৃত্ত O-এর স্পর্শক। নিচের কোন সিদ্ধান্তটি সর্বদা সঠিক নয়?\n\nOptions (copied from English):\nD. Which of the following conclusions is not necessarily correct?\nAG = BG\nAB ∥ EF\nAD ∥ BC\n∠ABC = ∠ADC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9f55ad9-32aa-494f-9f53-7bb271d2e741",
+    "images": [
+      "images/33227_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\( \\triangle ABC \\) এবং \\( \\triangle ADE \\) ত্রিভুজদ্বয়ে, \\( \\frac{AB}{BC} = \\frac{AE}{ED} \\)। \\( \\triangle ABC \\) এবং \\( \\triangle ADE \\) কে সদৃশ করার জন্য একটি অতিরিক্ত শর্ত প্রয়োজন, যা হতে পারে \\( \\quad \\)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "393245b3-fce9-4946-b345-3fe147b75991",
+    "images": [
+      "images/15685_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রশ্মিগুলোর দিক সম্পর্কে নিচের কোন মন্তব্যটি ভুল?\n\nOptions:\nক) OA represents North 15° East\nখ) OB represents North 50° West\nগ) OC represents South 45° East\nঘ) OD represents Southwest",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4535b8a1-7b95-4b52-a7c1-ba6f9358b187",
+    "images": [
+      "images/60491_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর সম্মুখ দৃশ্য (main view), পার্শ্ব দৃশ্য (left view) এবং শীর্ষ দৃশ্য (top view) যথাক্রমে একটি সমদ্বিবাহু ট্রাপিজিয়াম, একটি সমদ্বিবাহু সমকোণী ত্রিভুজ এবং একটি আয়তক্ষেত্র। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) \\( \\dfrac {5}{3}\\)\nখ) \\( \\dfrac {4 \\sqrt {2}}{3}\\)\nগ) \\( \\dfrac {7}{3}\\)\nঘ) \\( \\dfrac {10}{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "05bd0522-9af7-43be-9572-3801480bb2ef",
+    "images": [
+      "images/56285_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, দেওয়া আছে যে |AB| = 2|CD|, এবং বিন্দু E, AC রেখাংশকে 8:11 অনুপাতে বিভক্ত করে। একটি পরাবৃত্ত (hyperbola) C, D, এবং E বিন্দু দিয়ে অতিক্রম করে, যার উপকেন্দ্র (foci) হলো A এবং B। পরাবৃত্তটির উৎকেন্দ্রিকতা (eccentricity) নির্ণয় করো।\nOptions:\na.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c23ddf46-a3ed-4dd4-af7c-8a8848d2264b",
+    "images": [
+      "images/63171_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমদ্বিবাহু সমকোণী ত্রিভুজ ABC-এর বাহুদ্বয়ের দৈর্ঘ্য 10 সেমি। ছায়াবৃত অংশ A এবং B সমান। সেক্টর AEF-এর ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6667e6ca-be9b-4bb1-96df-4461a15634d3",
+    "images": [
+      "images/9054_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, P হলো রেখা BA-এর বর্ধিতাংশের একটি বিন্দু এবং D হলো বৃত্ত O-এর ওপর একটি বিন্দু (যা A বা B বিন্দুর সাথে মিলে যায় না)। PD সংযোগ করলে তা বৃত্ত O-কে C বিন্দুতে ছেদ করে এবং ধরি PC = OB। ধরি ∠P = α এবং ∠B = β। নিচের কোন বিবৃতিটি সঠিক?\n\nOptions (copied from English):\nখ). Connect PD to intersect circle O at point C, and let PC = OB. Let ∠P = α and ∠B = β. Which of the following statements is correct?\nক. If β = 30°, then ∠D = 120°.\nখ. If β = 60°, then ∠D = 90°.\nগ. If α = 10°, then \\overparen{AD} = 150°.\nIf α = 15°, then \\overparen{AD} = 90°.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9963f3d8-2455-4799-b67c-53631a5a2192",
+    "images": [
+      "images/25377_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, ∠A = 60°, DE ⊥ AB, DF ⊥ BC, যেখানে E এবং F হলো লম্ববিন্দু। নিচের কোন সিদ্ধান্তগুলো সঠিক তা নির্ণয় করো: ① AB = 2DF; ② DE • CF = DF • AE; ③ ∠DFE = ∠CDB; ④ যদি ABCD-এর ক্ষেত্রফল 8 হয়, তবে ত্রিভুজ DEF-এর ক্ষেত্রফল 3।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c2e0b97-d3d4-4192-9c78-63b4e9b4b831",
+    "images": [
+      "images/36418_0.png"
+    ],
+    "english_question": "<image>\nশাও শু একটি বর্গাকার কাগজ নিলেন (চিত্র ক), এটিকে ড্যাশ রেখা বরাবর একবার ভাঁজ করে চিত্র খ পেলেন। এরপর তিনি এটিকে পুনরায় ভাঁজ করে চিত্র গ পেলেন। এরপর তিনি কাঁচি দিয়ে চিত্র গ-এর একটি কোণা ড্যাশ রেখা বরাবর কেটে ফেললেন (ড্যাশ রেখাটি নিচের প্রান্তের সমান্তরাল)। কাগজটি খোলার পর প্রাপ্ত আকৃতিটি হবে ( )\n\nOptions (copied from English):\nখ. Then he folded it again to get Figure গ. After that, he used scissors to cut off a corner along the dashed line in Figure C (the dashed line is parallel to the bottom edge). The shape after unfolding is ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e2872a9-c5a0-4469-980b-8207612977d2",
+    "images": [
+      "images/52964_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রে প্রদর্শিত ত্রিমাত্রিক বস্তুর সম্মুখ দৃশ্য, পার্শ্ব দৃশ্য এবং উপর থেকে দৃশ্য 3 একক বাহুবিশিষ্ট একটি বর্গক্ষেত্রের মতো। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ba127c0-062f-4a5c-9957-ae070f7aceec",
+    "images": [
+      "images/44289_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC এবং ত্রিভুজ DEF উভয়ই সমবাহু ত্রিভুজ এবং O হলো BC ও EF এর মধ্যবিন্দু। AD:BE এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71a8e315-8262-48b2-afc9-3d062256dc8d",
+    "images": [
+      "images/17967_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2014 শরৎ, শিয়াংচেং জেলা মিডটার্ম), (m+3) বাহুবিশিষ্ট একটি বর্গাকার কাগজ থেকে m বাহুবিশিষ্ট একটি বর্গক্ষেত্র কেটে নেওয়ার পর, অবশিষ্ট অংশটিকে কেটে একটি আয়তক্ষেত্রে রূপান্তর করা হলো (কোনো অংশ বাদ না দিয়ে বা উপরিপাতন না করে)। যদি গঠিত আয়তক্ষেত্রের একটি বাহু 3 হয়, তবে আয়তক্ষেত্রটির পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1a0c8920-d153-4905-8e74-4862c9116d50",
+    "images": [
+      "images/triangle_ext_1a0c8920-d153-4905-8e74-4862c9116d50.png"
+    ],
+    "english_question": "<image>\nবর্গাকার গ্রিড কাগজে ত্রিভুজ ABC-এর অবস্থানে, \\( \\tan \\alpha \\)-এর মান কত?\nক. 2\nখ. 1\nগ. 3\nঘ. 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "936c766e-9ae2-46ab-97e1-5a6172e3e673",
+    "images": [
+      "images/46140_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 'হোল' বর্গক্ষেত্রটি তৈরি করতে a দৈর্ঘ্য এবং b প্রস্থের একটি আয়তাকার কার্ডবোর্ড ব্যবহার করা হয়েছে। ক্ষেত্রফলের বিভিন্ন উপস্থাপনা ব্যবহার করে একটি বীজগাণিতিক অভেদ লেখো______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed6d41c0-e17a-4512-9fcc-c589509603b2",
+    "images": [
+      "images/31093_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AC = BD দেওয়া আছে। △ABC ≌ △DCB হওয়ার জন্য আর কোন অতিরিক্ত শর্ত প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f0a8dd0-ed24-480b-8d5f-4512bc81a70e",
+    "images": [
+      "images/51523_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তাকার কাগজ ABCD ভাঁজ করার সময়, B এবং C বিন্দুদ্বয় AD বাহুর ওপর P বিন্দুতে মিলে যায়। যদি ∠MPN = 90°, PM = 3, PN = 4 হয়, তবে আয়তাকার কাগজ ABCD-এর ক্ষেত্রফল কত?\nOptions:\nD) Given that \\( \\angle M P N = 90^{\\circ} \\), PM = 3, PN = 4, what is the area of the rectangular paper ABCD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

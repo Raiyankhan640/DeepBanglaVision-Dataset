@@ -1,0 +1,302 @@
+[
+  {
+    "id": "499fd7a7-80fc-4f80-b082-f4580504ba84",
+    "images": [
+      "images/2396_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, ABCD একটি সামান্তরিক। একে রম্বস প্রমাণ করার জন্য অতিরিক্ত কী শর্ত যোগ করা প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6bb6717e-8606-4f6d-a3f9-b8d88fbb10d3",
+    "images": [
+      "images/49744_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী: 12 ডেসিমিটার বাহু বিশিষ্ট একটি বর্গাকার কাগজের টুকরো থেকে একপাশে 3 ডেসিমিটার প্রস্থ বিশিষ্ট একটি আয়তাকার স্ট্রিপ কেটে নেওয়া হলো। অবশিষ্ট অংশের পরিসীমা কত ডেসিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd57c578-b4c5-4a89-bca9-62a1f44054fe",
+    "images": [
+      "images/42209_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, কোণ BAC = 90°, AD, BC-এর উপর লম্ব এবং DE, AB-এর উপর লম্ব। চিত্রে ত্রিভুজ ADE-এর সদৃশ ত্রিভুজের সংখ্যা কত? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3681983-cd87-4cab-8712-4d026fc287e5",
+    "images": [
+      "images/61560_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD সামান্তরিকের কর্ণ AC ও BD পরস্পর O বিন্দুতে ছেদ করে। E, F, G ও H বিন্দুগুলো যথাক্রমে OA, OB, OC ও OD এর মধ্যবিন্দু। EFGH চতুর্ভুজটিকে রম্বস হতে হলে, ABCD সামান্তরিকটিকে যে শর্ত পূরণ করতে হবে তা হলো ______ (একটি শর্ত লেখ)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1bc6aacc-5fa7-4060-86b9-207e77c95db6",
+    "images": [
+      "images/41267_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 = ∠2, ∠C = ∠D এবং AC ও BD রেখাদ্বয় E বিন্দুতে ছেদ করে। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( ) \n① ∠DAE = ∠CBE ② CE = DE ③ △DEA ≌ △CBE ④ △EAB একটি সমদ্বিবাহু ত্রিভুজ।\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f6e02b0d-9f24-4e9b-937c-7926cc06f85a",
+    "images": [
+      "images/33049_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, চতুর্ভুজ OABC একটি রম্বস এবং বিন্দু B ও C, O কেন্দ্রবিশিষ্ট বৃত্তচাপ EF-এর ওপর অবস্থিত। যদি OA=3 এবং ∠1=∠2 হয়, তবে OEF বৃত্তকলাটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f768d59-d9d1-4a4b-adb1-635bccf901f2",
+    "images": [
+      "images/17896_0.png"
+    ],
+    "english_question": "<image>\nশাওহংয়ের মা 60 সেমি দৈর্ঘ্য এবং 40 সেমি প্রস্থের একটি আয়তাকার ক্রস-স্টিচ ল্যান্ডস্কেপ পেইন্টিং তৈরি করেছেন। চিত্র অনুযায়ী একটি আয়তাকার ফ্রেমযুক্ত ছবি তৈরি করতে, যদি ফ্রেমের প্রস্থ x সেমি হয় এবং ফ্রেমযুক্ত ছবির মোট ক্ষেত্রফল 2816 বর্গ সেমি হয়, তবে x কোন সমীকরণটি সিদ্ধ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "410b79d8-e518-468c-81be-3519bc478c2f",
+    "images": [
+      "images/53143_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O1 এবং O2 বৃত্ত দুটি A এবং B বিন্দুতে ছেদ করে। O2A রেখাটি A বিন্দুতে O1 বৃত্তের স্পর্শক। O1O2 রেখাটি AB রেখাকে C বিন্দুতে এবং O1 বৃত্তকে D বিন্দুতে ছেদ করে। যদি AB = 8 এবং CD = 2 হয়, তবে tan ∠AO2C = কত?\nOptions:\nখ) Line \\( O_2A \\) is tangent to circle \\( O_1 \\) at point ক) Line \\( O_1O_2 \\) intersects line AB at point C and intersects circle \\( O_1 \\) at point ঘ) Given that \\( AB = 8 \\) and \\( CD = 2 \\), find \\( \\tan \\angle AO_2C = ________ \\n",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "63f4eaca-908b-4970-be58-b8768e91c3f4",
+    "images": [
+      "images/triangle_ext_63f4eaca-908b-4970-be58-b8768e91c3f4.png"
+    ],
+    "english_question": "<image>\nশহর A এবং B একে অপরের থেকে 100 কিমি দূরে অবস্থিত। বন সংরক্ষণ কেন্দ্র P, A-এর 30° উত্তর-পূর্বে এবং B-এর 45° উত্তর-পশ্চিমে অবস্থিত। সংরক্ষিত এলাকাটি P-কে কেন্দ্র করে 50 কিমি ব্যাসার্ধের একটি বৃত্ত। পরিকল্পিত মহাসড়কটি (রেখাংশ AB) কি সংরক্ষিত এলাকা অতিক্রম করবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49b28cf2-8164-4f59-87b1-21e37087649a",
+    "images": [
+      "images/68094_0.png"
+    ],
+    "english_question": "<image>\n5টি ছোট ঘনক ব্যবহার করে চিত্রে প্রদর্শিত জ্যামিতিক আকৃতিটি তৈরি করা হয়েছে। বিভিন্ন দিক থেকে এর সম্ভাব্য দৃশ্যগুলো হলো ( )\n\nOptions:\nক) ①②\nখ) ②③④\nগ) ②④\nঘ) ①③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6ea0f1e-ef58-4426-a206-c69378d54ed0",
+    "images": [
+      "images/triangle_ext_b6ea0f1e-ef58-4426-a206-c69378d54ed0.png"
+    ],
+    "english_question": "<image>\nএকটি গতিশীল বিন্দু \\( \\mathcal{P} \\)-এর \\( A(-1, 0) \\) এবং \\( B(1, 0) \\) বিন্দু থেকে দূরত্ব যথাক্রমে \\( d_1 \\) এবং \\( d_2 \\) এবং \\( \\angle APB = 2\\theta \\) হলে, একটি ধ্রুবক \\( \\lambda (0 < \\lambda < 1) \\) বিদ্যমান থাকে যাতে \\( \\dot{d_1} \\dot{d_2} \\sin^2 \\theta = \\lambda \\) হয়। (চিত্রে প্রদর্শিত) বিন্দু \\( \\mathcal{P} \\)-এর সঞ্চারপথ কী?\nক. Circle\nখ. Ellipse\nগ. Hyperbola\nঘ. Parabola",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3eb9927a-02ad-484a-9e2c-bb1f8afd975f",
+    "images": [
+      "images/18564_0.png"
+    ],
+    "english_question": "<image>\nএকটি স্কুলের গেট একটি সংকোচনযোগ্য গেট। গেটের প্রতিটি সারিতে 20টি রম্বস আছে এবং প্রতিটি রম্বসের বাহুর দৈর্ঘ্য 30 সেমি। গেটটি বন্ধ থাকলে, প্রতিটি রম্বসের সূক্ষ্মকোণ হয় 60°; যখন গেটটি খোলা হয়, তখন প্রতিটি রম্বসের সূক্ষ্মকোণ 60° থেকে কমে 10° হয়। গেটটি কত মিটার খোলা হয়েছে? (ফলাফল 1 মিটারের কাছাকাছি, রেফারেন্স ডেটা: sin 5° ≈ 0.0872, cos 5° ≈ 0.9962, sin 10° ≈ 0.1736, cos 10° ≈ 0.9842)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8a1b1790-b66c-4d4e-8b2a-17cb5c9a65be",
+    "images": [
+      "images/54736_0.png"
+    ],
+    "english_question": "<image>\nএকজন শিক্ষার্থী চিত্রানুযায়ী একটি ত্রিভুজাকার স্কেল স্থাপন করল। যদি AE সমান্তরাল BC হয়, তবে ∠AFD এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "166f9a7d-498d-41ec-ae68-6167edf163e6",
+    "images": [
+      "images/5733_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, M বিন্দুটি কর্ণ AC-এর উপর অবস্থিত। BM রেখাংশ AD-কে N বিন্দুতে ছেদ করে এবং বর্ধিত হয়ে CD রেখাকে E বিন্দুতে ছেদ করে। চিত্রটিতে কত জোড়া ভিন্ন সদৃশ ত্রিভুজ রয়েছে? যতগুলো সম্ভব তালিকাভুক্ত করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d79e76f4-98be-4b98-89ea-fb16fe4142b9",
+    "images": [
+      "images/17576_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার পিরামিডের ফ্রাস্টামের সম্মুখ দৃশ্য ও পাশ্ব দৃশ্য সমদ্বিবাহু ট্রাপিজিয়াম। প্রতিটি ট্রাপিজিয়ামের উপরের ভূমি 2 একক, নিচের ভূমি 4 একক এবং উচ্চতা 2 একক। ফ্রাস্টামটির মোট পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b2db7ef4-9440-4139-9482-4ad95245507d",
+    "images": [
+      "images/36118_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে যে l₁ ∥ l₂ ∥ l₃ ∥ l₄ এবং যেকোনো দুটি সন্নিহিত সমান্তরাল রেখার মধ্যবর্তী দূরত্ব 1। যদি বর্গক্ষেত্র ABCD এর চারটি শীর্ষবিন্দু চারটি রেখার উপর অবস্থিত হয়, তবে sin α = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7345d14-00fe-4c60-9443-3ff511c8b49d",
+    "images": [
+      "images/8189_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে (সামনের দৃশ্যের বৃত্তচাপটি একটি অর্ধবৃত্ত)। চিত্রে চিহ্নিত পরিমাপ অনুযায়ী, এই জ্যামিতিক বস্তুর পৃষ্ঠতলের ক্ষেত্রফল কত? (একক: সেমি)\n\nOptions:\nক) 6+2π\nখ) 4+2π\nগ) 6+3π\nঘ) 4+3π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4dd2088d-aa66-45b3-878e-f49069f8718d",
+    "images": [
+      "images/56225_0.png"
+    ],
+    "english_question": "<image>\nদিয়াউ দ্বীপ আমাদের দেশের অবিচ্ছেদ্য অংশ। চিত্র অনুযায়ী, দিয়াউ দ্বীপের দুই প্রান্ত A ও B এর মধ্যবর্তী দূরত্ব পরিমাপের জন্য, সমুদ্রপৃষ্ঠ থেকে 1 কিলোমিটার উল্লম্ব উচ্চতায় অবস্থিত বিন্দু C থেকে জরিপ করা হলো। বিন্দু A এর অবনতি কোণ পরিমাপ করা হলো 45° এবং এরপর AB এর সমান্তরাল দিকে 3.2 কিলোমিটার উড়ে বিন্দু D তে পৌঁছানো হলো, যেখান থেকে বিন্দু B এর অবনতি কোণ পরিমাপ করা হলো 37°। দিয়াউ দ্বীপের দুই প্রান্ত AB এর মধ্যবর্তী দূরত্ব নির্ণয় করো। (ফলাফল দশমিকের পর 1 ঘর পর্যন্ত সঠিক, দেওয়া আছে: sin 37° ≈ 0.60, cos 37° ≈ 0.80, tan 37° ≈ 0.75, √2 ≈ 1.41)\nOptions:\nd. (Results accurate to 0.1 kilometers, reference data: \\( \\sin 37° \\approx 0.60, \\cos 37° \\approx 0.80, \\tan 37° \\approx 0.75, \\sqrt{2} \\approx 1.41 \\) )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d444b9ee-8319-4114-a795-f129f176a172",
+    "images": [
+      "images/54213_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি ∠AOD > ∠BOC হয়, তবে নিচের কোন উক্তিটি সঠিক ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8eac7814-8515-471a-885b-c92f8f278c30",
+    "images": [
+      "images/42483_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি বৃত্তস্থ চতুর্ভুজ যা R ব্যাসার্ধের একটি বৃত্তে অন্তর্লিখিত। দেওয়া আছে, AB=12, CD=6, BP=8 এবং ∠APD=60°, যেখানে AB এবং DC রেখাদ্বয় বর্ধিত করলে P বিন্দুতে মিলিত হয়। R-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a7952237-fcb8-41fd-bccc-6924510d4e60",
+    "images": [
+      "images/26724_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি আয়তক্ষেত্র, E বিন্দুটি CB-এর বর্ধিতাংশের উপর অবস্থিত, DE রেখাংশ AB-কে F বিন্দুতে ছেদ করে এবং ∠AED = 2∠CED। দেওয়া আছে যে, BE = 1 এবং AB = 3, তবে DF-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD) Given that BE = 1 and AB = 3, find the length of DF.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c4e889c-cb74-4132-b36f-720092d069d9",
+    "images": [
+      "images/4901_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি আলোক রশ্মি অনুভূমিক আয়নার সাথে α কোণ উৎপন্ন করে। এই আলো প্রথমে সমতল আয়নায় আঘাত করে এবং তারপর দুটি সমতল আয়না থেকে প্রতিফলিত হয়। যদি ∠α = 60° এবং ∠β = 50° হয়, তবে ∠γ এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "802b03d8-9e7e-42d5-ac64-f59d77eeb98b",
+    "images": [
+      "images/45516_0.png"
+    ],
+    "english_question": "<image>\nনিচের বামদিকের চিত্রের সাথে সর্বসম চিত্র কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e5506df3-dc39-4cbf-9d50-ec32a6a67143",
+    "images": [
+      "images/66179_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি চাঁদার বাইরের প্রান্তে A এবং B বিন্দু দুটি যথাক্রমে 80° এবং 50° পাঠ নির্দেশ করছে। ∠ACB এর মান কত? ( )\n\nOptions:\nক) 30°\nখ) 15°\nগ) 20 °\nঘ) 40°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1d2eb36c-83b0-4dfe-969f-91834de6eff7",
+    "images": [
+      "images/18778_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আকৃতি A-কে আকৃতি B-এর অবস্থানে নিয়ে যেতে হলে, আকৃতি A-কে কতটি ঘর স্থানান্তর (translate) করতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7604b8de-3d5b-4b6c-9641-c4ee00ae95b1",
+    "images": [
+      "images/triangle_ext_7604b8de-3d5b-4b6c-9641-c4ee00ae95b1.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখাটি O কেন্দ্রবিশিষ্ট বৃত্তকে B বিন্দুতে স্পর্শ করে এবং বৃত্তটিকে পুনরায় D বিন্দুতে ছেদ করে। C বিন্দুটি বৃত্তের উপর এমনভাবে অবস্থিত যে ত্রিভুজ ABC গঠিত হয়। যদি ∠A = 30° হয়, তবে ∠C নির্ণয় করো।\nOptions:\nD) Point C lies on the circle such that triangle ABC is formed. Given ∠A = 30°, find ∠C)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f129090-c48e-44cb-9288-cdbf79ef7a8b",
+    "images": [
+      "images/59343_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজকে চিত্রে দেখানো অনুযায়ী ভাঁজ করার পর, যদি ∠1 = 56° হয়, তবে ∠2 এর মান কত? ( )\nক. 56°\nখ. 68°\nগ. 62°\nঘ. 66°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e77dbbbf-aaba-4f55-b2c1-3fc2af66c2b9",
+    "images": [
+      "images/58575_0.png"
+    ],
+    "english_question": "<image>\n(2010 বেইলুন ডিস্ট্রিক্ট সিমুলেশন) চিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস, এবং বিন্দু C, D, এবং E অর্ধবৃত্তের উপর অবস্থিত। H এবং K হলো ব্যাস AB-এর উপর অবস্থিত বিন্দু। যদি ∠AHC = ∠DHB এবং ∠DKA = ∠EKB হয়, এবং চাপ AC = 30° ও চাপ BE = 70° হয়, তবে ∠HDK = কত?\n\nOptions:\nক) 30°\nখ) 40°\nগ) 70°\nঘ) 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d332c283-94ad-44dc-b66b-a2216839be94",
+    "images": [
+      "images/59857_0.png"
+    ],
+    "english_question": "<image>\nবিন্দু P বিন্দু O থেকে শুরু করে পরিসীমা l বিশিষ্ট আকৃতি বরাবর ঘড়ির কাঁটার বিপরীত দিকে চলে। গ্রাফে O থেকে P-এর দূরত্ব y এবং P-এর চলা দূরত্ব x-এর সম্পর্ক দেখানো হয়েছে। বিন্দু P কোন আকৃতি অতিক্রম করেছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bbca82e8-4250-4472-8cb2-76ff57d88dd9",
+    "images": [
+      "images/42904_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d061eab1-8aa8-46f9-afec-483fafe745b8",
+    "images": [
+      "images/62607_0.png"
+    ],
+    "english_question": "<image>\nA এবং B নামে দুটি গ্রাম আছে, যাদের একপাশে হাইওয়ে l₁ এবং একই পাশে l₂ অবস্থিত। হাইওয়ে ব্যবস্থাপনা বিভাগ একটি সার্ভিস এরিয়া নির্মাণ করতে চায়। নকশার প্রয়োজনীয়তা অনুযায়ী, সার্ভিস এরিয়া থেকে গ্রাম A এবং B-এর দূরত্ব সমান হতে হবে এবং হাইওয়ে l₁ ও l₂-এর দূরত্বও সমান হতে হবে। এমন কতটি উপযুক্ত সার্ভিস এরিয়া C সম্ভব?\nOptions:\na. According to the design requirements, the distance from the service area to the two villages A and B must be equal, and the distance to the two highways l₁ and l₂ must also be equal. How many suitable service areas C are there?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f351f9a7-c30e-4fea-83bc-c4a3e6725b99",
+    "images": [
+      "images/61968_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আকৃতিটি একই আকারের তিনটি ফ্যান বা পাখা দ্বারা গঠিত। যদি প্রতিটি ফ্যানের প্রসারিত অংশকে \"মৌলিক নকশা\" হিসেবে বিবেচনা করা হয়, তবে এই চিত্রটি কীভাবে গঠিত হয়েছে? \nবিকল্পসমূহ:\n(ক) একবার স্থানান্তর (Translation) করে\n(খ) দুইবার স্থানান্তর (Translation) করে\n(গ) অক্ষের কেন্দ্র বরাবর 120° ঘূর্ণনের মাধ্যমে\n(ঘ) অক্ষের কেন্দ্র বরাবর 120° এবং 240° ঘূর্ণনের মাধ্যমে",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "306b6240-bd85-4ea7-a0c2-8ee590b842b7",
+    "images": [
+      "images/65329_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি বহুভুজ বা ঘনবস্তুর নেট, যার প্রতিটি তল একটি অক্ষর দ্বারা চিহ্নিত। যদি F তলটি সামনে থাকে এবং B তলটি বাম দিক থেকে দেখা যায়, তবে কোন তলটি নিচে থাকবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4b371adf-9000-4399-aed5-27913272b78f",
+    "images": [
+      "images/40484_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aab5b46d-f6b8-4307-9d2b-23ba91612725",
+    "images": [
+      "images/38162_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের AB একটি ব্যাস। যদি AB = 4 সেমি এবং ∠D = 30° হয়, তবে BC এর দৈর্ঘ্য কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35d9db27-9951-4746-ac1d-4119e821243e",
+    "images": [
+      "images/50672_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, নিচের কোন উক্তিটি সঠিক? ( ) \nক. যদি ∠1 = ∠2 হয়, তবে a ∥ b \nখ. যদি ∠1 = ∠3 হয়, তবে c ∥ d \nগ. যদি ∠1 = ∠4 হয়, তবে a ∥ b \nঘ. যদি ∠1 = ∠2 হয়, তবে c ∥ d",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ce50c17-9356-42a8-b1c5-24d34400268e",
+    "images": [
+      "images/64187_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, DH সমান্তরাল EG, যা BC-এর সমান্তরাল এবং DC সমান্তরাল EF। চিত্রটিতে ∠1-এর সমান কতগুলো কোণ আছে?\nক. 3\nখ. 4\nগ. 5\nঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c7ac8bd2-34fb-403d-990e-b828e843eed9",
+    "images": [
+      "images/75167_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, AD হলো বিন্দু A-তে বৃত্ত O-এর স্পর্শক এবং বিন্দু C হলো ∠EB-এর মধ্যবিন্দু। নিচের কোন সিদ্ধান্তটি সঠিক নয়?\n\nOptions:\nক) OC // AE\nখ) EC = BC\nগ) ∠DAE = ∠ABE\nঘ) AC ⊥ OE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e5a4743-7077-46ff-90ef-280bb97da223",
+    "images": [
+      "images/58855_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 3×3 বর্গাকার গ্রিডে, দুটি ছোট বর্গ ইতিমধ্যে কালো রঙ করা হয়েছে। যদি আমরা অবশিষ্ট ছোট বর্গগুলোর মধ্যে একটিকে কালো রঙ করি, তবে কত উপায়ে একটি প্রতিসম (symmetric) নকশা তৈরি করা সম্ভব?\n\nOptions:\nক) 3 ways\nখ) 4 ways\nগ) 5 ways\nঘ) 6 ways",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ff45ab1-2ae3-4b0e-9828-1a23c7d33834",
+    "images": [
+      "images/4227_0.png"
+    ],
+    "english_question": "<image>\nছয়টি সমান বৃত্তকে তিনটি আকারে (A, B, এবং গ) সাজানো হয়েছে, যেখানে প্রতিটি সংলগ্ন বৃত্তের জোড়া বাহ্যিকভাবে স্পর্শ করে। চিত্রে দেখানো হয়েছে যে, তাদের কেন্দ্র সংযোগকারী রেখাগুলো যথাক্রমে একটি সুষম ষড়ভুজ, একটি সামান্তরিক এবং একটি সমবাহু ত্রিভুজ গঠন করে। কেন্দ্র সংযোগকারী রেখার বাইরের ছয়টি বৃত্তাংশের (ছায়াবৃত অংশ) ক্ষেত্রফলের সমষ্টিকে যথাক্রমে S, P, এবং Q দ্বারা চিহ্নিত করা হলে, নিচের কোনটি সঠিক?\n\nOptions:\nক) S > P > Q\nখ) S > Q > P\nগ) S > P and S = Q\nঘ) S = P = Q",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

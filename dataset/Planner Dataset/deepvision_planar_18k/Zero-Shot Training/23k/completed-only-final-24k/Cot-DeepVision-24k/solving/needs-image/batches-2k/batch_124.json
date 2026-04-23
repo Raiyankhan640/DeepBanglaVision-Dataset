@@ -1,0 +1,302 @@
+[
+  {
+    "id": "5d2ec3f0-aa16-4f9e-ab3e-d26f3067682c",
+    "images": [
+      "images/5944_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি অবাধে ঘূর্ণায়মান ডায়াল দেখানো হয়েছে। ডায়ালটি ঘোরা বন্ধ হলে, নিচে তিনটি বিবৃতি দেওয়া হলো: ① নির্দেশকটির তিনটি এলাকায় নির্দেশ করার সম্ভাবনা সমান; ② নির্দেশকটির লাল এলাকায় নির্দেশ করার সম্ভাবনা 1/3; ③ নির্দেশকটির লাল এলাকায় নির্দেশ করার সম্ভাবনা 1/2। কোন বিবৃতিটি সঠিক?\n\nOptions:\nক) ①②\nখ) ①③\nগ) ②\nঘ) ③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "783075ec-8bec-4741-87b1-a8536eba6344",
+    "images": [
+      "images/55061_0.png"
+    ],
+    "english_question": "<image>\nএকটি ফ্রাস্টামের (frustum) উপরের ভূমির ক্ষেত্রফল 16 এবং নিচের ভূমির ক্ষেত্রফল 64। এর মধ্যচ্ছেদ (mid-section) দ্বারা বিভক্ত উপরের ও নিচের অংশের আয়তনের অনুপাত নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2808939e-a737-4609-84dd-cdaaa09bf3bf",
+    "images": [
+      "images/72150_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "48461cd0-c303-4bfd-888b-59e45bb3cdfb",
+    "images": [
+      "images/28117_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, 2 ব্যাসার্ধ এবং 60° কেন্দ্রীয় কোণ বিশিষ্ট একটি কাগজের সেক্টর AOB, l রেখা বরাবর পিছলে না গিয়ে ডানদিকে A'O'B' অবস্থানে পৌঁছানো পর্যন্ত গড়িয়ে চলে। শীর্ষবিন্দু O দ্বারা অতিক্রান্ত পথের মোট দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "464d766b-e96d-414e-927b-fb2bd2a69290",
+    "images": [
+      "images/52361_0.png"
+    ],
+    "english_question": "<image>\nবিন্দু A থেকে বিন্দু B পর্যন্ত চারটি পথের মধ্যে কোনটি সবচেয়ে ছোট?\n\nOptions:\nক) Option 1\nখ) Option 2\nগ) Option 3\nঘ) Option 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b8b85f1-9e68-4bfa-85f8-ece4dbce8b0b",
+    "images": [
+      "images/53515_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PB এবং PA রেখাদ্বয় বৃত্তকে যথাক্রমে C ও B এবং D ও A বিন্দুতে ছেদ করে। AC এবং BD রেখাদ্বয় Q বিন্দুতে মিলিত হয়। যদি রেখাংশগুলোর অনুপাত AB : DC = 3 : 1 হয় এবং ∠AQB = α হয়, তবে ∠P এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "53618b0f-df1b-4e0e-979a-d475742c36d7",
+    "images": [
+      "images/50282_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রটির পরিসীমা নির্ণয় করো। চিত্রটি 12 সেমি দৈর্ঘ্য এবং 5 সেমি প্রস্থবিশিষ্ট দুটি আয়তক্ষেত্র দ্বারা গঠিত, যা '7' আকৃতিতে সাজানো হয়েছে। এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a9efb9da-68c2-4089-9d1c-828988fb4ab5",
+    "images": [
+      "images/35235_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস এবং AM ও BN হলো এর দুটি স্পর্শক। DC রেখাটি বৃত্তটিকে E বিন্দুতে ছেদ করে, AM-কে D বিন্দুতে এবং BN-কে C বিন্দুতে ছেদ করে। যদি AD * BC = 9 হয়, তবে ব্যাস AB-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 3\nখ) 6\nগ) 9\nঘ) 13",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "03a85b23-cf08-4cc9-bfd7-0eefca70d983",
+    "images": [
+      "images/56669_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পরিবৃত্ত গোলকের পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eef3531e-a30a-422d-8080-1a70c5e0aa29",
+    "images": [
+      "images/36547_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, ∠ACB = 90°, ∠ABC = 30° এবং AD রেখা ∠BAC-কে সমদ্বিখণ্ডিত করে P বিন্দুতে ছেদ করে। ∠BDC = 60° এবং AB = 4√3 হলে, BD-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "91e0b4a5-c181-41f5-ad88-789c5c84c71f",
+    "images": [
+      "images/64187_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DH সমান্তরাল EG, যা BC-এর সমান্তরাল, এবং DC সমান্তরাল EF। চিত্রে কতগুলো কোণ ∠1-এর সমান?\n\nOptions:\nক) \\(3\\)\nখ) \\(4\\)\nগ) \\(5\\)\nঘ) \\(6\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ae29305-92bc-4834-b691-7b9fc5aea4a5",
+    "images": [
+      "images/40791_0.png"
+    ],
+    "english_question": "<image>\nনিচে দিনের চারটি ভিন্ন সময়ে দুটি খুঁটির ছায়া দেওয়া হলো। এদের কালানুক্রমিকভাবে সাজাও (সংখ্যাগুলো বসাও)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "baa772f6-b82e-49b1-afa3-42e9f864937b",
+    "images": [
+      "images/26938_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, সমবাহু ত্রিভুজ △OAB-এর বাহুর দৈর্ঘ্য a হলে বাহু OA1-কে ভূমি ধরে ঘড়ির কাঁটার বিপরীত দিকে একটি নতুন সমবাহু ত্রিভুজ △OA1B1 অঙ্কন করা হলো যেখানে A1B1 OB-কে A2 বিন্দুতে ছেদ করে। এরপর বাহু OA2-কে ভূমি ধরে ঘড়ির কাঁটার বিপরীত দিকে আরও একটি সমবাহু ত্রিভুজ △OA2B2 অঙ্কন করা হলো যেখানে A2B2 OB1-কে A3 বিন্দুতে ছেদ করে। একইভাবে △OA3B3, △OA4B4, ..., △OAnBn ত্রিভুজগুলো গঠন করা হলো। ত্রিভুজ △OA6B6-এর বাহুর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c065eb50-d2c7-4054-875f-f0f58039c58a",
+    "images": [
+      "images/61764_0.png"
+    ],
+    "english_question": "<image>\nABCD রম্বসে, ∠BAD = 80°, AB বাহুর লম্ব দ্বিখণ্ডক কর্ণ AC-কে F বিন্দুতে ছেদ করে এবং E হলো লম্বের পাদবিন্দু। যদি আমরা DF যোগ করি, তবে ∠CDF এর মান কত?\n\nOptions:\nক) 80°\nখ) 70°\nগ) 65°\nঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3be2f660-51d7-4c5b-9b1b-06281dbf0d9c",
+    "images": [
+      "images/64134_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত লোহার পাতের একটি সেক্টর AOB-এর ব্যাসার্ধ 2 মি এবং কেন্দ্রস্থ কোণ 90°। আমরা এর ভেতর একটি অন্তর্লিখিত পঞ্চভুজ ONPQR কেটে নিতে চাই, যাতে P বিন্দুটি চাপ AB-এর ওপর থাকে, M এবং N বিন্দুদ্বয় যথাক্রমে OA এবং OB ব্যাসার্ধের ওপর থাকে, চতুর্ভুজ PMON একটি আয়তক্ষেত্র হয়, Q বিন্দুটি চাপ AP-এর ওপর থাকে, R বিন্দুটি রেখাংশ AM-এর ওপর থাকে এবং চতুর্ভুজ PQRM একটি সমকোণী ট্রাপিজয়েড হয়। নিচের কাটিং পরিকল্পনাটি অনুসরণ করা হলো: প্রথমে আয়তক্ষেত্র PMON-এর ক্ষেত্রফল সর্বোচ্চ করা এবং এই শর্তের অধীনে, সমকোণী ট্রাপিজয়েড PQRM-এর ক্ষেত্রফলও সর্বোচ্চ করা: কাটা পঞ্চভুজটির ক্ষেত্রফল নির্ণয় করো।\nOptions:\nd. The following cutting plan is available: first maximize the area of rectangle PMON, and under this premise, also maximize the area of right trapezoid PQRM: find the area of the cut-out pentagon.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fbe21307-fe9e-43c9-955a-3ffa57d1ed85",
+    "images": [
+      "images/16777_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি রেখা l₁ এবং l₂ সমান্তরাল হয়, ∠A = 40° এবং ∠1 = 60° হয়, তবে ∠2 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1dbe9bb5-94bd-40c8-bf4e-5c2c540798de",
+    "images": [
+      "images/13617_0.png"
+    ],
+    "english_question": "<image>\nএকটি ভূমিকম্প উদ্ধারকারী দল ধ্বংসস্তূপের নিচে C বিন্দুতে প্রাণের অস্তিত্ব শনাক্ত করেছে। জানা গেছে যে, ভূমিতে A এবং B বিন্দু দুটি 4 মিটার দূরত্বে অবস্থিত এবং শনাক্তকরণ রেখাগুলোর সাথে ভূমির উৎপন্ন কোণ যথাক্রমে 30° এবং 60°। C বিন্দুর গভীরতা নির্ণয় করো (ফলাফল 0.1 এর নির্ভুলতায়, দেওয়া আছে: √2 ≈ 1.414, √3 ≈ 1.732)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a91088b8-cec0-48da-8f4f-86ec363e2525",
+    "images": [
+      "images/60941_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তাকার কাগজের বাহুর দৈর্ঘ্য AB=4 এবং AD=2। আয়তক্ষেত্রটিকে EF বরাবর ভাঁজ করলে A বিন্দু C বিন্দুর সাথে মিলে যায় এবং একটি অংশ রঙিন হয় (চিত্রে প্রদর্শিত)। রঙিন অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) 8\nখ) \\textstyle { \\frac { 1 1 } { 2 } }\nগ) 4\nঘ) \\frac { 5 } { 2 }",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc9a3fbf-b6a0-455f-bf12-189ff22fbec7",
+    "images": [
+      "images/38391_0.png"
+    ],
+    "english_question": "<image>\nদিয়াওইউ দ্বীপ আমাদের দেশের অবিচ্ছেদ্য অংশ। চিত্রে প্রদর্শিত দিয়াওইউ দ্বীপের পূর্ব ও পশ্চিম প্রান্ত A এবং B এর মধ্যবর্তী দূরত্ব পরিমাপের জন্য, আমাদের জরিপকারী বিমানটি সমুদ্রপৃষ্ঠ থেকে 1 কিলোমিটার উচ্চতায় C বিন্দুতে অবস্থান করছে। A বিন্দুর অবনতি কোণ 45° এবং বিমানটি AB এর সমান্তরালে 3.2 কিলোমিটার উড়ে D বিন্দুতে পৌঁছায়, যেখান থেকে B বিন্দুর অবনতি কোণ 37°। দিয়াওইউ দ্বীপের দুই প্রান্তের মধ্যবর্তী দূরত্ব AB নির্ণয় করো। (ফলাফল 0.1 কিলোমিটার পর্যন্ত সঠিক, রেফারেন্স ডেটা: sin37°≈0.60, cos37°≈0.80, tan37°≈0.75, √2 ≈1.41)\nOptions:\nd. (Results accurate to 0.1 kilometers, reference data: sin37°≈0.60, cos37°≈0.80, tan37°≈0.75, $\\sqrt { 2 }$ ≈1.41)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "27f165aa-518b-420e-9491-b9da3c3f233b",
+    "images": [
+      "images/17004_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকার পিরামিডের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই ত্রিভুজাকার পিরামিডের পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) \\(2 \\sqrt{7}+4 \\sqrt{3}+2 \\)\nখ) \\(12+4 \\sqrt{3} \\)\nগ) \\(10+ \\sqrt{7} \\)\nঘ) \\(2 \\sqrt{7}+10 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

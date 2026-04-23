@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1abef7d4-f714-4a03-bdfa-c8036553144a",
+    "images": [
+      "images/64572_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অফিস ভবন AB এবং ল্যাবরেটরি ভবন CD-এর মাঝে একটি পতাকাদণ্ড EF অবস্থিত। অফিস ভবন AB-এর শীর্ষবিন্দু A থেকে পতাকাদণ্ডের শীর্ষবিন্দু E এবং ল্যাবরেটরি ভবন CD-এর পাদবিন্দু D-কে 45° অবনতি কোণে দেখা যায়। ল্যাবরেটরি ভবন CD-এর শীর্ষবিন্দু C থেকে পতাকাদণ্ডের শীর্ষবিন্দু E এবং অফিস ভবন AB-এর বিন্দু G-কে 30° অবনতি কোণে দেখা যায়, যেখানে BG = 1 মিটার। পতাকাদণ্ড EF-এর উচ্চতা 9 মিটার হলে, অফিস ভবন AB-এর উচ্চতা নির্ণয় করো। (ফলাফল 1 মিটারের নির্ভুলতায় প্রকাশ করো; দেওয়া আছে: √2 ≈ 1.41, √3 ≈ 1.73)।\nOptions:\nD) From the top point A of the office building AB, the top point E of the flagpole is just visible to the bottom point D of the laboratory building CD, with a downward angle of 45°. From the top point C of the laboratory building CD, the top point E of the flagpole is just visible to point G of the office building AB, where BG = 1 meter, and the downward angle is 30°. Given that the height of the flagpole EF is 9 meters, find the height of the office building AB) (Results should be accurate to 1 meter; reference data: $ \\sqrt{2} \\approx 1.41$, $ \\sqrt{3} \\approx 1.73$).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f609573b-ca08-48c0-b67d-e6a1c40b36ce",
+    "images": [
+      "images/43575_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, দেওয়া আছে ∠1 = ∠2, AB ∥ CD করার জন্য একটি উপযুক্ত শর্ত যোগ করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb2e913c-a47c-44bf-aa59-334d99886a27",
+    "images": [
+      "images/64121_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী: যদি ∠1 = ∠3 হয়, তবে নিচের কোনটি সঠিক?\n\nOptions (copied from English):\nক. ∠1 = ∠2\nখ. ∠2 = ∠3\n∠AOC = ∠BOD\n∠1 = ∠BOD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50a9515b-9c12-41ed-8dfb-f9efbc6964ba",
+    "images": [
+      "images/46904_0.png"
+    ],
+    "english_question": "<image>\nঅধিবৃত্ত \\( \\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1 \\) (যেখানে \\( a > 0, b > 0 \\)) এর বাম ফোকাস \\( F \\) থেকে অঙ্কিত স্পর্শক \\( x^2 + y^2 = a^2 \\) বৃত্তকে \\( T \\) বিন্দুতে স্পর্শ করে। \\( FT \\) রেখাকে বর্ধিত করলে তা অধিবৃত্তের ডান শাখাকে \\( P \\) বিন্দুতে ছেদ করে। যদি \\( M \\) বিন্দুটি \\( FP \\) রেখাংশের মধ্যবিন্দু হয় এবং \\( O \\) মূলবিন্দু হয়, তবে \\( |MO| - |MT| \\) এবং \\( b - a \\) এর মধ্যে সম্পর্কটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da5d0497-0757-4898-8367-f817cb77f146",
+    "images": [
+      "images/53136_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন শর্তটি নির্ধারণ করে যে AB রেখাংশ CD-এর সমান্তরাল?\n\nOptions:\nক) ∠1=∠2\nখ) ∠2=∠4\nগ) ∠1=∠3\nঘ) ∠B + ∠BCD = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b03a58b2-b43a-47ef-8517-5ec198efc7d2",
+    "images": [
+      "images/68310_0.png"
+    ],
+    "english_question": "<image>\nআগামী বছর, ভাই A এবং ভাই B একটি স্পিনিং হুইল গেম খেলবে (চাকাটি চিত্রে দেখানো হয়েছে, যেখানে C হলো চাপ AB-এর মধ্যবিন্দু)। যখন নির্দেশকটি চাপ AC-এর দিকে নির্দেশ করে, ভাই A জিতে যায়; যখন এটি চাপ BC-এর দিকে নির্দেশ করে, ভাই B জিতে যায়। পরে, চাকাটি চিত্রে দেখানো অনুযায়ী ক্ষতিগ্রস্ত হয় এবং ভাই A রেখা AD নিয়ে তার মধ্যবিন্দু E খুঁজে বের করার পরামর্শ দেয়। যদি নির্দেশকটি রেখাংশ AE-এর দিকে নির্দেশ করে, ভাই A জিতে যায়; যদি এটি রেখাংশ ED-এর দিকে নির্দেশ করে, ভাই B জিতে যায়। তাহলে খেলাটি চলতে থাকলে, কার জেতার সম্ভাবনা বেশি? (A বা B লিখুন)\n\nOptions (copied from English):\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f302344-f2e8-4131-bec8-7693068c3828",
+    "images": [
+      "images/54765_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে চারটি ত্রিভুজের দল দেখানো হয়েছে, যার মধ্যে সর্বসম ত্রিভুজের দল রয়েছে ( ) টি।\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc6149a8-adc2-463f-9348-45fcba119933",
+    "images": [
+      "images/67647_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1, ∠2, ∠3 এবং ∠4 এর সমষ্টি কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e58fcd36-4664-4677-9bd5-06ec16fb72b8",
+    "images": [
+      "images/16229_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l1 ∥ l2, সামান্তরিক ABCD-এর একটি শীর্ষবিন্দু A, l1 রেখার ওপর অবস্থিত এবং BC বাহু l2 রেখাকে E বিন্দুতে ছেদ করে। যদি ∠C = 100° হয়, তবে ∠1 + ∠2 = কত?\n\nOptions:\nক) 100°\nখ) 90°\nগ) 80°\nঘ) 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1fdf212b-aa4d-4d73-a65d-799c8aabbbb8",
+    "images": [
+      "images/28106_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, যেখানে AB সমান্তরাল CD, AC এবং BD কর্ণদ্বয় O বিন্দুতে ছেদ করে এবং P বিন্দুটি AB-এর বর্ধিতাংশের উপর এমনভাবে অবস্থিত যে BP = CD, তবে চিত্রটিতে সমান ক্ষেত্রফলবিশিষ্ট ত্রিভুজের কত জোড়া রয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50e483ec-c959-400a-b537-cae71d4df003",
+    "images": [
+      "images/28181_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-এর শীর্ষবিন্দুগুলো একটি বর্গাকার গ্রিডের বিন্দুতে অবস্থিত। sin ∠ABC-এর মান কত?\n\nOptions:\nক) \\( \\sqrt{5} \\)\nখ) \\( \\frac{2{\\sqrt{5}}}{5} \\)\nগ) \\( \\frac{\\sqrt{5}}{5} \\)\nঘ) \\( \\frac{2}{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d27d8cde-8ead-4e6f-9910-15600fc745b9",
+    "images": [
+      "images/40181_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2012 জিনঝো সেকেন্ড মক এক্সাম), AB রেখা CD রেখার সমান্তরাল, কোণ A = 100° এবং কোণ C = 75°। কোণ E এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1cd62412-5d6f-4ce3-ae43-e8fc2d024cd7",
+    "images": [
+      "images/14189_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র ABCD এর বাহুর দৈর্ঘ্য 4, বিন্দু E হলো CD এর মধ্যবিন্দু, AF রেখাটি ∠BAE কে সমদ্বিখণ্ডিত করে এবং BC কে F বিন্দুতে ছেদ করে। যদি ত্রিভুজ ADE কে A বিন্দুর চারদিকে ঘড়ির কাঁটার দিকে 90 ডিগ্রি ঘোরানো হয় তবে ত্রিভুজ ABG পাওয়া যায়, তাহলে CF এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e49e5ade-32de-417d-8a3e-2ee814c130fa",
+    "images": [
+      "images/51992_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে AC=6 এবং BC=4, ত্রিভুজ ABC-কে সমকোণী শীর্ষবিন্দু C-এর সাপেক্ষে ঘড়ির কাঁটার দিকে 90° ঘোরানো হলো যাতে ত্রিভুজ DEC পাওয়া যায়। যদি বিন্দু F, DE-এর মধ্যবিন্দু হয়, তবে AF-এর দৈর্ঘ্য কত?\nOptions:\nC) If point F is the midpoint of DE, what is the length of AF?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a1965009-318c-48af-ae7a-e0beadd9ad92",
+    "images": [
+      "images/22425_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (একক: সেমি) প্রদর্শিত ছায়াবৃত অঞ্চলের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "42f5dd73-2a6c-4d68-b525-b70ea36371ee",
+    "images": [
+      "images/14397_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজের AB, BC, CD এবং DA বাহুর মধ্যবিন্দু যথাক্রমে E, F, G এবং H। EFGH চতুর্ভুজটি একটি রম্বস হওয়ার জন্য ABCD চতুর্ভুজের ওপর আরোপিত অতিরিক্ত শর্তটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e8877e12-21e9-4e54-baeb-22948ce27f47",
+    "images": [
+      "images/68248_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, E বিন্দুটি AB-এর বর্ধিতাংশের উপর অবস্থিত এবং DE রেখাটি BC-কে F বিন্দুতে ছেদ করে। △CDF ≅ △BEF হওয়ার জন্য কোন শর্তটি পূরণ করতে হবে? (একটি শর্ত উল্লেখ করুন।)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c0cad9e2-9e00-4486-81bc-45771a1caf12",
+    "images": [
+      "images/34677_0.png"
+    ],
+    "english_question": "<image>\nনিচের 4টি নকশার মধ্যে কোনগুলো অক্ষীয় প্রতিসাম্য (axisymmetric) এবং কেন্দ্রিক প্রতিসাম্য (centrally symmetric) উভয়ই? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e40944dc-2b9d-4a8d-90ae-ed33bad7a4ad",
+    "images": [
+      "images/38042_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দুটি সমদ্বিবাহু সমকোণী ত্রিভুজ রয়েছে, সুতরাং ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "81657947-89ac-4318-ac0f-b60804574adf",
+    "images": [
+      "images/52593_0.png"
+    ],
+    "english_question": "<image>\nউপরের জ্যামিতিক চিত্রটির ক্ষেত্রফল দ্বারা নির্দেশিত বীজগাণিতিক অভেদটি হলো... ( )\n\nOptions:\nক) ($a$―$b$)<sup>2</sup>=$a$<sup>2</sup>―2$ab$+$b$<sup>2</sup>\nখ) ($a$+$b$)<sup>2</sup>=$a$<sup>2</sup>+2$ab$+$b$<sup>2</sup>\nগ) 2$a$($a$+$b$)=2$a$<sup>2</sup>+2$ab$\nঘ) ($a$+$b$)($a$-$b$)=$a$<sup>2</sup>-$b$<sup>2</sup>",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

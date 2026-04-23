@@ -1,0 +1,302 @@
+[
+  {
+    "id": "640ec10b-6493-4a78-9198-dd551e3860bb",
+    "images": [
+      "images/6397_0.png"
+    ],
+    "english_question": "<image>\nএকটি গণিত পাঠ্যক্রম বহির্ভূত কার্যক্রমে, শিয়াও কং একটি পতাকা দণ্ড (বিন্দু B) এর শীর্ষবিন্দুর উন্নতি কোণ পরিমাপ করল। সে দণ্ডটি থেকে 10 মিটার দূরে অবস্থিত বিন্দু A থেকে পরিমাপটি নিল। উন্নতি কোণটি হলো 60° এবং থিওডোলাইটের উচ্চতা (বিন্দু AD) 1 মিটার। পতাকা দণ্ডটির উচ্চতা (BC) কত মিটার? (ফলাফলটি বর্গমূল আকারে রাখো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1d1c7493-ed36-426c-8152-f21c76462fd7",
+    "images": [
+      "images/42624_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিচের কোন শর্তটি a এবং b রেখাকে সমান্তরাল করতে পারে? ( )\n\nOptions:\nক) ∠1=∠6\nখ) ∠2=∠6\nগ) ∠1=∠3\nঘ) ∠5=∠7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35fb46ab-3d7b-4c96-90a5-8d6b67bc553b",
+    "images": [
+      "images/15197_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, দ্বিতীয় চতুর্ভাগে অবস্থিত পরাবৃত্ত y = -6/x এর ওপর A একটি চলমান বিন্দু। AO সংযোগ করে বর্ধিত করলে তা অন্য শাখাকে B বিন্দুতে ছেদ করে। AB ভূমি বিশিষ্ট একটি সমদ্বিবাহু ত্রিভুজ ABC গঠন করা হলো, যেখানে ∠ACB = 120°। C বিন্দুটি প্রথম চতুর্ভাগে অবস্থিত। A বিন্দুটি চলার সাথে সাথে C বিন্দুর অবস্থানও পরিবর্তিত হয়, কিন্তু C বিন্দুটি সর্বদা y = k/x পরাবৃত্তের ওপর অবস্থান করে। k এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4269f8aa-2e98-4e07-a588-dca4484e71b4",
+    "images": [
+      "images/1322_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু P বৃত্ত D-এর ব্যাস AB-এর বর্ধিতাংশের ওপর অবস্থিত। রেখা PC বৃত্ত D-কে C বিন্দুতে স্পর্শ করে। ∠APC-এর সমদ্বিখণ্ডক AC-কে Q বিন্দুতে ছেদ করে। ∠PQC-এর মান কত?\n\nOptions:\nক) 30°\nখ) 45°\nগ) 50°\nঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1862afac-2fd3-4693-adb4-ed4fe3495ff5",
+    "images": [
+      "images/24729_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ⊥ BC এবং CD ⊥ AD। যদি AB = 3 সেমি, CD = 2 সেমি এবং AE = 4 সেমি হয়, তবে ত্রিভুজ AEC-এর ক্ষেত্রফল কত সেমি²?\nOptions:\nD) If AB = 3 cm, CD = 2 cm, and AE = 4 cm, find the area of triangle AEC in cm².",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ac40e77-0655-4303-8be0-cafaedccb693",
+    "images": [
+      "images/2067_0.png"
+    ],
+    "english_question": "<image>\n14. একটি অর্ধবৃত্তাকার বস্তুকে প্রথমে এমনভাবে রাখা হলো যেন এর ব্যাস ভূমির সমান্তরাল থাকে। এরপর এর আর্ক অংশকে রক্ষা করার জন্য এটিকে না পিছলিয়ে উল্টানো হলো যাতে এর ব্যাস ভূমি স্পর্শ করে। এরপর এটিকে ভূমি বরাবর 50 মিটার স্থানান্তর করা হলো। অর্ধবৃত্তের ব্যাস 4 মিটার হলে, কেন্দ্র O এর অতিক্রান্ত পথের দৈর্ঘ্য কত? __________ মিটার।\nOptions:\nd. Then it is translated 50 meters along the ground. The diameter of the semicircle is 4 meters. What is the length of the path traveled by the center O? __________ meters.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1fab6620-f86d-44ca-a610-aea574580fe4",
+    "images": [
+      "images/triangle_ext_1fab6620-f86d-44ca-a610-aea574580fe4.png"
+    ],
+    "english_question": "<image>\nচিত্রানুযায়ী, Rt△ABC-এ, ∠B=90°, AB=3, BC=4, বিন্দু D, BC-এর ওপর অবস্থিত। AC-কে কর্ণ ধরে অঙ্কিত সকল সামান্তরিক ADCE-এর মধ্যে, DE-এর সর্বনিম্ন মান কত? ( ) Choices: (ক) 2 (খ) 3 (গ) 4 (ঘ) 3.75",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f078cf6f-4219-4f5f-803d-ee19acd0dd97",
+    "images": [
+      "images/36092_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত △ABP এবং △CDP দুটি সর্বসম সমবাহু ত্রিভুজ এবং AP, PD এর উপর লম্ব। নিচের চারটি সিদ্ধান্ত দেওয়া হলো: ①∠PBC=∠PCB=15°; ②AD∥BC; ③রেখা PC, AB এর উপর লম্ব; ④চতুর্ভুজ ABCD একটি অক্ষ-প্রতিসম চিত্র। কয়টি সিদ্ধান্ত সঠিক?\nOptions:\nD) The following four conclusions are given: ①∠PBC=∠PCB=15°; ②AD∥BC; ③Line PC is perpendicular to AB; ④Quadrilateral ABCD is an axis-symmetric figure. How many of the conclusions are correct?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "db9b905b-0dc2-4339-a51f-ef94c5c29880",
+    "images": [
+      "images/48509_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড কাগজের ছোট বর্গগুলোর বাহুর দৈর্ঘ্য 1। কঠিন রেখাগুলো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য নির্দেশ করে। এই জ্যামিতিক বস্তুর সকল তলের মধ্যে বৃহত্তম তলের ক্ষেত্রফল কত?\n\nOptions:\nক) \\(4 \\sqrt {2}\\)\nখ) \\(4 \\sqrt {6}\\)\nগ) \\(8 \\sqrt {2}\\)\nঘ) \\(8 \\sqrt {6}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d664c314-a79e-4df0-a4c6-cdb3ad0f4f2d",
+    "images": [
+      "images/35880_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, নিচের শর্তগুলোর মধ্যে: ① ∠1 = ∠3, ② ∠2 + ∠4 = 180°, ③ ∠4 = ∠5, ④ ∠2 = ∠3, ⑤ ∠6 = ∠2 + ∠3, কতগুলো শর্ত ব্যবহার করে l₁ রেখাটি l₂ রেখার সমান্তরাল তা নির্ণয় করা যাবে?\n\nOptions:\nক) 5\nখ) 4\nগ) 3\nঘ) 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8a737e0-d387-4977-af5a-96f879afedf0",
+    "images": [
+      "images/18778_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আকৃতি A-কে আকৃতি B-এর অবস্থানে নিয়ে যেতে হলে, আকৃতি A-কে কতটি ঘর স্থানান্তর (translate) করতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe2670d3-0434-4acb-b014-1f6ed86cfe3b",
+    "images": [
+      "images/6931_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, বিন্দু D থেকে রেখা AB-এর দূরত্ব হলো ( )\n\nOptions (copied from English):\nখ. Length of segment AE\nগ. Length of segment BE\nLength of segment DE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b35c08dc-689a-4abb-b5e8-dcb188a1d9ab",
+    "images": [
+      "images/27338_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, বিন্দু D এবং E যথাক্রমে AB এবং AC বাহুর ওপর অবস্থিত এবং DE সমান্তরাল BC। BE এবং CD পরস্পরকে F বিন্দুতে ছেদ করে। নীচের কোন সিদ্ধান্তটি অবশ্যই সঠিক?\nক. DF / FC = AE / AC\nখ. AD / AB = EC / AC\nগ. AD / DB = DE / BC\nঘ. DF / BF = EF / FC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3420beb6-bda8-4244-a72b-ee6f9e084069",
+    "images": [
+      "images/3702_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু ত্রিভুজ ABC অঙ্কন করো যেখানে AB = AC, ∠ABC = ∠α এবং ভূমি BC এর ওপর মধ্যমা AD এর দৈর্ঘ্য m, যা চিত্রে দেখানো হয়েছে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50109ad8-1b97-483f-968a-0a1a3c22095d",
+    "images": [
+      "images/29161_0.png"
+    ],
+    "english_question": "<image>\nএকটি শিশু চিত্রে প্রদর্শিত নিয়ম অনুযায়ী আঙুল গণনা করছে: বৃদ্ধাঙ্গুলি (1) থেকে শুরু করে কনিষ্ঠা (5) পর্যন্ত যায়, তারপর আবার বৃদ্ধাঙ্গুলির (9) দিকে ফিরে আসে এবং এভাবে চক্রাকারে চলতে থাকে। 25 সংখ্যাটি কোন আঙুলে পড়বে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a2d56511-e5ae-4d7f-9cbd-8905c3197ba2",
+    "images": [
+      "images/55451_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-এর তিনটি বাহুকে দ্বিগুণ করে ত্রিভুজ A₁B₁C₁ পাওয়া গেল (যার শীর্ষবিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত)। এগুলো সদৃশ চিত্র এবং P হলো সদৃশতার কেন্দ্র। বিন্দু P-এর স্থানাঙ্ক কত?\n\nOptions:\nক) (-2, 0)\nখ) (-1, 0)\nগ) (0, -2)\nঘ) (0, -1)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ff26a37-f0d4-415b-a44d-e246d19afc54",
+    "images": [
+      "images/70042_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1=30°, ∠B=60°, এবং AB⊥AC। নিচের কোনটি সঠিক? ( ) \nAB∥CD \nAD∥BC \nAC⊥CD \n∠DAB+∠D=180°\nOptions:\nC) Which of the following statements is correct? ( )\nAB∥CD\nAD∥BC\nAC⊥CD\n∠DAB+∠D=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec6673d3-30ba-40b2-a4b9-9b04bf2c0fee",
+    "images": [
+      "images/66405_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 2 একক বাহুবিশিষ্ট পাঁচটি বর্গক্ষেত্র দেখানো হয়েছে। A₁, A₂, A₃ এবং A₄ হলো চারটি বর্গক্ষেত্রের কেন্দ্র। চারটি ছায়াবৃত অঞ্চলের ক্ষেত্রফলের সমষ্টি কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb044b0a-429e-4bb4-883d-e8e5048e35b9",
+    "images": [
+      "images/24740_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত ফ্লোচার্টে, DoLoop কাঠামোর LoopWhile স্টেটমেন্টের সাথে সামঞ্জস্যপূর্ণ সিদ্ধান্ত বাক্সে (judgment box) শর্তটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da3ad1a8-397b-47d9-9116-58dffb50602f",
+    "images": [
+      "images/25829_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2013 উ ঝং ডিস্ট্রিক্ট স্কুল-লেভেল ইন্ডিপেন্ডেন্ট এনরোলমেন্ট), সরলরেখা $y_1 = k_1 x + b$ এবং হাইপারবোলা $y_2 = \\frac{k_2}{x}$ পরস্পর A এবং B বিন্দুতে ছেদ করে, যাদের x-স্থানাঙ্ক যথাক্রমে 1 এবং 5। অসমতা $k_1 x > \\frac{k_2}{x} - b$ এর সমাধান সেট নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

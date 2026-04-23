@@ -1,0 +1,302 @@
+[
+  {
+    "id": "aa35760c-e849-4fc9-b2b2-c8cbcce32818",
+    "images": [
+      "images/19789_0.png"
+    ],
+    "english_question": "<image>\nছায়াবৃত অংশের পরিসীমা নির্ণয় করো।\nOptions:\na.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d949564-c4cf-4c75-b7c8-640611ae5769",
+    "images": [
+      "images/47564_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন আকৃতিগুলোকে ভাঁজ করে একটি খোলা বাক্স তৈরি করা সম্ভব?\n\nOptions:\nক) 1 shape\nখ) 2 shapes\nগ) 3 shapes\nঘ) 4 shapes",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "87ffb4f8-1877-43f6-8cea-abcc9b27e9a4",
+    "images": [
+      "images/75435_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ ∠ACB = 90°, CD ও CE যথাক্রমে উচ্চতা ও কোণ সমদ্বিখণ্ডক। দেওয়া আছে ত্রিভুজ BEC-এর ক্ষেত্রফল 15 এবং ত্রিভুজ CDE-এর ক্ষেত্রফল 3, তবে ত্রিভুজ ABC-এর ক্ষেত্রফল কত? ক. 22.5 বা 20 খ. 22.5 গ. 24 বা 20 ঘ. 20",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b97d668a-33e7-4757-a153-1feb8fdb0c3d",
+    "images": [
+      "images/54445_0.png"
+    ],
+    "english_question": "<image>\nএকটি উড়োজাহাজ এবং একটি পাহাড়ের চূড়া একই উলম্ব সমতলে অবস্থিত। উড়োজাহাজটির উচ্চতা 10,250 মিটার এবং গতিবেগ 250 মিটার/সেকেন্ড। পাইলট প্রথমে পাহাড়ের চূড়াকে 15° অবনতি কোণে দেখেন; 80 সেকেন্ড পর, পাহাড়ের চূড়ার অবনতি কোণ হয় 75°। পাহাড়ের চূড়াটির উচ্চতা কত? (√3 ≈ 1.732, 1 মিটারের নির্ভুলতায়)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1161d0d5-ffb1-463c-a008-eafd39238ad0",
+    "images": [
+      "images/43558_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমকোণী ত্রিভুজ ABC-এর অতিভুজ AB এবং বাহু AC-এর ওপর বাইরের দিকে সমবাহু ত্রিভুজ ABD এবং ACE অঙ্কন করা হলো। ধরি, F হলো AB-এর মধ্যবিন্দু এবং DE রেখা AB-কে G বিন্দুতে ছেদ করে। যদি ∠BAC = 30° হয়, তবে নিচের কোন সিদ্ধান্তটি সঠিক: ① EF ⊥ AC; ② চতুর্ভুজ ADFE একটি সামান্তরিক; ③ AD = 4AG; ④ ত্রিভুজ DBF এবং ত্রিভুজ EFA সর্বসম। সঠিক সিদ্ধান্তগুলো হলো: (▲)\n\nOptions:\nক) ②④\nখ) ①③\nগ) ②③④\nঘ) ①②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "646bed24-1d35-4367-b140-1faa8f4bb4f0",
+    "images": [
+      "images/67772_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, বৃত্তাকার সেতু গহ্বরের পানির পৃষ্ঠের প্রস্থ AB যখন 8 মিটার, তখন বৃত্তচাপ ACB একটি অর্ধবৃত্ত। পানির স্তর 1 মিটার বৃদ্ধি পেলে, সেতু গহ্বরের পানির পৃষ্ঠের প্রস্থ A'B' কত হবে?\n\nOptions:\nক) \\( \\sqrt{15} \\) meters\nখ) \\( 2 \\sqrt{15} \\) meters\nগ) \\( 2 \\sqrt{17} \\) meters\nঘ) Cannot be calculated",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07c8e908-6f1e-4999-afe6-10aec465fcf7",
+    "images": [
+      "images/19930_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিকটির দুটি সন্নিহিত বাহু CD এবং DB-এর দৈর্ঘ্যের অনুপাত কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e7f8d3bd-b53b-4c78-97cd-18393318a50a",
+    "images": [
+      "images/triangle_ext_e7f8d3bd-b53b-4c78-97cd-18393318a50a.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BI এবং CI যথাক্রমে ∠ABC এবং ∠ACB-এর কোণ দ্বিখণ্ডক। DE বিন্দু I দিয়ে যায় এবং DE রেখা BC-এর সমান্তরাল। নিচের কোন সিদ্ধান্তটি ভুল? ( )\nক. I ∠BAC-কে দ্বিখণ্ডিত করে\nঘ. E = BD + CE\nখ. The distance from I to the three sides is equal\nগ. AI = ID",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d7466745-9879-48a0-bd4c-c59934dab6da",
+    "images": [
+      "images/13206_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি আয়তাকার কাগজের টুকরো ABCD-কে দুটি অভিন্ন আয়তক্ষেত্রে কাটা হলো, যার ফলে অবশিষ্ট ছায়াযুক্ত অংশের ক্ষেত্রফল 24। দেওয়া আছে AB = 8, প্রতিটি কাটা আয়তক্ষেত্রের দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41ea6a07-4cb0-4261-a585-0687cb391d5d",
+    "images": [
+      "images/44362_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে, AB সমান্তরাল EF এবং BC লম্ব CD। ∠α, ∠β এবং ∠γ-এর মধ্যে সম্পর্ক কী? ( )\n\nOptions:\nক) ∠β=∠α+∠γ\nখ) ∠α+∠β+∠γ=180°\nগ) ∠α+∠β−∠γ=90°\nঘ) ∠β+∠γ−∠α=90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c77d6d5-523c-442d-87df-db5b7e3725c6",
+    "images": [
+      "images/69541_0.png"
+    ],
+    "english_question": "<image>\nশিয়াও মিং ডার্ট খেলার জন্য দেয়ালে একটি আয়তাকার কার্ডবোর্ড টাঙাল (প্রতিটি ডার্ট কার্ডবোর্ডের ওপর পড়ে)। ডার্টটি ছায়াযুক্ত অংশে পড়ার সম্ভাবনা কত?\nOptions:\nd). What is the probability that the dart lands in the shaded area?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d4223dd-953b-4c65-b001-a08e0ebd6b0e",
+    "images": [
+      "images/65593_0.png"
+    ],
+    "english_question": "<image>\nবর্গক্ষেত্রটির ক্ষেত্রফল 36 বর্গসেমি হলে ছায়াযুক্ত অংশটির ক্ষেত্রফল কত বর্গসেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c8ed722a-e2fa-46eb-b64e-bfcf9389a9a4",
+    "images": [
+      "images/1639_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D, E এবং F বিন্দুগুলো যথাক্রমে ত্রিভুজ ABC-এর বাহুগুলোর মধ্যবিন্দু। A, B, C, D, E এবং F বিন্দুগুলোর মধ্যে যেকোনো দুটি বিন্দু দ্বারা গঠিত ভেক্টরগুলোর মধ্যে কতগুলো ভেক্টর DF ভেক্টরের সাথে সমরেখ (DF ভেক্টরটি ব্যতীত)?\n\nOptions:\nক) 2\nখ) 4\nগ) 5\nঘ) 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92a7a548-0b2d-4d04-a563-6879653483a5",
+    "images": [
+      "images/21880_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কঠিন বস্তুটি একটি নির্দিষ্ট আকৃতিকে তার প্রতিসাম্য অক্ষের চারপাশে ঘূর্ণনের মাধ্যমে তৈরি করা যায়। নিচের কোন সমতল আকৃতিটিকে তার অক্ষের চারপাশে ঘোরালে এই কঠিন বস্তুটি পাওয়া যাবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5bc76fd8-5312-473b-be1a-dd4c90cb9d11",
+    "images": [
+      "images/29467_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর মধ্যরেখা EF 15 সেমি। সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর পরিসীমা কত?\nক. 15 সেমি\nখ. 20 সেমি\nগ. 30 সেমি\nঘ. 60 সেমি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1facd853-4035-48e3-884f-aa99d17a1a02",
+    "images": [
+      "images/9458_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি আয়তক্ষেত্র, যেখানে AB = 2। আয়তক্ষেত্র ABCD-কে EF রেখা বরাবর ভাঁজ করা হলো এবং D বিন্দুটি BC বাহুর D' বিন্দুতে পতিত হলো। যদি চতুর্ভুজ AD'FE একটি রম্বস হয়, তবে আয়তক্ষেত্রের AD বাহুর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "62c3543e-bf38-42cb-b335-8e17f7c6f509",
+    "images": [
+      "images/41053_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং EF, BC সমান্তরাল AD, এবং AC কোণ BAD-কে সমদ্বিখণ্ডিত করে। কোণ AGE-এর সমান কোণের সংখ্যা কত?\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "10f9651e-c6bc-450e-b6d9-c0ee1a303e2f",
+    "images": [
+      "images/57717_0.png"
+    ],
+    "english_question": "<image>\nগ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। বিন্দু A, B এবং C গ্রিড বিন্দুতে অবস্থিত। ∠ABC এর ট্যানজেন্ট (tangent) মান কত?\n\nOptions:\nক) \\(2\\)\nখ) \\( \\dfrac {2 \\sqrt {5}}{5}\\)\nগ) \\( \\dfrac { \\sqrt {5}}{5}\\)\nঘ) \\( \\dfrac {1}{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6822a3ff-6e85-4eee-b50c-9128106a67c3",
+    "images": [
+      "images/19453_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, CF ⊥ AB (F বিন্দুতে), BE ⊥ AC (E বিন্দুতে) এবং M হলো BC-এর মধ্যবিন্দু। চিত্রে কতগুলো সমদ্বিবাহু ত্রিভুজ রয়েছে? ( )\nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f018e94-304c-4b9b-a813-6b0db9ccdaa6",
+    "images": [
+      "images/2052_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-এর কর্ণদ্বয় AC এবং BD পরস্পর O বিন্দুতে ছেদ করে, যা চতুর্ভুজটিকে চারটি ত্রিভুজে বিভক্ত করে: ①, ②, ③ এবং ④। যদি OA:OC = OB:OD হয়, তবে নিচের কোন সিদ্ধান্তটি অবশ্যই সঠিক?\n\nOptions:\nক) ① and ② are similar\nখ) ① and ③ are similar\nগ) ① and ④ are similar\nঘ) ② and ④ are similar",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

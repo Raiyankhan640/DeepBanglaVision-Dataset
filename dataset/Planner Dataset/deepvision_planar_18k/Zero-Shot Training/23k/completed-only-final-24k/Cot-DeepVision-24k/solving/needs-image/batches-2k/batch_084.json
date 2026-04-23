@@ -1,0 +1,342 @@
+[
+  {
+    "id": "55852cd1-527e-4594-bfdd-ba882c19290b",
+    "images": [
+      "images/triangle_ext_55852cd1-527e-4594-bfdd-ba882c19290b.png"
+    ],
+    "english_question": "<image>\n1 বাহু বিশিষ্ট ছোট বর্গক্ষেত্র দ্বারা গঠিত গ্রিডে একটি কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করা হয়েছে। ত্রিভুজ ΔABO এবং ΔA'B'O' হলো P বিন্দুকে কেন্দ্র করে সদৃশ চিত্র। তাদের শীর্ষবিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত (গ্রিড রেখার ছেদবিন্দু)। বিন্দু P-এর স্থানাঙ্ক কত?\nক. (0, 0)\nখ. (0, 1)\nগ. (﹣3, 2)\nঘ. (3, ﹣2)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "68657148-99a2-4a81-9ddc-88c7844af5e8",
+    "images": [
+      "images/61159_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো ⊙O বৃত্তের ব্যাস, ∠C=38°, যদি ∠AOD=104° হয়, তবে ∠ACD কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29ccacff-3872-4b3d-adf3-a4910d1edd06",
+    "images": [
+      "images/55521_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 হলে, ত্রিভুজ ABC-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b9439d4e-d62f-4e76-9db0-7c253ad3a2db",
+    "images": [
+      "images/14376_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি রেখা a এবং রেখা b সমান্তরাল হয়, ∠1 = 110° এবং ∠2 = 150° হয়, তবে ∠3 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f8e5344-3782-4144-9c09-6d580ba16766",
+    "images": [
+      "images/33491_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, C বিন্দু BE রেখাংশের ওপর অবস্থিত। BE-এর একই পাশে ABC এবং DCE সমবাহু ত্রিভুজ দুটি অঙ্কন করা হয়েছে। যদি ∠2 = 40° হয়, তবে ∠BDE-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be89318a-d299-4335-a83d-4d7d69db533f",
+    "images": [
+      "images/20422_0.png"
+    ],
+    "english_question": "<image>\nমে দিবস উপলক্ষে, একটি পরিবার A→B→C→D রুটে একটি ভ্রমণের পরিকল্পনা করেছে। বিন্দু A, B এবং C একই সরলরেখায় অবস্থিত। বিন্দু D, বিন্দু A থেকে উত্তরের 30° পূর্বে এবং বিন্দু C থেকে উত্তরের 45° পশ্চিমে অবস্থিত। বিন্দু C, বিন্দু A থেকে উত্তরের 75° পূর্বে অবস্থিত। যদি বিন্দু A এবং D এর মধ্যবর্তী সরলরৈখিক দূরত্ব AD = 60 কিমি হয়, তবে বিন্দু A থেকে D পর্যন্ত ভ্রমণের মোট দূরত্ব কত?\nOptions:\nগ) Point C is located at a direction of 75° east of north from point ক) If the straight-line distance between points A and D is AD = 60 km, what is the distance traveled along the route from point A to point D?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "67702e1e-89f4-407d-8c99-638c06495b8a",
+    "images": [
+      "images/55337_0.png"
+    ],
+    "english_question": "<image>\nনিচের গ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। বিন্দু A, B এবং O গ্রিড বিন্দুতে অবস্থিত। ∠AOB এর সাইন (sine) মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4d64591c-a18d-4173-9c8b-6b61cb2decf3",
+    "images": [
+      "images/11229_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি জাহাজ ঘণ্টায় 30 নটিক্যাল মাইল বেগে চলছে। বিন্দু A-তে, তেল কূপ P-এর অবস্থান দক্ষিণ-পূর্ব দিকে 60° কোণে পরিমাপ করা হয়। 40 মিনিট উত্তর দিকে চলার পর, জাহাজটি বিন্দু B-তে পৌঁছায়, যেখানে তেল কূপ P-এর অবস্থান দক্ষিণ-পূর্ব দিকে 30° কোণে পরিমাপ করা হয়। এরপর জাহাজটি তার গতিপথ পরিবর্তন করে উত্তর-পূর্ব দিকে 60° কোণে 80 মিনিট চলে বিন্দু C-তে পৌঁছায়। P এবং C-এর মধ্যবর্তী দূরত্ব নির্ণয় করো।\nOptions:\nগ) Find the distance between P and গ)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0de6c4e-9887-41a9-aaaf-4ade07fa7edb",
+    "images": [
+      "images/30873_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, ∠ACB=90°, AC=4, BC=3। বিন্দু P, AB রেখাংশ বরাবর B থেকে A এর দিকে প্রতি সেকেন্ডে 1 একক বেগে এবং বিন্দু Q, AC রেখাংশ বরাবর A থেকে C এর দিকে একই বেগে গতিশীল। t সেকেন্ড সময় হলে, t এর মান কত হলে ত্রিভুজ APQ, ত্রিভুজ ABC এর সদৃশ হবে?\nOptions:\nd. Let t be the time in seconds. Find the value of t when triangle APQ is similar to triangle ABC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "df63c0a6-5866-4f9d-aad0-8c2412d0fa50",
+    "images": [
+      "images/39291_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ঢাল CD-এর ঢাল অনুপাত 1:√3 এবং ঢালের উপরের সমতল BC-তে একটি ছোট গাছ AB আছে। সূর্যালোক ও অনুভূমিক রেখার মধ্যে কোণ 60° হলে, ঢালের উপরের সমতল BC-তে গাছের ছায়া 3 মিটার এবং ঢাল CD-তে গাছের ছায়া √3 মিটার। ছোট গাছ AB-এর উচ্চতা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f1ef8d25-e6a8-4f30-bb1f-0b8dc4801208",
+    "images": [
+      "images/14153_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O, M, A, B এবং C বিন্দুগুলো একই সমতলে অবস্থিত। যদি বিন্দু A-এর অবস্থান (50, 20°) এবং বিন্দু B-এর অবস্থান (30, 60°) হয়, তবে চিত্রে বিন্দু C-এর অবস্থান কত হওয়া উচিত?\n\nOptions:\nক) (60°, 30)\nখ) (110°, 34)\nগ) (34, 4°)\nঘ) (34, 110°)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d04cbcae-d1a6-4ebd-9642-83421c0d6d26",
+    "images": [
+      "images/8377_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, বিন্দু B তীর থেকে 300 মিটার উপরে অবস্থিত। লাইফগার্ড A বিন্দু D (B এর নিকটতম বিন্দু) পর্যন্ত দৌড়ে যায় এবং তারপর B এর দিকে সাঁতার কাটে। লাইফগার্ড B বিন্দু C পর্যন্ত দৌড়ে যায় এবং তারপর B এর দিকে সাঁতার কাটে। উভয়েই 6 মি/সে বেগে দৌড়ায় এবং 2 মি/সে বেগে সাঁতার কাটে। কে আগে বিন্দু B তে পৌঁছাবে? (√2 ≈ 1.41, √3 ≈ 1.73 ব্যবহার করুন)\nOptions:\nখ) and then swims to খ) Lifeguard B runs to point C and then swims to খ) Both run at 6 m/s and swim at 2 m/s. Who reaches point B first? (Use √2 ≈ 1.41, √3 ≈ 1.73)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "708054ff-7734-462f-9fe1-c3c939d5a1fe",
+    "images": [
+      "images/18770_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2010 বসন্ত, হেংফেং কাউন্টি স্কুল লেভেল ফাইনাল পরীক্ষা), AB এবং CD রেখা দুটি সমান্তরাল। ∠1 এবং ∠2 সমান হওয়ার জন্য একটি প্রয়োজনীয় শর্ত কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "10f9ba68-e6b1-43fd-9d1c-9dc2ada9eb87",
+    "images": [
+      "images/24741_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, জাহাজ A প্রতি ঘন্টায় 15√2 নটিক্যাল মাইল বেগে উত্তর দিকে যাত্রা করছে। জাহাজ B একটি নির্দিষ্ট দিকে স্থির বেগে চলছে। জাহাজ A যখন A₁ বিন্দুতে ছিল, তখন জাহাজ B এর অবস্থান ছিল B₁ বিন্দুতে, যা জাহাজ A এর 75° দক্ষিণ-পশ্চিমে এবং জাহাজ দুটির মধ্যবর্তী দূরত্ব 20 নটিক্যাল মাইল। 40 মিনিট পর জাহাজ A যখন A₂ বিন্দুতে পৌঁছায়, তখন জাহাজ B এর অবস্থান B₂ বিন্দুতে, যা জাহাজ A এর 45° দক্ষিণ-পশ্চিমে এবং জাহাজ দুটির মধ্যবর্তী দূরত্ব 10 নটিক্যাল মাইল। জাহাজ B প্রতি ঘন্টায় কত নটিক্যাল মাইল বেগে চলছে?\nOptions:\nd. When Ship A is at point \\(A_{1}\\), Ship B is located at point \\(B_{1}\\), which is \\(75^{\\circ}\\) south-west of Ship A, and the distance between the two ships is \\(20\\) nautical miles. After \\(40\\) minutes, when Ship A reaches point \\(A_{2}\\), Ship B is at point \\(B_{2}\\), which is \\(45^{\\circ}\\) south-west of Ship A, and the distance between the two ships is \\(10\\) nautical miles. How many nautical miles per hour is Ship B sailing?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da3b4fd8-a2a6-486e-b540-af9dd942e79b",
+    "images": [
+      "images/55105_0.png"
+    ],
+    "english_question": "<image>\nএকটি সামুদ্রিক নজরদারি জাহাজ A বিন্দু থেকে B বিন্দু পর্যন্ত উত্তর দিকে যাত্রা করে (AB = 4 নটিক্যাল মাইল)। জাহাজের গতিপথ থেকে দিয়াওইউ দ্বীপপুঞ্জের নিকটতম দূরত্ব MC = 12 নটিক্যাল মাইল, যেখানে C হলো M থেকে জাহাজের গতিপথের ওপর অঙ্কিত লম্বের পাদবিন্দু। A বিন্দুতে, পশ্চিম প্রান্ত M কে উত্তর-পূর্ব দিকে দেখা যায় (অর্থাৎ, ∠CAM = 45°)। B বিন্দুতে, পূর্ব প্রান্ত N কে উত্তর থেকে 60° পূর্ব দিকে দেখা যায় (অর্থাৎ, ∠CBN = 60°)। M, N এবং C বিন্দুগুলো সমরেখ। দ্বীপপুঞ্জের পূর্ব ও পশ্চিম প্রান্তের মধ্যবর্তী দূরত্ব MN নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af241056-5de9-4ff0-a256-3de1286193e7",
+    "images": [
+      "images/13320_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বাঁধের প্রস্থচ্ছেদ হলো ট্রাপিজিয়াম ABCD। পশ্চাৎ ঢাল AD-এর নতি (tan α) হলো 1:1.2 এবং বাঁধের উচ্চতা 5 মিটার। বাঁধের উপরিভাগ CD-কে 1 মিটার প্রশস্ত করা হলো, যার ফলে 1:1.4 নতিবিশিষ্ট একটি নতুন পশ্চাৎ ঢাল EF তৈরি হলো। বাঁধের মোট দৈর্ঘ্য 4000 মিটার হলে, এই প্রকল্পের জন্য প্রয়োজনীয় মাটির কাজের পরিমাণ নির্ণয় করো।\nOptions:\nD) The backwater slope AD has a gradient (tan(α)) of 1:1.2, and the dam height is 5m. The top CD is to be widened by 1m, forming a new backwater slope EF with a gradient of 1:1.4. The total length of the dam is 4000m. Calculate the volume of earthwork required for this project.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60468d87-994c-4025-9253-32c38af41545",
+    "images": [
+      "images/3158_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, AB = BC = 5 এবং BN = BM = 3 হলে, ত্রিভুজ OBC-এর ক্ষেত্রফল নির্ণয় করুন।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "85ed890a-aa08-439a-bdc7-ddd47e4f0cdc",
+    "images": [
+      "images/62426_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AC জ্যা বরাবর AC অংশটিকে ভাঁজ করলে তা ব্যাস AB-কে কেন্দ্র O-তে ছেদ করে। ∠AOC কোণের পরিমাপ কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7bf2eda5-9439-4213-a453-bad6732d1644",
+    "images": [
+      "images/42399_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, ছয়টি অভিন্ন আয়তক্ষেত্র চিত্রে প্রদর্শিত মাপে বসানো হয়েছে। সমীকরণ জোটের পদ্ধতি ব্যবহার করে ছায়াবৃত অংশের ক্ষেত্রফল বর্গ সেমি এককে নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cfe9c2dd-4ccb-4f5b-ba7f-a3586194cbd3",
+    "images": [
+      "images/55390_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চীনা অক্ষর বা বর্ণগুলোর মধ্যে, কোনগুলো অক্ষীয় প্রতিসাম্য (axisymmetric) এবং কেন্দ্রিক প্রতিসাম্য (centrally symmetric) উভয়ই?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

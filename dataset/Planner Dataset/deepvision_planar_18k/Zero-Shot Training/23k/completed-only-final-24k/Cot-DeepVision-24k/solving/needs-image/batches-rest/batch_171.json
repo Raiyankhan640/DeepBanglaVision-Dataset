@@ -1,0 +1,302 @@
+[
+  {
+    "id": "4ae2c375-ddff-4364-b62f-671eae873ccd",
+    "images": [
+      "images/70495_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, যখন পানির পৃষ্ঠ AB-এর প্রস্থ 12 মি., তখন সেতুর উপরের অংশ পানির পৃষ্ঠ থেকে 4 মি. উপরে। দেওয়া আছে সেতুর খিলান একটি পরাবৃত্ত, অনুভূমিক দিক x-অক্ষ। যদি বিন্দু A কে মূলবিন্দু ধরা হয়, তবে পরাবৃত্তের সমীকরণ y = - (1/9)(x-6)² + 4। তবে বিন্দু B কে মূলবিন্দু ধরলে পরাবৃত্তের সমীকরণ ____________।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cddf6b42-948e-43bb-9fed-c70cccd9bd47",
+    "images": [
+      "images/23945_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড লাইনে ∠BAC এর অবস্থান অনুযায়ী, tan A এর মান কত?\nক. 2/13\nখ. 3/13\nগ. 2\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24308b32-9c4f-460e-8f0f-526db662d24a",
+    "images": [
+      "images/29379_0.png"
+    ],
+    "english_question": "<image>\nXiaoming এবং তার মা একটি 90 মিটার বাহু বিশিষ্ট বর্গাকার খেলার মাঠে হাঁটছেন। Xiaoming বিন্দু A থেকে এবং তার মা বিন্দু B থেকে শুরু করে, উভয়েই তাদের হাঁটার দিক নির্দেশক তীরের দিকে হাঁটছেন। Xiaoming 65 মিটার প্রতি মিনিটে হাঁটে, এবং তার মা 72 মিটার প্রতি মিনিটে হাঁটে। যখন তার মা প্রথম বারের মতো Xiaoming কে ধরতে পারে, তখন সে কোন বাহুতে থাকবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fa00d07c-eb4c-492a-818a-c803252268c0",
+    "images": [
+      "images/14907_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি সমকেন্দ্রিক বৃত্তের কেন্দ্র O। বড় বৃত্তের জ্যা AB ছোট বৃত্তকে P বিন্দুতে স্পর্শ করে। বৃত্ত দুটির ব্যাসার্ধ যথাক্রমে 6 এবং 3। চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ecc67cb-beef-4212-9bd2-5e510346fd4b",
+    "images": [
+      "images/30753_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, MN হলো অর্ধবৃত্ত O-এর ব্যাস, A হলো অর্ধবৃত্তের একটি ত্রিখণ্ডক বিন্দু, B হলো চাপ AN-এর মধ্যবিন্দু এবং P হলো ব্যাস MN-এর ওপর একটি বিন্দু। যদি AP + PB-এর সর্বনিম্ন মান 2√2 সেমি হয়, তবে বৃত্তের ব্যাসার্ধ r কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c81e8bc2-896a-4b02-b4a9-f3e3244a25f7",
+    "images": [
+      "images/57676_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC-এ ∠C=90°, AD, ∠CAB-কে সমদ্বিখণ্ডিত করে এবং DE, AB-এর উপর E বিন্দুতে লম্ব। নিম্নলিখিত কোন সিদ্ধান্ত ভুল? ( ) ক. BD + ED = BC খ. DE, ∠ADB-কে সমদ্বিখণ্ডিত করে গ. AD, ∠EDC-কে সমদ্বিখণ্ডিত করে ঘ. ED + AC > AD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d138d75c-e25e-43ae-9e4f-a2e05e961d27",
+    "images": [
+      "images/triangle_ext_d138d75c-e25e-43ae-9e4f-a2e05e961d27.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিডে, ত্রিভুজ \\( \\triangle MNP \\) একটি নির্দিষ্ট বিন্দুকে কেন্দ্র করে একটি নির্দিষ্ট কোণে ঘুরে ত্রিভুজ \\( \\triangle M_1N_1P_1 \\) উৎপন্ন করে। ঘূর্ণনের সম্ভাব্য কেন্দ্র হতে পারে ( )\nক. Point A\nখ. Point B\nগ. Point C\nঘ. Point D",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9506f865-24e2-482e-9aff-3a0bc3f0479d",
+    "images": [
+      "images/5979_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশটি একটি আয়তক্ষেত্র, এর ক্ষেত্রফল কত?\n\nOptions:\nক) \\(3cm^{2}\\)\nখ) \\(4cm^{2}\\)\nগ) \\(5cm^{2}\\)\nঘ) \\(6cm^{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f2e30836-2b39-4058-bb8a-f480d8bbae5d",
+    "images": [
+      "images/35540_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রটির ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6671fe99-8d9a-4f6c-9bb2-a96a22963560",
+    "images": [
+      "images/28623_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, হাইপারবোলা y = 2/x (x > 0 এর জন্য) চতুর্ভুজ OABC এর শীর্ষবিন্দু A এবং C দিয়ে যায়। ত্রিভুজ ABC এর B বিন্দুতে একটি সমকোণ আছে। OC রেখাটি OA এবং ধনাত্মক x-অক্ষের মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে এবং AB রেখাটি x-অক্ষের সমান্তরাল। AC বরাবর ত্রিভুজ ABC কে ভাঁজ করার পর, B বিন্দুটি OA এর ওপর B' বিন্দুতে পতিত হয়। চতুর্ভুজ OABC এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nগ) Triangle ABC has a right angle at খ) OC bisects the angle between OA and the positive x-axis, and AB is parallel to the x-axis. After folding triangle ABC along AC, point B lands on OA at point B'. Find the area of quadrilateral OABC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "64c2e249-2ad8-4fcb-9855-abf9aa429868",
+    "images": [
+      "images/36818_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ত্রিভুজাকার স্কেলের সমকোণী শীর্ষবিন্দুটি 'a' রেখার উপর অবস্থিত, যেখানে a || b। যদি ∠1 = 50° এবং ∠2 = 60° হয়, তবে ∠3 এর মান কত?\nOptions:\nb. Given that ∠1 = 50° and ∠2 = 60°, what is the measure of ∠3?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "878b48d7-2519-4353-9b31-f2250f23cf89",
+    "images": [
+      "images/27839_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, ∠ABC এবং ∠ACB-এর সমদ্বিখণ্ডকদ্বয় O বিন্দুতে মিলিত হয়। D বিন্দুটি ∠ACF এবং ∠ABC-এর সমদ্বিখণ্ডকদ্বয়ের ছেদবিন্দু এবং E বিন্দুটি ত্রিভুজ ABC-এর বহিঃস্থ কোণের সমদ্বিখণ্ডকদ্বয়ের ছেদবিন্দু। যদি ∠BOC = 130° হয়, তবে কোণ D-এর মান কত?\n\nOptions:\nক) 25°\nখ) 30°\nগ) 40°\nঘ) 50°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "319fbca0-a0f5-4547-ab92-20cc927be8c3",
+    "images": [
+      "images/31861_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে AB ∥ CD, BE, ∠ABC-কে সমদ্বিখণ্ডিত করে, DE, ∠ADC-কে সমদ্বিখণ্ডিত করে, ∠BAD = 70°, ∠BCD = n°। ∠BED-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "87e1ffdf-6f58-429b-85ec-a80644e4433c",
+    "images": [
+      "images/49343_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, E হলো অতিভুজ AB-এর মধ্যবিন্দু, ED, AB-এর ওপর লম্ব এবং ∠CAD ও ∠BAD-এর অনুপাত 1:7। ∠BAC-এর মান কত ডিগ্রি?\n\nOptions:\nক) 70°\nখ) 48°\nগ) 45°\nঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3220765-03a3-422f-b390-941d11fbb1d9",
+    "images": [
+      "images/49247_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজের টুকরো ABCD-এর চারটি কোণ ভিতরের দিকে ভাঁজ করে কোনো ফাঁক বা উপরিপাতন ছাড়া একটি চতুর্ভুজ EFGH তৈরি করা হলো। যদি EH = 5 এবং EF = 12 হয়, তবে আয়তক্ষেত্র ABCD-এর ক্ষেত্রফল কত?\n\nOptions:\nক) 30\nখ) 60\nগ) 120\nঘ) 240",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0874607-7884-4fc9-b739-bf72410b15e7",
+    "images": [
+      "images/49967_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ABC একটি সমকোণী ত্রিভুজ। AB বাহুকে অক্ষ ধরে ত্রিভুজটিকে একবার পূর্ণ ঘূর্ণন দিলে যে ঘনবস্তু তৈরি হয়, তার আয়তন নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8763c7e7-4c9e-4abf-a4e5-ad33f84cdbdc",
+    "images": [
+      "images/44403_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, বন্দর P থেকে 81 নটিক্যাল মাইল দূরে দক্ষিণ-পূর্ব দিকে 45° কোণে A দ্বীপটি অবস্থিত। জাহাজ A, A বিন্দু থেকে P বন্দরের দিকে 9 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে যাত্রা শুরু করে। জাহাজ B, P বন্দর থেকে দক্ষিণ-পশ্চিম দিকে 60° কোণে 18 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে যাত্রা শুরু করে। উভয় জাহাজ একই সময়ে যাত্রা শুরু করলে, কত সময় পর জাহাজ A, জাহাজ B-এর ঠিক পূর্ব দিকে অবস্থান করবে? (ফলাফলে বর্গমূল চিহ্ন রাখতে হবে)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e1f70a77-81ce-4bc7-9a94-58a91754e887",
+    "images": [
+      "images/22427_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট বৃত্তের একটি জ্যা, AD = BD, বৃত্তের ব্যাসার্ধ 4 এবং ∠AOB = 120°। OD এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c0d2a425-264b-4906-81c1-a07b10ac4cd0",
+    "images": [
+      "images/16093_0.png"
+    ],
+    "english_question": "<image>\nস্কুলের খেলার মাঠটি চিত্রে দেখানো হয়েছে: খেলার মাঠের মাঝখানে একটি ছোট রাস্তা 10 মিটার লম্বা এবং 2 মিটার চওড়া। স্কুলের খেলার মাঠের ঘাসের অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b21c3320-7d34-416c-9f5c-c23c03c6baa7",
+    "images": [
+      "images/25295_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোণগুলো পরিমাপ করো এবং প্রতিটি কোণের নাম লেখো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

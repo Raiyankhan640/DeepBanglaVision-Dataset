@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1d89588a-5bb6-4a61-bbd9-f28c034bb278",
+    "images": [
+      "images/16657_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট একটি বর্গক্ষেত্র ABCD-কে কর্ণ BD বরাবর ভাঁজ করা হলো, যাতে তল ABD, তল CBD-এর উপর লম্ব হয়। ত্রিভুজাকার পিরামিড C-ABD-এর সম্মুখ দৃশ্য এবং শীর্ষ দৃশ্য চিত্রে দেখানো হয়েছে। পার্শ্ব দৃশ্যের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) \\( \\frac{1}{2} \\)\nখ) \\( \\frac{\\sqrt{2}}{2} \\)\nগ) \\( \\frac{1}{4} \\)\nঘ) \\( \\frac{\\sqrt{2}}{4} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "19c4b9c1-5be0-4330-bcc5-2b0752a714e8",
+    "images": [
+      "images/29271_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a, b, c এবং d রেখাগুলো সমান্তরাল নয়। এই রেখাগুলো দ্বারা গঠিত কোণগুলোর সম্পর্কের ক্ষেত্রে নিচের কোনটি ভুল? \nক. ∠1+∠5+∠4=180° \nখ. ∠4+∠5=∠2 \nগ. ∠1+∠3+∠6=180° \nঘ. ∠1+∠6=∠2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "302420ee-b1a5-4ab3-87f5-d7df3e63bd31",
+    "images": [
+      "images/71543_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে গ্রিড কাগজে ①, ②, ③ বা ④ সংখ্যাযুক্ত ছোট বর্গক্ষেত্রের একটিকে কালো রঙ করলে মূল চিত্রের ছায়াযুক্ত অংশের সাথে কেন্দ্রীয় প্রতিসম আকৃতি গঠন হয়। কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a54ba5ff-b346-496e-98ab-30a1e6a0293f",
+    "images": [
+      "images/37003_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, দেওয়া আছে যে ∠A = 135°, ∠B = ∠D = 90°, BC = 2√3, এবং AD = 2। ABCD চতুর্ভুজের ক্ষেত্রফল কত?\n\nOptions:\nক) 4 \\sqrt{2}\nখ) 4 \\sqrt{3}\nগ) 4\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "38bf6bb1-0443-4d62-a3e9-4e762db2d6dc",
+    "images": [
+      "images/44079_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, AE: EB = 1: 2। যদি ত্রিভুজ AEF-এর ক্ষেত্রফল 2 বর্গ সেমি হয়, তবে ত্রিভুজ CDF-এর ক্ষেত্রফল কত? ( ) \nক. 16 বর্গ সেমি \nখ. 18 বর্গ সেমি \nগ. 20 বর্গ সেমি \nঘ. 22 বর্গ সেমি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "874bd81e-0775-46c5-8fc4-2c72c586524f",
+    "images": [
+      "images/17296_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, তবে এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) \\( \\dfrac{1}{3}+π \\)\nখ) \\( \\dfrac{2}{3}+π \\)\nগ) \\( \\dfrac{1}{3}+2π \\)\nঘ) \\( \\dfrac{2}{3}+2π \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e452a692-fc38-4904-befa-aad8fb69aa71",
+    "images": [
+      "images/triangle_ext_e452a692-fc38-4904-befa-aad8fb69aa71.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন উক্তিটি সঠিক?\nক. ∠2 and ∠B are corresponding angles\nগ. ∠1 and ∠A are alternate interior angles\nঘ. ∠3 and ∠B are same-side interior angles",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dd331375-0192-4c19-9ff6-d5b295a9bac2",
+    "images": [
+      "images/36555_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্তের ব্যাসার্ধ a এবং কেন্দ্রের স্থানাঙ্ক (b, c) হলে, ax + by + c = 0 রেখা এবং x + y - 1 = 0 রেখার ছেদবিন্দু কোন চতুর্ভাগে অবস্থিত?\n\nOptions (copied from English):\nc). Then the intersection point of the line ax + by + c = 0 and the line x + y - 1 = 0 is in which quadrant?\nOptions:\nc). Then the intersection point of the line ax + by + c = 0 and the line x + y - 1 = 0 is in which quadrant?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af8c1316-439a-4ef9-a7e6-e480c565064a",
+    "images": [
+      "images/48171_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 6 সেমি হলে, ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c4527c02-3f6c-45f6-a2a6-38c83ab41e0f",
+    "images": [
+      "images/61533_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত ট্রাপিজিয়ামটির ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "adcb6452-d6c8-474c-b126-695939bd1ae6",
+    "images": [
+      "images/21085_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এর BC বাহুর ওপর D এমন একটি বিন্দু যে BD:DC = 1:2 এবং E হলো AD-এর মধ্যবিন্দু। ত্রিভুজ ABE ও ত্রিভুজ ABF-এর ক্ষেত্রফলের অনুপাত কত?\n\nOptions:\nক) 3: 4\nখ) 1: 2\nগ) 1: 3\nঘ) 2: 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4cf6ed65-3844-4f56-8fbc-7a92e8baaf4d",
+    "images": [
+      "images/23765_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, OA রশ্মির দিক উত্তর থেকে 60° পশ্চিমে এবং OB রশ্মির দিক দক্ষিণ থেকে 25° পূর্বে। ∠AOB কোণের মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95532305-512b-481f-be7f-9fc9a16fcb55",
+    "images": [
+      "images/28833_0.png"
+    ],
+    "english_question": "<image>\nধরা যাক চতুর্ভুজ ABCD এর ক্ষেত্রফল 1, এবং প্রতিটি বাহুকে n সমান ভাগে ভাগ করে (যেখানে n > 1 একটি পূর্ণসংখ্যা) ধারাবাহিক বিভাজন বিন্দুগুলো যোগ করে একটি অভ্যন্তরীণ বহুভুজ তৈরি করা হলো। ছায়াবৃত অভ্যন্তরীণ বহুভুজটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c3620cda-a293-4ff6-8475-0d86b4b5839b",
+    "images": [
+      "images/47529_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, mn = 12 এবং m + n = 8। (m + n)^2 - 4mn = (m - n)^2 অভেদটি ব্যবহার করে (m - n) এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7402125-0868-4d82-b5ed-4e17f8b5b965",
+    "images": [
+      "images/61115_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সামান্তরিক আকৃতির কাগজে একটি পিনের অগ্রভাগ পড়ার সম্ভাবনা কত? ( ) \nক. 1/3 \nখ. 1/4 \nগ. 1/5 \nঘ. 1/6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6aa85557-4b35-4dd2-a567-93ac09714a07",
+    "images": [
+      "images/74757_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রটি ঘনকের উন্মুক্ত রূপ নয় (সংখ্যাটি লিখ)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74eefcb1-8702-400a-bdbb-382808986c08",
+    "images": [
+      "images/18653_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l সমতল α এর সাথে O বিন্দুতে ছেদ করে। বিন্দু A রেখা l এর উপর অবস্থিত এবং AB রেখা সমতল α এর উপর লম্ব যার পাদবিন্দু B। রেখা OD সমতল α এর উপর অবস্থিত এবং AC রেখা OD এর উপর C বিন্দুতে লম্ব। যদি রেখা l এবং সমতল α এর মধ্যবর্তী কোণ 45° হয় এবং ∠BOC = 45° হয়, তবে ∠AOC এর মান নির্ণয় করো।\nOptions:\nখ) Line OD lies in plane α, and AC is perpendicular to OD at গ) Given that the angle between line l and plane α is 45° and ∠BOC = 45°, find the measure of ∠AOC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0aa1b1e5-f660-47dc-9850-c067aa65d525",
+    "images": [
+      "images/55238_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ঘনকের নেট দেওয়া হয়েছে। প্রতিটি তলে একটি করে অক্ষর আছে। যদি ঘনকটির ডান দিক থেকে '州' অক্ষরটি দেখা যায় এবং '扬' অক্ষরটি পেছনে থাকে, তবে ঘনকটির উপরে কোন অক্ষরটি থাকবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "82ea6996-e886-47c4-a14a-d6e93a6922a3",
+    "images": [
+      "images/56842_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কোন কোণ ∠1 ও ∠2 অনুরূপ কোণ? ( ) ক. ①② খ. ①③ গ. ②③ ঘ. ②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf2780a5-ee48-4714-ac3b-ce760ddf2f4e",
+    "images": [
+      "images/43665_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, রম্বস OABC-এর দুটি শীর্ষবিন্দু O(0,0) ও B(2,2)। যদি রম্বসটি বিন্দু O কেন্দ্র করে প্রতি সেকেন্ডে 45° করে ঘড়ির কাঁটার বিপরীত দিকে ঘুরতে থাকে, তবে 2017 সেকেন্ডে রম্বসের কর্ণের ছেদবিন্দু D-এর স্থানাঙ্ক ______ ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

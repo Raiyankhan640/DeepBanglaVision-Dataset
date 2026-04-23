@@ -1,0 +1,302 @@
+[
+  {
+    "id": "607b4420-9786-4811-988c-823e8e9456e0",
+    "images": [
+      "images/46624_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিমাত্রিক জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। জ্যামিতিক বস্তুটির আয়তন কত?\nক. 12\nখ. 18\nগ. 27\nঘ. 54",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ba171771-9045-47b6-b001-e0fe7729afba",
+    "images": [
+      "images/26509_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে ট্রাপিজিয়ামের সংখ্যা গণনা করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e720a6f6-eba6-474b-bdc0-8a6604b577eb",
+    "images": [
+      "images/24229_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, 30° কোণবিশিষ্ট দুটি অভিন্ন ত্রিভুজাকার রুলার ABC এবং DEF একটি রেখা l বরাবর স্লাইড করছে। নিচের কোন উক্তিটি ভুল?\n\nOptions:\nক) Quadrilateral ACDF is a parallelogram\nখ) Quadrilateral ACDF cannot be a square\nগ) When point B coincides with point E, quadrilateral ACDF is a rhombus\nঘ) When point E is the midpoint of BC, quadrilateral ACDF is a rectangle",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3e203929-d288-4d0d-904e-c0f783c3f243",
+    "images": [
+      "images/47264_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, AB = 2, ∠ABC = 30°, AD হলো BC বাহুর ওপর A বিন্দু থেকে অঙ্কিত লম্ব। AD • AC এর মান কত?\nক. 3\nখ. 2\nগ. 1\nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cf7ff29d-37f9-4180-8df0-0469b42c0bcd",
+    "images": [
+      "images/34966_0.png"
+    ],
+    "english_question": "<image>\n15 ডেসিমিটার বাহুবিশিষ্ট একটি বর্গাকার লোহার পাত থেকে 8 ডেসিমিটার দৈর্ঘ্য ও 6 ডেসিমিটার প্রস্থের একটি আয়তক্ষেত্র কেটে নেওয়া হলো। চিত্রে প্রদর্শিত তিনটি পদ্ধতির মধ্যে কোনটিতে অবশিষ্ট অংশের পরিসীমা সবচেয়ে বেশি হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d29a7706-be8d-417c-b2bf-7515647a0ea6",
+    "images": [
+      "images/30929_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 2 হলো চিত্র 1-এ প্রদর্শিত জ্যামিতিক আকৃতির একটি উন্মুক্ত রূপ। 6 একক বাহুবিশিষ্ট একটি ঘনক তৈরি করতে (চিত্র 3-এ প্রদর্শিত) এই ধরনের কতটি জ্যামিতিক আকৃতির প্রয়োজন ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c2ec1370-5426-43f5-9941-779842069f35",
+    "images": [
+      "images/48681_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, CE রেখাটি ∠ACD কে সমদ্বিখণ্ডিত করে এবং ∠1 = 25°। ∠2 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06b0a21b-d58a-465d-aa05-53382adffc0f",
+    "images": [
+      "images/40178_0.png"
+    ],
+    "english_question": "<image>\nছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "009abe06-a797-4a17-9665-08064f0a8f3d",
+    "images": [
+      "images/21983_0.png"
+    ],
+    "english_question": "<image>\nএকটি সুষম বহুভুজের বাহুগুলোতে একই আকারের কালো গুটি বসানো হয়েছে। এই প্যাটার্ন অনুসরণ করলে, (n+1)-তম আকৃতির জন্য কতগুলো কালো গুটির প্রয়োজন হবে? (যেখানে n একটি ধনাত্মক পূর্ণসংখ্যা)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20b7083c-c378-4de5-88fa-1135d467b01f",
+    "images": [
+      "images/76149_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত x² + y² = 8 এর যে জ্যা P(-1, 2) বিন্দু দিয়ে যায়, তার মধ্যবিন্দুর সঞ্চারপথের সমীকরণ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d05c50fd-0067-4bd7-a260-395e775ddd73",
+    "images": [
+      "images/14604_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত লোগোগুলো আমাদের দেশের কয়েকটি ব্যাংকের। এদের মধ্যে অক্ষ-প্রতিসম চিত্র কয়টি?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02675b70-94e8-4301-a59f-0479995115ab",
+    "images": [
+      "images/triangle_ext_02675b70-94e8-4301-a59f-0479995115ab.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অনুরূপ কোণ, একান্তর অন্তঃস্থ কোণ এবং একই পার্শ্বস্থ অন্তঃস্থ কোণের সম্পর্ক সম্পর্কে নিচের কোন বিবৃতিটি ভুল? ( )\nক. ∠1 and ∠4 are corresponding angles\nখ. ∠2 and ∠3 are alternate interior angles\nগ. ∠3 and ∠4 are same-side interior angles\nঘ. ∠2 and ∠4 are same-side interior angles",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "38700172-8805-4620-8dca-4b0e8a1f9f3a",
+    "images": [
+      "images/5192_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছায়াবৃত অংশ A-এর ক্ষেত্রফল ছায়াবৃত অংশ B-এর ক্ষেত্রফল অপেক্ষা 172 বর্গ সেমি কম। AB-এর দৈর্ঘ্য 40 সেমি। BC-এর দৈর্ঘ্য নির্ণয় করো। (π=3.14, AB ব্যাস)\nOptions:\nB) The length of AB is 40 cm. Find the length of BC) (π=3.14, AB is the diameter)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "47f16ee0-95b1-4e2c-a112-6a182b5c0d1a",
+    "images": [
+      "images/55500_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠C কোণের একই পাশে কতগুলো কোণ আছে?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc45a489-91d7-4e3b-b220-ec74f9447030",
+    "images": [
+      "images/13241_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয়কে EF রেখা ছেদ করেছে। ∠1 এর অনুরূপ কোণ কোনটি?\n\nOptions:\nক) ∠4\nখ) ∠2\nগ) ∠3\nঘ) ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "143c29ac-30ea-432a-a3ea-c07dcac7a2b7",
+    "images": [
+      "images/33694_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AC হলো রম্বস ABCD-এর একটি কর্ণ, AE = EF = FC হলে ত্রিভুজ BMN-এর ক্ষেত্রফল এবং রম্বস ABCD-এর ক্ষেত্রফলের অনুপাত কত? ( )\nক. 3:4\nখ. 3:7\nগ. 3:8\nঘ. 3:10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d259f8b6-ac42-4129-ac9a-cee9e3d71c77",
+    "images": [
+      "images/37787_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি পিরামিডের তিনটি দৃশ্য দেখানো হয়েছে (দৈর্ঘ্যের একক মিটারে), এই পিরামিডের আয়তন কত ঘনমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5c676d30-8dc6-4ce8-b59c-3c299a840ca7",
+    "images": [
+      "images/23529_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে, 45° ও 90° কোণবিশিষ্ট একটি ত্রিভুজাকার স্কেল এবং 30° ও 90° কোণবিশিষ্ট আরেকটি ত্রিভুজাকার স্কেল একত্রে রাখা হয়েছে। স্কেল দুটির দীর্ঘতম বাহুদ্বয়ের মধ্যবর্তী সূক্ষ্মকোণ α এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6e74439-8a1e-4835-b80f-b776747f269f",
+    "images": [
+      "images/44207_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ট্রাপিজিয়াম ABCD-তে, AB সমান্তরাল CD এবং মধ্যরেখা EF কর্ণ AC ও BD কে যথাক্রমে M ও N বিন্দুতে ছেদ করে। যদি EF = 18 সেমি এবং MN = 8 সেমি হয়, তবে AB এর দৈর্ঘ্য কত?\n\nOptions:\nক) 10 cm\nখ) 13 cm\nগ) 20 cm\nঘ) 26 cm",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "645e3a79-828a-4ec8-943d-fce1c4d17efe",
+    "images": [
+      "images/24642_0.png"
+    ],
+    "english_question": "<image>\nAB বাহুর ওপর ছায়াবৃত ত্রিভুজটির উচ্চতা কোনটি?\nক. AC\nখ. AD\nগ. CE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0d309bba-ec0d-4c64-8eac-78b66cbc5b3f",
+    "images": [
+      "images/59814_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক চিত্রটিকে প্রতীকী ভাষায় কীভাবে প্রকাশ করা যায়? ( )\n\nOptions (copied from English):\nখ. \\( \\alpha \\left| \\right. \\ \\beta \\, { = } \\, m , n \\in \\alpha , m \\left| \\right. \\ n \\, { = } \\, A \\)\nগ. \\( \\alpha \\vert \\beta \\, { = } \\, m , n \\, { \\subset } \\, \\alpha , A \\, { \\subset } \\, m , A \\, { \\subset } \\, n \\)\nঘ. \\( \\alpha \\vert \\ \\beta \\, { = } \\, m , n \\, { \\in } \\, \\alpha , A \\, { \\in } \\, m , A \\, { \\in } \\, n \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f1ffaa24-c734-4753-9d6b-8f60b933c1fd",
+    "images": [
+      "images/triangle_ext_f1ffaa24-c734-4753-9d6b-8f60b933c1fd.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ত্রিভুজ ABC-তে, যেখানে AB = AC এবং ∠BAC = 50°। ∠BAC-এর সমদ্বিখণ্ডক, AB বাহুর লম্ব সমদ্বিখণ্ডককে O বিন্দুতে ছেদ করে। C বিন্দুটিকে EF রেখা বরাবর ভাঁজ করলে তা O বিন্দুর সাথে মিলে যায়। ∠CEF-এর মান কত ডিগ্রি?\nক. 45°\nখ. 50°\nগ. 55°\nঘ. 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8bf815e6-7b5a-4773-920d-eda4fecdea48",
+    "images": [
+      "images/3713_0.png"
+    ],
+    "english_question": "<image>\n40টি ছোট ত্রিভুজ ব্যবহার করে কতগুলো প্যাটার্ন তৈরি করা সম্ভব?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a62910ac-65d0-4d52-9ee4-1b01a7fe4978",
+    "images": [
+      "images/40819_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য (চিত্রে প্রদর্শিত) হলো 2 একক বাহুবিশিষ্ট সমদ্বিবাহু সমকোণী ত্রিভুজ। জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) $4+4{\\sqrt{2}}$\nখ) $4{\\sqrt{2}}$\nগ) $4+{\\sqrt{2}}$\nঘ) $\\S+4{\\sqrt{2}}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "22336f31-1820-4eeb-810d-b3132f84fafc",
+    "images": [
+      "images/18318_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্র ABCD-এর বাহুর দৈর্ঘ্য 12, বিন্দু E, CD বাহুর উপর অবস্থিত এবং ত্রিভুজ ADE-কে AE বরাবর ভাঁজ করে ত্রিভুজ AEF তৈরি করা হয়েছে। EF-এর বর্ধিতাংশ BC-কে G বিন্দুতে ছেদ করে এবং AG ও CF রেখা সংযুক্ত করা হয়েছে। যদি BG = 6 হয়, তবে নিচের কোন উক্তিটি সঠিক? ( ) 1. ত্রিভুজ ABG সর্বসম ত্রিভুজ AFG; 2. DE = 4; 3. AG সমান্তরাল CF; 4. ত্রিভুজ FGC-এর ক্ষেত্রফল = 72/5। ক. 1 খ. 2 গ. 3 ঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8cd3796e-a022-4082-a2ea-406b56f10ce6",
+    "images": [
+      "images/3654_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল 2 বর্গ সেমি। যদি AE = ED এবং BD = 2DC হয়, তবে ত্রিভুজ ABC-এর ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1034d1bd-dad7-4873-8e6c-c503d6906373",
+    "images": [
+      "images/24625_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, OM হলো ∠BOF এর সমদ্বিখণ্ডক এবং ∠2 = 65°, তাহলে ∠1 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92cb451c-54ee-4e62-86e5-c32d800a2a8a",
+    "images": [
+      "images/35130_0.png"
+    ],
+    "english_question": "<image>\nএকটি ছোট পাখি আকাশে মুক্তভাবে উড়ছে এবং যদৃচ্ছভাবে চিত্রে দেখানো বর্গক্ষেত্রগুলোর একটির ওপর নামলো (প্রতিটি বর্গক্ষেত্র রঙ ছাড়া বাকি সব দিক থেকে অভিন্ন)। পাখিটি একটি কালো বর্গক্ষেত্রের ওপর নামার সম্ভাবনা কত?\nক. 1/2\nখ. 1/3\nগ. 1/4\nঘ. 1/5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ebd8fa92-6d8f-4da9-9aed-65175434dab0",
+    "images": [
+      "images/triangle_ext_ebd8fa92-6d8f-4da9-9aed-65175434dab0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, একটি ত্রিভুজাকার স্কেল দেখানো অনুযায়ী রাখা হয়েছে, যেখানে \\(l_{1}/\\!/l_{2}\\)। \\(∠α\\)-এর মান কত ডিগ্রি?\nক. \\(30^{\\circ}\\)\nখ. \\(45^{\\circ}\\)\nগ. \\(60^{\\circ}\\)\nঘ. \\(70^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "39c5f396-909e-4221-8bf6-b3fbc14f56e9",
+    "images": [
+      "images/10133_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E বিন্দুটি AC-এর বর্ধিতাংশের উপর অবস্থিত। নিচের কোন শর্তটি থেকে নিশ্চিত হওয়া যায় যে AB ∥ CD?\n\nOptions:\nক) ∠1=∠2\nখ) ∠D=∠DCE\nগ) ∠3=∠4\nঘ) ∠D+∠ACD=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bd57c0cc-6ed6-4343-ae92-43290d52178f",
+    "images": [
+      "images/57806_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সবুজ এলাকাটির কেন্দ্রে একটি আয়তাকার ফুলের বাগান রয়েছে। সবুজ এলাকাটির ক্ষেত্রফল 1000 বর্গমিটার এবং ফুলের বাগানটির ক্ষেত্রফল 150 বর্গমিটার। সবুজ এলাকাটির দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9b2d169-4f0f-415d-a4e6-7702dd6cf82e",
+    "images": [
+      "images/53913_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে AB ∥ CD, ∠1 = 30°, ∠2 = 50°, ∠3 = 60°, ∠4 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6beded93-2385-4fae-a910-6ba5971a94ff",
+    "images": [
+      "images/62931_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, A বিন্দুটি বিপরীত সমানুপাতিক ফাংশন $y= \\frac{k}{x}$ ($x < 0$ এর জন্য) এর ওপর অবস্থিত। ত্রিভুজ ABC অঙ্কন করা হলো, যেখানে D বিন্দুটি অতিভুজ AC-এর মধ্যবিন্দু এবং DB রেখাকে বর্ধিত করলে তা y-অক্ষকে E বিন্দুতে ছেদ করে। যদি ত্রিভুজ BCE-এর ক্ষেত্রফল 8 হয়, তবে $k$-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "42d85e70-025d-4933-9a6b-9510883f5ec1",
+    "images": [
+      "images/34997_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-এর বহিঃস্থ কোণ ∠ACD-কে CP রেখা দ্বারা সমদ্বিখণ্ডিত করা হয়েছে, যা ∠ABC-এর অভ্যন্তরীণ কোণ সমদ্বিখণ্ডককে P বিন্দুতে ছেদ করে। যদি ∠BPC = 50° হয়, তবে ∠PAC = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ebb69afb-3dc3-42e3-916d-99bd70115ad2",
+    "images": [
+      "images/47034_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, যখন n ≥ 2, তখন কিছু বিন্দু একটি ত্রিভুজাকৃতি বিন্যাসে সাজানো থাকে, যেখানে প্রতিটি বাহুতে n সংখ্যক বিন্দু থাকে (দুই প্রান্তবিন্দুসহ)। যদি n-তম বিন্যাসে বিন্দুর মোট সংখ্যা a_n দ্বারা চিহ্নিত করা হয়, তবে a_1 + a_2 + a_3 + … + a_{10} = ( )\n\nOptions:\nক) 126\nখ) 135\nগ) 136\nঘ) 140",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e27d6505-142e-4ce6-9832-f70d0add5dad",
+    "images": [
+      "images/46016_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BC ব্যাসবিশিষ্ট O1 বৃত্তটি O2 বৃত্তের সাথে বহিঃস্থভাবে স্পর্শ করে আছে। বৃত্তদ্বয়ের সাধারণ বহিঃস্পর্শক D বিন্দুতে ছেদ করে এবং ∠ADC = 60°। B বিন্দু থেকে O1 বৃত্তের উপর অঙ্কিত স্পর্শক একটি সাধারণ বহিঃস্পর্শককে A বিন্দুতে ছেদ করে। যদি O2 বৃত্তের ক্ষেত্রফল π হয়, তবে চতুর্ভুজ ABCD-এর ক্ষেত্রফল কত?\nOptions:\nA) If the area of circle O<sub>2</sub> is π, then the area of quadrilateral ABCD is _____________.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f422117-3969-46b4-a719-42552d31f4db",
+    "images": [
+      "images/45878_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, B, C, D, E এবং F বিন্দুগুলো O কেন্দ্রবিশিষ্ট বৃত্তের ছয়টি সমান ভাগের বিন্দু। ডায়ালের কাঁটাটি ছায়াযুক্ত অংশে না পড়ার সম্ভাবনা কত? \nক. 1/2 \nখ. 1/4 \nগ. 2/3 \nঘ. 1/3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0b4ce2d9-261d-48aa-9faa-b1dc7f838321",
+    "images": [
+      "images/28483_0.png"
+    ],
+    "english_question": "<image>\nকয়েকটি অভিন্ন ছোট বর্গক্ষেত্র দ্বারা গঠিত একটি জ্যামিতিক বস্তুর সম্মুখ দৃশ্য এবং শীর্ষ দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটি তৈরি করতে প্রয়োজনীয় ছোট বর্গক্ষেত্রের সর্বনিম্ন সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9c6f8537-8073-46c2-92a1-a1bf69d35dba",
+    "images": [
+      "images/32904_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O হলো বৃত্তের কেন্দ্র, ব্যাসার্ধ OC জ্যা AB-এর ওপর D বিন্দুতে লম্ব। যদি AB = 8 এবং CD = 2 হয়, তবে OD সমান কত? ( )\nক. 2\nখ. 3\nগ. 2\nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9f7edabc-1028-4809-80b3-d91ee2a80a99",
+    "images": [
+      "images/10899_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a ও b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিচের কোন উক্তিটি সঠিক?\n\nOptions:\nক) When $\\angle 1 = \\angle 2$, then $a \\parallel b$\nখ) When $a \\parallel b$, then $\\angle 1 = \\angle 2$\nগ) When $a \\parallel b$, then $\\angle 1 + \\angle 2 = 180 ^ { \\circ }$\nঘ) When $a \\parallel b$, then $\\angle 1 + \\angle 2 = 90 ^ { \\circ }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "d0f77e70-72dc-4e0e-a29c-57efb3299e35",
+    "images": [
+      "images/4_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি মাছ ধরার নৌকা সমুদ্রের পৃষ্ঠে পূর্ব দিকে স্থির গতিতে চলছে। A বিন্দুতে, বাতিঘর M-কে পূর্বের 60 ডিগ্রি উত্তরে দেখা যায়। আধা ঘণ্টা চলার পর, নৌকাটি B বিন্দুতে পৌঁছায়, যেখানে বাতিঘর M-কে পূর্বের 30 ডিগ্রি উত্তরে দেখা যায়। বাতিঘর থেকে সর্বনিম্ন দূরত্বে পৌঁছাতে নৌকাটিকে আরও কত মিনিট চলতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fee8515c-d7a5-48be-8caa-4b4e501aa063",
+    "images": [
+      "images/71228_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 1 একক বাহুবিশিষ্ট একটি বর্গাকার গ্রিডে, বৃত্ত ⊙O এর কেন্দ্র একটি গ্রিড বিন্দুতে অবস্থিত। ∠AED কোণের কোসাইন (cosine) মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c7286a89-8794-4fe2-b20f-086387b5a258",
+    "images": [
+      "images/22662_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB = CD, ∠ABD = ∠CDB। তবে চিত্রে সর্বসম ত্রিভুজের সংখ্যা কতটি?\nOptions: \n(ক) 5 জোড়া\n(খ) 4 জোড়া\n(গ) 3 জোড়া\n(ঘ) 2 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dd77751d-070e-4b8b-ad51-0bbd23ae329e",
+    "images": [
+      "images/64813_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে x-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f8f67090-3683-48a7-90e8-8c2e6eff3acd",
+    "images": [
+      "images/44249_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, AB লম্ব BC, বিন্দু P, BC বাহুর উপর অবস্থিত এবং PA লম্ব PD। দেওয়া আছে AB = 3, DC = 6 এবং BC = 11, তবে BP এর মান নির্ণয় করো।\nOptions:\nD) Given that AB = 3, DC = 6, and BC = 11, find the value of BP.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "339c39dc-04fa-410b-ab59-4290a3b1f2dc",
+    "images": [
+      "images/55118_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য সমান এবং A, B, ও C বিন্দুগুলো ছোট বর্গগুলোর শীর্ষবিন্দু। ∠ABC কোণের মান কত ডিগ্রি? ( )\n\nOptions:\nক) 30°\nখ) 45°\nগ) 60°\nঘ) 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "59244029-2147-43a6-a519-fc61f3e11e62",
+    "images": [
+      "images/43154_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যদি সূক্ষ্মকোণী ত্রিভুজ △ABC বৃত্ত ⊙O-এ অনুলিখিত হয় এবং বিন্দু D বৃত্ত ⊙O-এর বাইরে (বিন্দু C সরলরেখা AB-এর একই পাশে) হয়, তবে নিম্নলিখিত তিনটি সিদ্ধান্তের মধ্যে: ① sin∠C > sin∠D; ② cos∠C > cos∠D; ③ tan∠C > tan∠D, কোন সিদ্ধান্তগুলো সঠিক? ক. ①② খ. ②③ গ. ①②③ ঘ. ①③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ee1eeb25-ee02-406c-a47c-107596d0654c",
+    "images": [
+      "images/33026_0.png"
+    ],
+    "english_question": "<image>\nএকজন শিক্ষার্থী কালো গো গুটি ব্যবহার করে একটি প্যাটার্ন সাজিয়েছে এবং চিত্রে প্রদর্শিত প্যাটার্নটি ইতিমধ্যে সাজিয়েছে। এই প্যাটার্ন অনুযায়ী, 4র্থ প্যাটার্নে ব্যবহৃত গুটির সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c1c20ea5-8317-4628-9501-fc7ba21af49a",
+    "images": [
+      "images/19901_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, AE: ED = AF: AB = BG: GC অনুপাতগুলো দেওয়া আছে। ত্রিভুজ EFC এর ক্ষেত্রফল 20 এবং ত্রিভুজ FGD এর ক্ষেত্রফল 16 হলে, আয়তক্ষেত্র ABCD এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d31454f2-3b42-418c-a9f2-eca56b6405ca",
+    "images": [
+      "images/66184_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E এবং F বিন্দুদ্বয় যথাক্রমে সামান্তরিক ABCD-এর AB এবং CD বাহুর বর্ধিতাংশের ওপর অবস্থিত। EF রেখাংশ AD এবং BC বাহুকে যথাক্রমে M এবং N বিন্দুতে ছেদ করে। তাহলে, চিত্রে সদৃশ ত্রিভুজের সংখ্যা কত?\n\nOptions:\nক) 4 pairs\nখ) 5 pairs\nগ) 6 pairs\nঘ) 7 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "82555284-b59a-4e4b-aca2-63e3299b3e47",
+    "images": [
+      "images/17037_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠C কোণের একই পাশে কতগুলো কোণ আছে?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "782fd51c-fe92-4edf-b4e0-6a2db895b61b",
+    "images": [
+      "images/18073_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর ক্ষেত্রফল 2, AE = 1/3 AB, CF = 1/3 BC। চিত্রের ছায়ায়িত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49fb5dc3-7a0d-4f62-a480-398acee3d5e6",
+    "images": [
+      "images/54133_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB সমান্তরাল DE এবং MN, ∠ABC = 80^{\\circ}, ∠CDE = 130^{\\circ} হলে, ∠BCD-এর মান নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "67f93294-d18d-4733-af8f-805cfd43f58b",
+    "images": [
+      "images/2242_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলো ভগ্নাংশের মাধ্যমে ছায়াবৃত অংশকে প্রকাশ করতে পারে। যে চিত্রগুলো একই ভগ্নাংশ দ্বারা ছায়াবৃত অংশকে প্রকাশ করতে পারে তা হলো ( )\n\nOptions:\nক) Figure 1, Figure 2, Figure 3\nখ) Figure 1, Figure 3, Figure 4\nগ) Figure 2, Figure 3, Figure 4\nঘ) Figure 1, Figure 2, Figure 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d4e7af9d-793a-49f4-854b-44ca562d0a96",
+    "images": [
+      "images/59892_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কাগজের একটি সমান প্রস্থের ফিতাকে ভাঁজ করা হয়েছে। তাহলে, ∠1 = ______ ডিগ্রি।\nOptions:\nd. Then, ∠1 = ______ degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7258e880-caf3-4a38-92f6-a356bafbabc1",
+    "images": [
+      "images/53813_0.png"
+    ],
+    "english_question": "<image>\nগ্রিডটিতে মোট কয়টি ডট আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "850530d6-1697-4664-a346-a813767fdabd",
+    "images": [
+      "images/45609_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রম্বস ABCD-এর কর্ণ BD এবং AC-এর দৈর্ঘ্য যথাক্রমে 2 এবং 2√3। B বিন্দুকে কেন্দ্র করে অঙ্কিত বৃত্তচাপটি AD এবং DC রেখাকে স্পর্শ করে। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "26d8f8f3-f990-4ea0-840c-3e5f7940a47e",
+    "images": [
+      "images/24494_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB এবং CD রেখা দুটি O বিন্দুতে ছেদ করে। রশ্মি OE, O বিন্দুগামী। চিত্রে মোট কত জোড়া সন্নিহিত সম্পূরক কোণ (adjacent supplementary angles) রয়েছে?\nবিকল্প:\n(ক) 3 জোড়া\n(খ) 4 জোড়া\n(গ) 5 জোড়া\n(ঘ) 6 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4cdb00ba-bd59-4c83-b9c2-e26c2f193217",
+    "images": [
+      "images/16501_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, গ্রিড কাগজের প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দুই গ্রিড বিন্দুতে অবস্থিত। ত্রিভুজ ABC কী ধরনের ত্রিভুজ? ( ) \nক. সূক্ষ্মকোণী ত্রিভুজ \nখ. সমকোণী ত্রিভুজ \nগ. স্থূলকোণী ত্রিভুজ \nঘ. সমদ্বিবাহু ত্রিভুজ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "605d3dd5-cbbb-4f9d-bfe1-ddcbfff6ee3a",
+    "images": [
+      "images/44357_0.png"
+    ],
+    "english_question": "<image>\n1 সেমি বাহুবিশিষ্ট কিছু ছোট ঘনক ব্যবহার করে একটি জ্যামিতিক কাঠামো তৈরি করা হয়েছে, যার সম্মুখ দৃশ্য (front view) এবং শীর্ষ দৃশ্য (top view) চিত্রে দেখানো হয়েছে। এই জ্যামিতিক কাঠামোর সর্বোচ্চ আয়তন কত?\n\nOptions:\nক) 6 cm³\nখ) 7 cm³\nগ) 8 cm³\nঘ) 9 cm³",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

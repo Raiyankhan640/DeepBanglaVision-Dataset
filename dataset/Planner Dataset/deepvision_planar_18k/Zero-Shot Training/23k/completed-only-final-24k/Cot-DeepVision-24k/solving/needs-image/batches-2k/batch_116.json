@@ -1,0 +1,302 @@
+[
+  {
+    "id": "d44f3531-0364-48fc-94a6-b84866ecb969",
+    "images": [
+      "images/75508_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 = ∠2 দেওয়া আছে। যদি আমরা 'SAS' উপপাদ্য ব্যবহার করে প্রমাণ করতে চাই যে △ACB ≌ △BDA, তবে অতিরিক্ত শর্তটি কী হওয়া প্রয়োজন?\n\nOptions (copied from English):\nD. OA=OB",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b36a1f4a-30a6-41d0-ac7c-4ae9d5c4b69e",
+    "images": [
+      "images/56405_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, একটি আয়তাকার কাগজ ABCD কে EF বরাবর ভাঁজ করা হলো। যদি ∠EFG = 40° হয়, তবে ∠DEG এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3dec0397-8c7e-4e17-a43e-3bd4ed91fa4a",
+    "images": [
+      "images/33537_0.png"
+    ],
+    "english_question": "<image>\nবিশেষ চতুর্ভুজ অধ্যয়নের জন্য, শিক্ষক লি একটি শিক্ষণ উপকরণ তৈরি করেছেন (চিত্র 1-এ দেখানো হয়েছে): চারটি কাঠের টুকরোকে পেরেক দিয়ে আটকে একটি সামান্তরিক ফ্রেম ABCD তৈরি করেছেন এবং A ও C বিন্দু এবং B ও D বিন্দুর মধ্যে রাবার ব্যান্ড টানটান করে লাগিয়েছেন। ক্লাসে, শিক্ষক লি তার ডান হাত দিয়ে BC কাঠের টুকরোটি ধরে বাম হাত দিয়ে ফ্রেমটিকে ডানদিকে ঠেললেন যতক্ষণ না AB ⊥ BC হয় (চিত্র 2-এ দেখানো হয়েছে)। প্রাপ্ত চতুর্ভুজটি পর্যবেক্ষণ করে, নিচের কোন সিদ্ধান্তটি সঠিক?\n∠BCA=45°\nBD এর দৈর্ঘ্য হ্রাস পায়\nAC=BD\nAC⊥BD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "944128b5-c97c-4604-9d6f-febaccffc387",
+    "images": [
+      "images/48876_0.png"
+    ],
+    "english_question": "<image>\nচারটি ছোট প্রাণী আসন পরিবর্তন করছে। শুরুতে ইঁদুর, বানর, খরগোশ এবং বিড়াল যথাক্রমে 1, 2, 3 এবং 4 অবস্থানে বসে আছে। প্রথম অদলবদলে সম্মুখ ও পেছনের সারির প্রাণীরা স্থান পরিবর্তন করে এবং দ্বিতীয় অদলবদলে বাম ও ডান কলামের প্রাণীরা স্থান পরিবর্তন করে। এই পর্যায়ক্রমিক প্রক্রিয়া চলতে থাকে। 202-তম অদলবদলের পর খরগোশ কোন অবস্থানে বসবে?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6d9be32-d74b-4af1-ae2d-23bd0786ae6b",
+    "images": [
+      "images/triangle_ext_b6d9be32-d74b-4af1-ae2d-23bd0786ae6b.png"
+    ],
+    "english_question": "<image>\nচিত্রে \\(α⊥β\\), \\(α∩β=l\\), বিন্দু \\(A\\) রেখা \\(α\\)-তে অবস্থিত, বিন্দু \\(B\\) রেখা \\(β\\)-তে অবস্থিত এবং \\(A\\) ও \\(B\\) থেকে রেখা \\(l\\)-এর দূরত্ব যথাক্রমে \\(a\\) ও \\(b\\)। রেখাংশ \\(AB\\) রেখা \\(α\\) ও \\(β\\)-এর সাথে যথাক্রমে \\(θ\\) ও \\(φ\\) কোণ উৎপন্ন করে এবং রেখা \\(α\\) ও \\(β\\)-এর উপর \\(AB\\)-এর লম্ব অভিক্ষেপ যথাক্রমে \\(m\\) ও \\(n\\)। যদি \\(a > b\\) হয়, তবে নিচের কোনটি সঠিক?\nক. \\(θ > φ\\), \\(m > n\\)\nখ. \\(θ > φ\\), \\(m < n\\)\nগ. \\(θ < φ\\), \\(m < n\\)\nঘ. \\(θ < φ\\), \\(m > n\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "208fde08-96ff-4922-bf9a-4bef7cfebac9",
+    "images": [
+      "images/39459_0.png"
+    ],
+    "english_question": "<image>\nএকটি প্রোটেক্টরের ব্যাস একটি সমকোণী ত্রিভুজ ABC-এর অতিভুজ AB-এর সাথে মিলে যায়। প্রোটেক্টরের 0-ডিগ্রি দাগটি A বিন্দুতে অবস্থিত। রশ্মি CP, CA বরাবর যাত্রা শুরু করে এবং প্রতি সেকেন্ডে 3 ডিগ্রি হারে ঘড়ির কাঁটার দিকে ঘোরে। 24 সেকেন্ড পর, E বিন্দুর সাপেক্ষে প্রোটেক্টরের পাঠ কত হবে?\nOptions:\nগ) The 0-degree mark of the protractor is at point ক) Ray CP starts along CA and rotates clockwise at 3 degrees per second. After 24 seconds, what is the reading on the protractor corresponding to point E?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37358e41-99d8-408e-beb7-caf1973afc8b",
+    "images": [
+      "images/50459_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1-এর একান্তর অন্তঃস্থ কোণ কোনটি? ( ) ক. ∠2 খ. ∠3 গ. ∠4 ঘ. ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5e8474fc-636c-4813-8558-65e7b5fc19cf",
+    "images": [
+      "images/34694_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, AB সমান্তরাল DC এবং DE সমান্তরাল CB। যদি CD = 4 এবং ত্রিভুজ ADE-এর পরিসীমা 18 হয়, তবে ট্রাপিজিয়াম ABCD-এর পরিসীমা কত?\n\nOptions:\nক) 22\nখ) 26\nগ) 38\nঘ) 30",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "192d1c92-4640-4291-b3c4-c0236de95948",
+    "images": [
+      "images/5573_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O বৃত্তের ব্যাস, CD একটি জ্যা এবং CD, AB এর উপর E বিন্দুতে লম্ব। নিচের কোন সিদ্ধান্তটি সঠিক নয়? ( ) \nক. ∠A = ∠D \nখ. CE = DE \nগ. ∠ACB = 90° \nঘ. CE = BD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "174f8c9d-cf46-4d5c-8a71-540206bbd450",
+    "images": [
+      "images/27220_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি বড় আয়তক্ষেত্রকে 3টি বর্গক্ষেত্র এবং 2টি আয়তক্ষেত্রে ভাগ করা হয়েছে এবং এটি একটি কেন্দ্রিক প্রতিসম চিত্র। যদি বড় আয়তক্ষেত্রটির আদি পরিসীমা 120 হয়, তবে কোন চিত্রগুলোর পরিসীমা পরিমাপ ছাড়াই জানা সম্ভব?\n\nOptions:\nক) ①②\nখ) ②③\nগ) ①③\nঘ) ①②③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "80a61761-d602-4717-84ad-a598475cdcb0",
+    "images": [
+      "images/6616_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DE, AB এর সমান্তরাল। যদি ∠ACD = 55° হয়, তবে ∠A এর মান কত?\n\nOptions:\nক) 35°\nখ) 55°\nগ) 65°\nঘ) 125°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a337c3a2-4248-431f-8f2f-c761131c2525",
+    "images": [
+      "images/9743_0.png"
+    ],
+    "english_question": "<image>\nজিনানের ডামিং লেকের পাশে অবস্থিত \"চাও রান লো\" \"জিয়াংবেই-এর প্রথম ভবন\" হিসেবে পরিচিত। একটি স্কুলের গণিত ক্লাবের শিক্ষার্থীরা চাও রান লো-এর উচ্চতা পরিমাপ করল। চিত্রে দেখানো অনুযায়ী, তারা A বিন্দু থেকে টাওয়ারের চূড়ার দিকে তাকাল এবং উন্নতি কোণ পেল 30°। এরপর তারা ভবনের দিকে 60 মিটার এগিয়ে B বিন্দুতে পৌঁছাল এবং উন্নতি কোণ পেল 60°। শিক্ষার্থীদের উচ্চতা উপেক্ষা করে এবং দেওয়া আছে যে, √3 ≈ 1.7, তবে ভবন CD এর উচ্চতা কত (1 মিটারের আসন্ন মানে)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dbcda881-7ffa-4ce2-b119-5da1b041fc9d",
+    "images": [
+      "images/59925_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2010, হুলুদাও), AB রেখা এবং CD রেখা O বিন্দুতে ছেদ করে। ∠AOC = 35°, ∠COE = 110° হলে, ∠BOE-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2e3e80a-28e0-4e8b-8f86-9bb97cdc2b7e",
+    "images": [
+      "images/1912_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l₁ এবং রেখা l₂ সমান্তরাল এবং ∠1 = 62°। ∠2 এর মান কত? ( )\nক. 152°\nখ. 118°\nগ. 28°\nঘ. 62°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c29f10f3-54d4-441d-9a93-b7de00307583",
+    "images": [
+      "images/53492_0.png"
+    ],
+    "english_question": "<image>\n(2008•অরডোস) ছোটবেলায় আমরা আঙুল দিয়ে গণনা করা শিখতাম। একজন শিশু চিত্রে প্রদর্শিত নিয়ম অনুযায়ী গণনা করছে। 2009 পর্যন্ত গণনা করলে, তা কোন আঙুলে গিয়ে শেষ হবে? ( ) \nক. বৃদ্ধাঙ্গুলি \nখ. তর্জনী \nগ. মধ্যমা \nঘ. অনামিকা",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6323a01b-7aad-4cd8-b05e-02ec3efe87cd",
+    "images": [
+      "images/76401_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক বস্তুটির সম্মুখ দৃশ্য (main view), পার্শ্ব দৃশ্য (left view) এবং শীর্ষ দৃশ্য (top view) দেওয়া আছে। সম্মুখ দৃশ্য এবং পার্শ্ব দৃশ্য উভয়ই আয়তাকার। এই জ্যামিতিক বস্তুটির আয়তন কত? ( )\nক. 24\nখ. 12\nগ. 8\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "789dd588-f898-43d7-8e01-1509da052489",
+    "images": [
+      "images/65830_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজ ABCD দেওয়া আছে, যেখানে AB = 6 সেমি এবং AD = 12 সেমি। নিচের ডানদিকের কোণটি এমনভাবে ভাঁজ করা হলো যেন শীর্ষবিন্দু B, AD বাহুর উপর পড়ে এবং ভাঁজের রেখা MN এর প্রান্তবিন্দু M, AB বাহুর উপর এবং N, BC বাহুর উপর থাকে। ধরি ∠MNB = θ। θ এর সীমা নির্ণয় করো।\nOptions:\nC) Let ∠MNB = θ. Find the range of θ.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71a114ba-43e5-4a01-8306-0586dd2ba85c",
+    "images": [
+      "images/31545_0.png"
+    ],
+    "english_question": "<image>\n5 সেমি বাহুবিশিষ্ট একটি সমদ্বিবাহু সমকোণী ত্রিভুজ ABC-কে বিন্দু A-কে কেন্দ্র করে 15° ঘড়ির কাঁটার বিপরীত দিকে ঘুরিয়ে ত্রিভুজ AB'C' পাওয়া গেল। ছায়াবৃত অংশের ক্ষেত্রফল কত সেমি²?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dae098e1-e97a-45fa-a636-d7920428d009",
+    "images": [
+      "images/45677_0.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ত্রিভুজ \\( \\triangle ABC \\)-এ, যেখানে \\( AC = BC \\), \\( AC \\)-এর লম্ব দ্বিখণ্ডক \\( DE \\), \\( BC \\)-কে \\( D \\) বিন্দুতে এবং \\( AC \\)-কে \\( E \\) বিন্দুতে ছেদ করে। \\( \\triangle ABD \\)-এর পরিসীমা 10 এবং \\( BC = 6 \\) হলে, \\( \\triangle ABC \\)-এর পরিসীমা কত?\n\nOptions:\nক) 4\nখ) 10\nগ) 12\nঘ) 16",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f4aabfb-d763-48f2-8b29-9819dd449487",
+    "images": [
+      "images/101_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC (∠C=90°) এর মধ্যে 3, 4 এবং x বাহুবিশিষ্ট তিনটি বর্গক্ষেত্র স্থাপন করা হয়েছে। x-এর মান কত?\nOptions:\nd. What is the value of x?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

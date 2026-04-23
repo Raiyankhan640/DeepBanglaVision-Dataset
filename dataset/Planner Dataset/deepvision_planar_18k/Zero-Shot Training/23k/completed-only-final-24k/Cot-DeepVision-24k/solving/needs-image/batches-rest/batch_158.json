@@ -1,0 +1,302 @@
+[
+  {
+    "id": "9b3d09fb-bd81-4d92-932e-7fbba5f1211c",
+    "images": [
+      "images/66371_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো (চিত্রে দৈর্ঘ্যের একক সেমি এবং π-এর মান 3 ধরো):",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97a6a671-8fea-40f7-8a11-653dd49671c9",
+    "images": [
+      "images/59246_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠1 + ∠2 = 180° হয়, তবে নিচের কোনটি সত্য? ক. ∠2 + ∠4 = 180° খ. ∠3 + ∠4 = 180° গ. ∠3 = ∠4 ঘ. ∠1 = ∠3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0c751f9a-55f7-4d0b-b0b2-f145027639d6",
+    "images": [
+      "images/32956_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্র এবং r ব্যাসার্ধবিশিষ্ট একটি বৃত্তাকার সুরক্ষা অঞ্চল দেওয়া আছে। PB (পূর্ব) এবং QC (দক্ষিণ-পশ্চিম) রাস্তা দুটি অবস্থিত। বৃত্তের চাপ PQ-এর ওপর A বিন্দুটি এমনভাবে অবস্থিত যেন BC রেখাটি A বিন্দুতে বৃত্তের স্পর্শক হয়। AC পথের প্রতি কিলোমিটারের খরচ a দশ হাজার টাকা এবং AB পথের খরচ m²a দশ হাজার টাকা, যেখানে m = (√6 + √2)/2। মোট খরচ সর্বনিম্ন করে এমন কোণ θ = ∠POA এর মান নির্ণয় করো।\nOptions:\nA) The cost per kilometer for AC is a ten thousand yuan, and for AB is m²a ten thousand yuan, where m = (√6 + √2)/2. Find the angle θ = ∠POA that minimizes the total cost.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21d1f3fd-1233-42b1-a148-7c6197d4f393",
+    "images": [
+      "images/45916_0.png"
+    ],
+    "english_question": "<image>\n2 ব্যাসার্ধবিশিষ্ট O বৃত্তে, জ্যা AB = 2। বিন্দু P, AB চাপের ওপর দিয়ে চলাচল করে (যা ব্যাস ধারণ করে না)। দেওয়া আছে ∠PAC = 60° এবং রেখা AC, রেখা PB-কে C বিন্দুতে ছেদ করে। ত্রিভুজ ABC-এর সর্বোচ্চ ক্ষেত্রফল নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3632cf1c-dbe9-489d-a0a1-3cd71fc59ee9",
+    "images": [
+      "images/75146_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1 একটি ত্রিভুজ। এই ত্রিভুজের তিনটি বাহুর মধ্যবিন্দু যোগ করে আমরা চিত্র 2 পাই। এরপর, চিত্র 2-এর ছোট ত্রিভুজটির মধ্যবিন্দুগুলো যোগ করে আমরা চিত্র 3 পাই। যদি শুধুমাত্র বিভাজন রেখা দ্বারা গঠিত ত্রিভুজগুলো গণনা করা হয় (যেগুলোর ভেতরে অন্য কোনো ত্রিভুজ নেই), তবে n-তম চিত্রে কতটি ত্রিভুজ থাকবে? n-এর মাধ্যমে উত্তরটি প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37a6f410-3f44-46ee-aae2-7c28dda217ec",
+    "images": [
+      "images/24371_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 = ( ) \nক. 70° \nখ. 160° \nগ. 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9cb9fe6-a44c-49b4-b625-b950186740e0",
+    "images": [
+      "images/22133_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে, কেন্দ্রিক প্রতিসম (centrally symmetric) চিত্রের মোট সংখ্যা কত?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5388a56f-0d1b-427a-bf49-284c481e2700",
+    "images": [
+      "images/43346_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2010 • জিনজিয়াং ডিস্ট্রিক্ট স্কুল-লেভেল ইন্ডিপেন্ডেন্ট এনরোলমেন্ট) অনুযায়ী, যদি আয়তক্ষেত্র APHM, BNHP এবং CQHN-এর ক্ষেত্রফল যথাক্রমে 7, 4 এবং 6 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d85795da-abcd-422c-8f66-818113711536",
+    "images": [
+      "images/64836_0.png"
+    ],
+    "english_question": "<image>\nনিচের সুন্দর প্যাটার্নগুলোর মধ্যে অক্ষীয় প্রতিসম চিত্রের সংখ্যা কতটি? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "debb4586-589e-4edb-97e0-f2d81b0363af",
+    "images": [
+      "images/20141_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে △ABC এর অবস্থান চিত্রে দেখানো হয়েছে। tan B এর মান নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a53ae3eb-debc-4ce8-b5d0-09c6322ef8ce",
+    "images": [
+      "images/13646_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB ∥ CD এবং BC ∥ ED হলে, ∠B + ∠D এর মান কত ডিগ্রি?\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e81cc7bf-f4a4-42a8-909c-4a0c53038295",
+    "images": [
+      "images/14836_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত ⊙O-এর ব্যাস AB, জ্যা CD-কে E বিন্দুতে ছেদ করে। যদি AE=5, BE=1 এবং CD=4√2 হয়, তবে ∠AED-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5c1bf27c-0826-4b79-ae14-9e09b90be25c",
+    "images": [
+      "images/58651_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন শর্তে আমরা বলতে পারি যে AD, BC এর সমান্তরাল? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4c81dcf-50ac-413d-8194-b4a6d5193252",
+    "images": [
+      "images/64071_0.png"
+    ],
+    "english_question": "<image>\nধরি, ABCD একটি সামান্তরিক যার ক্ষেত্রফল 1। E ও F বিন্দুদ্বয় যথাক্রমে AB ও CD বাহুর ওপর অবস্থিত এবং AF ও DE রেখাদ্বয় G বিন্দুতে ছেদ করে। যদি DF:FC = b:a এবং AE:EB = d:c হয়, তবে ত্রিভুজ DFG-এর ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "520f4f24-419b-414e-9c39-815c28e0bbbf",
+    "images": [
+      "images/62616_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PA রেখা বৃত্ত O-কে A বিন্দুতে স্পর্শ করে এবং PBC একটি ছেদক রেখা যা O বিন্দু দিয়ে যায়। যদি ∠P = 30° হয়, তবে বৃত্তচাপ AB-এর মান কত ডিগ্রি? ( )\nক. 30°\nখ. 60°\nগ. 90°\nঘ. 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e61343a7-702d-4c41-abce-73a1500b0dde",
+    "images": [
+      "images/26195_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc51c27d-e26d-4fa0-8147-965ef760026a",
+    "images": [
+      "images/42366_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার প্রিজম থেকে একটি ছোট আয়তাকার প্রিজম সরিয়ে নেওয়া হয়েছে। এর সম্মুখ দৃশ্য এবং পার্শ্ব দৃশ্য দেওয়া থাকলে সঠিক উপরের দৃশ্যটি (top view) নির্বাচন করো।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a424eedd-8092-4205-bb01-00abae3a8b5e",
+    "images": [
+      "images/65324_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি 1 একক বাহুবিশিষ্ট ছোট ছোট বর্গক্ষেত্র দিয়ে গঠিত একটি গ্রিড। চতুর্ভুজ ABCD-এর ক্ষেত্রফল কত?\n\nOptions:\nক) \\(10\\)\nখ) \\(11\\)\nগ) \\(12\\)\nঘ) \\(12.5\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f6ebd3a3-e121-4512-9c44-5793600f5332",
+    "images": [
+      "images/24614_0.png"
+    ],
+    "english_question": "<image>\nসমান দৈর্ঘ্যের কালো সমবাহু ত্রিভুজ এবং সাদা সুষম ষড়ভুজ ব্যবহার করে একটি প্যাটার্ন তৈরি করা হলো, যা চিত্র ①②③ এ দেখানো হয়েছে। n-তম প্যাটার্নে কালো সমবাহু ত্রিভুজ এবং সাদা সুষম ষড়ভুজের মোট সংখ্যা কত?\n\nOptions:\nক) n^2 + 4n + 2\nখ) 6n + 1\nগ) n^2 + 3n + 3\nঘ) 2n + 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c6eca8f-7a6b-44fb-a185-2d4f9f177c51",
+    "images": [
+      "images/43172_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দুটি কাগজের ফালি, উভয়ের প্রস্থ 1 একক, 28° কোণে অধিক্রমণ করেছে। অধিক্রমণ অংশের ক্ষেত্রফল কত? ( ) ক. 2.1 খ. 1.1 গ. 0.47 ঘ. 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

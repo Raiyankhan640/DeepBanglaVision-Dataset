@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a79563d0-4645-4b30-88f0-fddd5a525033",
+    "images": [
+      "images/1953_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত পাহাড়ের পাদদেশ A থেকে একটি পর্যটক 30° কোণে পাহাড়ের ঢাল AB বরাবর 600 মিটার হেঁটে একটি দর্শনীয় স্থান B-তে পৌঁছালেন। এরপর B থেকে তিনি ঢাল BC বরাবর 200 মিটার হেঁটে চূড়া C-তে পৌঁছালেন। যদি চূড়া C থেকে দর্শনীয় স্থান B-এর অবনতি কোণ 45° হয়, তবে পাহাড়ের উচ্চতা CD কত (বর্গমূলের মাধ্যমে প্রকাশ করো)?\nOptions:\nখ) Then, from B, he walks 200 meters along the slope BC to reach the summit গ) If the angle of depression to the scenic spot B from the summit C is 45°, what is the height CD of the mountain (expressed in terms of square roots)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6db026b8-be87-4323-905f-9e5fad12ec2c",
+    "images": [
+      "images/10403_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো আয়তক্ষেত্রটির দৈর্ঘ্য তার প্রস্থের দ্বিগুণ। সমান পরিসীমা বিশিষ্ট কতটি ছায়াযুক্ত অংশ এখানে রয়েছে? ( )\nক. 1টি\nখ. 2টি\nগ. 3টি\nঘ. 4টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c925b489-34d9-422c-a919-c8aa71a3701c",
+    "images": [
+      "images/869_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB || CD || EF হয়, তবে নিচের কোন সিদ্ধান্তটি সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bec5e961-0a4c-4520-8b12-a98b1927e1d3",
+    "images": [
+      "images/5180_0.png"
+    ],
+    "english_question": "<image>\nশিক্ষার্থী শাও মিং নিচের পদ্ধতিতে α কোণটি অঙ্কন করল: সে MN এবং PQ দুটি লম্ব রেখা অঙ্কন করল, যাদের ছেদবিন্দু O, এবং ∠PON এর সমদ্বিখণ্ডক OE অঙ্কন করল। A এবং B যথাক্রমে OE এবং PQ এর উপর দুটি ইচ্ছামতো বিন্দু। এরপর সে ∠ABP এর সমদ্বিখণ্ডক BD অঙ্কন করল। BD এর বর্ধিতাংশ ∠OAB এর সমদ্বিখণ্ডককে C বিন্দুতে ছেদ করে। ∠C এর মান কত ডিগ্রি?\nOptions:\nC) What is the degree measure of ∠C?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eee7d5b8-e597-4b44-af59-9d33d696f3b6",
+    "images": [
+      "images/16853_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি 4×4 বর্গাকার গ্রিডে ত্রিভুজ MNP একটি নির্দিষ্ট বিন্দুর সাপেক্ষে নির্দিষ্ট কোণে আবর্তিত হয়ে ত্রিভুজ M₁N₁P₁ গঠন করে। আবর্তন কেন্দ্রটি (center of rotation) অবশ্যই কোনটি হবে? ( )\nক. E বিন্দু\nখ. F বিন্দু\nগ. G বিন্দু\nঘ. H বিন্দু",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2bd1dfd2-54c4-4e75-948b-dcf68ad83dcc",
+    "images": [
+      "images/75060_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 'a' বাহুবিশিষ্ট একটি সুষম ষড়ভুজের ভেতরে দুটি ছোট ত্রিভুজ রয়েছে। প্রাসঙ্গিক তথ্য চিত্রে দেখানো হয়েছে। যদি ছায়াযুক্ত অংশের ক্ষেত্রফল S₁ এবং দুটি ফাঁকা ত্রিভুজের ক্ষেত্রফল S₂ হয়, তবে S₁/S₂ = কত?\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c54ca443-cc88-4417-82c6-ad00f5f98823",
+    "images": [
+      "images/57147_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 8 × 4 আয়তাকার গ্রিডে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। যদি ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দু গ্রিড পয়েন্টে অবস্থিত হয়, তবে tan ∠ACB-এর মান কত? ( )\n\nOptions:\nক) 1\nখ) \\( \\frac { 1 } { 3 } \\)\nগ) \\( \\frac { 1 } { 2 } \\)\nঘ) \\( \\frac { \\sqrt { 2 } } { 2 } \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3612654b-ddd0-4e00-9466-0ada97213fee",
+    "images": [
+      "images/46810_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, △ABC বৃত্তে অন্তর্লিখিত এবং AD বৃত্তের ব্যাস। যদি ∠ABC = 25° হয়, তবে ∠CAD এর মান কত? \n(ক) 25° \n(খ) 50° \n(গ) 65° \n(ঘ) 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00164c6c-a069-485b-a495-a8691c251b95",
+    "images": [
+      "images/52749_0.png"
+    ],
+    "english_question": "<image>\nএকটি প্যারাবোলিক খিলান সেতুর স্বাভাবিক পানির স্তরে পানির উপরিভাগের প্রস্থ 20 মিটার। পানি 3 মিটার বৃদ্ধি পেলে প্রস্থ হয় 10 মিটার। যদি পানি প্রতি ঘণ্টায় 0.2 মিটার হারে বৃদ্ধি পেতে থাকে, তবে খিলানের শীর্ষে পৌঁছাতে আর কত ঘণ্টা সময় লাগবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b2ad13c6-b87a-44a5-8698-0340d0a75eee",
+    "images": [
+      "images/54685_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজকে চিত্রে প্রদর্শিত উপায়ে ভাঁজ করা হলো। এরপর চিত্র ③ এর ড্যাশ রেখা বরাবর কাটা হলো (যেখানে AB = CB শর্তটি পূরণ করে), যার ফলে দুটি অংশ A এবং B পাওয়া গেল। অংশ A কে খোলার পর প্রাপ্ত সমতল চিত্রটি কী হবে?\nOptions:\nখ), resulting in two parts, A and খ) The plane figure obtained after unfolding part A is:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "237a75d1-150b-4a51-8f9d-071354d2c1f5",
+    "images": [
+      "images/51033_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 6টি অভিন্ন রম্বস একটি গ্রিড গঠন করে এবং রম্বসগুলোর শীর্ষবিন্দুগুলোকে গ্রিড বিন্দু বলা হয়। রম্বসের একটি কোণ (∠O) 60° দেওয়া আছে। বিন্দু A, B এবং C গ্রিড বিন্দুতে অবস্থিত। cos ∠ABC এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "04f622b5-4e4d-42ed-a7b3-587798acbaaa",
+    "images": [
+      "images/36846_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমকোণী ত্রিভুজের সমকোণী শীর্ষবিন্দু দুইটি একে অপরের উপর স্থাপন করা হয়েছে। যদি ∠1 = 30° হয়, তবে ∠2 কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "83356168-8ed0-46a8-9f9f-e52f67fba42d",
+    "images": [
+      "images/62945_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত হাইপারবোলা y = k/x, সমকোণী ত্রিভুজ OMN-এর অতিভুজ ON-এর ওপর অবস্থিত বিন্দু A দিয়ে যায় এবং MN বাহুকে বিন্দু B-তে ছেদ করে। যদি OA = 2AN এবং ত্রিভুজ OAB-এর ক্ষেত্রফল 6 হয়, তবে k-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "13e5e75b-a963-4a77-99e3-996ace7d0058",
+    "images": [
+      "images/39905_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজ ABCD-এ, যদি ∠1 = ∠2 হয়, তবে নিচের সিদ্ধান্তগুলোর মধ্যে: ① ∠3 = ∠4; ② AB ∥ CD; ③ AD ∥ BC; ④ AB = CD, কোনগুলো ভুল? (দ্রষ্টব্য: যে সিদ্ধান্তগুলো ভুল বলে মনে করো, সেগুলোর নম্বর লেখো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e4dc0fa-14f3-438c-ab3a-4f1a4d8ce33c",
+    "images": [
+      "images/11796_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর ত্রিভুজ AOD-কে কোন ত্রিভুজটিকে আবর্তনের মাধ্যমে প্রাপ্ত বলে বিবেচনা করা যায়? ( )\n\nOptions (copied from English):\nB. Triangle DOC\nTriangle BOC\nTriangle BCD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a21e7b65-7c10-4b2d-aaab-633f3a7def50",
+    "images": [
+      "images/76459_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-তে, AD সমান্তরাল BC, AD = AB, ∠BCD = 45°, ∠BAD = 90°। ত্রিভুজ ADB-কে BD বরাবর এমনভাবে ভাঁজ করা হলো যেন CD, ABD সমতলের ওপর লম্ব হয়, ফলে একটি ত্রিভুজাকার পিরামিড A-BCD গঠিত হয়। ত্রিভুজাকার পিরামিড A-BCD-এর ক্ষেত্রে নিচের কোন সিদ্ধান্তটি সঠিক?\nOptions:\nD) Which of the following conclusions is correct in the triangular pyramid A-BCD?\nAD ⊥ plane BCD\nAB ⊥ plane BCD\nplane BCD ⊥ plane ABC\nplane ADC ⊥ plane ABC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8dba7961-4730-4c07-a3bb-bb80d5545b2f",
+    "images": [
+      "images/34840_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d348bc0-9237-4021-88e5-359bcd06fad3",
+    "images": [
+      "images/348_0.png"
+    ],
+    "english_question": "<image>\n3 সেমি বাহুবিশিষ্ট একটি সুষম ত্রিভুজ ABC-তে, 1 সেমি বাহুবিশিষ্ট একটি সুষম ত্রিভুজ RPQ-এর শীর্ষবিন্দু R, বিন্দু A-এর সাথে মিলে যায়। বিন্দু P এবং Q যথাক্রমে AC এবং AB বাহুর ওপর অবস্থিত। ত্রিভুজ RPQ-কে ঘড়ির কাঁটার দিকে AB, BC এবং CA বাহু বরাবর ক্রমাগত উল্টানো হয় যতক্ষণ না বিন্দু P প্রথমবারের মতো তার আদি অবস্থানে ফিরে আসে। বিন্দু P দ্বারা অতিক্রান্ত পথের দৈর্ঘ্য কত (ফলাফলে π থাকবে)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ecf9a4f-98d8-4c1f-9cf9-e5a8d1bf4222",
+    "images": [
+      "images/50581_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-এ, E বিন্দুটি AD বাহুর উপর অবস্থিত। CE রেখাকে বর্ধিত করলে তা বর্ধিত BA রেখাকে F বিন্দুতে ছেদ করে। যদি AE = 2ED হয়, তবে নিচের কোনটি ভুল? ( )\n\nOptions (copied from English):\nক. EF=2CE\nS_{△AEF}= \\frac {2}{3} S_{△BCF}\nBF=3CD\nঘ. BC= \\frac {3}{2} AE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a076087d-d42f-4f75-b499-e6c96a376987",
+    "images": [
+      "images/71339_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $a$ এবং $b$ রেখাদ্বয়কে $c$ রেখা ছেদ করেছে। নিচের কোন উক্তিটি সঠিক? ( )\n\nOptions:\nক) When ∠1 = ∠2, then $a$ ∥ $b$ must hold.\nখ) When $a$ ∥ $b$, then ∠1 = ∠2 must hold.\nগ) When $a$ ∥ $b$, then ∠1 + ∠2 = 180° must hold.\nঘ) When $a$ ∥ $b$, then ∠1 + ∠2 = 90° must hold.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

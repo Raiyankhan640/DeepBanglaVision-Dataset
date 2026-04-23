@@ -1,0 +1,302 @@
+[
+  {
+    "id": "575b09d8-458e-4e1a-9dad-8c6326be8877",
+    "images": [
+      "images/26102_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে নিচের কোন উক্তিটি ভুল? ( )\nক. OB-এর দিক হলো উত্তর থেকে 15° পশ্চিম\nখ. OA-এর দিক হলো উত্তর থেকে 30° পূর্ব\nগ. OC-এর দিক হলো দক্ষিণ থেকে 25° পশ্চিম\nঘ. OD-এর দিক হলো দক্ষিণ-পূর্ব",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f5d263c7-7fa9-4def-bb7a-1ac6f3601eb7",
+    "images": [
+      "images/67364_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, ∠A + ∠B = 180° শর্তটি দেওয়া থাকলে কোন দুটি রেখা সমান্তরাল হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "713cfa82-7e47-4329-b6e0-0a21993ee3e0",
+    "images": [
+      "images/9511_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমকোণী ত্রিভুজ ABC আছে যেখানে ∠C=90°, AC=10, এবং BC=5। একটি রেখাংশ PO=AB, P এবং O বিন্দু যথাক্রমে AC এবং A বিন্দুগামী AC এর উপর লম্ব AX রশ্মির উপর দিয়ে চলাচল করে। ত্রিভুজ ABC কে ত্রিভুজ POA এর সর্বসম করতে হলে P বিন্দুকে কোথায় অবস্থান করতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ab22271-e1c2-4135-a4e3-9b1a55083bb2",
+    "images": [
+      "images/54905_0.png"
+    ],
+    "english_question": "<image>\nছায়াঘেরা অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "296a60b3-0a65-43c8-89de-1d432a9b1928",
+    "images": [
+      "images/17428_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপায়ে, আইসক্রিম কোনের নিচের অংশটি একটি কোণক আকৃতির। কোণক আকৃতির অংশের র‍্যাপিং পেপারের ক্ষেত্রফল কত (জোড়া লাগানো অংশ বাদ দিয়ে)?\nক. 20 cm²\nখ. 40 cm²\nগ. 20π cm²\nঘ. 40π cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af554216-f68e-45c3-9e0e-8595c59eedcf",
+    "images": [
+      "images/60913_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনগুলো প্রতিসম চিত্র? \nক. ②③④ \nখ. ①②③ \nগ. ②③ \nঘ. ①②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e42a5066-2d03-4846-a851-9b383ca9c6e5",
+    "images": [
+      "images/26545_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত খামারবাড়ির সবজি বাগানের নকশায়, BD = 4 মি, CD = 3 মি, AB = 13 মি, AC = 12 মি এবং ∠BDC = 90°। এই জমির ক্ষেত্রফল কত? ( )\n\nOptions:\nক) 24m²\nখ) 30m²\nগ) 36m²\nঘ) 42m²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07323598-27c6-4fe7-a362-734de1eceb4c",
+    "images": [
+      "images/48479_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, a ও b রেখাদ্বয়কে c ও d রেখা ছেদ করেছে এবং c রেখাটি a ও b রেখার ওপর লম্ব। যদি ∠1 = 70° হয়, তবে ∠3 এর মান নির্ণয় করো।\nOptions:\nb. Given that ∠1 = 70°, find the measure of ∠3.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad403bbd-1543-4ec0-ad8c-7294e0dcb5c4",
+    "images": [
+      "images/41313_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি বর্গক্ষেত্রকে তিনবার ভাঁজ করে ড্যাশ লাইন বরাবর কেটে চিত্র 1 তৈরি করা হলে, খোলার পর চিত্র 1-এর আকৃতি কেমন হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c5795d69-50af-414b-b46e-b5fe6c130683",
+    "images": [
+      "images/36521_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 16টি 1 একক বাহুবিশিষ্ট ছোট বর্গক্ষেত্র দ্বারা গঠিত পাঁচটি রেখাংশ PA, PB, PC, PD এবং PE রয়েছে। এদের মধ্যে কোন রেখাংশগুলোর দৈর্ঘ্য মূলদ সংখ্যা? \nক. 1টি রেখাংশ \nখ. 2টি রেখাংশ \nগ. 3টি রেখাংশ \nঘ. 4টি রেখাংশ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec696bc0-9e22-47d5-b1b9-08d59cf09f4a",
+    "images": [
+      "images/65152_0.png"
+    ],
+    "english_question": "<image>\nএকটি বাঁকানো পাইপ তৈরির সময়, প্রথমে কেন্দ্ররেখা বরাবর \"আনফোল্ডেড দৈর্ঘ্য\" বা প্রসারিত দৈর্ঘ্য নির্ণয় করা প্রয়োজন। নিচের চিত্রে একটি বাঁকানো পাইপের অংশ দেখানো হয়েছে, যেখানে ∠O = ∠O' = 90^\\circ এবং কেন্দ্ররেখার দুটি চাপের ব্যাসার্ধই 1000 মিমি। এই বাঁকানো পাইপের প্রসারিত দৈর্ঘ্য প্রায় কত? (π = 3.14)\n\nOptions:\nক) \\(9280mm\\)\nখ) \\(6280mm\\)\nগ) \\(6140mm\\)\nঘ) \\(4570mm\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "62a9ec49-91a5-47ee-bbca-9b536df22698",
+    "images": [
+      "images/51374_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, নীচের কোন উক্তিটি সঠিক? ( __).__\nবিকল্পসমূহ: \n(ক) যদি AB ∥ DC হয়, তবে ∠1 = ∠2\n(খ) যদি AD ∥ BC হয়, তবে ∠3 = ∠4\n(গ) যদি ∠1 = ∠2 হয়, তবে AB ∥ DC\n(ঘ) যদি ∠2 + ∠3 + ∠A = 180° হয়, তবে AB ∥ DC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7862887-cf76-496d-a394-8f9af260a93e",
+    "images": [
+      "images/3075_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-এর বহিঃস্থ কোণ ∠ACD-এর সমদ্বিখণ্ডক CP, যা অন্তঃস্থ কোণ সমদ্বিখণ্ডক BP-কে P বিন্দুতে ছেদ করে। যদি ∠BPC = 35° হয়, তবে ∠CAP = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "651b3bd2-115f-42de-8711-b38e33641eb6",
+    "images": [
+      "images/20211_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজের অনুক্রমটি পর্যবেক্ষণ করো, যেখানে প্রতিটি চিত্র পূর্ববর্তী চিত্রের ত্রিভুজগুলোর বাহুর মধ্যবিন্দুগুলো যোগ করে তৈরি করা হয়েছে। প্রথম চিত্রে 1টি ত্রিভুজ আছে। n-তম চিত্রে ত্রিভুজের সংখ্যা n-এর ফাংশন হিসেবে নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3dceb2b-5c80-4e23-ba99-71431341b5ca",
+    "images": [
+      "images/6173_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কোণগুলোর মধ্যে সঠিক সম্পর্কটি হলো ( ) \nক. ∠1=∠2 \nখ. ∠3=90^{\\circ} \nগ. ∠2=∠4 \nঘ. ∠1+∠3=180^{\\circ}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "de60059e-2168-4f8b-b09e-60f927c9131c",
+    "images": [
+      "images/38584_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে, আকৃতি 'ক'-এর পরিসীমা আকৃতি 'খ'-এর পরিসীমার চেয়ে বড় (সত্য না মিথ্যা তা নির্ধারণ করুন)\nOptions:\na) As shown in the figure, the perimeter of shape A is greater than the perimeter of shape B __________ (Determine if true or false)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cff7c50e-a856-4ef7-a1e2-fca94dab4789",
+    "images": [
+      "images/65567_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, যেখানে AB ∥ CD, AB = 15, AD = 20 এবং ∠C = 30°, বিন্দু M এবং N যথাক্রমে A থেকে B-এর দিকে এবং D থেকে A-এর দিকে একই গতিতে চলতে শুরু করে। যখন পঞ্চভুজ BCDNM-এর ক্ষেত্রফল সর্বনিম্ন হয়, তখন ত্রিভুজ AMN-এর আকৃতি নির্ণয় করো।\nOptions:\nd. When the area of pentagon BCDNM is minimized, determine the shape of triangle AMN.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6da46efa-d938-4177-bae3-9d43f8afa165",
+    "images": [
+      "images/61696_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, দেওয়া আছে ∠C=90°, AC=BC=2√2। ত্রিভুজ ABC-কে বিন্দু A-এর সাপেক্ষে ঘড়ির কাঁটার দিকে 60° কোণে ঘুরিয়ে ত্রিভুজ AB'C'-এ পরিণত করা হলো। C'B যোগ করলে, C'B-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41a78f27-053e-4a87-ae32-0e4f4fb0d792",
+    "images": [
+      "images/68512_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি বর্গক্ষেত্র পাশাপাশি একটি অর্ধবৃত্তের মধ্যে অন্তর্লিখিত আছে। যদি ছোট বর্গক্ষেত্রের ক্ষেত্রফল 16 বর্গ সেমি হয়, তবে অর্ধবৃত্তটির ব্যাসার্ধ কত?\n\nOptions:\nক) (4+ $\\sqrt{5}$ )cm\nখ) 9 cm\nগ) 4 $\\sqrt{5}$ cm\nঘ) 6 $\\sqrt{2}$ cm",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7a3926c4-38ed-49bf-b37e-d56d99f596e6",
+    "images": [
+      "images/31478_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি আমাদের দেশের কয়েকটি ব্যাংকের লগো দেখাচ্ছে। সমমিত অক্ষ আকৃতির সংখ্যা হল ( )\n\nOptions (copied from English):\nক. 2\nখ. 3\nগ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

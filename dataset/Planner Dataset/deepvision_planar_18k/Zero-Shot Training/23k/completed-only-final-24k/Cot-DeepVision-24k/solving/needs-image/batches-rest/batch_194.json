@@ -1,0 +1,302 @@
+[
+  {
+    "id": "5a3f9a12-4c0d-4f05-9ca8-f406e554d4fd",
+    "images": [
+      "images/45149_0.png"
+    ],
+    "english_question": "<image>\nনিচের 5টি আকৃতি এবং বিন্দুর সংখ্যার অনুরূপ পরিবর্তনের ভিত্তিতে, n-তম আকৃতিতে কতটি বিন্দু আছে তা অনুমান করার চেষ্টা করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eadc350d-4cce-4647-bbbf-c43579496265",
+    "images": [
+      "images/49882_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দিকগুলোর মধ্যে কোনটি ভুল? \n1. OA-এর দিক উত্তর-পূর্ব। \n2. OB-এর দিক উত্তর-পশ্চিম 60°। \n3. OC-এর দিক দক্ষিণ-পশ্চিম 60°। \n4. OD-এর দিক দক্ষিণ-পূর্ব 60°।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "730f016b-5432-4929-a174-0889afd05d82",
+    "images": [
+      "images/47620_0.png"
+    ],
+    "english_question": "<image>\nযদি রেখা y = -x + b (b > 0) অধিবৃত্ত y = k/x (x > 0) কে A এবং B বিন্দুতে ছেদ করে, যেখানে AM ⊥ y-অক্ষ এবং BN ⊥ x-অক্ষ, তবে নিচের কোন সিদ্ধান্তগুলো সঠিক? 1. OA = OB; 2. ত্রিভুজ AOM ≅ ত্রিভুজ BON; 3. যদি ∠AOB = 45° হয়, তবে S_∆AOB = k; 4. যখন AB = √2 হয়, তখন AM = BN = 1।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c544138b-d3f2-4ec7-b8e6-5ac4bdc299a3",
+    "images": [
+      "images/29336_0.png"
+    ],
+    "english_question": "<image>\nনিচের কয়টি উক্তি সঠিক? (1) চিত্র (a)-তে দেখানো হয়েছে যে, একটি বৃত্তাকার ওয়ার্কপিসের ব্যাস রুলার এবং ত্রিভুজ ব্যবহার করে পরিমাপ করা যায়; (2) চিত্র (b)-তে দেখানো হয়েছে যে, একটি সমকোণী রুলার ব্যবহার করে ওয়ার্কপিসটি অর্ধবৃত্তাকার কি না তা যাচাই করা যায়; (3) চিত্র (c)-তে দেখানো হয়েছে যে, টি-স্কয়ার (T-square) দুইবার ব্যবহার করে (CD রেখাটি AB রেখাংশের ওপর লম্ব) বৃত্তাকার ওয়ার্কপিসের কেন্দ্র নির্ণয় করা যায়; (4) চিত্র (d)-তে দেখানো হয়েছে যে, ইনক্লিনোমিটারের শূন্য স্কেল রেখা এবং উলম্ব রেখার মধ্যবর্তী কোণ হলো P বিন্দু থেকে A বিন্দুর দিকে তাকালে উৎপন্ন উন্নতি কোণ।\nOptions:\na), the diameter of a circular workpiece can be measured using a ruler and a triangle; (2) As shown in figure (b), a right-angle ruler can be used to check whether the workpiece is semicircular; (3) As shown in figure (c), using a T-square twice (the line where CD is located is perpendicular to the segment AB) can find the center of the circular workpiece; (4) As shown in figure (d), the angle between the zero scale line of the inclinometer and the vertical line is the angle of elevation when looking from point P to point A)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6340a867-fc7a-4d8c-8744-8ef1f24c2ab8",
+    "images": [
+      "images/50512_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি কমিউনিটির ফিটনেস সরঞ্জাম প্রদর্শন করছে। দেওয়া আছে যে, BC = 0.15 মি, AB = 2.70 মি এবং ∠BOD = 70°, বিন্দু A থেকে ভূমি CD-এর দূরত্ব নির্ণয় করো (0.1 মি পর্যন্ত নির্ভুল)। রেফারেন্স ডেটা: sin 70° ≈ 0.94, cos 70° ≈ 0.34, tan 70° ≈ 2.75।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4fbe9bea-6e89-4bc5-8fcf-2a7b65b50eec",
+    "images": [
+      "images/28514_0.png"
+    ],
+    "english_question": "<image>\nনিচের ট্রাপিজিয়ামটিতে, যদি বৃহত্তম ত্রিভুজটি কেটে ফেলা হয়, তবে অবশিষ্ট অংশের ক্ষেত্রফল কত? (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f5f8c6b-ebf0-4f24-b589-74fc9ff37ef0",
+    "images": [
+      "images/30680_0.png"
+    ],
+    "english_question": "<image>\nট্যানগ্রাম আমাদের দেশের প্রাচীন শ্রমিকদের অন্যতম উদ্ভাবন, যা 'প্রাচ্য টেমপ্লেট' নামে পরিচিত। এটি সাতটি টুকরো নিয়ে গঠিত: পাঁচটি সমদ্বিবাহু সমকোণী ত্রিভুজ, একটি বর্গক্ষেত্র এবং একটি সামান্তরিক। চিত্রে প্রদর্শিত বর্গক্ষেত্রটি ট্যানগ্রাম ব্যবহার করে তৈরি করা হয়েছে। যদি এই বর্গক্ষেত্র থেকে একটি বিন্দু দৈবচয়ন পদ্ধতিতে নির্বাচন করা হয়, তবে বিন্দুটি কালো অংশে থাকার সম্ভাবনা কত?\n\nOptions:\nক) $ \\frac {3}{16}$\nখ) $ \\frac {3}{8}$\nগ) $ \\frac {5}{16}$\nঘ) $ \\frac {7}{16}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c03545da-44e9-447b-8ea8-d770e59f398e",
+    "images": [
+      "images/60192_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, O মূলবিন্দু। ধরি, ভেক্টর \\( \\vec{OA} = \\vec{a} \\) এবং \\( \\vec{OB} = \\vec{b} \\), যেখানে \\( \\vec{a} = (3,1) \\) এবং \\( \\vec{b} = (1,3) \\)। যদি \\( \\vec{OC} = \\lambda \\vec{a} + \\mu \\vec{b} \\) এবং \\( 0 \\leq \\lambda \\leq \\mu \\leq 1 \\) হয়, তবে বিন্দু C-এর সকল সম্ভাব্য অবস্থানের জন্য সঠিক ছায়াবৃত অঞ্চলটি হলো ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5eca0b27-5dc0-4c05-88d9-3edfe7c4864d",
+    "images": [
+      "images/64899_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OB রেখা AE রেখার উপর O বিন্দুতে লম্ব এবং OC ও OD যথাক্রমে ∠AOB ও ∠BOE এর সমদ্বিখণ্ডক। তাহলে, পূরক কোণের জোড়া হলো ( )\n\nOptions:\nক) 3 pairs\nখ) 4 pairs\nগ) 5 pairs\nঘ) 6 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9eededb7-a60e-48df-a9e4-b6c80ab1ec65",
+    "images": [
+      "images/48530_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, সামান্তরিক ABCD-কে এমনভাবে ভাঁজ করা হলো যেন বিন্দু C, AB রেখার ওপর C'' বিন্দুতে এবং বিন্দু B, B'' বিন্দুতে পতিত হয়। EF হলো ভাঁজের রেখা। যদি ∠CEF=65^{\\circ} হয়, তবে ∠EC''F এর মান কত?\n\nOptions:\nক) \\(50^{\\circ}\\)\nখ) \\(60^{\\circ}\\)\nগ) \\(65^{\\circ}\\)\nঘ) \\(70^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "150dc330-92a4-4d02-b126-c441ebfde3e5",
+    "images": [
+      "images/42208_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী (2015 বসন্ত, শিবেই জেলা মিডটার্ম), যদি AB সমান্তরাল CD হয়, তবে ∠A, ∠D, এবং ∠E-এর পরিমাপের মধ্যে সম্পর্কটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "df5c1add-da6d-46f8-8d1f-4fede6f13917",
+    "images": [
+      "images/5201_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, নিচের কোন শর্তটি GE সমান্তরাল CH নির্দেশ করে? (__)\n\nOptions:\nক) ∠FEB = ∠ECD\nখ) ∠AEG = ∠DCH\nগ) ∠GEC = ∠HCF\nঘ) ∠HCE = ∠AEG",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d12c8827-e6f8-47e6-9aa2-dc746e3c4c5d",
+    "images": [
+      "images/50345_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ △ABC এবং △CDA সর্বসম। কোন জোড়া অনুরূপ বাহু নিশ্চিতভাবে সর্বসম?\n\nOptions (copied from English):\nB. AC and CA\nAD and CB\nAD and DC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9692aee1-475b-4af8-9e05-1c9686f64351",
+    "images": [
+      "images/65150_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2013 শরৎ, চংইয়াং কাউন্টি ফাইনাল পরীক্ষা), বিন্দু O সমবাহু ত্রিভুজ ABC-এর অভ্যন্তরে অবস্থিত। ত্রিভুজ AOB-কে বিন্দু A-কে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে এমনভাবে ঘোরানো হলো যাতে বিন্দু B এবং O যথাক্রমে বিন্দু C এবং D-তে পতিত হয়। ত্রিভুজ ABC ছাড়াও, চিত্রে অন্য একটি সমবাহু ত্রিভুজ কোনটি?\nOptions:\nC) Triangle AOB is rotated counterclockwise around point A such that points B and O correspond to points C and D, respectively. Besides triangle ABC, there is another equilateral triangle in the figure.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf90655b-f8db-4914-9688-67ebd26b85e8",
+    "images": [
+      "images/3057_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-কে বিন্দু A-এর চারদিকে ঘড়ির কাঁটার বিপরীত দিকে 90° কোণে ঘুরিয়ে ত্রিভুজ AB₁C₁ পাওয়া গেল। ছায়াবৃত অংশটি হলো রেখাংশ BC দ্বারা অতিক্রান্ত অঞ্চল। যদি AB=4 এবং BC=3 হয়, তবে ছায়াবৃত অঞ্চলের ক্ষেত্রফল কত?\n\nOptions:\nক) 2π\nখ) \\( \\frac{9}{4} \\pi \\)\nগ) \\( \\frac{9}{2} \\pi \\)\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a18f17c-62de-42ca-8937-b2ba53aba764",
+    "images": [
+      "images/73244_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ACBD একটি চাষযোগ্য জমি। দেওয়া আছে, AD = 24 মি., BD = 26 মি., AC ⊥ BC এবং AC = 6 মি., BC = 8 মি.। এই চাষযোগ্য জমির ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD) It is known that AD = 24m, BD = 26m, AC ⊥ BC, and AC = 6m, BC = 8m. Find the area of this cultivated land.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "59ec6f50-e95a-4381-abe8-3eaa0396c25c",
+    "images": [
+      "images/7156_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রটি 8টি ছোট ঘনক দিয়ে গঠিত একটি ত্রিমাত্রিক আকৃতি, যার প্রতিটির বাহুর দৈর্ঘ্য 1 একক। এই ত্রিমাত্রিক আকৃতিটির সম্মুখ দৃশ্য (front view) হলো ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "26654bdb-e7fc-463d-9ff6-10b43f4fc7a8",
+    "images": [
+      "images/67154_0.png"
+    ],
+    "english_question": "<image>\nশাওমি বে ফরেস্ট পার্কে একটি ঘুড়ি উড়াচ্ছে। চিত্রে প্রদর্শিত অনুযায়ী, শাওমি A বিন্দুতে এবং ঘুড়িটি C বিন্দুতে অবস্থিত। এই মুহূর্তে, BC সুতার দৈর্ঘ্য 40 মিটার। যদি শাওমি সুতার নিচের প্রান্ত B-কে মাটি থেকে 1.5 মিটার উচ্চতায় ধরে রাখে এবং B থেকে C-এর উন্নতি কোণ 60° হয়, তবে মাটি থেকে ঘুড়িটির উচ্চতা CE নির্ণয় করো। (ফলাফল দশমিকের পর 1 ঘর পর্যন্ত নির্ণয় করো, √3 ≈ 1.732)\nOptions:\nC) At this moment, the length of line BC is 40 meters. If Xiaoming holds the bottom end B of the string 1.5 meters above the ground, and the angle of elevation from B to C is 60°, find the height CE of the kite above the ground. (Calculate the result to 0.1 meters, $\\sqrt{3} \\approx 1.732)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f8111c4-b48d-4cb9-9226-0699b0f99f64",
+    "images": [
+      "images/33777_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে যে ∠1 = ∠2, তাহলে ( )\nক. ∠3 = ∠4\nখ. AB ∥ CD\nগ. AD ∥ BC\nঘ. উপরের সবকটি সিদ্ধান্তই সঠিক",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "127dd7b0-a94c-4538-8903-a2dfd244e194",
+    "images": [
+      "images/3470_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কতটি প্রতিসম (axisymmetric) চিত্র রয়েছে? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "98a419c0-6b06-4b7b-b71c-d75df784fcb1",
+    "images": [
+      "images/25699_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, ABCD চতুর্ভুজটি একটি বর্গক্ষেত্র। বর্গক্ষেত্রটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "abaa7175-7b50-4cd1-907a-1b473bb34ca0",
+    "images": [
+      "images/27620_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রে অবস্থিত বৃত্তে, যদি ∠A = 35° এবং ∠E = 40° হয়, তবে ∠BOD-এর মান কত? \nক. 75° \nখ. 80° \nগ. 135° \nঘ. 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3b018971-d3ee-44f8-9201-de20f75424a5",
+    "images": [
+      "images/19442_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, ∠ACB=90°, ∠A=30°। ত্রিভুজ ABC-কে বিন্দু C-এর সাপেক্ষে ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ A'B'C পাওয়া গেল, যেখানে বিন্দু B' রেখা AB-এর ওপর অবস্থিত এবং রেখা A'B', AC-কে বিন্দু F-এ ছেদ করে। চিত্রে কয়টি ত্রিভুজ ত্রিভুজ AB'F-এর সদৃশ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7231a99b-c975-4cf1-a1d9-dcfa481c6131",
+    "images": [
+      "images/triangle_ext_7231a99b-c975-4cf1-a1d9-dcfa481c6131.png"
+    ],
+    "english_question": "<image>\nশাও মিং জানতে চায় স্কুলের পতাকা দণ্ডটি কত উঁচু। সে দেখল যে পতাকা দণ্ডের চূড়ার দড়ি BD নিচের দিকে মাটিতে ঝুলে আছে, যেখানে CD = 1 মিটার। যখন সে দড়ির নিচের প্রান্ত D-কে 5 মিটার পেছনে টানল, তখন সে দেখল যে নিচের প্রান্ত D মাটি A-কে স্পর্শ করল। তুমি কি তাকে পতাকা দণ্ডের উচ্চতা খুঁজে বের করতে সাহায্য করতে পারো?\nOptions:\nA) Can you help him find the height of the flagpole?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c887127-a221-4214-beda-2d26b14505ec",
+    "images": [
+      "images/8763_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, যদি AB সমান্তরাল CD হয় এবং CD সমান্তরাল EF হয়, তবে ∠BCE = ( ) কত?\n\nOptions:\nক) ∠1 + ∠2\nখ) ∠2 - ∠1\nগ) 180° - ∠1 + ∠2\nঘ) 180° - ∠2 + ∠1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e75001f8-bf4f-4f0f-b391-22c2e5969acc",
+    "images": [
+      "images/14717_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, যদি তিনটি খালি ঘরে একই এক অংকের সংখ্যা থাকে, তবে সেই সংখ্যাটি কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8aa0180e-b518-4075-afe0-8844a4912b60",
+    "images": [
+      "images/50545_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমকোণী ত্রিভুজ বোর্ড ABC-এর অতিভুজ AB একটি চাঁদার ব্যাসের সাথে নিখুঁতভাবে সারিবদ্ধ। বিন্দু D-এর অনুরূপ স্কেল পাঠ হলো 58^{\\circ}। ∠ACD-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e505ab1-509f-4838-9895-9a9c113a97fa",
+    "images": [
+      "images/953_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014, লুবেই ডিস্ট্রিক্ট মক এক্সাম), একটি চতুর্ভুজ ABCD দেওয়া আছে, যেখানে ∠B = 130° এবং ∠D = 50°। যদি নিচের ডানদিকের কোণটিকে ভাঁজ করে ত্রিভুজ PCR তৈরি করা হয় যাতে CP ∥ AB এবং RC ∥ AD হয়, যেমনটি চিত্র (B)-তে দেখানো হয়েছে, তবে ∠C = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b22070d1-0248-4ee7-aa31-537094f517d3",
+    "images": [
+      "images/36872_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র ABCD-এ, E বিন্দুটি AB-এর মধ্যবিন্দু এবং F বিন্দুটি AD-এর উপর একটি বিন্দু। EF রেখাটি AC-কে G বিন্দুতে ছেদ করে। দেওয়া আছে, AF = 4 সে.মি., DF = 8 সে.মি., AG = 5 সে.মি., তবে AC-এর দৈর্ঘ্য কত? ( )\nক. 25 সে.মি.\nখ. 15 সে.মি.\nগ. 12.5 সে.মি.\nঘ. 7.5 সে.মি.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a470e052-6218-41c5-92b1-4f5ad2d36535",
+    "images": [
+      "images/53458_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A ও B ভবন দুটির মধ্যবর্তী দূরত্ব 10 মিটার। A ভবনের পাদদেশ থেকে B ভবনের চূড়ার উন্নতি কোণ 60°। C ভবনের পাদদেশ থেকে D ভবনের চূড়ার উন্নতি কোণ 45°। A ভবনটি B ভবনের তুলনায় কত মিটার খাটো? (ফলাফল দুই সার্থক অংক পর্যন্ত নির্ণয় করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3905989-7dbd-4eb1-9a9d-520e93d9fc59",
+    "images": [
+      "images/14496_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে। জ্যামিতিক বস্তুটির আয়তন কত?\nক. \\( \\frac{16}{3} \\)\nখ. \\( \\frac{80}{3} \\)\nগ. \\( \\frac{64}{3} \\)\nঘ. \\( \\frac{43}{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "197094d9-31c3-48cb-9a1e-3fe5f92055c1",
+    "images": [
+      "images/21582_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, দেওয়া আছে যে AB, CD-এর সমান্তরাল নয় এবং ∠ABD = ∠ACD। AD, BC-এর সমান্তরাল এবং AB = CD হওয়ার জন্য অতিরিক্ত কী শর্ত যোগ করা যেতে পারে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e9e05130-3a90-4ef4-bdb4-9c6467e9a49e",
+    "images": [
+      "images/triangle_ext_e9e05130-3a90-4ef4-bdb4-9c6467e9a49e.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-কে A বিন্দুর সাপেক্ষে ঘড়ির কাঁটার দিকে ঘোরানোর পর, ত্রিভুজ AB'C' পাওয়া যায় এবং বিন্দু C' BC বাহুর ওপর অবস্থিত। যদি ∠B'C'B = 46° হয়, তবে কোণ C-এর মান কত?\nক. 56°\nখ. 60°\nগ. 67°\nঘ. 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "84469db0-8f8b-4c4c-ab0f-f97c0ed9f7c9",
+    "images": [
+      "images/38436_0.png"
+    ],
+    "english_question": "<image>\n10, 6 এবং 4 বাহুবিশিষ্ট তিনটি বর্গক্ষেত্র চিত্রে প্রদর্শিত উপায়ে সাজানো আছে (বিন্দু A, B, E, H একই সরলরেখায় অবস্থিত), DH রেখা EF কে R বিন্দুতে ছেদ করে। RN রেখাংশের মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0a59cc38-2d58-4381-a563-4a41c8ed11a9",
+    "images": [
+      "images/74819_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, ∠1 = 60°, তবে ∠A + ∠B + ∠C + ∠D + ∠E + ∠F-এর সমষ্টি কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f09876e1-86ae-426e-a7aa-92babc8c867a",
+    "images": [
+      "images/8239_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট অর্ধবৃত্তের ব্যাস এবং AD ও BC জ্যাদ্বয় P বিন্দুতে ছেদ করে। যদি ∠DPB = α হয়, তবে CD : AB এর অনুপাত নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f04e8f5c-e46b-4171-b918-c1c01c1a02bb",
+    "images": [
+      "images/46941_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের OA এবং OB দুটি ব্যাসার্ধ এবং OA, OB এর উপর লম্ব। বিন্দু C বৃত্তের পরিধির উপর অবস্থিত (A এবং B বিন্দুর সাথে সমাপতিত নয়)। ∠ACB কোণের পরিমাপ কত?\nOptions:\nB). What is the measure of angle ∠ACB?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9befe7b0-d770-4fa8-852f-c11f1cfcdb0f",
+    "images": [
+      "images/20440_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6daabb64-a087-4959-8329-c9fd5c26606f",
+    "images": [
+      "images/29263_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুস্তলক পিরামিড P-ABCD-এর তিনটি দৃশ্য দেওয়া আছে। চতুস্তলক পিরামিড P-ABCD-এর চারটি পার্শ্বতলের মধ্যে কোনটির ক্ষেত্রফল সবচেয়ে বেশি?\n\nOptions:\nক) $^3$\nখ) $2\\sqrt{5}$\nগ) $^6$\nঘ) $8$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45135e1e-437e-4e83-8ace-8994ca3cd205",
+    "images": [
+      "images/67407_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠1 = 65°15' এবং ∠2 = 78°30' হয়, তবে ∠3 এর মান ডিগ্রিতে কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

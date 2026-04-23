@@ -1,0 +1,302 @@
+[
+  {
+    "id": "6687948d-7bcb-4e31-a21a-bd4d13bf47fe",
+    "images": [
+      "images/46590_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, দুটি ত্রিভুজাকার স্কেল এমনভাবে রাখা হয়েছে যে একটির বাহু অন্যটির ভূমির সমান্তরাল। চিত্রে প্রদর্শিত 30° এবং 45° কোণ দুটি থেকে ∠α এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "431bc191-8c2f-4dca-9f80-d8adb651558b",
+    "images": [
+      "images/54256_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB = AC এবং ∠BAF = ∠CAF হয়, তবে চিত্রে সর্বসম ত্রিভুজের সংখ্যা কত? ( )\nক. 1 জোড়া\nখ. 2 জোড়া\nগ. 3 জোড়া\nঘ. 4 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7689d29d-fba3-416a-902d-921374b9b084",
+    "images": [
+      "images/73882_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, B এবং C হলো একই আকারের ছোট ঘনক দ্বারা গঠিত জ্যামিতিক বস্তু এবং ছোট বর্গক্ষেত্রগুলোর সংখ্যা ওই অবস্থানে ছোট ঘনকের সংখ্যা নির্দেশ করে। নিচের কোনটির সম্মুখ দৃশ্য (front view) একই?\n\nOptions (copied from English):\nখ. Only A and C are the same\nOnly B and C are the same\nঘ. A, B, and C are all the same",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a65119f1-276a-4aad-8970-774cf27e33a5",
+    "images": [
+      "images/20724_0.png"
+    ],
+    "english_question": "<image>\nনিচের আকৃতিটির ক্ষেত্রফল নির্ণয় করো (একক: সেমি)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "087037d2-27fe-4960-88fd-c35c848df88d",
+    "images": [
+      "images/14155_0.png"
+    ],
+    "english_question": "<image>\n2 একক বাহুবিশিষ্ট একটি সুষম ষড়ভুজকে তিনটি সমান্তরাল রেখাগুচ্ছ দ্বারা ছোট ছোট সমবাহু ত্রিভুজে বিভক্ত করা হয়েছে। যদি চিত্র থেকে দৈবচয়ন পদ্ধতিতে একটি সমবাহু ত্রিভুজ নির্বাচন করা হয়, তবে নির্বাচিত ত্রিভুজটির বাহুর দৈর্ঘ্য ঠিক 2 একক হওয়ার সম্ভাবনা কত?\n\nOptions:\nক) \\( \\frac{1}{4} \\)\nখ) \\( \\frac{3}{16} \\)\nগ) \\( \\frac{6}{19} \\)\nঘ) \\( \\frac{1}{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37e79f64-f035-4349-a187-676feacc3c2a",
+    "images": [
+      "images/17927_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC এবং CDE সমবাহু ত্রিভুজ এবং ∠EBD = 62°। ∠AEB এর মান কত ডিগ্রি? ( )\n\nOptions:\nক) 124°\nখ) 122°\nগ) 120°\nঘ) 118°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98f000cd-3c90-4ba3-9037-829cc217ad2e",
+    "images": [
+      "images/57934_0.png"
+    ],
+    "english_question": "<image>\nক্ষুদ্র বর্গক্ষেত্র দ্বারা গঠিত একটি গ্রিডে, চতুর্ভুজ ABCD-এর শীর্ষবিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত, যেমনটি চিত্রে দেখানো হয়েছে। নিচের কোন সিদ্ধান্তটি ভুল? ( ) \nAD ∥ BC \nDC = AB \nচতুর্ভুজ ABCD একটি রম্বস \nযদি AD বাহুটিকে 3 একক ডানে এবং 7 একক উপরে স্থানান্তর করা হয়, তবে এটি BC বাহুর সাথে মিলে যাবে",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "84addba0-b191-4839-9de8-34058abacc8a",
+    "images": [
+      "images/63651_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, যদি কাঠের টুকরা a কে O বিন্দুর চারদিকে ঘুরিয়ে কাঠের টুকরা b এর সমান্তরাল করা হয়, তবে ঘূর্ণনের সর্বনিম্ন কোণ কত?\n\nOptions:\nক) 65°\nখ) 85°\nগ) 95°\nঘ) 115°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d48f1164-8f45-42de-a0e7-67701f470609",
+    "images": [
+      "images/74922_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজ ABCD-তে, AD || BC, AD = AB, ∠BCD = 45°, এবং ∠BAD = 90°। ত্রিভুজ ADB-কে BD বরাবর এমনভাবে ভাঁজ করা হলো যেন তল ABD, তল BCD-এর ওপর লম্ব হয়, ফলে একটি ত্রিভুজাকার পিরামিড A-BCD গঠিত হয়। ত্রিভুজাকার পিরামিড A-BCD-তে নিচের কোন উক্তিটি সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0600c2df-c219-41fe-8db5-d06580f42524",
+    "images": [
+      "images/11572_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠AOC এবং ∠BOD উভয়ই সমকোণ এবং ∠AOD ও ∠AOB এর অনুপাত 3:1। ∠BOC এর মান কত ডিগ্রি?\n\nOptions:\nক) 22.5°\nখ) 45°\nগ) 90°\nঘ) 135°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55d95a06-6133-48c0-a565-50505628aa63",
+    "images": [
+      "images/51119_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রগুলো কেন্দ্র-প্রতিসম (centrally symmetric) ( ▲ )?\nক. 1টি\nখ. 2টি\nগ. 3টি\nঘ. 4টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7a494b3-e0f7-455f-8854-f8d0a93bd9e6",
+    "images": [
+      "images/70915_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, যেখানে AB সমান্তরাল DC এবং AD = DC = CB, যদি ∠ABD = 25° হয়, তবে ∠BAD-এর মান কত?\n\nOptions:\nক) 40°\nখ) 45°\nগ) 50°\nঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d364d5f0-0a4f-41c3-b668-847cedb25fd5",
+    "images": [
+      "images/12178_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি AB || DC হয়, তবে নিচের কোনটি সঠিকভাবে সিদ্ধান্ত নেওয়া যায়?\n\nOptions (copied from English):\nক. \\(∠3=∠4\\)\nখ. \\(∠1=∠2\\)\n\\(∠A=∠C\\)\n\\(AD \\parallel BC\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6986e98-57ce-418c-bb74-cfc019f36cc6",
+    "images": [
+      "images/59159_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC এবং ADE উভয়ই সমদ্বিবাহু সমকোণী ত্রিভুজ, যেখানে AB = AC, AD = AE এবং ∠BAC = ∠DAE। চতুর্ভুজ ACDE একটি সামান্তরিক। CE যোগ করলে তা AD-কে F বিন্দুতে ছেদ করে এবং BD ও CE পরস্পরকে G বিন্দুতে ছেদ করে। BE যোগ করা হলো। নীচের সিদ্ধান্তগুলোর মধ্যে কোনটি অবশ্যই সঠিক: ① CE = BD; ② ত্রিভুজ ADC একটি সমদ্বিবাহু ত্রিভুজ; ③ ∠CGD + ∠DAE = 180°; ④ CD • AE = EF • CG। সঠিক সিদ্ধান্তগুলো হলো ( )\nক. 1টি\nখ. 2টি\nগ. 3টি\nঘ. 4টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "252a30fe-8f4c-46ee-81bb-78ed7efd9e76",
+    "images": [
+      "images/37022_0.png"
+    ],
+    "english_question": "<image>\nশিক্ষার্থীরা একটি ক্যালাইডোস্কোপ নিয়ে খেলেছে, যা সমান প্রস্থ ও দৈর্ঘ্যের তিনটি কাঁচের টুকরো দিয়ে গঠিত। চিত্রটি ক্যালাইডোস্কোপে দেখা একটি নকশা প্রদর্শন করে। চিত্রের সব ছোট ত্রিভুজগুলো সর্বসম সমবাহু ত্রিভুজ। রম্বস AEFG-কে রম্বস ABCD-এর A বিন্দুর সাপেক্ষে ঘূর্ণন হিসেবে বিবেচনা করা যায় ( )\n\nOptions (copied from English):\nক. Clockwise rotation of 60°\nখ. Clockwise rotation of 120°\nCounterclockwise rotation of 60°\nঘ. Counterclockwise rotation of 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3934749a-7ebc-40a0-9a02-d27f98fb0a32",
+    "images": [
+      "images/30652_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের OA এবং OB ব্যাসার্ধ, যেখানে OA = 5 এবং ∠AOB = 15°। AC, OB এর উপর লম্ব এবং C বিন্দুতে ছেদ করে। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো (π এর মাধ্যমে প্রকাশ করো)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e00c043e-dc93-47b4-8baf-c8586b0d4de5",
+    "images": [
+      "images/54791_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 1 একক বাহুবিশিষ্ট একটি বর্গক্ষেত্র ABCD কে A বিন্দুকে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে 30º কোণে ঘুরিয়ে বর্গক্ষেত্র AEFG পাওয়া গেল। তাদের সাধারণ বা উপরিপাতিত অংশের ক্ষেত্রফল কত? ( )\nক. sqrt(3)/3\nখ. 1- sqrt(3)/3\nগ. 1- sqrt(3)/4\nঘ. 1/2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02ff55f1-5021-4b73-8044-8db9f753576a",
+    "images": [
+      "images/3459_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজাকার পিরামিড S-ABC এর সম্মুখ দৃশ্য (front view) এবং পার্শ্ব দৃশ্য (side view) চিত্রে দেখানো হয়েছে। SB বাহুর দৈর্ঘ্য কত?\n\nOptions:\nক) $2\\sqrt{11}$\nখ) $4\\sqrt{2}$\nগ) $16\\sqrt{3}$\nঘ) $\\sqrt{38}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "379173f4-7d11-4bc7-89b9-96971b38f247",
+    "images": [
+      "images/34907_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে অক্ষীয় প্রতিসম (axisymmetric) চিত্রগুলো হলো: ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e602ad5-d5fb-415e-b6f7-02b76f5fea0a",
+    "images": [
+      "images/8821_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, যেখানে AD সমান্তরাল BC এবং ∠DAE = ∠C, এবং AD = 5। যদি ট্রাপিজিয়ামটির পরিসীমা 29 হয়, তবে ত্রিভুজ ABE-এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

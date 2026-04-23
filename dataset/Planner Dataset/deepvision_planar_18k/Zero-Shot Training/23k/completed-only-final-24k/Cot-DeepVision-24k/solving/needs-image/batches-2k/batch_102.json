@@ -1,0 +1,302 @@
+[
+  {
+    "id": "41e25c13-55fc-48d9-8168-65cbb01b542f",
+    "images": [
+      "images/3922_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রটিতে ∠1 এবং ∠2 বিপ্রতীপ কোণ? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fcc9eba2-c6bc-45ba-93de-550f6d7f4f8e",
+    "images": [
+      "images/37152_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-এ, ∠A=100°, E ও F যথাক্রমে AB ও BC বাহুর মধ্যবিন্দু এবং EP ⊥ CD পাদবিন্দু P-তে। ∠FPC-এর পরিমাপ কত? ( )\nক. 35°\nখ. 45°\nগ. 50°\nঘ. 55°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "80cc29da-e859-4940-8f1b-c4189b42ed9d",
+    "images": [
+      "images/triangle_ext_80cc29da-e859-4940-8f1b-c4189b42ed9d.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, ∠ACB = 2∠B এবং AO হলো ∠BAC-এর কোণ সমদ্বিখণ্ডক যা BC-কে D বিন্দুতে ছেদ করে। AO-এর ওপর লম্ব একটি রেখা l, H বিন্দুতে AB, AC এবং BC-কে যথাক্রমে N, E এবং M বিন্দুতে ছেদ করে। যখন বিন্দু E, রেখাংশ AC-এর ওপর অবস্থিত হয়, তখন ∠ABC এবং ∠EMB-এর মধ্যে সম্পর্ক নির্ণয় করো।\nOptions:\nD) A line l perpendicular to AO at a point H intersects AB, AC, and BC at N, E, and M respectively. Find the relationship between ∠ABC and ∠EMB when point E lies on segment AC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ac92fb4d-0a2a-442c-a3ef-95514cc065e2",
+    "images": [
+      "images/73029_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো জ্যামিতিক বস্তুর উপরের অংশ একটি সিলিন্ডার থেকে একটি শঙ্কু কেটে গঠিত, যেখানে শঙ্কুর ভিত্তি সিলিন্ডারের উপরের ভিত্তি এবং শঙ্কুর শীর্ষবিন্দু সিলিন্ডারের নিচের ভিত্তির কেন্দ্রে। এখন যদি একটি উল্লম্ব তল দিয়ে এই জ্যামিতিক বস্তুকে কাটা হয়, তবে সম্ভাব্য ক্রস-সেকশনের আকৃতি কী? ( ) ক. ①② খ. ②③ গ. ③④ ঘ. ①⑤",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d44e6bc-b3e0-415a-89d3-9d205bbef465",
+    "images": [
+      "images/5538_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তাকার খিলান সেতুর বিস্তার AB = 20 মিটার এবং উচ্চতা OP = 4 মিটার। AB বরাবর প্রতি 4 মিটার অন্তর সাপোর্ট কলাম বসানো হয়েছে। A₂B₂ সাপোর্ট কলামের উচ্চতা নির্ণয় করো (0.01 মিটার পর্যন্ত নির্ভুল)।\nOptions:\nB) Find the height of the support column A₂B₂, accurate to 0.01 meters.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e477d0a0-93a9-41f8-bc68-909dd2aeade2",
+    "images": [
+      "images/35143_0.png"
+    ],
+    "english_question": "<image>\nযদি ∠1-এর মান 60 ডিগ্রি হয় এবং AB, CD-এর সমান্তরাল হয়, তবে F বিন্দুতে ∠2-এর সম্পূরক কোণটির মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8ac686e-10da-45fb-8c2f-03d499222f18",
+    "images": [
+      "images/52708_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার লোহার পাত (চিত্রে প্রদর্শিত) থেকে দুটি বৃত্ত এবং একটি আয়তক্ষেত্র কেটে নেওয়া হয়েছে, যা দিয়ে একটি সিলিন্ডার তৈরি করা যায়। সিলিন্ডারের ভূমির ব্যাসার্ধ 10 সেমি হলে, সিলিন্ডারের আয়তন কত ঘন সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c587d68-b1dc-4b8f-afef-b3dd8a8ac796",
+    "images": [
+      "images/19885_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, একজন শিক্ষার্থী একটি ত্রিভুজাকৃতির স্কেলকে প্রদর্শিত অবস্থানে স্থাপন করেছে। যদি AE || BC হয়, তবে ∠DAF এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "72047d76-a38a-476a-ab43-011126bc0254",
+    "images": [
+      "images/70035_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি বর্গক্ষেত্র এবং অর্ধবৃত্ত দ্বারা গঠিত, যেখানে P হলো অর্ধবৃত্তের মধ্যবিন্দু এবং Q হলো বর্গক্ষেত্রের BC বাহুর মধ্যবিন্দু। ছায়াবৃত অংশের ক্ষেত্রফল কত? (π=3.14)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24be4b30-9e9b-452d-89ff-62750ed474ce",
+    "images": [
+      "images/10913_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD এর কর্ণদ্বয় O বিন্দুতে ছেদ করে এবং E ও F যথাক্রমে AB ও BC বাহুর মধ্যবিন্দু। ত্রিভুজ ABF এর সমান ক্ষেত্রফলবিশিষ্ট ত্রিভুজের সংখ্যা (ত্রিভুজ ABF ব্যতীত) কতটি?\n\nOptions:\nক) 2\nখ) 4\nগ) 6\nঘ) 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "34c15fa0-9c84-4f3c-8418-1fec48dfaaf0",
+    "images": [
+      "images/58386_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে চতুর্ভুজ ABCD-এ A ও B-এ সমকোণ। রেখাংশ EF, AB-এর উপর E বিন্দুতে লম্ব, AE = a মি., EB = b মি. এবং DF = c মি.। দেওয়া আছে AD ∥ EF ∥ BC, CF-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nB) Segment EF is perpendicular to AB at point E, with AE = a meters, EB = b meters, and DF = c meters. Given that AD ∥ EF ∥ BC, find the length of CF.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "207ece08-7014-455c-b33c-fc0094dc3d98",
+    "images": [
+      "images/75913_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু E রেখা CD-এর বর্ধিতাংশের উপর অবস্থিত। নিচের কোন শর্তটি দিয়ে এটি নিশ্চিত করা যায় না যে AB, CD-এর সমান্তরাল?\nক. ∠1 = ∠2\nখ. ∠3 = ∠4\nগ. ∠5 = ∠B\nঘ. ∠B + ∠BDC = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "166da5b6-72d3-4cd8-a594-16fa4788c438",
+    "images": [
+      "images/1898_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড কাগজে, কোণ 1-এর ট্যানজেন্ট মান কত? ( )\n\nOptions:\nক) 10\nখ) 1/3\nগ) 3/10\nঘ) 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9fe06269-96f4-4ce1-b314-61d848ead666",
+    "images": [
+      "images/37813_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি বর্গক্ষেত্র যার বাহুর দৈর্ঘ্য 1 একক। O হলো AD বাহুর মধ্যবিন্দু এবং F পরাবৃত্তটির শীর্ষবিন্দু O-তে অবস্থিত এবং এটি C বিন্দু দিয়ে অতিক্রম করে। ছায়াবৃত অংশের ক্ষেত্রফল কত?\nOptions:\nC) What is the area of the shaded region?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "16c13fb3-b621-4576-9aae-7722b09ec05f",
+    "images": [
+      "images/17019_0.png"
+    ],
+    "english_question": "<image>\nধরি, A(-1, 0) এবং B(2, 0) দুটি স্থির বিন্দু এবং M একটি চলমান বিন্দু এমন যে ∠MBA = 2∠MAB। যদি M বিন্দুর সঞ্চারপথ C হয়, তবে C বিন্দুর সমীকরণ নির্ণয় করো।\nOptions:\nগ) Find the equation of curve গ)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "365ed311-2f20-4460-9c6f-0ee2069f9599",
+    "images": [
+      "images/45216_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ΔOAD ≅ ΔOBC হয় এবং ∠O = 65°, ∠BEA = 135° হয়, তবে ∠C এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a471e20c-9928-4653-8a8d-4dc254a6da31",
+    "images": [
+      "images/148_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD-তে, দেওয়া আছে AB = 3 সেমি এবং BC = 4 সেমি। আয়তক্ষেত্র ABCD-কে টেবিলের ওপর D বিন্দুকে কেন্দ্র করে ঘড়ির কাঁটার দিকে ঘুরিয়ে A1B1C1D অবস্থানে আনা হয়েছে, যা আয়তক্ষেত্র EFGH এর E বিন্দুতে অবস্থিত। যদি ∠EDF = 30° হয়, তবে B বিন্দু দ্বারা অতিক্রান্ত পথের দৈর্ঘ্য কত সেমি? (ফলাফলে π থাকবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a7b676d4-c6ec-4ace-8df4-892e68e114e1",
+    "images": [
+      "images/56798_0.png"
+    ],
+    "english_question": "<image>\nপ্রতিবেদন অনুযায়ী, ঝেজিয়াং সায়েন্স অ্যান্ড টেকনোলজি ইউনিভার্সিটির স্কুল অফ আর্ট অ্যান্ড ডিজাইনের শিক্ষক ওয়াং জিয়াওলিনের ডিজাইন করা সাবওয়ে লোগোটি সফলভাবে নির্বাচিত হয়েছে। এটি সাবওয়ে টানেলকে মূল আকৃতির উপাদান হিসেবে ব্যবহার করে, যা হ্যাংজু মেট্রোর বৈশিষ্ট্য 'নিরাপদ, দ্রুত, মসৃণ, সুবিধাজনক এবং আরামদায়ক' প্রতিফলিত করে। এই ডিজাইনটি মূলত কোন গাণিতিক রূপান্তরের নীতি ব্যবহার করে? ( )\nক. প্রতিস্থাপন এবং প্রতিসাম্য রূপান্তর\nখ. প্রতিসাম্য এবং ঘূর্ণন রূপান্তর\nগ. সদৃশতা এবং প্রতিস্থাপন রূপান্তর\nঘ. ঘূর্ণন এবং সদৃশতা রূপান্তর",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e3c23020-388d-4332-bdb4-58ca3c60c996",
+    "images": [
+      "images/33557_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4dd3c062-c43b-4d5a-a671-98326788c33d",
+    "images": [
+      "images/71601_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমুদ্রের একটি দ্বীপে (ক) 6n মাইল ব্যাসার্ধের মধ্যে প্রবাল প্রাচীর রয়েছে। একটি মাছ ধরার নৌকা পশ্চিম থেকে পূর্ব দিকে মাছের ঝাঁক অনুসরণ করছে। বিন্দু B-তে, এটি পরিমাপ করে যে দ্বীপ A উত্তর-পূর্ব দিকে 55° কোণে অবস্থিত। 6n মাইল পূর্ব দিকে বিন্দু C-তে পৌঁছানোর পর, এটি পরিমাপ করে যে দ্বীপ A উত্তর-পূর্ব দিকে 29° কোণে অবস্থিত। যদি মাছ ধরার নৌকাটি তার গতিপথ পরিবর্তন না করে পূর্ব দিকে চলতে থাকে, তবে কি প্রবাল প্রাচীরে আঘাত করার কোনো ঝুঁকি আছে? তথ্য: tan 29° ≈ 0.55, tan 35° ≈ 0.70, tan 55° ≈ 1.43, tan 61° ≈ 1.80।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

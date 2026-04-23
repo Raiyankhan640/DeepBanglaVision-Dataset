@@ -1,0 +1,342 @@
+[
+  {
+    "id": "16452983-acfa-44ae-aeb1-ef908e79a303",
+    "images": [
+      "images/35418_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, নদীর পাড় a এবং রাস্তা b একটি নির্দিষ্ট অংশে সমান্তরাল। C এবং D নদীর পাড় a-এর ওপর দুটি গাছ যাদের মধ্যবর্তী দূরত্ব 50m। শাওন রাস্তা b-এর A বিন্দু থেকে D বিন্দুকে উত্তর থেকে 60° পূর্ব দিকে দেখে। লিয়ন রাস্তা b-এর B বিন্দু থেকে C বিন্দুকে উত্তর থেকে 30° পূর্ব দিকে দেখে। শাওন ও লিয়ন পরস্পর থেকে 100m দূরে অবস্থিত। নদীর পাড় a এবং রাস্তা b-এর মধ্যবর্তী দূরত্ব নির্ণয় করো। (ফলাফলটি বর্গমূলের মাধ্যমে প্রকাশ করো)।\nOptions:\nb. (Result should retain the square root)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a88fe949-c6af-476d-b2f5-a34c8861fbc7",
+    "images": [
+      "images/20187_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 'a' বাহুবিশিষ্ট একটি বড় বর্গক্ষেত্র থেকে 'b' বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র কেটে নেওয়া হলো। অবশিষ্ট অংশটিকে পুনর্বিন্যাস করে একটি ট্রাপিজিয়াম তৈরি করা হলো। এই দুটি আকৃতির ছায়াবৃত অংশের ক্ষেত্রফল গণনা করে কোন সূত্রটি যাচাই করা যায়?\nOptions:\na. The remaining part is rearranged into a trapezoid. By calculating the areas of the shaded parts of these two shapes, what formula can be verified?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "80c27c5b-c44f-41ee-81b9-d06a991e285a",
+    "images": [
+      "images/63074_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন কোণকটির আয়তন প্রদত্ত সিলিন্ডারের আয়তনের সমান? (ক) কোণক A (খ) কোণক B (গ) কোণক C",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97dc855d-3a44-4cf4-b3d2-fbf1aacaf0b1",
+    "images": [
+      "images/40562_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি মুরগির খামার তৈরির জন্য একপাশে বাড়ির দেয়াল ব্যবহার করা হয়েছে এবং বাকি তিনপাশে বেড়া দেওয়া হয়েছে। যদি বেড়ার মোট দৈর্ঘ্য 35 মিটার হয়, তবে এই মুরগির খামারের ক্ষেত্রফল কত?\nOptions:\na. Given that the total length of the fence is 35 meters, what is the area of this chicken coop?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00a2252c-42a9-4636-b6d1-499f9eee725f",
+    "images": [
+      "images/29300_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC সর্বসম ত্রিভুজ A'B'C। বাহু AB এবং A'B' অনুরূপ বাহু, AC এবং A'C অনুরূপ বাহু। বিন্দু B, রেখা A'B'-এর উপর অবস্থিত। রেখা AB, রেখা A'C-কে D বিন্দুতে ছেদ করে। যদি ∠A = 25°, ∠BCA' = 45° হয়, তবে ∠A'BD-এর পরিমাপ কত?\n\nOptions:\nক) 30°\nখ) 35°\nগ) 40°\nঘ) 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "31a7a289-846e-4af9-ae99-8230be8592c5",
+    "images": [
+      "images/1834_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, এটি 20 সেমি বাহুবিশিষ্ট একটি বর্গাকার বস্তু (BCDM) থেকে কেটে নেওয়া একটি অংশ। যদি FG = 9 সেমি হয়, তবে কাটা অংশটির পরিসীমা কত? ______ সেমি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74422491-c192-4355-9990-375999197be2",
+    "images": [
+      "images/23515_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা $l_1 \\parallel l_2 \\parallel l_3$, দেওয়া আছে $AG=0.6$ সেমি, $BG=1.2$ সেমি, $CD=1.5$ সেমি, $CH$ এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "57b577d8-7840-4625-acd3-ca260a46e749",
+    "images": [
+      "images/32868_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি ∠1 = 57° হয়, তবে ∠2 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e0b7651-fa6a-4523-9cfe-c140966049df",
+    "images": [
+      "images/4011_0.png"
+    ],
+    "english_question": "<image>\nছায়াঘেরা অংশের ক্ষেত্রফল নির্ণয় করো। (একক: ডেসিমিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7196a970-d4d1-473b-a738-65ae0e08241d",
+    "images": [
+      "images/10499_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তক্ষেত্রের ভেতরে 9টি অভিন্ন ছোট আয়তক্ষেত্র রাখা হয়েছে। প্রতিটি ছোট আয়তক্ষেত্রের দৈর্ঘ্য x সেমি এবং প্রস্থ y সেমি। দেওয়া আছে যে, x + 4y = 22 এবং 3y + 7 = x + 2y। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD) The length of each small rectangle is x cm and the width is y cm. Given that x + 4y = 22 and 3y + 7 = x + 2y, find the area of the shaded part.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "93e4ebe4-32a9-4259-8376-b0f5029fff79",
+    "images": [
+      "images/22473_0.png"
+    ],
+    "english_question": "<image>\nচিত্র ①, ②, ③, ④, …-এ, একটি নির্দিষ্ট প্যাটার্ন অনুসরণ করে গো (Go) গুটি দিয়ে 'গুয়াং' (Guang) অক্ষরের একটি সারি তৈরি করা হয়েছে। এই প্যাটার্ন অনুযায়ী, 2012তম 'গুয়াং' অক্ষরে গুটির সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97e0e679-4151-4989-a6c5-0f2999b0b6c4",
+    "images": [
+      "images/56531_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, ∠B = 90°, BC = 8, AB = 4। D এবং E বিন্দু যথাক্রমে BC এবং AC-এর মধ্যবিন্দু। ত্রিভুজ EDC-কে C বিন্দুর চারদিকে ঘড়ির কাঁটার দিকে ঘোরানো হলো যতক্ষণ না A, D এবং E বিন্দুগুলো সমরেখ হয়। BD-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb146fdf-064e-486b-b1bf-6c57ed870407",
+    "images": [
+      "images/22452_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ভবনের ওপর AB একটি পতাকা দণ্ড রয়েছে। C ও D বিন্দুতে দুইজন ব্যক্তি অবস্থান করছে, যাদের মধ্যবর্তী দূরত্ব 6 মিটার। B ও A বিন্দুর উন্নতি কোণ যথাক্রমে 42° ও 65°। C, D ও E বিন্দুত্রয় একই সরলরেখায় অবস্থিত। যদি DE = 15 মিটার হয়, তবে পতাকা দণ্ড AB-এর উচ্চতা কত মিটার? (ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করো) (তথ্য: sin 42° ≈ 0.67, tan 42° ≈ 0.9, sin 65° ≈ 0.91, tan 65° ≈ 2.1)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0791e672-2184-435f-9ccf-bedd52a5632c",
+    "images": [
+      "images/56227_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC-এ ∠C=90°, ∠A=30° এবং BC=1। ত্রিভুজের অভ্যন্তরে একটি অর্ধবৃত্ত খোদাই করা হয়েছে (কেন্দ্র O, AC প্রান্তের উপর, অর্ধবৃত্ত BC ও AB-কে যথাক্রমে C ও M বিন্দুতে স্পর্শ করে এবং AC-কে N বিন্দুতে ছেদ করে)। ছায়াযুক্ত অঞ্চলকে AC রেখা কেন্দ্র করে ঘুরিয়ে প্রাপ্ত কঠিন বস্তুর আয়তন ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d6781568-1005-41ed-b7da-99a64db549d3",
+    "images": [
+      "images/57783_0.png"
+    ],
+    "english_question": "<image>\nসমান্তরাল প্রান্ত বিশিষ্ট একটি কাগজের ফালি চিত্রের মতো ভাঁজ করা হয়েছে। দেওয়া আছে ∠1=52°, তবে ∠α = _____ °?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f2653b90-b973-4bc9-a862-1a3606b42ab1",
+    "images": [
+      "images/66083_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট একটি বর্গ ব্যবহার করে একটি ট্যাংগ্রাম তৈরি করা হয়েছে যা চিত্রে দেখানো সেতুর আকৃতি ধারণ করে। মূল বর্গের ক্ষেত্রফলের সাপেক্ষে সেতুর ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e6f2972-18a8-4633-aaeb-ff381948968e",
+    "images": [
+      "images/1608_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: বর্গ সেন্টিমিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fc4eccf8-2163-4f4c-a915-40586e93789e",
+    "images": [
+      "images/49072_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ABCD একটি সমকোণী ট্রাপিজিয়াম, যেখানে AB=4, AD=5, DE=3। ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "19dc3868-1ae6-4bb4-8d2a-1411694576d6",
+    "images": [
+      "images/40541_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, ∠B=∠D, AE ⊥ BC, ∠ACD = 90°, এবং AB=6, AC=4, AD=12 হলে, BE= কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b475b9a-9c80-4b01-9fce-313f8c915fc5",
+    "images": [
+      "images/61840_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি আয়তক্ষেত্র, যার দৈর্ঘ্য AD = 7 সেমি এবং প্রস্থ AB = 5 সেমি। চতুর্ভুজ CDEF একটি সামান্তরিক। যদি BH = 3 সেমি হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "be5aeec0-8583-493e-a28b-897285e6f017",
+    "images": [
+      "images/44410_0.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট মুহূর্তে, দুটি কাঠের লাঠির ছায়া একই সমতলে দেখানো হয়েছে। এই সময়ে, তৃতীয় কাঠের লাঠির ছায়ার সঠিক উপস্থাপন কোনটি? ( )\n\nOptions:\nক) ![Option A](tikuimages/2/2007/400/shoutiniao96/0d8164a6a7b027442edf813a5262bc37.png) Option\nখ) ![Option B](tikuimages/2/2007/400/shoutiniao68/71ed58f31e082cf9f4ee5f9d7bfe3863.png) Option\nগ) ![Option C](tikuimages/2/2007/400/shoutiniao19/8643032931f5e57cd62e7ab931b16eda.png) Option\nঘ) ![Option D](tikuimages/2/2007/400/shoutiniao33/5bbcfe1b57ad693782b8cff1eaf495ed.png)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98273664-f3dd-4e8a-9184-8d0bdc3c97e6",
+    "images": [
+      "images/16730_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে মোট কোণের সংখ্যা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe28479e-9a57-47eb-b980-4bc75c2f4b0b",
+    "images": [
+      "images/53024_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি \"ঐক্য ও নিষ্ঠা\" প্রতীক, চিত্রের দুটি বৃত্তের অবস্থানগত সম্পর্ক হল ( ) ক. বাইরে পৃথক খ. বাইরে স্পর্শক গ. ছেদক ঘ. ভিতরে স্পর্শক",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d3c0d947-0246-42a1-b0af-3df4869c5704",
+    "images": [
+      "images/57510_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, যেখানে AD=2AB=2 এবং ∠BAC=90^{\\circ}, ত্রিভুজ ACD-কে AC বরাবর এমনভাবে ভাঁজ করা হলো যেন BD= \\sqrt{5} হয়। চতুস্তলক D-ABC-এর চারটি তলের মধ্যে, লম্ব সম্পর্কের বিষয়ে নিচের কোন উক্তিটি ভুল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "27f9d181-0d45-40a1-ab8d-57555dbb34df",
+    "images": [
+      "images/6389_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে 2 একক বাহুবিশিষ্ট দুই ধরনের বর্গাকার কার্ড দেখানো হয়েছে। কার্ডের সেক্টরগুলোর ব্যাসার্ধও 2। দ্বিতীয় চিত্রে A এবং B ধরনের কার্ড পর্যায়ক্রমে সাজিয়ে একটি প্যাটার্ন তৈরি করা হয়েছে। যদি এই প্যাটার্ন তৈরিতে মোট 21টি কার্ড ব্যবহার করা হয়, তবে প্যাটার্নের ছায়াযুক্ত অংশের ক্ষেত্রফল কত (ফলাফল π এর মাধ্যমে প্রকাশ করো)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0d10101-4f75-4e16-b5d3-23d6061cfbf1",
+    "images": [
+      "images/3983_0.png"
+    ],
+    "english_question": "<image>\nO বন্দর থেকে ঠিক 120 km পূর্বে B বন্দর অবস্থিত। C দ্বীপটি এমনভাবে অবস্থিত যে ∠CBO = 60° এবং ∠COB = 30°। একটি মাছ ধরা নৌবহর O বন্দর থেকে দক্ষিণ-পূর্ব 30° দিক বরাবর 20 km/h বেগে যাত্রা শুরু করে। একটি আইন প্রয়োগকারী জাহাজ B বন্দর থেকে 60 km/h বেগে দক্ষিণ-পশ্চিম 30° দিক বরাবর C দ্বীপের দিকে রওনা দেয়, দ্বীপে পৌঁছাতে জাহাজটির 1 ঘণ্টা সময় লাগে এবং সেখানে সরবরাহ নেওয়ার জন্য আরও 1 ঘণ্টা ব্যয় করে। C দ্বীপ থেকে রওনা হওয়ার পর, নৌবহরের সাথে মিলিত হতে আইন প্রয়োগকারী জাহাজটির ন্যূনতম কত সময় লাগবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d179719b-7e37-482b-a3bf-8191a218b79d",
+    "images": [
+      "images/34042_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত স্পিনার দুটি ব্যবহার করে বেগুনি মিলকরণ খেলা (লাল এবং নীল মিলে বেগুনি হয়) খেলা হচ্ছে। প্রতিটি স্পিনার একবার করে ঘুরালে নির্দেশক তীর দ্বারা নির্দেশিত ক্ষেত্র দুটি বেগুনি রঙ হওয়ার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95b0e736-bac7-4026-830a-4049fd63d672",
+    "images": [
+      "images/51285_0.png"
+    ],
+    "english_question": "<image>\nএকটি পার্কে একটি বর্গাকার খালি জায়গা আছে। এর একদিকের 1 মিটার এবং অন্যদিকের 2 মিটার কমিয়ে ফুলের বাগান করার সিদ্ধান্ত নেওয়া হলো। অবশিষ্ট খালি জায়গাটির ক্ষেত্রফল 18 বর্গমিটার। আদি বর্গক্ষেত্রের বাহুর দৈর্ঘ্য নির্ণয় করো।\nOptions:\na. Part of it was designated for planting flowers, reducing one side by 1 meter and the other by 2 meters. The remaining vacant area is 18 square meters. Find the side length of the original square.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69efa1a9-68af-47e5-beba-0b6722a466c2",
+    "images": [
+      "images/58643_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত: ছায়াযুক্ত ত্রিভুজ A থেকে B-তে রূপান্তরটি হলো\nক. ঘূর্ণন (Rotation)\nখ. প্রতিস্থাপন (Translation)\nগ. অনিশ্চিত",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b07aefa2-4250-405d-b824-648248ca9b84",
+    "images": [
+      "images/36607_0.png"
+    ],
+    "english_question": "<image>\nসমীকরণটিকে সঠিক করতে একটি দিয়াশলাই কাঠি সরান।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b107b22c-957d-4c6a-a6d6-37e84e138370",
+    "images": [
+      "images/57944_0.png"
+    ],
+    "english_question": "<image>\nহাইপারবোলা $y=\\frac{k}{x}$ বিন্দু $P_1$ এবং $P_2$ দিয়ে অতিক্রম করে। $\\triangle AOP_1$ একটি সমদ্বিবাহু সমকোণী ত্রিভুজ এবং $AP_2 \\perp x$-অক্ষ, যেখানে $AP_2 = 1$। $k$-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "25f67b26-bc16-4339-b70d-b38596d92991",
+    "images": [
+      "images/50681_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যখন দুটি সাধারণ ত্রিভুজাকার স্কেল দেখানো অনুযায়ী যুক্ত করা হয়, তখন ∠ABF এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4e0b451e-c28e-4670-b07b-02ed19b675ad",
+    "images": [
+      "images/triangle_ext_4e0b451e-c28e-4670-b07b-02ed19b675ad.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D এবং E বিন্দু যথাক্রমে AB এবং AC বাহুর মধ্যবিন্দু। △ADE-কে DE রেখা বরাবর ভাঁজ করা হলো, যাতে A বিন্দু BC বাহুর F বিন্দুতে পড়ে। যদি ∠B=50° হয়, তবে ∠BDF-এর পরিমাপ কত?\nবিকল্প:\nক. 50°\nখ. 70°\nগ. 75°\nঘ. 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6386a9e4-c4f7-4a73-a41e-946f32c1d13c",
+    "images": [
+      "images/59753_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজকে চিত্রে প্রদর্শিত উপায়ে ভাঁজ করা হলো। যদি ∠1 = 64° হয়, তবে ∠2-এর পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2d0d4fc0-83fd-4a2a-a75e-8ff50c3f583c",
+    "images": [
+      "images/7996_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\(DH \\parallel EG \\parallel BC\\) এবং \\(DC \\parallel EF\\)। চিত্রে কতগুলো কোণ \\(∠1\\)-এর সমান?\n\nOptions:\nক) \\(2\\)\nখ) \\(4\\)\nগ) \\(5\\)\nঘ) \\(6\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f920fb55-83aa-407e-909d-a974f6fe0638",
+    "images": [
+      "images/45780_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে নীচের কোন শর্তটি \\(AD \\parallel BC\\) নিশ্চিত করতে পারে না?\nক. \\(∠BAD + ∠ABC = 180^{\\circ}\\)\nখ. \\(∠1 = ∠2\\)\nগ. \\(∠3 = ∠4\\)\nঘ. \\(∠BAD = ∠BCD\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "42cd23d5-dade-49d0-a55f-be2536225d42",
+    "images": [
+      "images/262_0.png"
+    ],
+    "english_question": "<image>\nএকটি সুষম ত্রিভুজাকার প্রিজমের সকল ধারের দৈর্ঘ্য সমান। চিত্রটিতে এর পার্শ্ব (বাম) দৃশ্য দেখানো হয়েছে। এই ত্রিভুজাকার প্রিজমটির সম্মুখ (মূল) দৃশ্যের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7dcd7c1-286f-4fba-84e4-636e25802731",
+    "images": [
+      "images/47772_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু E, AD এর বর্ধিতাংশের ওপর অবস্থিত। নিচের চারটি শর্তের মধ্যে: ①∠1=∠2; ②∠3=∠4; ③∠A=∠CDE; ④∠C+∠ABC=180°। এর মধ্যে কোনটি দিয়ে AB // CD নিশ্চিত করা যায়? (শুধুমাত্র সঠিক ক্রমিক নম্বরটি লিখুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0c7be619-a2af-4207-805b-6713372cc7c3",
+    "images": [
+      "images/64451_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চলমান কোট র‍্যাকটি তিনটি রম্বস দিয়ে গঠিত। চতুর্ভুজের অস্থিতিশীলতা ব্যবহার করে রম্বসের অভ্যন্তরীণ কোণ α পরিবর্তন করে র‍্যাকটিকে প্রসারিত বা সংকুচিত করা যায়। যখন রম্বসের বাহুর দৈর্ঘ্য 18 সেমি এবং α = 120° হয়, তখন বিন্দু A এবং B-এর মধ্যবর্তী দূরত্ব কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0809fae7-7683-47cf-822e-826df65740d5",
+    "images": [
+      "images/69843_0.png"
+    ],
+    "english_question": "<image>\nABCD সামান্তরিকের ক্ষেত্রে, যেখানে AD=2AB, AH⊥CD (H বিন্দুতে) এবং M হলো AD এর মধ্যবিন্দু। MN∥AB হলে, NH যোগ করি। যদি ∠D=68^{\\circ} হয়, তবে ∠CHN= কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "859caacd-507e-4152-8c6c-697e62096518",
+    "images": [
+      "images/66953_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি আয়তাকার কাগজের ফালি ABCD-কে AF বরাবর ভাঁজ করা হলো, ফলে B বিন্দুটি E বিন্দুতে পতিত হয়। দেওয়া আছে যে, ∠ADB = 24^{\\circ} এবং AE || BD। ∠AFE-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0b45f7e-97c5-44a9-9751-eb524e815c83",
+    "images": [
+      "images/51688_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ∠1 এবং ∠2 কোণ দুটি...",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9efc4df3-625c-4ef1-a166-f4a596df6716",
+    "images": [
+      "images/71329_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠α কোণটির অপর একটি সঠিক প্রকাশ হলো: ( ) \nক. ∠1 \nখ. ∠C \nগ. ∠ACB \nঘ. ∠ABC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "23d02890-ab55-4bfd-b60f-c08b4b725a3d",
+    "images": [
+      "images/36889_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2009, লেকিং সিটি স্কুল-লেভেল এনরোলমেন্ট) অনুযায়ী, যদি AB, DC-এর সমান্তরাল হয় এবং M ও N যথাক্রমে AD ও BC-এর মধ্যবিন্দু হয়, এবং চতুর্ভুজ ABCD-এর ক্ষেত্রফল 36 বর্গ সেমি হয়, তবে S△QPO - S△CDO = কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43e30bd8-01c7-4ee9-93d2-feba1f72fa19",
+    "images": [
+      "images/73005_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে নীচের কোন যুক্তিটি ভুল?\nক. যেহেতু ∠1 = ∠2, তাই c ∥ d\nখ. যেহেতু ∠3 = ∠4, তাই c ∥ d\nগ. যেহেতু ∠1 = ∠3, তাই a ∥ b\nঘ. যেহেতু ∠1 = ∠4, তাই a ∥ b",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd9dfbfe-4fa3-4d98-803f-8b08a6ee5109",
+    "images": [
+      "images/62814_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-কে AC বাহুর মধ্যবিন্দু O-এর সাপেক্ষে 180° ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ CDA পাওয়া গেল। চতুর্ভুজ ABCD-কে একটি আয়তক্ষেত্র তৈরি করতে কী শর্ত যোগ করতে হবে?\nOptions:\nA) Add a condition to make quadrilateral ABCD a rectangle.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ee2b238-40f9-4915-9802-ce9f16beb8a1",
+    "images": [
+      "images/23848_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 2-এ প্রদর্শিত একটি সুষম ত্রিভুজ (বাহুর দৈর্ঘ্য 4) এর প্রতিটি বাহুকে চারটি সমান ভাগে ভাগ করে ছোট ছোট সুষম ত্রিভুজ তৈরি করা হয়েছে। এই ত্রিভুজগুলোর শীর্ষবিন্দু সংযোগ করে একটি সুষম ষড়ভুজ ABCDEF গঠন করা হয়েছে। সুষম ষড়ভুজ ABCDEF-এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "84c54065-c54e-4b2b-b98a-055ff3121e28",
+    "images": [
+      "images/36721_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "310d106f-159a-47ee-8251-a18aeb3aa61a",
+    "images": [
+      "images/62298_0.png"
+    ],
+    "english_question": "<image>\nAC হলো সামান্তরিক ABCD এর কর্ণ, তবে চিত্রে সদৃশ ত্রিভুজের সংখ্যা হলো ( ) \nক. 2 জোড়া \nখ. 3 জোড়া \nগ. 4 জোড়া \nঘ. 5 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7720eb2-0109-41e0-be96-9a423e3be581",
+    "images": [
+      "images/35401_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে যে ∠1=∠B এবং ∠2=∠C। নিচের কোন সিদ্ধান্তটি সঠিক নয়?\n\nOptions (copied from English):\nC. \\(∠2+∠B=180^{\\circ}\\)\n\\(AB/\\!/CD\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "01a423b2-7e63-45df-b981-52d814701e76",
+    "images": [
+      "images/53719_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত প্যাটার্নগুলোর মধ্যে কতটি কেন্দ্রিক প্রতিসাম্য (centrally symmetric) বিশিষ্ট? ( ) \nক. (1) \nখ. (2) \nগ. (3) \nঘ. (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bbdfce73-f83c-4b91-a0df-48ded2a8c627",
+    "images": [
+      "images/1481_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি AB || CD || EF হয়, তবে নিচের কোন সিদ্ধান্তটি সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be9a07f6-5c81-4ff1-9924-80083cc89af9",
+    "images": [
+      "images/4803_0.png"
+    ],
+    "english_question": "<image>\nবিন্দু O রেখা AB-এর উপর অবস্থিত, বিন্দু A₁, A₂, A₃, ... রশ্মি OA-এর উপর অবস্থিত এবং বিন্দু B₁, B₂, B₃, ... রশ্মি OB-এর উপর অবস্থিত। চিত্রে প্রতিটি কঠিন এবং ড্যাশযুক্ত রেখাংশের দৈর্ঘ্য এক একক। একটি চলমান বিন্দু M বিন্দু O থেকে যাত্রা শুরু করে এবং চিত্রে তীরচিহ্ন দ্বারা নির্দেশিত দিকে প্রতি সেকেন্ডে 1 একক ধ্রুব গতিতে কঠিন রেখাংশ এবং O-কে কেন্দ্র করে একটি অর্ধবৃত্ত বরাবর চলে। এই নিয়ম অনুযায়ী, বিন্দু M-এর বিন্দু A₁₀₁-এ পৌঁছাতে কত সেকেন্ড সময় লাগবে?\nOptions:\nB) Each solid and dashed line segment in the figure has a length of one unit. A moving point M starts from point O and moves along the solid line segments and a semicircle centered at O at a constant speed of 1 unit length per second in the direction indicated by the arrows in the figure. According to this rule, the time required for point M to reach point A<sub>101</sub> is seconds.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b53f745-8e17-4ffb-9c4c-0ac1ce25b48b",
+    "images": [
+      "images/73983_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি সুষম পঞ্চভুজের ওপর সমান্তরাল সূর্যালোক পড়ছে। ∠1-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1892ad7b-b265-4f98-b4d6-6f31f2ca0487",
+    "images": [
+      "images/36111_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD কে ছয়টি বর্গক্ষেত্রে বিভক্ত করা হয়েছে, যেখানে ক্ষুদ্রতম বর্গক্ষেত্রের ক্ষেত্রফল 1। আয়তক্ষেত্র ABCD এর ক্ষেত্রফল কত?\n\nOptions:\nক) 152\nখ) 143\nগ) 132\nঘ) 108",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e775ad4-5eed-4e67-841e-e0ff62d2a0a6",
+    "images": [
+      "images/11956_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি পাহাড়ের ঢালে গাছ লাগানো হয়েছে। ঢালের কোণ α = 20° এবং দুটি গাছের মধ্যবর্তী ঢালু দূরত্ব AB = 6 মিটার। অনুভূমিক দূরত্ব AC নির্ণয় করো এবং এটি 5.3 থেকে 5.7 মিটারের সীমার মধ্যে আছে কি না তা যাচাই করো। (তথ্য: sin 20° ≈ 0.34, cos 20° ≈ 0.94, tan 20° ≈ 0.36)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c213de74-cc3f-43c0-8242-53b7a16d59d0",
+    "images": [
+      "images/1317_0.png"
+    ],
+    "english_question": "<image>\nএকটি ফ্রাস্টামের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে (একক: সেমি)। এই ফ্রাস্টামের আয়তন কত?\n\nOptions:\nক) \\(21\\pi c{{m}^{3}}\\)\nখ) \\(\\dfrac{7\\sqrt{10}}{3}c{{m}^{3}}\\)\nগ) \\(7\\pi c{{m}^{3}}\\)\nঘ) \\(9\\sqrt{10}\\) \\(c{{m}^{3}}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d11ce4c3-4bc0-47fb-80fe-12bddd9991d9",
+    "images": [
+      "images/7497_0.png"
+    ],
+    "english_question": "<image>\nএকটি মাধ্যমিক বিদ্যালয়ের মাঠে একটি পতাকা স্ট্যান্ড আছে, যা চিত্র 1-এ দেখানো হয়েছে। সমকোণী ত্রিভুজ সমাধান করার পর, গণিত ক্লাব পতাকা স্ট্যান্ডের উচ্চতা পরিমাপ করল। চিত্র 2-এ দেখানো হয়েছে, একটি নির্দিষ্ট মুহূর্তে পতাকা স্ট্যান্ড AB-এর ছায়ার একটি অংশ প্ল্যাটফর্মে এবং অন্য অংশ ঢালু জায়গায় পড়েছে। প্ল্যাটফর্মের ওপর ছায়ার দৈর্ঘ্য BC = 4 মিটার এবং ঢালু জায়গার ওপর ছায়ার দৈর্ঘ্য CD = 3 মিটার। AB, BC-এর ওপর লম্ব। একই সময়ে, অনুভূমিক তলের সাথে আলোর কোণ 72°। ঢালু জায়গায় 1 মিটার উচ্চতার একটি মার্কার PQ-এর ছায়ার দৈর্ঘ্য QR = 2 মিটার। পতাকা স্ট্যান্ডের উচ্চতা নির্ণয় করো (ফলাফল দশমিকের পর 1 ঘর পর্যন্ত)। (তথ্য: sin72°≈0.95, cos72°≈0.31, tan72°≈3.08)\nOptions:\nC) At the same time, the angle of the light with the horizontal plane is 72°. The length of the shadow QR of a 1-meter vertical marker PQ on the slope is 2 meters. Find the height of the flagpole (result accurate to 0.1 meters). (Reference data: sin72°≈0.95, cos72°≈0.31, tan72°≈3.08)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "66cbd736-045f-4946-853e-37db53beae2e",
+    "images": [
+      "images/65929_0.png"
+    ],
+    "english_question": "<image>\nলক্ষ্যভেদ প্রশিক্ষণের সময়, লক্ষ্যবস্তুটিতে (চিত্রে প্রদর্শিত) 5টি সমকেন্দ্রিক বৃত্ত রয়েছে। কোন অংশে আঘাত করার সম্ভাবনা সবচেয়ে কম?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98ebf113-c231-4b2c-bc5d-5dd87a06448b",
+    "images": [
+      "images/38905_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, শাও মিংয়ের পরিবার প্রাচীন শহর C-তে গাড়ি চালিয়ে গেল। A বিন্দুতে পৌঁছানোর পর, নেভিগেশন নির্দেশ দিল যে গাড়িটিকে পশ্চিমের 60° উত্তরে 12 কিমি পথ অতিক্রম করে B বিন্দুতে যেতে হবে এবং তারপর পূর্বের 45° উত্তরে একটি নির্দিষ্ট দূরত্ব অতিক্রম করে প্রাচীন শহর C-তে পৌঁছাতে হবে। শাও মিং লক্ষ্য করল যে প্রাচীন শহর C, A বিন্দুর ঠিক উত্তরে অবস্থিত। B এবং C বিন্দুর মধ্যবর্তী দূরত্ব নির্ণয় করো। (ফলাফল বর্গমূল আকারে রাখো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

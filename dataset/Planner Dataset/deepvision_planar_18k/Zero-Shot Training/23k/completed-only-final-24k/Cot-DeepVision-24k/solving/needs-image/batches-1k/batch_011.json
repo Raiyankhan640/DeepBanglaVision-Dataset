@@ -1,0 +1,302 @@
+[
+  {
+    "id": "863f0142-8751-43d0-bfd9-a991a6929a69",
+    "images": [
+      "images/44950_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সরল কোণের চেয়ে ছোট কোণগুলোর সংখ্যা হলো ( )\n\nOptions:\nক) 5\nখ) 6\nগ) 7\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b048d435-b271-4947-b7db-e4382fdd2a82",
+    "images": [
+      "images/36982_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য (সামনের দৃশ্য, পাশের দৃশ্য এবং উপরের দৃশ্য) দুটি সমদ্বিবাহু সমকোণী ত্রিভুজ এবং 1 একক বাহুবিশিষ্ট একটি বর্গক্ষেত্র নিয়ে গঠিত। বস্তুটির পরিবৃত্তের পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) π\nখ) 2π\nগ) 3π\nঘ) 4π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d6816547-5659-4a07-aa20-e6d086c11592",
+    "images": [
+      "images/990_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি ট্রাপিজিয়াম। ত্রিভুজ ADE-এর ক্ষেত্রফল 1.8, ত্রিভুজ ABF-এর ক্ষেত্রফল 9 এবং ত্রিভুজ BCF-এর ক্ষেত্রফল 27। ছায়াবৃত অংশের ক্ষেত্রফল কত?\nOptions:\nd. The area of triangle ADE is 1.8, the area of triangle ABF is 9, and the area of triangle BCF is 27. What is the area of the shaded part?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "883409f1-d360-460d-baad-aebc11364a13",
+    "images": [
+      "images/44950_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সরলকোণের চেয়ে ছোট কোণগুলোর সংখ্যা কত? ( ) \nক. 5 \nখ. 6 \nগ. 7 \nঘ. 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe2ea861-1d7c-479d-ae6b-8ee6701041b2",
+    "images": [
+      "images/32847_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি স্থানিক জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুর পরিবৃত্তের আয়তনকে V₁ এবং শীর্ষ দৃশ্যটিকে ভূমির ধারের রেখার সাপেক্ষে ঘূর্ণনের ফলে গঠিত জ্যামিতিক বস্তুর আয়তনকে V₂ দ্বারা চিহ্নিত করা হলে, V₁: V₂ = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74f5ec8b-6efe-4c2a-822f-215883475bc3",
+    "images": [
+      "images/71341_0.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ত্রিভুজ ABC-এ, যেখানে AB = AC, BE এবং CD হলো ভূমি সংলগ্ন কোণদ্বয়ের সমদ্বিখণ্ডক এবং DE, BC-এর সমান্তরাল। চিত্রটিতে মোট কতটি সমদ্বিবাহু ত্রিভুজ আছে?\n\nOptions:\nক) 4\nখ) 5\nগ) 6\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "efcfc400-c8c7-42b9-9e47-40c809c9a28d",
+    "images": [
+      "images/38817_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখা দুটি সমান্তরাল। EF রেখাটি AB এবং CD রেখাকে যথাক্রমে M এবং N বিন্দুতে ছেদ করে। N বিন্দুগামী একটি রেখা GH, AB রেখাকে P বিন্দুতে ছেদ করে। নিচের কোন সিদ্ধান্তটি ভুল? ( )\n\nOptions (copied from English):\nA. ∠EMB=∠END\n∠BMN=∠MNC\n∠CNH=∠BPG\n∠DNG=∠AME",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c1711d2-2e6d-4b2b-8b8c-bba6bd1d5644",
+    "images": [
+      "images/60547_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, যদি ∠1 = ∠2 হয়, তবে নীচের কোনটি নির্ধারণ করতে পারে যে AB ∥ DC?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "47a1d3c3-1e2f-4103-9912-c0d0e5ecad7d",
+    "images": [
+      "images/10843_0.png"
+    ],
+    "english_question": "<image>\nএকটি ল্যান্ডস্কেপ পেইন্টিংয়ের দৈর্ঘ্য 50 সেমি এবং প্রস্থ 30 সেমি। এটিকে একটি আয়তাকার ঝুলন্ত ছবিতে রূপান্তর করতে চারপাশে একটি সোনালী কাগজের বর্ডার দেওয়া হলো। যদি পরিকল্পিত সম্পূর্ণ জমির ক্ষেত্রফল 1800 বর্গ সেমি হয় এবং সোনালী কাগজের বর্ডারের প্রস্থ x সেমি হয়, তবে x কোন সমীকরণটি সিদ্ধ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "36a93ee6-f772-4d39-a061-8319875be588",
+    "images": [
+      "images/70897_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামঞ্জস্যযোগ্য কোট র‍্যাকটি তিনটি রম্বস দ্বারা গঠিত। রম্বসের অভ্যন্তরীণ কোণ α পরিবর্তন করে কোট র‍্যাকটিকে প্রসারিত বা সংকুচিত করা যায়। যখন রম্বসের বাহুর দৈর্ঘ্য 16 সেমি এবং ∠A = 120°, তখন A এবং B বিন্দুর মধ্যবর্তী দূরত্ব কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4159b313-5fcd-437f-b996-09dd0cf7bf03",
+    "images": [
+      "images/51960_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি চতুস্তলকের তিনটি দৃশ্য দেওয়া আছে, চতুস্তলকের চারটি তলের মধ্যে সমকোণী ত্রিভুজগুলোর ক্ষেত্রফলের সমষ্টি কত?\nক. 2\nখ. 4\nগ. 2+ √5\nঘ. 4+2 √5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "de6416c2-344b-4c99-ae68-def9bb426699",
+    "images": [
+      "images/75332_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ত্রিভুজটির ক্ষেত্রফল 12 বর্গ সেন্টিমিটার। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43049e37-dcfa-4a3a-8625-b64f5838ceb7",
+    "images": [
+      "images/71083_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে: আমার মৎস্য প্রশাসন জাহাজ (310) দক্ষিণ চীন সাগরে ঠিক পূর্ব দিকে ধ্রুবক গতিতে চলছে। বিন্দু A থেকে আমি আমার মাছ ধরার নৌকা C-কে উত্তর-পূর্ব অভিমুখে 60 ডিগ্রী কোণে একটি ঐতিহ্যবাহী মাছ ধরার জায়গায় কাজ করতে দেখেছি। যদি মৎস্য প্রশাসন জাহাজটি (310) ঘণ্টায় 30 নটিক্যাল মাইল বেগে একই পথে চলতে থাকে এবং 2 ঘণ্টা পর B বিন্দুতে পৌঁছায়, তবে সেখান থেকে আমি মাছ ধরার নৌকা C-কে উত্তর-পূর্ব অভিমুখে দেখি। প্রশ্ন: জাহাজটিকে মূল অভিমুখে আর কতক্ষণ চলতে হবে যেন সেটি মাছ ধরার নৌকা C-এর সবচেয়ে কাছে থাকে? (মাছ ধরার সময় নৌকা C-এর স্থানচ্যুতি নগন্য এবং ফলাফল আনুমানিক নয়।)\nOptions:\na. At point A, I observed my fishing boat C operating in a traditional fishing ground in the direction of 60 degrees north of east. If the fishing administration ship (310) continues on the same course at a speed of 30 nautical miles per hour and reaches point B after 2 hours, I observed my fishing boat C in the northeast direction. Question: How long does the fishing administration ship (310) need to sail in the original direction to be closest to fishing boat C? (The distance moved by fishing boat C while fishing is negligible, and the result is not approximated.)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cda5d7cd-26f6-419e-b1e3-029bc51cd0bb",
+    "images": [
+      "images/6395_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপায়ে, একটি বড় আয়তক্ষেত্রকে 3টি বর্গক্ষেত্র এবং 2টি আয়তক্ষেত্রে বিভক্ত করা হয়েছে এবং এটি একটি কেন্দ্রপ্রতিসম চিত্র হিসেবে বজায় আছে। যদি বড় আয়তক্ষেত্রটির মূল পরিসীমা 120 হয়, তবে কোন চিত্রগুলোর পরিসীমা পরিমাপ ছাড়াই জানা সম্ভব? ( )\nক. ①②\nখ. ②③\nগ. ①③\nঘ. ①②③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97b9fd5c-f513-44c6-8d35-cfb94693e31c",
+    "images": [
+      "images/62991_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\(a\\) এবং \\(b\\) রেখাদ্বয়কে \\(c\\) রেখা ছেদ করেছে। নিচের কোন উক্তিটি সঠিক?\n\nOptions:\nক) When \\(∠1=∠2\\), it must be that \\(a \\parallel b\\)\nখ) When \\(a \\parallel b\\), it must be that \\(∠1=∠2\\)\nগ) When \\(a \\parallel b\\), it must be that \\(∠1+∠2=90^{\\circ}\\)\nঘ) When \\(∠1+∠2=180^{\\circ}\\), it must be that \\(a \\parallel b\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "13b346ad-435a-4859-816b-3b8ad84ad45c",
+    "images": [
+      "images/49173_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রটির পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f6cbbff-2d32-418c-be8b-b457b59035f7",
+    "images": [
+      "images/49985_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, A বিন্দু থেকে C বিন্দুতে যাওয়ার মোট কতগুলো ভিন্ন পথ আছে (প্রতিটি বিন্দু একবারই ব্যবহার করা যাবে)?\nOptions:\nd).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2b57276d-4487-4769-95c1-24a6ecf99cea",
+    "images": [
+      "images/63327_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি আয়তাকার কাগজকে তিনবার ভাঁজ করা হলে, উৎপন্ন ভাঁজগুলোর মধ্যে সম্পর্ক কী? ( )\n\nOptions:\nক) Parallel\nখ) Vertical\nগ) Parallel or Vertical\nঘ) Cannot be determined",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af014450-c593-400f-bc53-82a74095fe57",
+    "images": [
+      "images/54681_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c61cadfc-6757-4da8-b24c-1055b7003c76",
+    "images": [
+      "images/3854_0.png"
+    ],
+    "english_question": "<image>\nএকটি খেলনা বাসের বিনিময়ে কয়টি খেলনা সাইকেল পাওয়া যাবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

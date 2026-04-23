@@ -1,0 +1,302 @@
+[
+  {
+    "id": "5c929269-7e7c-4805-bd3f-d79777e2b295",
+    "images": [
+      "images/21337_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে যে AD সমান্তরাল BC, AD সমান BC এবং AC ও BD রেখাদ্বয় O বিন্দুতে ছেদ করে। EF রেখাটি O বিন্দুগামী এবং AD ও BC রেখাকে যথাক্রমে E ও F বিন্দুতে ছেদ করে। চিত্রে সর্বসম ত্রিভুজের কত জোড়া বিদ্যমান?\n\nOptions:\nক) 4 pairs\nখ) 3 pairs\nগ) 2 pairs\nঘ) 1 pair",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "abe11363-315a-4ee0-a3f0-1dcff9fd921c",
+    "images": [
+      "images/5963_0.png"
+    ],
+    "english_question": "<image>\nএই ত্রিভুজগুলোর কতটি মোট ত্রিভুজের 3/5 অংশ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33507050-23f4-424b-b5f8-1d03617a5e0a",
+    "images": [
+      "images/triangle_ext_33507050-23f4-424b-b5f8-1d03617a5e0a.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমনটি দেখানো হয়েছে, ত্রিভুজ ABC-এর উচ্চতা AD এবং BE বিন্দু H-এ ছেদ করে। যদি BH = AC হয়, তবে নিচের সিদ্ধান্তগুলো কার্যকর হয়:\n① AE = CE; ② ∠ABC = 45°; ③ DH = DC; ④ ∠CED = 45°\nনিচের কোনটি সঠিক?\nক. ①②\nখ. ①②③\nগ. ②③④\nঘ. ①②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1a86f0cd-e12a-49fd-9cec-339dfa6a319e",
+    "images": [
+      "images/67835_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি ঘনকের উন্মুক্ত রূপ প্রদর্শন করছে। এই ঘনকের ক্ষেত্রে: ① BM, ED-এর সমান্তরাল; ② CN এবং BE হলো বিপ্রতিপ রেখা (skew lines); ③ CN এবং BM-এর মধ্যবর্তী কোণ 60°; ④ DM, BN-এর ওপর লম্ব। উপরের চারটি বিবৃতির মধ্যে, ভুল বিবৃতিগুলো হলো ( )\n\nOptions:\nক) ①②③\nখ) ①②\nগ) ③④\nঘ) ①②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "44546571-03f9-448d-9283-ce33faf6804c",
+    "images": [
+      "images/21399_0.png"
+    ],
+    "english_question": "<image>\nএকজন ব্যক্তি সকাল 7:00 টায় A বিন্দু থেকে v1 কিমি/ঘণ্টা সমবেগে (যেখানে 30 ≤ v1 ≤ 100) গাড়ি চালিয়ে B বিন্দুতে পৌঁছান, যা A থেকে 300 কিমি দূরে। B-তে না থেমে, তিনি একটি মোটরসাইকেলে v2 কিমি/ঘণ্টা সমবেগে (যেখানে 4 ≤ v2 ≤ 20) B থেকে C বিন্দুতে যান, যা B থেকে 50 কিমি দূরে। পরিকল্পনা হলো 16:00 থেকে 21:00 এর মধ্যে C বিন্দুতে পৌঁছানো। গাড়ি এবং মোটরসাইকেলের অতিক্রান্ত সময় যথাক্রমে x এবং y ঘণ্টা হলে, xOy স্থানাঙ্ক ব্যবস্থায় x এবং y-এর সীমার সঠিক চিত্র কোনটি?\n\nOptions (copied from English):\nক. After no stop at B, the person then rides a motorcycle at a constant speed of $v_2$ km/h (where $4 \\leq v_2 \\leq 20$) from B to point C, which is 50 km away from খ. The plan is to arrive at point C between 16:00 and 21:00. Let the time taken by car and motorcycle be $x$ and $y$ hours respectively. The correct representation of the range of $x$ and $y$ in the $xO y$ coordinate system, satisfying the above conditions, is ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8200b625-34d7-4c67-8ed1-e797243370a1",
+    "images": [
+      "images/2330_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, নিচের তিনটি শর্ত থেকে দুটি শর্ত নির্বাচন করো: ① ∠1 = ∠2 ② ∠C = ∠D ③ ∠A = ∠F। একটিকে সিদ্ধান্ত হিসেবে ধরে সঠিক প্রতিজ্ঞার সংখ্যা কতটি? ( ) ক. 0 খ. 1 গ. 2 ঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d3b8c26d-740a-4d74-a402-f47274e0ee80",
+    "images": [
+      "images/53993_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঘনক ABCD-A₁B₁C₁D₁ এর A₁B₁ এবং A₁D₁ বাহুর মধ্যবিন্দু যথাক্রমে M এবং N। A, M, N এবং D, N, C₁ বিন্দুগামী দুটি তলের মাধ্যমে ঘনকটির দুটি কোণা কেটে ফেলার পর, প্রাপ্ত জ্যামিতিক বস্তুটির সম্মুখ দৃশ্য (front view), পার্শ্ব দৃশ্য (side view), এবং উপর থেকে দৃশ্য (top view) চিত্র 2-এ দেখানো হয়েছে। সঠিক বিকল্পটি নির্বাচন করুন।\n\nOptions:\nক) ①、②、③\nখ) ②、③、④\nগ) ①、③、④\nঘ) ②、④、③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0700a24a-23df-4926-8cb8-5dd01a0cd59b",
+    "images": [
+      "images/43098_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2016 নানচাং স্কুল লেভেল সেকেন্ড মক এক্সাম), y² = 2px (যেখানে p > 0) পরাবৃত্তের উপকেন্দ্র F দিয়ে গমনকারী একটি রেখা l, পরাবৃত্তটিকে A ও B বিন্দুতে ছেদ করে এবং এর নিয়ামক রেখাকে C বিন্দুতে ছেদ করে। যদি |BC| = 3|BF| এবং |AF| = 6 হয়, তবে এই পরাবৃত্তের সমীকরণটি হলো:\nOptions:\nC) If $|BC| = 3|BF|$ and $|AF| = 6$, then the equation of this parabola is:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3cb605ac-2102-4495-b7a5-63a42ba9c7c4",
+    "images": [
+      "images/49340_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠A=30° এবং BC=1, অতিভুজ AB রেখা L-এর সাথে মিলে যায়। ত্রিভুজ ABC-কে L রেখা বরাবর না পিছলে উল্টে A₂B₂C₁ অবস্থানে আনা হলে, বিন্দু A যে পথ অতিক্রম করে তার দৈর্ঘ্য কত? ( )\n\nOptions:\nক) $2\\sqrt{3}{+}6$\nখ) $({\\frac{4}{3}}+{\\frac{\\sqrt{3}}{2}})$ π\nগ) $(\\frac{3+\\sqrt{3}}{2})$ π\nঘ) 无法计算",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e2c83524-996e-49f1-bf80-7a9bae75c552",
+    "images": [
+      "images/59762_0.png"
+    ],
+    "english_question": "<image>\nদুটি অভিন্ন 30° কোণবিশিষ্ট সমকোণী ত্রিভুজাকার বোর্ডকে এমনভাবে রাখা হয়েছে যাতে ∠DAB = 30° হয়। চিত্র অনুযায়ী A, B, C, D, E, F, G, O বিন্দুগুলো বিবেচনা করি। নিচের কোন সিদ্ধান্তগুলো সঠিক তা নির্ধারণ করো: ① AF ⊥ BC ② △ADG ≌ △ACF ③ O বিন্দু BC-এর মধ্যবিন্দু ④ AG : DE = √3 : 4।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "39dce530-700e-48fb-861b-dca14e9fb116",
+    "images": [
+      "images/38780_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন শর্তটি দ্বারা নিশ্চিত হওয়া যায় যে রেখা a, রেখা b-এর সমান্তরাল? ( ) ক. ∠3=∠2 খ. ∠1=∠3 গ. ∠4+∠5=180° ঘ. ∠2=∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "859744a6-f182-44f7-b451-29412ddad663",
+    "images": [
+      "images/25073_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে AD সমান্তরাল BC, চিত্রের অন্য একটি কোণের মাধ্যমে ∠FAD এর মান কত হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06972deb-708b-42f0-877b-aa5b0e44f596",
+    "images": [
+      "images/38594_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সেতুটির পানির উপরিভাগের প্রস্থ AB = 12 মি এবং সেতুর খিলানের সর্বোচ্চ উচ্চতা পানির উপরিভাগ থেকে 4 মি। সেতুর খিলানটি একটি পরাবৃত্তাকার এবং এর অনুভূমিক দিকটি x-অক্ষ বরাবর অবস্থিত। যদি বিন্দু A-কে মূলবিন্দু ধরা হয়, তবে পরাবৃত্তটির সমীকরণ হয় y = - 1/9 (x - 6)^2 + 4। এখন, যদি বিন্দু B-কে মূলবিন্দু ধরা হয়, তবে পরাবৃত্তটির সমীকরণ হবে ____________।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43b86ff1-a055-4771-8874-7f96c695468a",
+    "images": [
+      "images/732_0.png"
+    ],
+    "english_question": "<image>\nΔABC এ, দেওয়া আছে ∠ABC=90°, AB=BC এবং ত্রিভুজটির শীর্ষবিন্দুগুলো তিনটি সমান্তরাল রেখা l₁, l₂, এবং l₃ এর ওপর অবস্থিত। l₁ ও l₂ এর মধ্যবর্তী দূরত্ব 1 এবং l₂ ও l₃ এর মধ্যবর্তী দূরত্ব 2 হলে, AC² এর মান কত? ক. 13 খ. 20 গ. 26 ঘ. 25",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "56e3a422-5e82-4e54-8b99-f913ce3632d3",
+    "images": [
+      "images/54757_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক ঘনবস্তুর তিনটি দৃশ্য নীচের চিত্রে দেখানো হয়েছে। এর আয়তন কত? ( )\nক. 72\\pi\nখ. 48\\pi\nগ. 30\\pi\nঘ. 24\\pi",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb87cab0-de9b-4dcc-b9a5-a2662deb5664",
+    "images": [
+      "images/31430_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে চারটি রেখাংশের দৈর্ঘ্য দেওয়া আছে এবং দুটি সমকোণ রয়েছে। চতুর্ভুজ ABCD (ছায়াবৃত অংশ)-এর ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d1c4e92e-66b0-4588-87a2-ee22bf021e82",
+    "images": [
+      "images/34808_0.png"
+    ],
+    "english_question": "<image>\nনিচে রঙিন কাগজ দিয়ে তৈরি T এবং E অক্ষর দুটি দেওয়া হলো। কোন অক্ষরটিতে বেশি রঙিন কাগজ ব্যবহৃত হয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33aedfa3-3def-41a4-bd2e-7e46583a1afe",
+    "images": [
+      "images/69969_0.png"
+    ],
+    "english_question": "<image>\n2008 সালে জিলিন গোল লিগে, চিত্রে প্রদর্শিত অনুযায়ী একটি ভবনের উপরে CD একটি বিলবোর্ড আছে। A এবং B নামক দুইজন ব্যক্তি 8 মিটার দূরত্বে অবস্থান করে D এবং C বিন্দুর উন্নতি কোণ যথাক্রমে 45° এবং 60° পরিমাপ করেন। A, B এবং E বিন্দুগুলো সমরেখ এবং BE = 15 মিটার। বিলবোর্ডটির উচ্চতা নির্ণয় করো। (sqrt(3) ≈ 1.73 ধরে এবং ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করো)।\nOptions:\nd. (Take \\( \\sqrt{3} \\approx 1.73 \\) and round the result to the nearest integer).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "774cc937-e83b-48eb-ad45-8c997a891f78",
+    "images": [
+      "images/16970_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোতে, ঘনকের নেটের (net) নয় এমন আকৃতির সংখ্যা কত? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0163fc48-3ba2-43ac-8a30-26463ee2a1e7",
+    "images": [
+      "images/18180_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l রেখাটি প্রতিসম আকৃতির প্রতিসাম্য অক্ষ। চিত্রটিতে সমান ক্ষেত্রফলবিশিষ্ট ত্রিভুজের কত জোড়া রয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

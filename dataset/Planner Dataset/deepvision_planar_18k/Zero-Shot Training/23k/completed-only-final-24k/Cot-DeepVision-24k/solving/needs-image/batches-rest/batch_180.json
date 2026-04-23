@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f30dfb8b-8765-40b3-be81-f640135c3701",
+    "images": [
+      "images/12142_0.png"
+    ],
+    "english_question": "<image>\nযদি আপনি চিত্রে প্রদর্শিত A এবং B টার্নটেবিলগুলোর কাঁটা ঘোরান, তবে কালো অংশে কাঁটা পড়ার সম্ভাবনা বেশি পাওয়ার জন্য আপনার কোন টার্নটেবিলটি বেছে নেওয়া উচিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29ed2c28-f615-4d25-b769-14cb10c5c7d3",
+    "images": [
+      "images/49312_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্ত O-এর ব্যাস AB = 7, জ্যা AC এবং BD পরস্পরকে E বিন্দুতে ছেদ করে। জ্যা CD-এর দৈর্ঘ্য 7/2 এবং BD = 5 হলে DE-এর দৈর্ঘ্য কত?\nক. 2√2\nখ. 4√2\nগ. 5/3\nঘ. 5/2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd5b75b3-af33-400a-a42d-b60dbaac8786",
+    "images": [
+      "images/69438_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। একক (সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5a23682b-0c0e-48a9-8427-1209ed9e40e0",
+    "images": [
+      "images/30048_0.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, যেখানে AD সমান্তরাল BC, AB = 5, BC = 8, ∠BAD-এর সমদ্বিখণ্ডক BD-কে E বিন্দুতে ছেদ করে এবং AE সমান্তরাল CD। ট্রাপিজিয়াম ABCD-এর পরিসীমা কত?\nOptions:\nD) What is the perimeter of trapezoid ABCD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8932e0b6-951e-4f28-80de-eb63234cf813",
+    "images": [
+      "images/72047_0.png"
+    ],
+    "english_question": "<image>\n∠1 = 115°, ∠2 = ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2f13afa8-ed58-425d-989f-b7cfa0ea5e21",
+    "images": [
+      "images/31306_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠A = 10°, ফ্রেমটিকে মজবুত করার জন্য সমান দৈর্ঘ্যের স্টিলের বার ঝালাই করা হয়েছে। যদি AP₁ = P₁P₂ হয়, তবে প্রয়োজনীয় স্টিলের বারের সর্বোচ্চ সংখ্যা কত? ( ) ক. 5 খ. 6 গ. 7 ঘ. 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe05d3fd-e5d7-4c7d-9a6e-663dad82de84",
+    "images": [
+      "images/385_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD-এর প্রস্থ AB = 3। EF বরাবর ভাঁজ করার সময়, ED বাহু BC-কে O বিন্দুতে ছেদ করে। যদি ∠AEH = 60° হয়, তবে ভাঁজের রেখা EF-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1348d7ee-c40b-44e6-a786-f22baeff2fe5",
+    "images": [
+      "images/63660_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, AB = 12, AC = 10, BC = 9 এবং AD হলো A বিন্দু থেকে BC বাহুর উপর লম্ব। চিত্রানুসারে ত্রিভুজ ABC-কে এমনভাবে ভাঁজ করা হলো যেন A বিন্দু D বিন্দুর সাথে মিলে যায় এবং ভাঁজের রেখাটি হলো EF। ত্রিভুজ DEF-এর পরিসীমা কত?\n\nOptions:\nক) $9.5$\nখ) $10.5$\nগ) $11$\nঘ) $15.5$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "955350ab-3171-4db2-8716-1e947b7eb7e1",
+    "images": [
+      "images/20723_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রের কর্ণ BD-এর ওপর F একটি বিন্দু। AF বরাবর ত্রিভুজ ABF-কে ভাঁজ করলে ত্রিভুজ AEF পাওয়া যায়, যেখানে E বিন্দুটি AD বাহুর ওপর অবস্থিত এবং ∠EFD = 2∠EDF। DG || EF রেখাটি BC বাহুকে G বিন্দুতে ছেদ করে। ∠GDC-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f314c03a-994e-4d84-9f8c-508e980f7b51",
+    "images": [
+      "images/76224_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, E হলো BC-এর মধ্যবিন্দু এবং ∠AEC = ∠DCE। নিচের কোন সিদ্ধান্তটি ভুল? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35b2d2bf-39ac-4618-a483-2bf56bc46e7c",
+    "images": [
+      "images/22345_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2016 মিয়ানইয়াং স্কুল-লেভেল সিমুলেশন), একটি ড্রোন ভূমি থেকে 200 মিটার উচ্চতায় A বিন্দুতে অবস্থিত। এটি পাহাড়ের চূড়া M-এর উন্নতি কোণ 15° এবং পাহাড়ের পাদদেশ C-এর অবনতি কোণ 45° হিসেবে পর্যবেক্ষণ করে। যদি ∠MCN = 60° হয়, তবে পাহাড়ের উচ্চতা MN কত মিটার?\nOptions:\nd. It observes the angle of elevation to the mountain top M as 15° and the angle of depression to the mountain foot C as 45°. Given that ∠MCN = 60°, what is the height MN of the mountain in meters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6303770-b102-40eb-a094-3ab682553435",
+    "images": [
+      "images/22799_0.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ত্রিভুজ ABC কার্তেসীয় স্থানাঙ্ক ব্যবস্থায় চিত্রে প্রদর্শিত অবস্থানে রয়েছে। দেওয়া আছে বিন্দু A(-6,0), বিন্দু B মূলবিন্দুতে এবং CA=CB=5। সমদ্বিবাহু ত্রিভুজ ABC-কে x-অক্ষের ধনাত্মক দিকে পিছলে না গিয়ে ঘড়ির কাঁটার দিকে ঘোরানো হচ্ছে। প্রথম ঘূর্ণনের পর এটি অবস্থান ①-এ পৌঁছায়, দ্বিতীয় ঘূর্ণনের পর অবস্থান ②-তে পৌঁছায় এবং এভাবে চলতে থাকে। 15তম ঘূর্ণনের পর বিন্দু C-এর x-স্থানাঙ্ক কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "78549a63-ccbc-4a51-be8d-21a0d9ec5773",
+    "images": [
+      "images/62915_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস, ∠AOD = 70°, তাহলে ∠ACD এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f0e296c-b207-4d79-a1da-453e6a859508",
+    "images": [
+      "images/57169_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বৃহৎ বৃত্তের ব্যাস 20 সে.মি. এবং ছোট বৃত্তের ব্যাস ঠিক বৃহৎ বৃত্তের ব্যাসার্ধের সমান। ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c68bce33-d64f-4fe4-8b5e-c3ab1538abd0",
+    "images": [
+      "images/71603_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC-এর তিনটি উচ্চতা AD, BE, CF। যদি AB=6, BC=5 এবং EF=3 হয়, তবে BE-এর দৈর্ঘ্য কত? ক. 18/5 খ. 4 গ. 21/5 ঘ. 24/5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5cbcc856-5b89-46de-ac0b-e0a9da6f66f0",
+    "images": [
+      "images/48637_0.png"
+    ],
+    "english_question": "<image>\nনিচের শর্তগুলো অনুযায়ী, কোনটি a{/\\!/}b নির্দেশ করতে পারে না?\n\nOptions:\nক) \\(∠2 = ∠3\\)\nখ) \\(∠1 = ∠3\\)\nগ) \\(∠1 = ∠4\\)\nঘ) \\(∠1 + ∠4 = 180^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "741e76c2-4665-49f5-8e3a-3285aec7cf67",
+    "images": [
+      "images/43466_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রটি একই সাথে কেন্দ্র-প্রতিসম এবং অক্ষ-প্রতিসম?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f469a5df-921a-4283-9612-297733fcaf3c",
+    "images": [
+      "images/64229_0.png"
+    ],
+    "english_question": "<image>\nট্রাপিজিয়াম ABCD-তে, AB সমান্তরাল CD এবং AC ও BD পরস্পরকে P বিন্দুতে ছেদ করে। চিত্রে কত জোড়া সমান ক্ষেত্রফল বিশিষ্ট ত্রিভুজ রয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94678fc1-a11a-47b3-963c-cc69e9f60fed",
+    "images": [
+      "images/47468_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে একটি আয়তাকার লোহার পাত থেকে দুটি বৃত্ত এবং একটি আয়তক্ষেত্র কেটে একটি সিলিন্ডার তৈরি করা হলো। সিলিন্ডারের ভূমির ব্যাসার্ধ 20 সেন্টিমিটার হলে, সিলিন্ডারটির আয়তন কত ঘন সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "504628b2-6cdb-43d8-8bcf-8117ad5414ff",
+    "images": [
+      "images/57552_0.png"
+    ],
+    "english_question": "<image>\nযদি প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 400 মিটার হয়, তবে দোকান থেকে স্কুলে এবং তারপর শিয়াও ছিং-এর বাড়িতে যাওয়ার মোট দূরত্ব কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

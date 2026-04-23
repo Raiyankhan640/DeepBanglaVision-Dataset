@@ -1,0 +1,302 @@
+[
+  {
+    "id": "73b9fb3f-d36d-4c14-b564-e420edc6ffe0",
+    "images": [
+      "images/38929_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রতি বাহু a বিশিষ্ট একটি নিয়মিত ষড়ভুজ আছে, যার অভ্যন্তরে একটি সমবাহু চতুর্ভুজও প্রতি বাহু a বিশিষ্ট। ফাঁকা অংশের ক্ষেত্রফল S₁ এবং ছায়াযুক্ত অংশের ক্ষেত্রফল S₂। তবে S₁/S₂ = ( ) ক. 1/2 খ. 1/3 গ. √3/6 ঘ. √3/9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da7117ca-c1b6-4816-a4ec-a044f58dfd62",
+    "images": [
+      "images/21253_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করলে, ∠1 এর অনুরূপ কোণ কোনটি?\n\nOptions:\nক) ∠2\nখ) ∠3\nগ) ∠4\nঘ) ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f93e6f62-b814-4ced-b3b4-e1c7006ddb16",
+    "images": [
+      "images/34151_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তথ্য অনুযায়ী, AB ∥ CD ∥ EF হলে ∠x, ∠y এবং ∠z এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc644681-ecf7-4b9d-ac24-bf95c22266fe",
+    "images": [
+      "images/3462_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত AB এবং CD রেখাদ্বয় O বিন্দুতে ছেদ করে এবং OE একটি রশ্মি। চিত্রে সরলকোণের চেয়ে ছোট কতগুলো কোণ আছে? সেগুলোকে একটি একটি করে তালিকাভুক্ত করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2497db71-e63f-47ed-8f03-798f2d02b0a4",
+    "images": [
+      "images/59479_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কোনো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে। জ্যামিতিক বস্তুটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a93cd0e4-ef5d-4452-a3ce-58a5ce72cd91",
+    "images": [
+      "images/73009_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত O-তে ABCD চতুর্ভুজটি অন্তর্লিখিত। BC-কে E পর্যন্ত বর্ধিত করা হলো। যদি ∠BCD:∠ECD = 3:2 হয়, তবে ∠BOD এর মান কত?\n\nOptions:\nক) 120°\nখ) 136°\nগ) 144°\nঘ) 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1cb61908-15d1-4d58-b04e-0dbfdcb0e6dd",
+    "images": [
+      "images/74409_0.png"
+    ],
+    "english_question": "<image>\nনদীর বিপরীত তীরে অবস্থিত প্রাচীন টাওয়ার A এবং B-এর মধ্যবর্তী দূরত্ব পরিমাপের জন্য, গণিত আগ্রহী দল নদীর এপারে AB-এর সমান্তরাল একটি রেখা বরাবর 20 মিটার দূরত্বে C এবং D দুটি বিন্দু নিল। তারা ∠ACB=15°, ∠BCD=120° এবং ∠ADC=30° পরিমাপ করল। চিত্রে প্রদর্শিত অনুযায়ী, প্রাচীন টাওয়ার A এবং B-এর মধ্যবর্তী দূরত্ব নির্ণয় কর।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "77fc2891-064d-43d0-b0a2-0738f5cf1a25",
+    "images": [
+      "images/28479_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্রটির ক্ষেত্রফল 240 বর্গ সেন্টিমিটার। যদি 'ক' অংশের ক্ষেত্রফল আয়তক্ষেত্রের ক্ষেত্রফলের 25% হয়, তবে 'খ' অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "acf87a3d-0c1f-43e7-88bd-985dce1a01cf",
+    "images": [
+      "images/triangle_ext_acf87a3d-0c1f-43e7-88bd-985dce1a01cf.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ত্রিভুজ ABC-এ, যেখানে AB = AC, CD এবং BE হলো যথাক্রমে AB ও AC বাহুর ওপর লম্ব, চিত্রে সর্বসম ত্রিভুজের কত জোড়া রয়েছে?\nক. 1 pair\nখ. 2 pairs\nগ. 3\nঘ. 4 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6453d2a-47a2-49b7-9815-fb723d862974",
+    "images": [
+      "images/63527_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাংশ যথাক্রমে ভবন A এবং B-এর উচ্চতা নির্দেশ করে। AB ⊥ BD এবং CD ⊥ BD। ভবন A-এর শীর্ষবিন্দু A থেকে ভবন B-এর শীর্ষবিন্দু C-এর উন্নতি কোণ α = 30° এবং ভবন B-এর পাদবিন্দু D-এর অবনতি কোণ β = 60°। যদি ভবন A-এর উচ্চতা (AB) 24 মিটার হয়, তবে ভবন B-এর উচ্চতা (CD) নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cb1b8bc1-20b8-4346-bb7b-b49f341553d9",
+    "images": [
+      "images/7064_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\( PA \\) এবং \\( PB \\) রেখা দুটি বৃত্ত \\( ⊙O \\)-কে যথাক্রমে A এবং B বিন্দুতে স্পর্শ করে, \\( AC \\) হলো বৃত্ত \\( ⊙O \\)-এর ব্যাস এবং \\( PC \\) রেখা বৃত্ত \\( ⊙O \\)-কে D বিন্দুতে ছেদ করে। যদি \\( ∠APB = 60^{\\circ} \\) এবং AC = 2 হয়, তবে \\( AD \\)-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7513677b-e7c6-4027-84a2-8c8f8fae9253",
+    "images": [
+      "images/52835_0.png"
+    ],
+    "english_question": "<image>\nউল্লম্বভাবে সাজানো পাঁচটি চুম্বকের মেরুগুলো (উপর থেকে নিচে: S, N, [অজানা], S, N) দেওয়া আছে। চুম্বকগুলোর মধ্যে কি আকর্ষণ বল নাকি বিকর্ষণ বল কাজ করছে? সঠিক উত্তরটি বেছে নিন: (ক) বিকর্ষণ, (খ) আকর্ষণ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e6acd80e-3770-4e13-9d2d-33e468cfc321",
+    "images": [
+      "images/11117_0.png"
+    ],
+    "english_question": "<image>\nলিয়াংলিয়াং-এর শোবার ঘরের একটি জানালার উপরের অংশ অর্ধবৃত্তাকার এবং নিচের অংশ আয়তাকার (চিত্রে দেখানো হয়েছে)। জানালার চারপাশে সাজানোর জন্য কত মিটার লম্বা কাঠের স্ট্রিপের প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f41f5d16-d441-4a61-9582-a0cba91941df",
+    "images": [
+      "images/66480_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি সামান্তরিক ABCD দেখানো হয়েছে যার ক্ষেত্রফল 48 বর্গসেমি। ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b587e52a-a7ba-4af0-a523-4ec5e361abe1",
+    "images": [
+      "images/triangle_ext_b587e52a-a7ba-4af0-a523-4ec5e361abe1.png"
+    ],
+    "english_question": "<image>\nসমতলে $$\\triangle ACD$$ এবং $$\\triangle BCE$$ ত্রিভুজদ্বয় রয়েছে, যেখানে $$AD$$ এবং $$BE$$ রেখাদ্বয় $$P$$ বিন্দুতে ছেদ করে, যেমনটি চিত্রে দেখানো হয়েছে। দেওয়া আছে $$AC=BC$$, $$AD=BE$$, $$CD=CE$$, $$∠ACE=55^{\\circ}$$, এবং $$∠BCD=155^{\\circ}$$। $$∠BPD$$-এর পরিমাপ কত? (____)\nঅপশন:\nক. $$130^{\\circ}$$\nখ. $$155^{\\circ}$$\nগ. $$125^{\\circ}$$\nঘ. $$110^{\\circ}$$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b743ab0f-c8ba-41c1-ac3b-b306dbe39bf2",
+    "images": [
+      "images/40146_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক AEFG-কে সামান্তরিক ABCD-তে রূপান্তরিত করা হয়েছে, যেখানে E এবং G যথাক্রমে AB এবং AD-এর মধ্যবিন্দু। কোন উক্তিগুলো সঠিক? 1. এই রূপান্তরটি একটি সদৃশ রূপান্তর; 2. অনুরূপ বাহুগুলো মূল দৈর্ঘ্যের দ্বিগুণ হয়েছে; 3. অনুরূপ কোণগুলো মূল পরিমাপের দ্বিগুণ হয়েছে; 4. পরিসীমা মূল দৈর্ঘ্যের দ্বিগুণ হয়েছে; 5. ক্ষেত্রফল মূল ক্ষেত্রফলের চারগুণ হয়েছে।\nOptions:\na.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c492a39f-aa3d-4b61-8d23-b4ec4bff339c",
+    "images": [
+      "images/29435_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনটি কেন্দ্রিক প্রতিসম (centrally symmetric)?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "14da5d06-e4c9-4b99-95eb-3f5eaad1c495",
+    "images": [
+      "images/15123_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, CD হলো ভূগর্ভস্থ পার্কিং গ্যারেজের প্রবেশপথ। নিয়ম অনুযায়ী, র‍্যাম্পের প্রবেশপথের উপরে একটি উচ্চতা সীমা নির্দেশক সাইনবোর্ড স্থাপন করতে হবে যাতে চালকরা বুঝতে পারেন তাদের যানবাহন নিরাপদে প্রবেশ করতে পারবে কি না। দেওয়া আছে, CD = 2.6 মিটার এবং র‍্যাম্পের ঢাল 18°। বিন্দু C-এর উপরে উচ্চতা সীমা কত হবে? (0.1 মিটারে আসন্ন মানে প্রকাশ করো, দেওয়া আছে: sin 18° = 0.3090, cos 18° = 0.9510)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e239a2b-43f5-4a6e-947f-d85403b91e29",
+    "images": [
+      "images/27764_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একজন ব্যক্তি একটি সেলফি স্টিক ব্যবহার করে মোবাইল ফোনে সেলফি তুলছেন। প্রসারণযোগ্য সেলফি স্টিক AC-এর প্রান্তবিন্দু A থেকে ভূমি BD-এর উচ্চতা AH হলো 1.4 মি। যখন সেলফি স্টিক AC-এর দৈর্ঘ্য 0.9 মি এবং কোণ ∠HAC = 118°, তখন ভূমি থেকে অন্য প্রান্তবিন্দু C-এর উচ্চতা নির্ণয় করো (ফলাফল এক দশমিক স্থান পর্যন্ত রাউন্ড করো: রেফারেন্স ডেটা: sin28°≈0.47, cos28°≈0.88, tan28°≈0.53)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "123f3c27-9acd-429d-991a-bfe89d6c9064",
+    "images": [
+      "images/46610_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ \\(\\triangle ABC\\)-এর বাহু \\(AB\\), \\(BC\\) এবং \\(AC\\)-এর উপর যথাক্রমে \\(E\\), \\(D\\) এবং \\(F\\) বিন্দু অবস্থিত। দেওয়া আছে যে, \\(DE \\parallel CA\\) এবং \\(DF \\parallel BA\\)। নিচের চারটি বিবৃতির মধ্যে কোনটি ভুল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

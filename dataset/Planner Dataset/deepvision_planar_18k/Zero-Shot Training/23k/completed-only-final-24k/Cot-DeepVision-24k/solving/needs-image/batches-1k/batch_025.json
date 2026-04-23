@@ -1,0 +1,302 @@
+[
+  {
+    "id": "2c6d850c-4042-4f6e-995d-2561b047fd7c",
+    "images": [
+      "images/22087_0.png"
+    ],
+    "english_question": "<image>\nADBC আয়তক্ষেত্রে, যেখানে AC=4 এবং BC=2, বিন্দু A x-অক্ষে এবং বিন্দু C y-অক্ষে অবস্থিত। বিন্দু A x-অক্ষ বরাবর এবং বিন্দু C y-অক্ষ বরাবর চলমান হলে, মূলবিন্দু থেকে বিন্দু B-এর সর্বোচ্চ দূরত্ব নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "86a52b0c-56d2-4420-83d1-96d1b238840f",
+    "images": [
+      "images/43470_0.png"
+    ],
+    "english_question": "<image>\nহাইফেং টাওয়ার উডির উজ্জ্বল সংস্কৃতির প্রতীক। লিটল ওয়ে, যে গাণিতিক অনুশীলন পছন্দ করে, তার গবেষণায় দেখেছে যে হাইফেং টাওয়ার, যা ঐতিহাসিকভাবে ট্যাং টাওয়ার নামে পরিচিত এবং মূলত দাজু মন্দির টাওয়ার নামে নামাঙ্কিত, ট্যাং ঝেন গুয়ান আমলের 13তম বছরে (639 খ্রিস্টাব্দ) নির্মিত হয়েছিল। এর 1300 বছরেরও বেশি ইতিহাস রয়েছে এবং এটি জিলুর তিনটি বিস্ময়ের একটি হিসেবে প্রশংসিত। লিটল ওয়ে তার শেখা জ্ঞান ব্যবহার করে হাইফেং টাওয়ারের উচ্চতা পরিমাপ করার সিদ্ধান্ত নেয়। চিত্রে দেখানো হয়েছে, সে বি বিন্দুতে দাঁড়িয়ে একটি থিওডোলাইট ব্যবহার করে হাইফেং টাওয়ারের সর্বোচ্চ বিন্দু P-এর উন্নতি কোণ পরিমাপ করে, যা ছিল 45 ডিগ্রি। এরপর সে 18 মিটার এগিয়ে এ বিন্দুতে আসে, যেখানে সে P বিন্দুর উন্নতি কোণ পরিমাপ করে 60 ডিগ্রি। আপনি কি লিটল ওয়েকে হাইফেং টাওয়ারের উচ্চতা গণনা করতে সাহায্য করতে পারেন? (থিওডোলাইটের উচ্চতা উপেক্ষা করুন, √3 ≈ 1.7 ধরুন এবং ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করুন)।\nOptions:\nD). It has a history of over 1300 years and is praised as one of the three wonders of Jilu. Little Wei decided to use the knowledge he has learned to measure the height of the Haifeng Tower. As shown in the figure, he used a theodolite standing at point B to measure the angle of elevation to the highest point P of the Haifeng Tower, which was 45 degrees. He then moved forward 18 meters to point A, where he measured the angle of elevation to point P as 60 degrees. Can you help Little Wei calculate the height of the Haifeng Tower? (Neglect the height of the theodolite, take \\( \\sqrt{3} \\approx 1.7 \\), and round the result to the nearest integer).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "157417fd-1494-4134-bbc6-ce3e6f8bee0f",
+    "images": [
+      "images/2922_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, এটি একটি অসম্পূর্ণ পাজল বোর্ড যার সামনের দিক কালো এবং পেছনের দিক সাদা। নিচে চারটি পাজল পিস দেওয়া আছে, যার সামনের দিক কালো এবং পেছনের দিক সাদা। পাজল বোর্ডটি সম্পূর্ণভাবে পূরণ করতে এবং এর রঙ সুষম করতে কোন পিসটি বেছে নেওয়া উচিত? ( )\n\nOptions:\nক) \\lrcorner\nখ) \\llcorner\nগ) \\ulcorner\nঘ) \\mathsf{L}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7debc864-f35d-4cec-a568-ce0c1d3a35ec",
+    "images": [
+      "images/67174_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, AB || CD || EF। নিচের কোন সিদ্ধান্তটি সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51d9c775-63ae-47a8-91fd-afcc02ec3e99",
+    "images": [
+      "images/68224_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বর্গ ABCD-এর বাহুর দৈর্ঘ্য 2। দৈর্ঘ্য 2 বিশিষ্ট রেখাংশ QR-এর প্রান্ত বর্গক্ষেত্রের দুটি সন্নিহিত প্রান্তে স্থাপন করা হয়েছে এবং একসাথে স্লাইড করে। যদি বিন্দু Q, বিন্দু A থেকে চিত্রে দেখানো দিকে A→B→C→D→A বরাবর স্লাইড করে A-তে পৌঁছায়, আর বিন্দু R, বিন্দু B থেকে চিত্রে দেখানো দিকে B→C→D→A→B বরাবর স্লাইড করে B-তে পৌঁছায়, তবে রেখাংশ QR-এর মধ্যবিন্দু M-এর গতিপথ দ্বারা গঠিত আকৃতির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe13459f-f7c2-42a2-84d4-68e641ff14a1",
+    "images": [
+      "images/66195_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বিন্দু D থেকে AB সরলরেখার দূরত্ব ( ) ক. সেগমেন্ট AD-এর দৈর্ঘ্য খ. সেগমেন্ট AE-এর দৈর্ঘ্য গ. সেগমেন্ট BE-এর দৈর্ঘ্য ঘ. সেগমেন্ট DE-এর দৈর্ঘ্য",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ad0e514-9e16-45e4-ba13-27475c56aab2",
+    "images": [
+      "images/31368_0.png"
+    ],
+    "english_question": "<image>\nছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: মিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d1ed09a-24d4-4088-a00a-8b9089902291",
+    "images": [
+      "images/26338_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, CD বিন্দু C-তে বৃত্ত O-এর স্পর্শক, OD, AB-এর ওপর লম্ব এবং AC-কে বিন্দু E-তে ছেদ করে। যদি tan ∠DEC = 3 হয়, তবে sin ∠D-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9831e606-d65e-44af-9c2c-f5a7fead418c",
+    "images": [
+      "images/44677_0.png"
+    ],
+    "english_question": "<image>\nABCD বর্গক্ষেত্রে, বক্ররেখা l হলো একটি প্যারাবোলার অংশ যা উপরের দিকে খোলা এবং যার শীর্ষবিন্দু A বিন্দুতে অবস্থিত এবং এটি C বিন্দু দিয়ে যায়। ABCD বর্গক্ষেত্রের ছায়াবৃত অংশের মধ্যে একটি বিন্দু নির্বাচন করার সম্ভাবনা কত?\nOptions:\nC) The probability of selecting a point within the shaded area of square ABCD is .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c50733ec-9c1c-4866-92f0-61b9c11bad4e",
+    "images": [
+      "images/64275_0.png"
+    ],
+    "english_question": "<image>\nগ্রিডে কতটি সবুজ আয়তক্ষেত্র রয়েছে? এই সংখ্যাটি জোড় নাকি বিজোড়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3a2af0a4-7f8d-4977-a845-ac8437f5c332",
+    "images": [
+      "images/503_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে ADEF এবং BCEF ট্রাপিজিয়াম, যেখানে AD=10, AB=6, EF=3। ছায়াবৃত অংশের ক্ষেত্রফলের সমষ্টি নির্ণয় করো।\nOptions:\na.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "101b8572-96df-4153-a790-23ad8062a73f",
+    "images": [
+      "images/22300_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য এবং পরিমাপ (একক: সেমি) দেওয়া আছে। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) $8 \\, cm^{3}$\nখ) $12 \\, cm^{3}$\nগ) $24 \\, cm^{3}$\nঘ) $72 \\, cm^{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "042d050d-7402-4984-9bbf-a1ed26397dd7",
+    "images": [
+      "images/67600_0.png"
+    ],
+    "english_question": "<image>\n4×4 বর্গ গ্রিডে tanα নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8a71ab05-9020-4368-b337-7381b3337500",
+    "images": [
+      "images/57982_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে পরাবৃত্ত y=-2x²+8x-6 x-অক্ষকে বিন্দু A ও B-তে ছেদ করে। x-অক্ষের উপরে পরাবৃত্তের অংশকে C₁ বলা হয়। যখন C₁ কে 2 একক ডানে স্থানান্তর করা হয়, তখন C₂ পাওয়া যায় যা x-অক্ষকে বিন্দু B ও D-তে ছেদ করে। যদি রেখা y=x+m উভয় C₁ ও C₂-কে তিনটি স্বতন্ত্র বিন্দুতে ছেদ করে, তবে m-এর মানের পরিসর কত?\nOptions:\nখ) The part of the parabola above the x-axis is denoted as $C_1$. When $C_1$ is translated 2 units to the right, it becomes $C_2$, which intersects the x-axis at points B and ঘ) If the line $y=x+m$ intersects both $C_1$ and $C_2$ at three distinct points, what is the range of values for $m$?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92c7a45b-fe3c-440d-86b0-4669f3d07d6f",
+    "images": [
+      "images/5258_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে কোণ A এবং কোণ B-এর তুলনা দেখানো হয়েছে, ( )\n\nOptions (copied from English):\nC. They are equal",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b19bee1a-43b5-4fd5-aa24-1ff8655c899e",
+    "images": [
+      "images/56201_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমকোণী ট্রাপিজিয়াম ABCD-তে, AB∥CD, ∠C=90°, ∠BDA=90°, AB=a, BD=b, CD=c, BC=d, AD=e হলে, নিচের কোন সমীকরণটি সঠিক?\n\nOptions:\nক) \\( b^{2}=ac \\)\nখ) \\( b^{2}=ce \\)\nগ) \\( be=ac \\)\nঘ) \\( bd=ae \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3aa020c0-e9d3-4ec6-89cc-b96c985368e6",
+    "images": [
+      "images/triangle_ext_3aa020c0-e9d3-4ec6-89cc-b96c985368e6.png"
+    ],
+    "english_question": "<image>\nএকটি পর্যবেক্ষণ টাওয়ারের পাদদেশ D থেকে অনুভূমিকভাবে 14 মিটার হেঁটে A বিন্দুতে পৌঁছানো হলো। এরপর 0.75 ঢাল বিশিষ্ট একটি পথ বেয়ে B বিন্দুতে পৌঁছানো হলো। B বিন্দু থেকে টাওয়ারের শীর্ষ E-এর উন্নতি কোণ 45°। এরপর আরও 27 মিটার অনুভূমিকভাবে হেঁটে C বিন্দুতে পৌঁছালে E-এর উন্নতি কোণ হয় 22°। tan 22° ≈ 0.4 হলে, টাওয়ারের উচ্চতা DE নির্ণয় করো।\nOptions:\nB) At B, the angle of elevation to the top E is 45°. Then walking another 27 meters horizontally to point C, the angle of elevation to E is 22°. Given tan 22° ≈ 0.4, find the height DE of the tower.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c193b7ec-f8e8-42ff-acb3-3238ddb40451",
+    "images": [
+      "images/53788_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, D, E এবং F বিন্দুগুলো যথাক্রমে AB, BC এবং AC বাহুর ওপর অবস্থিত এবং EF || AB। DF || BC হওয়ার জন্য, নিচের কোন শর্তটি অবশ্যই পূরণ করতে হবে? ( )\n\nOptions (copied from English):\nক. ∠1=∠2\nখ. ∠2=∠AFD\nগ. ∠1=∠AFD\n∠1=∠DFE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2bc89475-2781-494f-a05e-35c02f3bb762",
+    "images": [
+      "images/33992_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্রের ফাঁকা অংশের পরিসীমা 10.28 ডেসিমিটার। রঙিন অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "980905ed-f036-4847-8934-599a38475bc8",
+    "images": [
+      "images/36006_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বৃত্ত O আয়তক্ষেত্র ABCD-কে E, F, G এবং H বিন্দুতে ছেদ করে যেখানে EF = 10, HG = 6 এবং AH = 4। BE-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

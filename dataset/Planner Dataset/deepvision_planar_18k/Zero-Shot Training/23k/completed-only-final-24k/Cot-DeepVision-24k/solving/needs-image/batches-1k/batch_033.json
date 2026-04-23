@@ -1,0 +1,302 @@
+[
+  {
+    "id": "94d31e18-1177-4cc4-9d69-7ee96ffb1658",
+    "images": [
+      "images/44823_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল এবং ∠1 + ∠2 = 128°। ∠3 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6192550b-c15e-4099-a086-7ea150a430e6",
+    "images": [
+      "images/70665_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি ত্রিভুজাকার প্রিজমের সম্মুখ দৃশ্য চিত্রে দেখানো হয় এবং এর সব শীর্ষবিন্দু একটি গোলকে অবস্থিত হয়, তবে সেই গোলকের পৃষ্ঠের ক্ষেত্রফল কত? ক. 4π খ. 19/12π গ. 19/3π ঘ. 4/3π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e36379c-5e30-4c02-808f-0609914aa0f2",
+    "images": [
+      "images/51589_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো ছায়াবৃত অঞ্চলে অবস্থিত কোণগুলোর সাধারণ সেট নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "64c6b0d8-47b8-47dd-aacc-2b1fb67d13f8",
+    "images": [
+      "images/16571_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। ∠1 এবং ∠2 কোণদ্বয় হলো ( ) \nক. একই পার্শ্বস্থ অন্তঃস্থ কোণ \nখ. একান্তর অন্তঃস্থ কোণ \nগ. অনুরূপ কোণ \nঘ. সন্নিহিত সম্পূরক কোণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24133639-453e-4ec0-acbc-aacd553e2db3",
+    "images": [
+      "images/19260_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি চতুর্ভুজ পিরামিডের তিনটি দৃশ্য দেওয়া আছে, এই জ্যামিতিক বস্তুটির আয়তন কত? ( ) ক. 2 খ. 4/3 গ. 8/3 ঘ. 16/3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a129ddf-1d6c-4ace-a17d-d18cb701d5f5",
+    "images": [
+      "images/39708_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি আয়তক্ষেত্রকে 'ক' এবং 'খ' দুটি অংশে বিভক্ত করা হয়েছে। 'ক' এবং 'খ' অংশের তুলনা করো।\n\nOptions (copied from English):\nখ. Compare A and খ.\nক. The perimeters of A and B are the same length\nখ. The areas of A and B are the same\nগ. The area of A is smaller than that of B",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da936060-2ca6-4365-b685-775bd4f62cb9",
+    "images": [
+      "images/22346_0.png"
+    ],
+    "english_question": "<image>\nএকটি গোলকের ব্যাসার্ধ 3 সেমি হলে এর পৃষ্ঠতলের ক্ষেত্রফল কত?\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f9fd1d98-3b83-44f3-b5a3-3156540c54fa",
+    "images": [
+      "images/18206_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি সমকোণী ত্রিভুজ এমনভাবে সাজানো হয়েছে যে AB || CD, ∠ABC = 45° এবং ∠ADC = 30°। BE/EC অনুপাতটি নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6b98d30-1ed2-4784-a567-d1b1358e61ff",
+    "images": [
+      "images/40076_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD রেখার সমান্তরাল। ছেদক দ্বারা উৎপন্ন একটি কোণ 70° এবং ত্রিভুজের অপর একটি কোণ 50° হলে, ∠C এর মান নির্ণয় করো।\nOptions:\nD) Given that one angle formed by the transversal is 70° and another angle in the triangle is 50°, find the measure of ∠C)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e1400856-6d12-401d-8b18-10595fec028a",
+    "images": [
+      "images/71660_0.png"
+    ],
+    "english_question": "<image>\nধরি M একটি বিন্দু। N বিন্দুটি M থেকে 30 ডিগ্রি দক্ষিণ-পূর্বে অবস্থিত এবং A বিন্দুটি M থেকে 60 ডিগ্রি দক্ষিণ-পূর্বে অবস্থিত। B এমন একটি বিন্দু যে MB = 400 মিটার এবং B থেকে A এর দিক হলো 75 ডিগ্রি দক্ষিণ-পূর্ব। M থেকে N পর্যন্ত সোজা রাস্তাটি A কেন্দ্রবিশিষ্ট 400 মিটার ব্যাসার্ধের বৃত্তাকার সুরক্ষা অঞ্চলকে ছেদ করবে কি না তা নির্ধারণ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eade79b9-253c-4fbb-a5ac-9f81e8885ced",
+    "images": [
+      "images/16473_0.png"
+    ],
+    "english_question": "<image>\n8টি পিচ গাছ আছে। চিত্র অনুযায়ী, নাশপাতি গাছের সংখ্যা কত? দুটি ভিন্ন পদ্ধতিতে সমাধান করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2d7fe861-9cc9-4e2d-9603-06041f3ae4da",
+    "images": [
+      "images/51590_0.png"
+    ],
+    "english_question": "<image>\nচারটি অভিন্ন আয়তক্ষেত্র, যার প্রতিটির দৈর্ঘ্য a এবং প্রস্থ b, একটি বড় আয়তক্ষেত্রের ভেতরে (যার প্রস্থ m এবং উচ্চতা n) এমনভাবে সাজানো হয়েছে যাতে তারা একে অপরকে অতিক্রম না করে (চিত্র 3 অনুযায়ী)। ছায়াবৃত অংশগুলোর পরিসীমা m এবং n-এর মাধ্যমে নির্ণয় করো, যেখানে a + 2b = m।\nOptions:\nd. Given that a + 2b = m, find the total perimeter of the two shaded parts in terms of m and n.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0a013962-956b-4e7c-9913-72573a2793a6",
+    "images": [
+      "images/61173_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কয়টি স্থূলকোণ দেখানো হয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "776506e3-738d-4697-b001-1caac8d4d598",
+    "images": [
+      "images/12661_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমদ্বিবাহু সমকোণী ত্রিভুজ। যদি AD = 1/3 AC এবং CE = 1/3 BC হয়, তবে কোণ ∠1 এবং ∠2 এর মধ্যে সম্পর্ক হলো ( )\n\nOptions:\nক) ∠1 > ∠2\nখ) ∠1 < ∠2\nগ) ∠1 = ∠2\nঘ) Cannot determine",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e98631bf-95af-4474-8666-b49d73cf82da",
+    "images": [
+      "images/15484_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O বিন্দুটি AB রেখার ওপর অবস্থিত, A1, A2, A3, ... বিন্দুগুলো OA রশ্মির ওপর এবং B1, B2, B3, ... বিন্দুগুলো OB রশ্মির ওপর অবস্থিত। চিত্রের প্রতিটি পূর্ণ এবং ড্যাশযুক্ত রেখাংশের দৈর্ঘ্য এক একক। একটি চলমান বিন্দু M, O বিন্দু থেকে যাত্রা শুরু করে এবং তীরচিহ্নিত দিক বরাবর প্রতি সেকেন্ডে এক একক বেগে পূর্ণ রেখাংশ এবং O কেন্দ্রবিশিষ্ট অর্ধবৃত্ত বরাবর চলে। এই নিয়ম অনুযায়ী, বিন্দু M-এর A101 বিন্দুতে পৌঁছাতে কত সেকেন্ড সময় লাগবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc1fc2a9-461d-47fa-8292-f32cb648aead",
+    "images": [
+      "images/58683_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, AB এবং CD রেখা দুটি O বিন্দুতে ছেদ করে। EO, AB রেখার উপর লম্ব এবং ∠AOD = 125°। ∠COE এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9ba4ac3e-8b26-4e35-8d56-12db30d9bd9f",
+    "images": [
+      "images/19286_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ΔABC-এর পরিবৃত্তের কেন্দ্র O, BC = 6 এবং ∠BAC = 60°। ΔABC-এর AB ও AC বাহুর ওপর বাইরের দিকে সমদ্বিবাহু সমকোণী ত্রিভুজ ABD ও ACE অঙ্কন করা হলো। BE ও CD রেখাদ্বয় P বিন্দুতে ছেদ করে। OP-এর সর্বনিম্ন মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "704d6411-3913-41d2-b20a-7e84991b4fe3",
+    "images": [
+      "images/53468_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB, CD এবং EF রেখাগুলো O বিন্দুতে ছেদ করে। ∠DOB কোণটি তার পূরক কোণের দ্বিগুণ এবং ∠AOE = 2∠DOF, যেখানে OG ⊥ OA। ∠EOG কোণের পরিমাপ নির্ণয় করো।\nOptions:\nA) Find the measure of angle ∠EOG.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c18f1872-89dc-4939-a69b-d6e5b2331e3e",
+    "images": [
+      "images/41127_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, যদি তিনটি অভিন্ন বর্গকে একটি সাধারণ শীর্ষবিন্দুতে স্থাপন করা হয়, তবে ∠1 এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a96d1e52-dbc3-4f08-b51b-ec9694c4e081",
+    "images": [
+      "images/11883_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি আকৃতির মধ্যে, জ্যামিতিক আকৃতির বৈশিষ্ট্যের ভিত্তিতে কোনটি অন্য তিনটি থেকে আলাদা? এই আকৃতিটি চিহ্নিত করুন। উত্তর: আকৃতি _____।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

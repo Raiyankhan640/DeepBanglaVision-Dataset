@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ec846213-1af7-4b12-9ebe-46deb1cc2b64",
+    "images": [
+      "images/triangle_ext_ec846213-1af7-4b12-9ebe-46deb1cc2b64.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকার পিরামিডের তিনটি ভিউ চিত্রে দেখানো হয়েছে। এই ত্রিভুজাকার পিরামিডটির আয়তন কত?\nক. 80\nখ. 40\nগ. \\frac{80}{3}\nঘ. \\frac{40}{3}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a5388ec9-9747-4ffe-ad50-3755baebbc50",
+    "images": [
+      "images/47642_0.png"
+    ],
+    "english_question": "<image>\n4√3 মিটার উচ্চতা বিশিষ্ট একটি গাছ সূর্যের আলোর দিকে হেলে পড়লো, যা ভূমির সাথে 30° কোণ তৈরি করে। হেলে পড়ার সময় এর ছায়ার দৈর্ঘ্য পরিবর্তিত হয়। গাছটি যখন আর খাড়া অবস্থায় নেই, তখন এর ছায়ার সর্বোচ্চ দৈর্ঘ্য কত? (ধরে নাও সূর্যের আলোর কোণ অপরিবর্তিত থাকে)।\nOptions:\nd. As it falls, its shadow length changes. Find the maximum length of the shadow when the tree is no longer vertical. (Assume the angle of sunlight remains constant.)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "acef7642-b7b2-4f14-bc54-6810b067984c",
+    "images": [
+      "images/26956_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল EF, যা আবার CD-এর সমান্তরাল। BD এবং ED যুক্ত করা হয়েছে। নিচের কোন সমীকরণটি সঠিক? ( )\n\nOptions:\nক) ∠1 - ∠2 + ∠3 = 180°\nখ) ∠1 + ∠2 - ∠3 = 180°\nগ) ∠2 + ∠3 - ∠1 = 180°\nঘ) ∠1 + ∠2 + ∠3 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "126f7779-49dc-4ef5-879e-0c6dfa279ce0",
+    "images": [
+      "images/35594_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে একটি বর্গাকার গ্রিড কাগজে কোণ $\\alpha$ স্থাপন করা হলে, $\\tan \\alpha$ এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e47ecc1c-c7b9-41f6-8109-6b923d3815ca",
+    "images": [
+      "images/17114_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ADB-তে, যেখানে ∠D = 90°, বিন্দু C রেখা AD-এর উপর অবস্থিত। x-এর মানের পরিসীমা কত?\nOptions:\nD) What is the range of values for x?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "400668e9-b3f4-495d-b924-5f3f739f5111",
+    "images": [
+      "images/89_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB একটি অর্ধবৃত্তের ব্যাস, বিন্দু D হলো ⌒CD-এর মধ্যবিন্দু এবং ∠ABC = 50°। ∠DAB-এর মান কত?\n\nOptions:\nক) 55°\nখ) 60°\nগ) 65°\nঘ) 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3a5b3f68-07d0-4e60-ad14-3883ce8fa14a",
+    "images": [
+      "images/64156_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং AC রেখার ওপর যথাক্রমে E এবং D বিন্দু নেওয়া হয়েছে, যাতে AE = AD হয়। BD এবং CE যোগ করলে তারা O বিন্দুতে ছেদ করে। এরপর AO এবং BC যোগ করা হলো। যদি ∠1 = ∠2 হয়, তবে চিত্রে সর্বসম ত্রিভুজের কত জোড়া রয়েছে?\n\nOptions:\nক) 5 pairs\nখ) 6 pairs\nগ) 7 pairs\nঘ) 8 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "46a100f9-3ff5-4018-8dee-613770cc680f",
+    "images": [
+      "images/60743_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠BOF = 120° হয়, তবে ∠A + ∠B + ∠C + ∠D + ∠E + ∠F-এর মান কত?\nক. 360°\nখ. 720°\nগ. 540°\nঘ. 240°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e71696d-f683-4e59-8e83-b17d6cae22c6",
+    "images": [
+      "images/9665_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, গ্রিড পেপারের উপর, AB বাহু বিশিষ্ট একটি ত্রিভুজ ΔABP গঠন করো যা ত্রিভুজ ΔABC এর সর্বসম। P1, P2, P3, P4 বিন্দুগুলো থেকে, সেই বিন্দুগুলো খুঁজে বের করো যা বিন্দু P এর শর্ত পূরণ করে। P বিন্দু কয়টি?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a7621edc-6649-45a7-a6b7-48ef905546b3",
+    "images": [
+      "images/65169_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমকোণী ট্রাপিজিয়াম ABCD-তে, AD সমান্তরাল BC, AC লম্ব AB, AD = 8, BC = 10 হলে, ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0d2731a3-c8c5-457f-b78f-ca10c59b48ca",
+    "images": [
+      "images/30970_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, শিয়াও মিং একটি সিডির (CD) ব্যাস পরিমাপ করছে। তার কাছে কেবল একটি রুলার এবং একটি ত্রিভুজাকার স্কেল আছে। সে রুলার, সিডি এবং ত্রিভুজটিকে চিত্রে প্রদর্শিত উপায়ে টেবিলের উপর স্থাপন করে এবং AB = 3 সেমি পরিমাপ করে। সিডিটির ব্যাসার্ধ কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da86342e-118d-4e90-8919-5ec50c55d7e4",
+    "images": [
+      "images/44810_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 2-এ বৃহৎ সমবাহু ত্রিভুজের বাহু 4, প্রতি বাহু 4 সমান ভাগে বিভক্ত ছোট সমবাহু ত্রিভুজের শীর্ষবিন্দু যুক্ত করে নিয়মিত ষড়ভুজ ABCDEF গঠিত হয়েছে। এই নিয়মিত ষড়ভুজের পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5d0aa271-1018-4fa4-b66c-948e230cc030",
+    "images": [
+      "images/77101_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন শর্তটি নিশ্চিত করে যে AD রেখা BC রেখার সমান্তরাল? ক. ∠1=∠2 খ. ∠3=∠4 গ. ∠DAB+∠ABC=180° ঘ. ∠ABC+∠BCD=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b331dc2b-4409-46f1-a859-2902e98622e5",
+    "images": [
+      "images/63294_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি △ABC ≌ △FED হয়, তবে নিচের কোন সিদ্ধান্তটি সঠিক? ( )\nক. EC = BD\nখ. EF ∥ AB\nগ. DE = BD\nঘ. AC ∥ ED",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21af9bd5-af61-482e-b075-10b8d5fff932",
+    "images": [
+      "images/48184_0.png"
+    ],
+    "english_question": "<image>\nএকটি স্কুলের ছাত্ররা বসন্তকালীন ভ্রমণে গিয়ে একটি দর্শনীয় স্থানে একটি হান সাইপ্রাস গাছ দেখল। তারা গাছটির উচ্চতা সম্পর্কে নিশ্চিত ছিল না। নিচে দুজন ছাত্রের কথোপকথন দেওয়া হলো: \nশিউ মিং: আমি এখানে দাঁড়িয়ে আছি এবং গাছের চূড়ার উন্নতি কোণ 45 ডিগ্রি। \nশিউ হুয়া: আমি এখানে দাঁড়িয়ে আছি এবং গাছের চূড়ার উন্নতি কোণ 30 ডিগ্রি। \nশিউ মিং: আমাদের দুজনের উচ্চতাই 1.6 মিটার। \nশিউ হুয়া: আমরা একে অপরের থেকে 20 মিটার দূরে দাঁড়িয়ে আছি। \nএই কথোপকথনের ভিত্তিতে হান সাইপ্রাস গাছটির উচ্চতা নির্ণয় করো।\nOptions:\na. They were unsure how tall the tree was. Below is a conversation between two students: \nXiao Ming: I am standing here and the angle of elevation to the top of the tree is $45^{\\circ}$. \nXiao Hua: I am standing here and the angle of elevation to the top of the tree is $30^{\\circ}$. \nXiao Ming: Our heights are both 1.6m. \nXiao Hua: We are 20m apart. \nPlease calculate the height of the Han cypress tree based on this conversation.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bd2119d7-ea7a-47b1-87ba-c6824be656cf",
+    "images": [
+      "images/triangle_ext_bd2119d7-ea7a-47b1-87ba-c6824be656cf.png"
+    ],
+    "english_question": "<image>\nযদি একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো অনুযায়ী হয় (একক দৈর্ঘ্য: সেমি), তবে উক্ত জ্যামিতিক বস্তুর পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\nক. $(80 + 16 \\sqrt{2}) \\text{ cm}^2$\nখ. $96 \\text{ cm}^2$\nগ. $(96 + 16 \\sqrt{2}) \\text{ cm}^2$\nঘ. $112 \\text{ cm}^2$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17dbba53-36ac-4436-ade0-691d795e69b0",
+    "images": [
+      "images/18859_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি বিজ্ঞাপন কোম্পানির তৈরি একটি পণ্যের লোগো ডিজাইন প্রদর্শন করছে। যদি প্রতিটি ছোট আয়তক্ষেত্রের ক্ষেত্রফল 1 হয়, তবে ছায়াযুক্ত অংশের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) 6\nখ) 6.5\nগ) 7\nঘ) 7.5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2fbcd456-8b51-418d-9572-e00b38fbe838",
+    "images": [
+      "images/51672_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র $ABCD$ এর বাহুর দৈর্ঘ্য $a$। বিন্দু $E$, $AB$ বাহুর ওপর এমনভাবে অবস্থিত যেন $AE = a/3$ হয় এবং বিন্দু $F$, $BC$ বাহুর মধ্যবিন্দু। $AF$ রেখা $DE$ রেখাকে $M$ বিন্দুতে ছেদ করে। ভেক্টর পদ্ধতি ব্যবহার করে $\\angle DMF$ এর সাইন (sine) মান নির্ণয় করো।\nOptions:\nC) Line AF intersects line DE at point M. Use vector methods to find the sine value of ∠DMF.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c0891227-06ae-49dd-968b-94d2b437aada",
+    "images": [
+      "images/20453_0.png"
+    ],
+    "english_question": "<image>\nপ্রথম চিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো, যা 20 সেমি ব্যাসার্ধবিশিষ্ট একটি বৃত্তকলা থেকে 20 সেমি ব্যাসবিশিষ্ট একটি অর্ধবৃত্ত বিয়োগ করে পাওয়া যায়।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b49b1cce-8913-4793-9aca-e5965bc6bcd0",
+    "images": [
+      "images/21768_0.png"
+    ],
+    "english_question": "<image>\nএকটি ট্রাপিজিয়াম আকৃতির গমের ক্ষেতের মধ্য দিয়ে একটি পানির নালা প্রবাহিত হচ্ছে (চিত্রে প্রদর্শিত, একক: মি.)। পানির নালার ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

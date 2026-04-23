@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c8440146-532f-4179-8a73-665c66583e3d",
+    "images": [
+      "images/64982_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকার পিরামিডের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই ত্রিভুজাকার পিরামিডের পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 60 + 12 \\sqrt{5}\nখ) 56 + 12 \\sqrt{5}\nগ) 30 + 6 \\sqrt{5}\nঘ) 28 + 6 \\sqrt{5}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "44971dbe-3764-4fce-90c7-795c15083cff",
+    "images": [
+      "images/42850_0.png"
+    ],
+    "english_question": "<image>\nABCD সামান্তরিকের ∠ADC = α। AD বাহুকে AE ভাঁজ বরাবর AB-এর উপর ভাঁজ করা হলো। এরপর ত্রিভুজ ADE-কে DE বরাবর এমনভাবে ভাঁজ করা হলো যেন A বিন্দুটি BC-এর মধ্যবিন্দুতে পতিত হয়। cos α-এর মান নির্ণয় করো।\nOptions:\nC) Find cos α.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17046545-78f0-46d4-af52-2b7c45142851",
+    "images": [
+      "images/62787_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, 12 পরিসীমা বিশিষ্ট ত্রিভুজ DEF-কে FE বরাবর 1 একক স্থানান্তর করে ত্রিভুজ ABC পাওয়া গেল। চতুর্ভুজ ABFD-এর পরিসীমা কত? ক. 10, খ. 12, গ. 14, ঘ. 16",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c46bbde7-7dd4-4fa3-b947-64cd2b3d6fe7",
+    "images": [
+      "images/7330_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, গ্রিড কাগজে, ত্রিভুজ ABC এবং ত্রিভুজ EPD-এর শীর্ষবিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত। ত্রিভুজ ABC-কে ত্রিভুজ EPD-এর সদৃশ করার জন্য, বিন্দু P অবশ্যই কোথায় অবস্থিত হতে হবে? \nক. P1 \nখ. P2 \nগ. P3 \nঘ. P4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7e030c5b-5cfc-4922-9caa-1ebda1bdb67d",
+    "images": [
+      "images/25830_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, প্রতিটি চিত্র পূর্ববর্তী ত্রিভুজকে চারটি সর্বসম ছোট ত্রিভুজে বিভক্ত করে এবং তিনটিকে ছায়াবৃত করে। যদি চিত্র (1)-এর ছায়াবৃত অংশের ক্ষেত্রফল 1 হয়, তবে n-তম চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7da6a729-10fd-4401-a38a-8cdde200fbd1",
+    "images": [
+      "images/64933_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কোণগুলোর মধ্যে কোনটি ভুল বিবৃতি? \nঅপশন:\n(ক) ∠1 এবং ∠3 বিপ্রতীপ কোণ।\n(খ) ∠1 এবং ∠4 একান্তর অন্তঃস্থ কোণ।\n(গ) ∠3 এবং ∠4 অনুরূপ কোণ।\n(ঘ) ∠1 এবং ∠2 একই পাশের অন্তঃস্থ কোণ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08300060-25eb-47f0-ab74-18d81432eac6",
+    "images": [
+      "images/68019_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল DE, ∠ABC = 75° এবং ∠CDE = 150°। ∠BCD এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55fde471-e15c-4798-8149-afcdf1600b2b",
+    "images": [
+      "images/35215_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে AB ∥ CD, ∠B = 40°, CN হলো ∠BCE-এর সমদ্বিখণ্ডক এবং CM ⊥ CN। ∠BCM-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae135cfb-5c4a-4ed5-87fd-f227ca1e8f27",
+    "images": [
+      "images/15746_0.png"
+    ],
+    "english_question": "<image>\nনীচে একটি বড় নকশা দেওয়া হয়েছে যার নিচের ডানদিকের কোণায় একটি ফাঁকা জায়গা রয়েছে। ডানদিকের সংখ্যা দিয়ে চিহ্নিত ছোট ছবিগুলো লক্ষ্য করো। বড় নকশাটিকে একটি পূর্ণাঙ্গ চিত্রে পরিণত করতে কোন নম্বরটি সঠিক হবে?\nOptions:\nd. Please look at the several small images on the right side of the large image, which are labeled with numbers. Their size and shape are the same as the blank space in the lower right corner. Write the number of the image you want to fill into the blank space, so that the large image becomes a complete and harmonious figure.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4842b815-b346-4c46-9b71-1828b4669cb4",
+    "images": [
+      "images/59464_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি গ্রামের প্রান্তে রেলপথ নির্মাণের সময় বাঁক নিতে হয়। যদি প্রথম বাঁকের কোণ A হয় 105°, দ্বিতীয় বাঁকের কোণ B হয় 135° এবং তৃতীয় কোণটি ∠C হয়, তবে এই অবস্থায় রাস্তাটি প্রথম বাঁকের আগের রাস্তার সাথে সমান্তরাল হয়। ∠C এর মান কত ডিগ্রি?\n\nOptions:\nক) 130°\nখ) 135°\nগ) 140°\nঘ) 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3c50cef-be03-47e8-b77c-e91d8f5eb232",
+    "images": [
+      "images/59203_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকৃতির কাগজের একটি বাহুর মধ্যবিন্দু নেওয়া হলো এবং এই বিন্দুগামী দুটি মধ্যমা বরাবর দুটি ত্রিভুজ কেটে নেওয়া হলো। অবশিষ্ট অংশটি একটি চতুর্ভুজ যার সন্নিহিত বাহুদ্বয়ের দৈর্ঘ্য 10 সেমি ও 6 সেমি এবং একটি কর্ণের দৈর্ঘ্য 8 সেমি। মূল ত্রিভুজাকৃতির কাগজটির পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dcd21283-3005-43a4-9be5-0e0c8f9ff88b",
+    "images": [
+      "images/31266_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, a বাহুবিশিষ্ট একটি বর্গক্ষেত্র থেকে তৈরি ট্যাংগ্রাম দিয়ে একটি ছোট বিড়াল তৈরি করা হয়েছে। বিড়ালের মাথার ক্ষেত্রফল (চিত্রে ছায়াবৃত অংশ) a-এর মাধ্যমে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "78c59467-d1db-4961-a39f-c98dd751f4fc",
+    "images": [
+      "images/43459_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি সামান্তরিক তৈরি করতে লোহার তার ব্যবহার করা হয়েছে। এই লোহার তারের দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45b17c60-3e41-43ab-b32f-01d3b988ba0e",
+    "images": [
+      "images/30053_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কোন চিত্রটি প্রদত্ত দিক নির্দেশনায় ভুল? (1) পশ্চিমের 20° দক্ষিণে, (2) উত্তরের 60° পূর্বে, (3) পূর্বের 45° উত্তরে, (4) পশ্চিমের 45° দক্ষিণে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9612725-5f57-407f-863f-fc5941346e3b",
+    "images": [
+      "images/34550_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের কোন চিত্রটিকে বামদিকের চিত্রটির স্থানান্তর (translation) এবং ঘূর্ণন (rotation) এর মাধ্যমে পাওয়া সম্ভব? সঠিক সংখ্যাটির ওপর “√” চিহ্ন দাও।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2a138fa4-eb0f-42e4-9fb3-111123175c5f",
+    "images": [
+      "images/65102_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আলোক রশ্মি 'a' সমতল দর্পণ CD-তে আপতিত হয়ে AB এবং CD দর্পণের মধ্যে প্রতিফলিত হচ্ছে। প্রতিফলন সূত্রানুসারে, আপতন কোণ প্রতিফলন কোণের সমান। যদি ∠1 = 35° এবং ∠3 = 75° হয়, তবে ∠2 এর মান কত?\n\nOptions:\nক) 50°\nখ) 55°\nগ) 66°\nঘ) 65°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "becb82f3-ae04-4c7a-9d97-dec6dad0b67c",
+    "images": [
+      "images/27461_0.png"
+    ],
+    "english_question": "<image>\n2008 সালে চীনের বেইজিংয়ে 29তম অলিম্পিক গেমস অনুষ্ঠিত হবে। চিত্রটি আন্তর্জাতিক অলিম্পিক কমিটির প্রতীক প্রদর্শন করছে, যা একই ব্যাসার্ধের পাঁচটি বৃত্ত নিয়ে গঠিত। এই নকশাটি হলো ( )\n\nOptions:\nক) It is neither an axis-symmetric figure nor a center-symmetric figure.\nখ) It is both an axis-symmetric figure and a center-symmetric figure.\nগ) It is a center-symmetric figure.\nঘ) It is an axis-symmetric figure.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9395f1d5-1c80-4868-9697-3a7b889d1955",
+    "images": [
+      "images/61885_0.png"
+    ],
+    "english_question": "<image>\nচিত্র ①-এ ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো (একক: সেমি)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8bed748-d467-4ed5-8825-b4bc534208d2",
+    "images": [
+      "images/26501_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট অর্ধবৃত্তের ব্যাস এবং C বিন্দুটি অর্ধবৃত্তটির একটি ত্রিখণ্ডক বিন্দু। যদি সেক্টর AOC-এর ক্ষেত্রফল S₁, ত্রিভুজ COB-এর ক্ষেত্রফল S₂ এবং বৃত্তচাপ BPC-এর অন্তর্গত অঞ্চলের ক্ষেত্রফল S₃ দ্বারা চিহ্নিত করা হয়, তবে এদের আকারের মধ্যে সম্পর্কটি কী হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2903eba5-c921-46ef-81c6-69af911e157d",
+    "images": [
+      "images/45278_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, B, C এবং D বিন্দুগুলো একটি গ্রিড গঠনকারী ছোট বর্গক্ষেত্রের শীর্ষবিন্দুতে অবস্থিত। রেখাংশ AB এবং CD বিন্দু P-তে ছেদ করে। BP: PE: AE এর অনুপাত নির্ণয় করো।\nOptions:\nd. Line segments AB and CD intersect at point P. Find the ratio of BP: PE: AE.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

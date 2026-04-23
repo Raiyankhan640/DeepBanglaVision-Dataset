@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ac1df1e5-9348-4019-aba3-4717aad85697",
+    "images": [
+      "images/26905_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমবাহু ত্রিভুজ ABC-এর বাহুগুলোর ওপর D, E এবং F বিন্দুগুলো অবস্থিত। EF বরাবর ভাঁজ করার পর, A বিন্দুটি D বিন্দুর সাথে মিলে যায় এবং দেওয়া আছে যে BD < DC। চিত্রে কতগুলো সমান কোণ রয়েছে?\nOptions:\nC) After folding along EF, point A coincides with point D, and it is given that BD < DC) How many equal angles are there in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e53fa035-2c59-4729-8130-29b683d05b03",
+    "images": [
+      "images/39782_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, AD হলো কোণ BAC-এর সমদ্বিখণ্ডক এবং BD > DC। নিচের কোন উক্তিটি সঠিক? ( )\nOptions:\nC) Which of the following statements is correct? ( )\nD's distance to side AB is greater than D's distance to side AC)\nD's distance to side AB is less than D's distance to side AC)\nD's distance to side AB is equal to D's distance to side AC)\nThe relationship between D's distance to side AB and D's distance to side AC is uncertain.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ef785fa-bb79-4a36-bea2-c003b89bfea7",
+    "images": [
+      "images/34402_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ভবনের উচ্চতা BC পরিমাপ করার জন্য, ভবন থেকে 10 মিটার দূরে অবস্থিত বিন্দু A থেকে ভবনের চূড়া B-এর উন্নতি কোণ α। ভবনটির উচ্চতা BC কত মিটার?\n\nOptions:\nক) 10 sin α\nখ) 10 tan α\nগ) 10sinα\nঘ) 10tanα",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60638b1d-8a77-4140-9400-7c2b0c5aeccb",
+    "images": [
+      "images/30075_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তক্ষেত্রের CD এবং AB বাহুর ওপর যথাক্রমে E এবং F বিন্দু অবস্থিত, যেখানে EF, AB-এর ওপর লম্ব। G এবং H বিন্দুদ্বয় যথাক্রমে BC এবং EF-এর মধ্যবিন্দু এবং EH > HG। EFBC আয়তক্ষেত্রটি ছাড়া, চিত্রের অন্য চারটি আয়তক্ষেত্র একে অপরের সদৃশ। যদি BC = 1 হয়, তবে AB-এর মান কত?\nক. \\(\\sqrt{2}\\)\nখ. 1+\\(\\frac{\\sqrt{2}}{2}\\)\nগ. \\(\\frac{\\sqrt{6}}{2}\\)\nঘ. 1+\\(\\frac{\\sqrt{3}}{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1aeabe89-ced5-4f6b-81d4-35aa3176aeb3",
+    "images": [
+      "images/12221_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, OM হলো ∠AOC এর সমদ্বিখণ্ডক এবং ON হলো ∠BOC এর সমদ্বিখণ্ডক। (1) যদি ∠AOC = 28° এবং ∠MON = 35° হয়, তবে ∠AOB এর মান নির্ণয় করো; (2) যদি ∠MON = n° হয়, তবে ∠AOB এর মান নির্ণয় করো; (3) যদি ∠MON এর মান পরিবর্তিত হয়, তবে কি ∠AOB এর মানও সেই অনুযায়ী পরিবর্তিত হবে? তাদের মানের মধ্যে সম্পর্কটি কী? তা লিখে দেখাও।\nOptions:\nC)\n(1) If ∠AOC = 28° and ∠MON = 35°, find the measure of ∠AOB;\n(2) If ∠MON = n°, find the measure of ∠AOB;\n(3) If the size of ∠MON changes, does the size of ∠AOB change accordingly? What is the relationship between their sizes? Please write it down.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c58880d-235d-4132-96cf-28d6f35e2adf",
+    "images": [
+      "images/64609_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের AB জ্যা-এর দৈর্ঘ্য বৃত্তের ব্যাসার্ধের সমান। C বিন্দুটি AMB চাপের উপর অবস্থিত একটি বিন্দু হলে, ∠ACB এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2abce546-e23a-4ca7-9eca-55c81c38eebf",
+    "images": [
+      "images/59595_0.png"
+    ],
+    "english_question": "<image>\nলিয়াওচেং-এ একটি বিখ্যাত লোকসংগীত আছে: \"ডংচাংফু-এর তিনটি সম্পদ আছে: লোহার টাওয়ার, প্রাচীন ভবন এবং জেড সম্রাটের প্যাভিলিয়ন।\" লোহার টাওয়ারটি, যা সম্পদের একটি হিসেবে বিবেচিত, উত্তর সং রাজবংশের শুরুর দিকে নির্মিত হয়েছিল এবং এটি শহরের প্রাচীনতম বিদ্যমান ভবন। চিত্রে দেখানো হয়েছে, একজন জরিপকারী টাওয়ারের শীর্ষবিন্দু (বিন্দু A) থেকে 10 মিটার দূরে অবস্থিত বিন্দু C থেকে টাওয়ারের উন্নতি কোণ পরিমাপ করে α পেয়েছেন। তিনি টাওয়ার থেকে 25 মিটার দূরে অবস্থিত বিন্দু D থেকে উন্নতি কোণ পরিমাপ করে β পেয়েছেন। যদি tan(α)tan(β)=1 হয় এবং বিন্দু D, C, এবং B একই সরলরেখায় অবস্থিত হয়, তবে জরিপকারীর পরিমাপ করা লোহার টাওয়ারের উচ্চতা প্রায় কত? (তথ্যসূত্র: √10 ≈ 3.162)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf8a551c-50f9-4a5f-a27d-b6189d2bfd24",
+    "images": [
+      "images/71073_0.png"
+    ],
+    "english_question": "<image>\nউপবৃত্ত $\\frac{x^2}{12} + \\frac{y^2}{4} = 1$ এবং পরাবৃত্ত $y^2 = 6x$ দেওয়া আছে। M পরাবৃত্তের উপর একটি চলমান বিন্দু এবং l রেখাটি M বিন্দুতে পরাবৃত্তের স্পর্শক। যদি l রেখাটি উপবৃত্তকে দুটি ভিন্ন বিন্দু A ও B-তে ছেদ করে এবং $\\angle APB$ স্থূলকোণ হয় (যেখানে P উপবৃত্তের শীর্ষবিন্দু), তবে AB রেখার ঢালের সম্ভাব্য সীমা নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b2f5ae00-d5b0-4bee-aa86-e8b3d9174126",
+    "images": [
+      "images/68355_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, ∠ABC = ∠ADC = 90°, ∠ACB = 29°, ∠ACD = 45° এবং E হলো কর্ণ AC-এর মধ্যবিন্দু। ∠BDE-এর মান নির্ণয় করো।\nOptions:\nC) Find the size of ∠BDE.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c386ec9c-20eb-40b6-af24-911b1092eeb3",
+    "images": [
+      "images/37457_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB রেখা এবং CD রেখা O বিন্দুতে ছেদ করে। ∠AOD এবং ∠BOC এর সমষ্টি 202° হলে, ∠AOC এর মান কত ডিগ্রি?\n\nOptions:\nক) 89°\nখ) 101°\nগ) 79°\nঘ) 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "823c8a02-b554-4ce4-bff6-d4c7d11c77af",
+    "images": [
+      "images/28132_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তকলা AOB-তে, ∠AOB = 60°, C বিন্দুটি AB চাপের মধ্যবিন্দু, D বিন্দুটি OA ব্যাসার্ধের উপর একটি চলমান বিন্দু (যা O বা A বিন্দুর সাথে মিলে যায় না), এবং OA = 4। CD রেখার সাপেক্ষে A বিন্দুর প্রতিসম বিন্দু হলো E। যদি E বিন্দুটি OB ব্যাসার্ধের উপর অবস্থিত হয়, তবে OE-এর দৈর্ঘ্য কত?\n\nOptions:\nক) $2 \\sqrt { 3 } - 2$\nখ) $4 \\sqrt { 3 } - 4$\nগ) $3 - { \\sqrt { 3 } }$\nঘ) $6 - 2 \\sqrt { 3 }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02b27c29-48f7-40a3-80c0-2487b1dcb247",
+    "images": [
+      "images/6680_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার লোহার পাতের এক প্রান্ত থেকে একটি বৃত্তাকার অংশ কেটে নেওয়া হলো। পাতটিকে ভাঁজ করলে এটি একটি খোলা মুখবিশিষ্ট বেলনাকার বালতিতে পরিণত হয়। পাতটির মোট দৈর্ঘ্য 12.42 ডেসিমিটার হলে, বালতিটির আয়তন নির্ণয় করো।\nOptions:\nd. When folded, it forms an open-top cylindrical bucket. The total length of the sheet is 12.42 dm. Find the volume of the bucket.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "535abc86-3fee-4ddd-8a47-45ff6ab895e7",
+    "images": [
+      "images/5_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC একটি ল্যাটিস ত্রিভুজ। চিত্রে ত্রিভুজ ABC-এর সর্বসম এবং একটি সাধারণ বাহু বিশিষ্ট (ত্রিভুজ ABC বাদে) কতগুলো ল্যাটিস ত্রিভুজ গঠন করা সম্ভব?\nOptions:\nC), is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "706e847b-0ce6-48c5-8114-b75035b3d7c5",
+    "images": [
+      "images/33115_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কার্ডবোর্ড ABCD থেকে 1 সেমি ব্যাসার্ধের একটি বৃত্তাকার অংশ এবং একটি বৃত্তকলা আকৃতির অংশ কেটে নেওয়া হলো যাতে সেগুলো দিয়ে একটি কোণ (শঙ্কু) তৈরি করা যায়। শঙ্কুটির মোট পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "771878c7-5601-4c56-ac5e-1bfb75583bc7",
+    "images": [
+      "images/19896_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমান প্রস্থের একটি কাগজের ফিতাকে ভাঁজ করা হলে, ∠1 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e409510-1d74-46c0-b8f5-8e9c04210bff",
+    "images": [
+      "images/57369_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AB অর্ধবৃত্তের ব্যাস, জ্যা AD ও BC বিন্দু P-এ ছেদ করে, দেওয়া আছে ∠DPB=60°, D চাপ BC-এর মধ্যবিন্দু, তবে tan∠ADC-এর মান কত? (ক) 1/2 (খ) 2 (গ) √3/3 (ঘ) √3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35998091-6ecf-4191-aff0-268f31e4134d",
+    "images": [
+      "images/37120_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বামদিকের বর্গাকার নকশাটির সাথে সর্বসম নকশাটি হলো ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e794ea9a-c0ab-45ec-8603-18a129399640",
+    "images": [
+      "images/7619_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে (2012 ঝুঝৌ সিমুলেশন), AB রেখাটি O কেন্দ্রবিশিষ্ট বৃত্তকে C বিন্দুতে স্পর্শ করে। D বৃত্তের ওপর একটি বিন্দু এবং ∠EDC = 30°। EF জ্যা-টি AB-এর সমান্তরাল। EF-এর দৈর্ঘ্য কত?\nOptions:\nB) What is the length of EF?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad36aacc-23fd-4755-b04e-0611f6d14fa3",
+    "images": [
+      "images/21777_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD-তে, কর্ণ AC এবং BD বিন্দু G-তে ছেদ করে, E হলো AD-এর মধ্যবিন্দু, এবং রেখা BE, AC-কে F বিন্দুতে ছেদ করে। যদি ∠BFA = 90° হয়, তবে নিচের চারটি ত্রিভুজ জোড়ার মধ্যে কোনগুলো সদৃশ?\n\nOptions:\nক) ①④\nখ) ①②④\nগ) ②③④\nঘ) ①②③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c8e5242-b334-478c-a453-a4f5d1d33ee0",
+    "images": [
+      "images/19335_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাস, বিন্দু C বৃত্তের ওপর অবস্থিত, CD, AB এর ওপর লম্ব এবং DE, BC এর সমান্তরাল। চিত্রে ত্রিভুজ ABC এর সদৃশ কয়টি ত্রিভুজ আছে?\nOptions:\nC) How many triangles similar to triangle ABC are there in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

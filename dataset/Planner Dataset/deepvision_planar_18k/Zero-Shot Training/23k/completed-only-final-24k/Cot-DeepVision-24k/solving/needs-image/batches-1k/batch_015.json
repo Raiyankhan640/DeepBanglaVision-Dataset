@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f9417ef3-115c-4b6c-8cc3-0c3124118380",
+    "images": [
+      "images/16550_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজ ABCD-তে, AD সমান্তরাল BC, AD = AB, ∠BCD = 45°, ∠BAD = 90°। ত্রিভুজ ABD-কে BD বরাবর এমনভাবে ভাঁজ করা হলো যেন তল ABD, তল BCD-এর ওপর লম্ব হয়, ফলে একটি ত্রিভুজাকার পিরামিড A—BCD গঠিত হলো। ত্রিভুজাকার পিরামিড A—BCD-এর ক্ষেত্রে নিচের কোন উক্তিটি সঠিক?\nOptions:\nD) Which of the following statements is correct in triangular pyramid A—BCD?\nPlane ABD is perpendicular to plane ABC)\nPlane ADC is perpendicular to plane BDC)\nPlane ABC is perpendicular to plane BDC)\nPlane ADC is perpendicular to plane ABC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35884184-92ff-4771-a105-f1eb472fbcab",
+    "images": [
+      "images/58773_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, চিত্রে AC=BC এবং AD=BD। নিচের কোন সিদ্ধান্তটি ভুল?\n\nOptions:\nক) CO = DO\nখ) AO = BO\nগ) AB ⊥ CD\nঘ) △ACO ≅ △BCO",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e5c67f01-423e-40b3-83c9-c3c643801604",
+    "images": [
+      "images/32974_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, রেখা l: y = (√3/3)x + 1, x-অক্ষকে A বিন্দুতে এবং y-অক্ষকে B বিন্দুতে ছেদ করে। A₁, A₂, A₃, ... বিন্দুগুলো x-অক্ষের উপর এবং B₁, B₂, B₃, ... বিন্দুগুলো l রেখার উপর অবস্থিত। যদি ত্রিভুজ △OB₁A₁, △A₁B₂A₂, △A₂B₃A₃, ... সবাই সমবাহু ত্রিভুজ হয়, তবে ত্রিভুজ △A₅B₆A₆-এর পরিসীমা কত?\n\nOptions:\nক) 24 \\( \\sqrt{3} \\)\nখ) 48 \\( \\sqrt{3} \\)\nগ) 96 \\( \\sqrt{3} \\)\nঘ) 192 \\( \\sqrt{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d1a25014-2119-4ca4-a9ef-8044579f5ec8",
+    "images": [
+      "images/34365_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি OA = OB হয়, তবে সংখ্যা রেখায় বিন্দু A দ্বারা নির্দেশিত সংখ্যাটি কত? ____________",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6fa961e4-26d1-4b5e-99d4-eff1b767a742",
+    "images": [
+      "images/triangle_ext_6fa961e4-26d1-4b5e-99d4-eff1b767a742.png"
+    ],
+    "english_question": "<image>\nচতুস্তলক ABCD-তে, E এবং F যথাক্রমে AB এবং CD বাহুর মধ্যবিন্দু। একটি তল α, EF-এর মধ্য দিয়ে অতিক্রম করে এবং BC ও AD রেখাকে যথাক্রমে G এবং H বিন্দুতে ছেদ করে। নিচের বিবৃতিগুলোর মধ্যে: ① যেকোনো তল α-এর জন্য, S<sub>△EFG</sub> = S<sub>△EFH</sub>; ② এমন একটি তল α<sub>0</sub> বিদ্যমান যাতে G বিন্দুটি BC রেখাংশের উপর এবং H বিন্দুটি AD রেখাংশের বর্ধিতাংশের উপর থাকে; ③ যেকোনো তল α-এর জন্য, রেখা GF, EH, এবং BD একই বিন্দুতে ছেদ করে অথবা সমান্তরাল; ④ যেকোনো তল α-এর জন্য, যখন G এবং H যথাক্রমে BC এবং AD রেখাংশের উপর থাকে, তখন জ্যামিতিক আকৃতি AC-EGFH-এর আয়তন একটি ধ্রুবক মান। নিচের কোন বিবৃতিগুলো সঠিক? ( )\nক. ①③④\nখ. ③④\nগ. ②③\nঘ. ①②③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54cdb8a5-d031-4dc3-968b-1bc9c4ef6dc1",
+    "images": [
+      "images/8782_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, রেখাংশ BD কোণ ABC কে সমদ্বিখণ্ডিত করে। AB সমান্তরাল CD হওয়ার জন্য কোন শর্তটি যুক্ত করতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "75fafa22-d742-4cd0-8a7f-b2feeddcd85e",
+    "images": [
+      "images/12124_0.png"
+    ],
+    "english_question": "<image>\nAC এবং BC হলো বৃত্ত O-এর দুটি স্পর্শক যা C বিন্দু দিয়ে যায়। D এবং E বিন্দু দুটি যথাক্রমে AC এবং BC বাহুর ওপর অবস্থিত। যদি ত্রিভুজ CED-এর পরিসীমা AC-এর পরিসীমার দ্বিগুণ হয়, তবে DE এবং বৃত্ত O-এর মধ্যে অবস্থানগত সম্পর্ক কী?\nOptions:\nC) Points D and E are on sides AC and BC, respectively. If the perimeter of triangle CED is twice that of AC, what is the positional relationship between DE and circle O?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "985a21d1-52bd-4c77-adfb-64002228d721",
+    "images": [
+      "images/57018_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, একটি ছোট পাহাড়ের চূড়ায় একটি সিগন্যাল টাওয়ার AB আছে এবং ঢাল BC এর নতি কোণ 30°। টাওয়ার AB এর উচ্চতা পরিমাপের জন্য, জরিপকারী পাহাড়ের পাদদেশে C বিন্দুকে পরিমাপ বিন্দু হিসেবে বেছে নিলেন। টাওয়ারের চূড়ার উন্নতি কোণ পরিমাপ করা হলো 45°। এরপর, জরিপকারী ঢাল বেয়ে 100 মিটার উপরে E বিন্দুতে গেলেন এবং পুনরায় টাওয়ারের চূড়ার উন্নতি কোণ পরিমাপ করলেন, যা পাওয়া গেল 60°। টাওয়ার AB এর উচ্চতা নির্ণয় করো (ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করো, √3 ≈ 1.73, √2 ≈ 1.41)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c70d8469-ddbf-492b-aa89-4b2d00e618e5",
+    "images": [
+      "images/2106_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে অক্ষীয় প্রতিসম (axisymmetric) চিত্র কয়টি? ( ) \nক. 2 \nখ. 3 \nগ. 4 \nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2ab1d251-019e-4b3c-a68b-1c6af311811d",
+    "images": [
+      "images/659_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তিনটি অর্ধবৃত্ত পরস্পর স্পর্শ করে আছে এবং তাদের ব্যাসার্ধগুলো AC রেখার ওপর অবস্থিত। DB রেখা AC-এর ওপর লম্ব। DA রেখাটি ছোট অর্ধবৃত্তকে P বিন্দুতে এবং DC রেখাটি মাঝারি অর্ধবৃত্তকে Q বিন্দুতে ছেদ করে। যদি DB = 10 হয়, তবে PQ = কত?\nOptions:\nC) Line DB is perpendicular to AC, and line DA intersects the small circle at point P, while line DC intersects the medium circle at point Q. If DB is 10, then PQ = ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d27b47f-ddc5-4af1-8ea8-afb2a1c7091f",
+    "images": [
+      "images/39968_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কোণ θ-এর প্রান্তিক বাহু একক বৃত্তকে P(-√5/5, 2/√5) বিন্দুতে ছেদ করে। cos(π - θ)-এর মান কত?\n\nOptions:\nক) -\\frac{2}{5}\nখ) -\\frac{5}{5}\nগ) \\frac{5}{5}\nঘ) \\frac{2}{5}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "12ae2899-7a08-45b0-931c-2b7dee123884",
+    "images": [
+      "images/10816_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, যদি \\(AD\\) সমান্তরাল \\(EF\\) এবং \\(BC\\) হয়, তবে চিত্রটিতে কত জোড়া সদৃশ ত্রিভুজ বিদ্যমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9856d32-8241-4dae-881c-4737e9073861",
+    "images": [
+      "images/20581_0.png"
+    ],
+    "english_question": "<image>\nএকটি স্কেলকে চিত্রে প্রদর্শিত পদ্ধতিতে একটি ত্রিভুজাকার সেট স্কয়ারের সাথে 45-ডিগ্রি কোণে রাখা হয়েছে। যদি ∠1 = 35° হয়, তবে ∠2-এর পরিমাপ ডিগ্রিতে কত? ( )\nক. 115°\nখ. 125°\nগ. 130°\nঘ. 135°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c9c4398-e2ac-41e9-a827-282f0f17624b",
+    "images": [
+      "images/22667_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, m রেখা n রেখার সমান্তরাল এবং ত্রিভুজ ABC একটি সমকোণী সমদ্বিবাহু ত্রিভুজ। যদি ∠1 = 30° হয়, তবে ∠2 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c46bd70e-7f83-40d4-baa8-9aec779967a3",
+    "images": [
+      "images/66841_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত O-এর ব্যাস AB = 20, কেন্দ্র O। DP বৃত্তকে D বিন্দুতে স্পর্শ করে এবং PB-এর উপর লম্ব, PD = 8। PB বৃত্তকে C বিন্দুতে ছেদ করে। A কে মূলবিন্দু এবং AB কে x-অক্ষ ধরে কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করো। BD রেখার সমীকরণ নির্ণয় করো।\nOptions:\nC) Establish a Cartesian coordinate system with A at origin and AB along the x-axis. Find the equation of line BD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5e92863f-6365-41da-b480-bea79eebd212",
+    "images": [
+      "images/46748_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, AE, BC-এর উপর লম্ব এবং E লম্ববিন্দু। AE, BD-কে G বিন্দুতে ছেদ করে। যদি DG = 2AB এবং ∠DBC = 25^\\circ হয়, তবে ∠ABD-এর মান কত?\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33b24451-71a0-4e28-adcb-e2a3ea439f64",
+    "images": [
+      "images/triangle_ext_33b24451-71a0-4e28-adcb-e2a3ea439f64.png"
+    ],
+    "english_question": "<image>\nডান পাশের চিত্রে প্রদর্শিত সমতলীয় অঞ্চলে, $z = m x + y$ (যেখানে $m > 0$)-এর সর্বোচ্চ মানের জন্য অনুকূল সমাধানগুলোর অসীম সংখ্যক সমাধান রয়েছে। m-এর মান কত?\nক. $\\frac{7}{20}$\nখ. $\\cdot\\,\\frac{7}{20}$\nগ. $\\textstyle{\\frac{1}{2}}$\nঘ. 不存在",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f55160c5-2814-4c11-9f85-933559f071c5",
+    "images": [
+      "images/66827_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 3×3 গ্রিডে AB বাহুবিশিষ্ট এবং গ্রিড পয়েন্টে অবস্থিত অন্য একটি শীর্ষবিন্দুসহ সমদ্বিবাহু ত্রিভুজের সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c793db85-2984-4b13-8f7d-fc8b1dbd9c7e",
+    "images": [
+      "images/25901_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ \\(\\triangle ABC\\)-কে বিন্দু \\(C\\)-এর সাপেক্ষে ঘড়ির কাঁটার দিকে \\(60^{\\circ}\\) কোণে ঘুরিয়ে \\(\\triangle A'B'C\\) পাওয়া গেল। যদি \\(AC=6\\) এবং \\(BC=4\\) হয়, তবে রেখাংশ \\(AB\\) দ্বারা অতিক্রান্ত ক্ষেত্রের ক্ষেত্রফল কত?\nক. \\( \\dfrac {2}{3}π\\)\nখ. \\( \\dfrac {8}{3}π\\)\nগ. \\(6π\\)\nঘ. \\( \\dfrac {10}{3}π\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "14cadee0-b64f-445a-ab0c-06219c136155",
+    "images": [
+      "images/13829_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজাকার অঞ্চলে একবার বালির ব্যাগ নিক্ষেপ করলে তা ছায়াযুক্ত অংশে পড়ার সম্ভাবনা কত? (অঞ্চলের প্রতিটি ছোট ত্রিভুজ রঙের ভিন্নতা ছাড়া অভিন্ন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

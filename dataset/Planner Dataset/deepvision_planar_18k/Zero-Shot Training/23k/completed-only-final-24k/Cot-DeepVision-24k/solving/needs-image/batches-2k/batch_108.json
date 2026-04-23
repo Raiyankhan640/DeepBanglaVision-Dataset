@@ -1,0 +1,302 @@
+[
+  {
+    "id": "fb59617f-edd2-4705-aba7-e628cfe0e3ec",
+    "images": [
+      "images/14531_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ⊙O₁ এবং ⊙O₂ বৃত্ত দুটি T বিন্দুতে বহিঃস্থভাবে স্পর্শ করেছে এবং তাদের ব্যাসার্ধের অনুপাত 3:2। AB হলো তাদের সাধারণ বহিঃস্পর্শক, যেখানে A ও B স্পর্শবিন্দু এবং AB = 4√6। ⊙O₁ এবং ⊙O₂ বৃত্ত দুটির কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত?\n\nOptions:\nক) 5√6\nখ) 10√6\nগ) 10\nঘ) 20√39",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b259c02e-e3af-495e-a4a8-df61462c2843",
+    "images": [
+      "images/17571_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। নিচের কোন ত্রিমাত্রিক বস্তুটি এই দৃশ্যগুলোর সাথে মিলে যায়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a81cc090-592f-49ca-9017-d4bc72e9f17b",
+    "images": [
+      "images/43692_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি আকৃতির মধ্যে কোনটি 6টি অভিন্ন বর্গক্ষেত্র দ্বারা গঠিত একটি ঘনকের নেটের (net) চিত্র?\n\nOptions:\nক) ①②③\nখ) ②③④\nগ) ①③④\nঘ) ①②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cbed3f3f-301d-4200-8222-1d436db8d187",
+    "images": [
+      "images/67445_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক চিত্রে, নিচের কোন উক্তিটি সঠিক? ( )\n\nOptions:\nক) ∠1 and ∠4 are not corresponding angles\nখ) ∠2 and ∠4 are corresponding angles\nগ) ∠2 and ∠4 are alternate interior angles\nঘ) ∠3 and ∠4 are same-side interior angles",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3af5ef6-43e2-47e5-b417-d03023bc6c23",
+    "images": [
+      "images/4018_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, একটি বর্গাকার গ্রিডে, যদি \\( \\triangle ABC \\sim \\triangle PBD \\) হয়, তবে বিন্দু P-এর অবস্থান কোথায় হওয়া উচিত ( )\n\nOptions:\nক) P_1\nখ) P_2\nগ) P_3\nঘ) P_4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ca37422-16b5-4730-b991-6e0f917f8288",
+    "images": [
+      "images/68182_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, B এবং C বিন্দুগুলো বর্গাকার গ্রিড রেখার ছেদবিন্দুতে অবস্থিত। যদি ত্রিভুজ ABC-কে বিন্দু A-এর সাপেক্ষে ঘড়ির কাঁটার বিপরীত দিকে ঘুরিয়ে ত্রিভুজ ACB' পাওয়া যায়, তবে tan B' এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1dd89192-79a0-4b21-9170-dc587ec017d2",
+    "images": [
+      "images/69042_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AE, AB-এর উপর লম্ব এবং AE = AB। BC, CD-এর উপর লম্ব এবং BC = CD। চিত্রে চিহ্নিত তথ্য অনুযায়ী কঠিন রেখা দ্বারা আবদ্ধ আকৃতির ক্ষেত্রফল S নির্ণয় করো: S = ______।\nOptions:\nB) BC is perpendicular to CD, and BC equals CD) Please calculate the area S of the shape enclosed by the solid lines according to the data marked in the figure: S = ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6b962517-a7d7-46fc-91aa-32e8c16647d0",
+    "images": [
+      "images/74333_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, AB = AC এবং AD হলো BC বাহুর ওপর লম্ব। E ও F বিন্দুদ্বয় AD-কে সমত্রিখণ্ডিত করে। যদি ত্রিভুজ ABC-এর ক্ষেত্রফল 12 বর্গ সেমি হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?\nOptions:\nD) If the area of triangle ABC is 12 cm², then the area of the shaded region is ______ cm².",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6dbe991e-2168-47c9-a5eb-e5adbb582465",
+    "images": [
+      "images/71273_0.png"
+    ],
+    "english_question": "<image>\nএই আকৃতিটির পরিসীমা কত সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b76d4c83-10bd-4e66-9d9f-f3605a2818ea",
+    "images": [
+      "images/40137_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1) একটি সুষম পঞ্চভুজাকৃতির প্রিজম আকৃতির উঁচু দালান নির্দেশ করে এবং চিত্র (2) হলো এর ওপরের দৃশ্য। যখন শাও জিয়ান মাটি থেকে দালানটি পর্যবেক্ষণ করে, তখন চিত্র (2)-এ চিহ্নিত ছায়াবৃত অঞ্চলে চলাচলের সময় সে দালানের তিনটি পার্শ্ব দেখতে পায়। ∠MPN কোণের পরিমাপ কত? ( )\nক. 30°\nখ. 36°\nগ. 45°\nঘ. 72°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e0395788-90ad-4594-9991-d4cd8a42385f",
+    "images": [
+      "images/28085_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, যখন জাহাজ A, বিন্দু A-তে থাকে, তখন সেটি জানতে পারে যে 20 নটিক্যাল মাইল ঠিক পূর্বে অবস্থিত B বিন্দুতে একটি মাছ ধরার নৌকা বিপদে পড়েছে। জাহাজ A তৎক্ষণাৎ উদ্ধারের জন্য যাত্রা শুরু করে এবং জাহাজ B-কে জানায়, যেটি জাহাজ A থেকে 10 নটিক্যাল মাইল দক্ষিণ-পশ্চিমে (30 ডিগ্রি) অবস্থিত। জাহাজ B তৎক্ষণাৎ উত্তর-পূর্ব দিকে \\(θ + 30^{\\circ}\\) কোণে উদ্ধারের জন্য B বিন্দুর দিকে যাত্রা করে। তবে, \\(\\sin θ = \\) ______।\nOptions:\nA) Ship B immediately heads towards point B at an angle of \\(θ + 30^{\\circ}\\) to the northeast for the rescue. Then, \\(\\sin θ = \\) ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24efa0c5-a66e-4a32-99bd-f04f7b55cd48",
+    "images": [
+      "images/27610_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে সরলকোণ অপেক্ষা ছোট কতগুলো কোণ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "67d933a7-ffe3-435c-b833-fefefbe09aa6",
+    "images": [
+      "images/37716_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-কে বিন্দু A-এর সাপেক্ষে ঘড়ির কাঁটার বিপরীত দিকে 40° কোণে ঘোরানো হলো, যার ফলে ত্রিভুজ AB'C' উৎপন্ন হয়। বিন্দু C' ঠিক বাহু AB-এর ওপর অবস্থিত। BB' যোগ করলে, ∠BB'C'-এর মান কত?\n\nOptions:\nক) 10°\nখ) 15°\nগ) 20°\nঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06aeadc1-fbfa-432b-b955-9dfb2e7b27e9",
+    "images": [
+      "images/24374_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দুটি সর্বসম রম্বসের প্রতিটি বাহুর দৈর্ঘ্য 1 সেমি। একটি পিঁপড়া বিন্দু A থেকে যাত্রা শুরু করে রম্বসের বাহু বরাবর ABCDEF ক্রমে চলতে থাকে। 2015 সেমি পথ অতিক্রম করার পর পিঁপড়াটি কোথায় থামবে?\n\nOptions:\nক) Point B\nখ) Point C\nগ) Point G\nঘ) Point E",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6cc48564-2e3b-4cfc-bd19-30d277d63339",
+    "images": [
+      "images/32737_0.png"
+    ],
+    "english_question": "<image>\n(2012 অটাম • তাইসিং সিটি স্কুল লেভেল মান্থলি এক্সাম) দেওয়া আছে: চিত্রে প্রদর্শিত সামান্তরিক ABCD-এর কর্ণদ্বয় AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। DE ∥ AC এবং CE ∥ BD। চতুর্ভুজ OCED-কে একটি আয়তক্ষেত্র হতে হলে, সামান্তরিক ABCD-এর জন্য অতিরিক্ত যে শর্তটি পূরণ করতে হবে তা হলো ____ (একটি শর্ত লিখ)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "903ceb78-4b67-4922-84e9-4dfd036ef7fb",
+    "images": [
+      "images/40566_0.png"
+    ],
+    "english_question": "<image>\nদুটি সমান্তরাল রেখা a এবং b-কে একটি রেখা l ছেদ করেছে এবং ∠1 = 60°। ∠2-এর মান কত ডিগ্রি?\n\nOptions:\nক) 30°\nখ) 45°\nগ) 60°\nঘ) 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0c8e8b90-c279-44aa-9b1b-1ed87fcf90bc",
+    "images": [
+      "images/44458_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। যদি AB = 5, AO = 2, এবং OB = 1 হয়, তবে চতুর্ভুজ ABCD-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "448fb8e6-5fbd-4195-a07c-871619609d36",
+    "images": [
+      "images/7841_0.png"
+    ],
+    "english_question": "<image>\nএকটি ট্রাপিজিয়ামের শীর্ষবিন্দুগুলো হলো (0, 0), (1, 0), (1.5, 1) এবং (-0.5, 1)। ট্রাপিজিয়ামটির পরিসীমা মিলিমিটারে নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa276261-750e-4883-9b36-1624c77892bb",
+    "images": [
+      "images/24104_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি চাঁদার বাইরের প্রান্তে A, B এবং C বিন্দু তিনটি অবস্থিত। A এবং B বিন্দুদ্বয়ের পাঠ যথাক্রমে 80° এবং 50°। সুতরাং, ∠ACB এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "404066f9-094e-4efa-aedd-a8934bfd6130",
+    "images": [
+      "images/7103_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার বাক্সের ভেতরে একটি বল রাখা আছে, যার কিছু অংশ বাক্সের বাইরে বেরিয়ে আছে। চিত্রটিতে প্রস্থচ্ছেদ দেখানো হয়েছে। যদি EF = 4√3 সেমি এবং CD = 6 সেমি হয়, তবে প্রস্থচ্ছেদের ছায়াবৃত অংশের ক্ষেত্রফল (সেমি^2 এ) কত?\n\nOptions:\nক) \\( \\dfrac{16}{3}π \\)\nখ) \\( \\dfrac{8}{3}π−4 \\sqrt{3} \\)\nগ) \\( \\dfrac{16}{3}π−4 \\sqrt{3} \\)\nঘ) \\( \\dfrac{8}{3}π−2 \\sqrt{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

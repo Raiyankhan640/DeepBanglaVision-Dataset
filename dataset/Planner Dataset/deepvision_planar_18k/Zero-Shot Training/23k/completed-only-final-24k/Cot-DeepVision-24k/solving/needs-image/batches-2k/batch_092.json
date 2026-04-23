@@ -1,0 +1,362 @@
+[
+  {
+    "id": "694f3288-fb59-4f55-90a5-ca192ec7f35c",
+    "images": [
+      "images/5566_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, G হলো BC-এর বর্ধিতাংশের একটি বিন্দু, AG রেখা BD-কে E বিন্দুতে এবং DC-কে F বিন্দুতে ছেদ করে। চিত্রে কত জোড়া সদৃশ ত্রিভুজ আছে?\n\nOptions:\nক) 3 pairs\nখ) 4 pairs\nগ) 5 pairs\nঘ) 6 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ddc49fa-1cce-412c-815a-b48e99545848",
+    "images": [
+      "images/triangle_ext_8ddc49fa-1cce-412c-815a-b48e99545848.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য এবং পরিমাপ চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পরিবৃত্তের ব্যাসার্ধ কত? ( )\nক. $\\frac{1}{2}$\nখ. $\\frac{\\sqrt{3}}{16}$\nগ. $\\frac{17}{4}$\nঘ. $\\frac{\\sqrt{17}}{4}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6c4770a5-42ed-4425-8c77-10adbfaf6856",
+    "images": [
+      "images/68692_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, হ্রদের পাশ দিয়ে রাস্তা তৈরির সময় রাস্তাটিকে হ্রদের চারপাশ দিয়ে ঘুরতে হয়। যদি প্রথম বাঁকের কোণ ∠A = 120°, দ্বিতীয় বাঁকের কোণ ∠B = 150° এবং তৃতীয় বাঁকের কোণ ∠C হয়, এবং এই অবস্থায় রাস্তাটি প্রথম বাঁকের আগের রাস্তার সাথে সমান্তরাল হয়, তবে ∠C এর মান কত?\n\nOptions:\nক) 120°\nখ) 130°\nগ) 140°\nঘ) 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f80e1e48-516e-4a38-bfbc-81c787201d62",
+    "images": [
+      "images/triangle_ext_f80e1e48-516e-4a38-bfbc-81c787201d62.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কত? ( )\nক. $6\\pi+4$\nখ. $12\\pi+4$\nগ. $6\\pi+12$\nঘ. $12\\pi+12$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "afce6aac-859b-4b6a-ab19-ebf1ce210c8b",
+    "images": [
+      "images/29219_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনটি অক্ষীয় প্রতিসম (axisymmetric) চিত্র? ( )\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6cb2403-68ad-4b8d-8cba-2d84e6e402a8",
+    "images": [
+      "images/40438_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে সমবাহু ত্রিভুজগুলোকে একটি নির্দিষ্ট বিন্যাসে সাজানো হয়েছে। 4র্থ চিত্রে মোট কতটি সমবাহু ত্রিভুজ আছে?\n\nOptions:\nক) \\(160\\)\nখ) \\(161\\)\nগ) \\(162\\)\nঘ) \\(163\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "99316d8e-e1cf-414a-b87c-46d610a341e2",
+    "images": [
+      "images/55517_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l₁ এবং রেখা l₂ সমান্তরাল এবং তারা ত্রিভুজ ABC-এর বাহু AB-কে ছেদ করে। যদি ∠A = 50° এবং ∠1 = 35° হয়, তবে ∠2-এর মান কত? ( )\n\nOptions:\nক) 35°\nখ) 65°\nগ) 85°\nঘ) 95°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "596101fd-1238-4ad5-b1e0-47ba1191e1f1",
+    "images": [
+      "images/64937_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে রুলার, ত্রিভুজাকৃতি রুলার এবং বৃত্তাকার নাটটিকে টেবিলের ওপর স্থাপন করা হলো। দেওয়া আছে, ∠CAB = 60° এবং AD = 6 সেমি। বৃত্তাকার নাটটির বাইরের ব্যাস কত?\n\nOptions:\nক) \\(12cm\\)\nখ) \\(24cm\\)\nগ) \\(6 \\sqrt {3}cm\\)\nঘ) \\(12 \\sqrt {3}cm\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60fe0446-54c0-418d-b36b-d1a5c5a3ac7a",
+    "images": [
+      "images/46097_0.png"
+    ],
+    "english_question": "<image>\nএরূপ কয়টি বিন্দু D পাওয়া সম্ভব?\n\nOptions:\nক) 25°\nখ) 30°\nগ) 50°\nঘ) 65°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf10df79-162c-454f-b747-363ae78459f2",
+    "images": [
+      "images/4388_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\( \\alpha \\perp \\beta \\), \\( \\alpha \\cap \\beta = l \\), \\( A \\in \\alpha \\), \\( B \\in \\beta \\), \\( A \\) ও \\( B \\) থেকে \\( l \\)-এর দূরত্ব যথাক্রমে \\( a \\) ও \\( b \\)। \\( AB \\) রেখাংশ \\( \\alpha \\) ও \\( \\beta \\)-এর সাথে যে কোণ উৎপন্ন করে তা যথাক্রমে \\( \\theta \\) ও \\( \\varphi \\)। \\( \\alpha \\) ও \\( \\beta \\)-এর ওপর \\( AB \\)-এর অভিক্ষেপ যথাক্রমে \\( m \\) ও \\( n \\)। যদি \\( a > b \\) হয়, তবে ( )\n\nOptions:\nক) \\( \\theta > \\varphi , \\; \\; m > n \\)\nখ) \\( \\theta > \\varphi , \\ \\ m < n \\)\nগ) \\( \\theta < \\varphi , \\; \\; m < n \\)\nঘ) \\( \\theta < \\varphi , \\; \\; m > n \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54786554-6293-42ea-a2dc-b98f9a8097c6",
+    "images": [
+      "images/46097_0.png"
+    ],
+    "english_question": "<image>\nএরূপ কয়টি বিন্দু D পাওয়া সম্ভব?\n\nOptions:\nক) 25°\nখ) 30°\nগ) 50°\nঘ) 65°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4dd86e9b-93ea-493f-b6c5-7a5ad0846f7d",
+    "images": [
+      "images/52995_0.png"
+    ],
+    "english_question": "<image>\nদ্বিতল কোণ α - l - β = 120°। বিন্দু A ও B, প্রান্ত l-এর দুটি বিন্দু এবং রেখাংশ AC ও BD যথাক্রমে অর্ধতল α ও β-এ। AC, l-এর উপর লম্ব, BD, l-এর উপর লম্ব এবং AB = AC = BD = 1। CD-এর দৈর্ঘ্য কত? ক. √2 খ. √3 গ. 2 ঘ. √5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "316fd4b2-6cf1-4ad0-8db3-5305040e001c",
+    "images": [
+      "images/triangle_ext_316fd4b2-6cf1-4ad0-8db3-5305040e001c.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-এর কোণ দ্বিখণ্ডক CD এবং BE, F বিন্দুতে ছেদ করে, যেখানে ∠A=90°, EG রেখাটি BC রেখার সমান্তরাল এবং CG রেখাটি EG-এর ওপর G বিন্দুতে লম্ব। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① ∠CEG=2∠DCB; ② CA, ∠BCG-কে দ্বিখণ্ডিত করে; ③ ∠ADC=∠GCD; ④ ∠DFB= 1/2 ∠CGE। নিচের কোন সিদ্ধান্তগুলো সঠিক?\nক. \\(①③\\)\nখ. \\(②④\\)\nগ. \\(①③④\\)\nঘ. \\(①②③④\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "09acedf5-1b3d-460c-a1ec-3183d1b48f10",
+    "images": [
+      "images/19498_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি ত্রিভুজাকার স্কেল আছে, যার মাঝখানে 2 সেমি ব্যাসের একটি বৃত্তাকার ছিদ্র রয়েছে। এখন, যদি ত্রিভুজাকার স্কেল a-এর 30° কোণটি ত্রিভুজাকার স্কেল b-এর বৃত্তাকার ছিদ্রের মধ্যে প্রবেশ করানো হয়, তবে ত্রিভুজাকার স্কেল a-এর যে অংশটি ত্রিভুজাকার স্কেল b-এর বৃত্তাকার ছিদ্র দিয়ে অতিক্রম করে তার সর্বোচ্চ ক্ষেত্রফল কত? ( ) বর্গ সেমি (ত্রিভুজাকার স্কেলের পুরুত্ব উপেক্ষা করে)\n\nOptions:\nক) $_{2+\\sqrt{3}}$\nখ) $2\\sqrt{3}$\nগ) 4\nঘ) $4+\\sqrt[]{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "744ea3fa-0133-402e-95af-324d77ac00cb",
+    "images": [
+      "images/68589_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে চারটি বিবৃতি দেওয়া আছে: (1) ∠1 এবং ∠3 অনুরূপ কোণ; (2) ∠4 এবং ∠1 অনুরূপ কোণ; (3) ∠2 এবং ∠5 একান্তর অন্তঃস্থ কোণ; (4) ∠2 এবং ∠3 একই পার্শ্বস্থ অন্তঃস্থ কোণ। সঠিক বিবৃতির সংখ্যা কত? ( )\nক. 0\nখ. 1\nগ. 2\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb3fe2b8-b9bd-4b31-be00-78cbc441ef06",
+    "images": [
+      "images/7842_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, AC = 4, এবং BC বাহুর লম্ব দ্বিখণ্ডক DE, BC এবং AB বাহুকে যথাক্রমে D এবং E বিন্দুতে ছেদ করে। যদি ত্রিভুজ AEC-এর পরিসীমা 14 হয়, তবে রেখা DE-এর যেকোনো বিন্দু থেকে A এবং C বিন্দুর দূরত্বের সমষ্টির সর্বনিম্ন মান কত?\n\nOptions:\nক) 28\nখ) 18\nগ) 10\nঘ) 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f1b8eab4-c884-488b-abcc-29254de82d0f",
+    "images": [
+      "images/66366_0.png"
+    ],
+    "english_question": "<image>\nABCD একটি বর্গক্ষেত্র এবং E বিন্দুটি DC বাহুর উপর অবস্থিত। BE যোগ করি এবং ত্রিভুজ BCE-কে C বিন্দুর সাপেক্ষে ঘড়ির কাঁটার দিকে 90° কোণে আবর্তন করে ত্রিভুজ DCF পাওয়া গেল। EF যোগ করি। যদি ∠BEC = 60° হয়, তবে ∠EFD এর মান কত ডিগ্রি?\n\nOptions:\nক) 10°\nখ) 15°\nগ) 20°\nঘ) 25°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d5be5811-9b54-4ebd-bc43-0c17eb8c67fa",
+    "images": [
+      "images/triangle_ext_d5be5811-9b54-4ebd-bc43-0c17eb8c67fa.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 8 \\times 4 আয়তক্ষেত্রাকার গ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। যদি ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দু সংশ্লিষ্ট গ্রিড পয়েন্টে থাকে, তবে tan ∠ACB-এর মান কত?\nক. \\frac{1}{3}\nখ. \\frac{1}{2}\nগ. \\frac{\\sqrt{2}}{2}\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "613a5bf8-62b9-4e91-bcee-ef8c13af1471",
+    "images": [
+      "images/51341_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB একটি অর্ধবৃত্তের ব্যাস, D বিন্দুটি AC চাপের মধ্যবিন্দু এবং ∠ABC = 50°। ∠DAB-এর মান কত?\nক. 55°\nখ. 60°\nগ. 65°\nঘ. 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9beedb2b-dd52-43fe-b072-a126ffcc2f7f",
+    "images": [
+      "images/55518_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমতল α ⊥ সমতল β, বিন্দু A ∈ α, বিন্দু B ∈ β। রেখাংশ AB এর সাথে সমতল α এবং β এর উৎপন্ন কোণ যথাক্রমে π/4 এবং π/6। সমতল α এবং β এর ছেদক রেখা l এর উপর রেখাংশ AB এর অভিক্ষেপ হলো A'B'। যদি AB = 12 হয়, তবে A'B' = কত?\n\nOptions:\nক) 4\nখ) 6\nগ) 8\nঘ) 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

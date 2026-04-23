@@ -1,0 +1,302 @@
+[
+  {
+    "id": "37072003-65fa-4c61-8c01-26f4f3e49aad",
+    "images": [
+      "images/36586_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে BC বৃত্ত O-এর ব্যাস এবং AB বৃত্ত O-এর একটি জ্যা। A বিন্দুতে অঙ্কিত স্পর্শক BC-এর বর্ধিতাংশকে D বিন্দুতে ছেদ করে। যদি AB = AD = 2√3 হয়, তবে চাপ AC-এর দৈর্ঘ্য কত?\nOptions:\nD) If AB = AD = 2 \\sqrt{3}, then the length of arc AC is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a9418a96-460c-4175-8779-ba337a3c621d",
+    "images": [
+      "images/49822_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ডোভটেইল খাঁজের প্রস্থচ্ছেদ একটি সমদ্বিবাহু ট্রাপিজিয়াম, যেখানে ডোভটেইল কোণ ∠B = 55°, বাইরের প্রস্থ AD = 190 মিমি এবং ডোভটেইল খাঁজের গভীরতা 70 মিমি। ভিতরের প্রস্থ BC নির্ণয় করো (1 মিমি পর্যন্ত সঠিক)। (দেওয়া আছে, cot 55° = 0.7002)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3d39c78-60bc-40eb-8713-fc26d8f4e55e",
+    "images": [
+      "images/24597_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2012•শিজিয়াজুয়াং সেকেন্ড মক এক্সাম), শাওমিং আঠালো কাগজ ব্যবহার করে একটি বড় হাতের 'A' অক্ষর কেটেছে। যদি ∠1 = 72° হয়, তবে ∠α এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "89e5015f-04b8-41f7-b6b5-a47ffa435b68",
+    "images": [
+      "images/30600_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 10 একক বাহুবিশিষ্ট ABCD বর্গক্ষেত্রের অভ্যন্তরে PQRS চতুর্ভুজটি অবস্থিত। SE, BC বাহুর উপর লম্ব এবং PF, CD বাহুর উপর লম্ব। যদি RQ = 9, EQ = 2 এবং RF = 3 হয়, তবে PQRS চতুর্ভুজের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "df6d7832-adda-4538-8f20-df0b82881d43",
+    "images": [
+      "images/39569_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কয়টি রম্বস (diamond) আছে? সংখ্যাটি জোড় না বিজোড়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "635d5c7a-0cf0-4c14-9318-cdbab8f02f2d",
+    "images": [
+      "images/14420_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি শিক্ষা ভবনের শীর্ষে একটি বোর্ড \"সভ্যতা উত্তরাধিকার, সত্য খোঁজা\" রয়েছে। ঢালের পাদদেশের বিন্দু A থেকে বোর্ডের নিচের বিন্দু D এর উন্নতি কোণ হিসাব করে দেখা যায় যে এটি 60°। ঢাল বেয়ে বিন্দু B পর্যন্ত যাওয়ার পর, বোর্ডের শীর্ষ বিন্দু C এর উন্নতি কোণ হিসাব করে দেখা যায় যে এটি 45°। দেওয়া আছে যে, AB ঢালের ঢাল 1:√3, AB=10 মিটার, এবং AE=15 মিটার, বোর্ডের উচ্চতা CD কত? (কোণ মাপার যন্ত্রের উচ্চতা অগণ্য, এবং ফলাফল 0.1 মিটার পর্যন্ত সঠিক হবে। প্রস্তুত তথ্য: √2≈1.414, √3≈1.732)\nOptions:\nD) (The height of the angle measuring device is negligible, and the result should be accurate to \\(0.1\\) meters. Reference data: \\( \\sqrt {2}≈1.414\\), \\( \\sqrt {3}≈1.732\\).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c85dd63-02ad-480a-b91f-d3960bd4a660",
+    "images": [
+      "images/38109_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত O-এর জ্যা AB এবং CD পরস্পর M বিন্দুতে ছেদ করে এবং চাপ AC = চাপ BC। M বিন্দুটি AB-এর মধ্যবিন্দু হওয়ার জন্য কোন শর্তটি যোগ করা যেতে পারে?\nOptions:\nC) What condition can be added to conclude that M is the midpoint of AB?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d5de4e5-c162-4a22-98da-37a429a2d3e0",
+    "images": [
+      "images/62232_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে চারটি মুক্তভাবে ঘূর্ণনক্ষম ডায়াল দেখানো হয়েছে, যাদের প্রতিটি কতগুলো সমান ভাগে বিভক্ত। ডায়ালগুলো ঘূর্ণন থামানোর পর, কোন ডায়ালগুলোর সাদা অংশের দিকে নির্দেশ করার সম্ভাবনা সমান? ( )\nক. ডায়াল 2 এবং ডায়াল 3\nখ. ডায়াল 2 এবং ডায়াল 4\nগ. ডায়াল 3 এবং ডায়াল 4\nঘ. ডায়াল 1 এবং ডায়াল 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e082b321-856b-441b-9ec9-dc63b8249e5d",
+    "images": [
+      "images/24192_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন গাড়ির লোগোটিকে একটি কেন্দ্রিক প্রতিসম চিত্র হিসেবে বিবেচনা করা যেতে পারে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "15efb4f3-125a-4d21-ac21-7c06b7e0a09a",
+    "images": [
+      "images/13075_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সুষম পঞ্চভুজের প্রতিসাম্য রেখা l-এর ওপর এমন একটি বিন্দু P নির্ণয় করো যাতে ত্রিভুজ △PCD এবং △PDE উভয়ই সমদ্বিবাহু ত্রিভুজ হয়। এই শর্ত পূরণকারী বিন্দুর সংখ্যা কতটি?\nক. 4\nখ. 5\nগ. 6\nঘ. 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "243ca4be-ea8c-41ce-b8d5-168d6c7257a5",
+    "images": [
+      "images/7959_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DH সমান্তরাল GE, AF কোণ HAB-কে সমদ্বিখণ্ডিত করে এবং CB কোণ GCF-কে সমদ্বিখণ্ডিত করে। যদি কোণ F, কোণ B-এর দ্বিগুণের চেয়ে 60° কম হয়, তবে কোণ BAH কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf952a95-3afd-402c-a23c-4a6b4325890c",
+    "images": [
+      "images/triangle_ext_bf952a95-3afd-402c-a23c-4a6b4325890c.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকার রুলার চিত্রে প্রদর্শিত অনুযায়ী রাখা হয়েছে এবং ∠1 এর মান ∠2 এর মান থেকে 50° বেশি। যদি আমরা ∠1 = x^{\\circ} এবং ∠2 = y^{\\circ} ধরি, তবে কোন সমীকরণ পদ্ধতিটি পাওয়া যাবে?\nক. $$\\begin{array}{l}{\\left\\{\\begin{array}{l l}{x=y-50}\\\\ {x+y=180}\\end{array}\\right.}\\end{array}$$\nখ. $$\\begin{array}{l}{\\left\\{{x=y+50}\\right.}\\\\ {\\left.{x+y=180}\\right.}\\end{array}$$\nগ. $$\\begin{array}{c}{\\left\\{x=y-50\\right.}\\\\ {\\left.\\begin{array}{l l}{x+y=90}\\end{array}\\right.}\\end{array}$$\nঘ. $$\\begin{array}{c}{\\left\\{x=y+50\\right.}\\\\ {\\left.x+y=90\\right.}\\end{array}$$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "924f5ba2-8027-44f6-ab7a-bea385f570f0",
+    "images": [
+      "images/22158_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি সাধারণ বইয়ের কাগজ মূল কাগজকে বারবার ভাঁজ করে তৈরি করা হয়। আয়তক্ষেত্র ABCD-কে EF বরাবর ভাঁজ করা হয়, তারপর আয়তক্ষেত্র EFCD-কে MN বরাবর ভাঁজ করা হয়, এবং এভাবে চলতে থাকে। যদি সব আকারের আয়তক্ষেত্রগুলো সদৃশ হয়, তবে AB/AD-এর মান কত?\nক. 0.618\nখ. √2/2\nগ. √2\nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c1467771-950b-4064-9fe2-162fd3ac57a3",
+    "images": [
+      "images/76480_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ প্রদর্শিত একটি জ্যামিতিক কঠিন বস্তুর সম্মুখ এবং বাম দিকের দৃশ্য দেওয়া আছে। চিত্র 2-এর কতগুলো আকৃতি বৈধ শীর্ষ দৃশ্য (top view) হতে পারে তা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb0c7d82-dd6c-4db2-9a76-51117e55188f",
+    "images": [
+      "images/50607_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বড় এবং ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য যথাক্রমে 10 সেমি এবং 8 সেমি। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7217da0-f7d1-445c-9dd1-a5060583809a",
+    "images": [
+      "images/13849_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1)-এ প্রদর্শিত জ্যামিতিক বস্তুটির সামনের দৃশ্য (front view) কোনটি হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7fc8de5e-5096-4d2b-a009-e222e58fde59",
+    "images": [
+      "images/69216_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমকোণী ত্রিভুজ যার ∠C = 90°। ত্রিভুজটিকে মধ্যমা DE বরাবর কাটা হলো এবং প্রাপ্ত দুটি অংশকে পুনরায় এমনভাবে সাজানো হলো যাতে তারা একে অপরের ওপর উপরিপাতিত না হয়। নিচের কোন আকৃতিটি গঠন করা সম্ভব নয়?\n\nOptions:\nক) Parallelogram\nখ) Rectangle\nগ) Isosceles Trapezoid\nঘ) Right Trapezoid",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d3589562-ae2f-4359-bab7-6528d9fb4d91",
+    "images": [
+      "images/36707_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-এর কোণ সমদ্বিখণ্ডক AD এবং মধ্যমা BE পরস্পরকে O বিন্দুতে ছেদ করে। নীচের কোন সিদ্ধান্তগুলো সঠিক? ① AO হলো ত্রিভুজ ABE-এর কোণ সমদ্বিখণ্ডক; ② BO হলো ত্রিভুজ ABD-এর মধ্যমা; ③ DE হলো ত্রিভুজ ADC-এর মধ্যমা; ④ ED হলো ত্রিভুজ EBC-এর কোণ সমদ্বিখণ্ডক।\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "018e0a13-c6e3-4896-9d5c-c75c69d26f0a",
+    "images": [
+      "images/55849_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, কোণ ∠1 ও ∠2 অনুরূপ কোণ ( ) ক. (1) একটি। খ. (2) দুটি। গ. (3) তিনটি। ঘ. (4) চারটি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b8b66eb-67eb-4a94-9733-0ab18ca65f5c",
+    "images": [
+      "images/69330_0.png"
+    ],
+    "english_question": "<image>\nএকটি পানির চ্যানেলের প্রস্থচ্ছেদ পরাবৃত্তাকার যার শীর্ষ O, প্রস্থ EF = 4 মিটার এবং উচ্চতা 3 মিটার। প্রস্থচ্ছেদটিকে একটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে পরিবর্তন করতে হবে, যার উচ্চতা একই থাকবে এবং অসমান্তরাল বাহু AD ও BC পরাবৃত্তকে M ও N বিন্দুতে স্পর্শ করবে, এবং AB রেখাটি O বিন্দুগামী। খননকৃত মাটির পরিমাণ সর্বনিম্ন করতে নিচের ভূমি AB-এর দৈর্ঘ্য কত হওয়া উচিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

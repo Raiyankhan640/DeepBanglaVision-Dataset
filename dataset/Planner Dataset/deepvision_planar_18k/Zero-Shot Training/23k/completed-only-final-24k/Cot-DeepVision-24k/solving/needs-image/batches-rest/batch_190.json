@@ -1,0 +1,302 @@
+[
+  {
+    "id": "e6651b6c-5ffa-43ea-9a14-cd036a7b0706",
+    "images": [
+      "images/20221_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014 হেনান সিমুলেশন), 60° কোণবিশিষ্ট ত্রিভুজ ABC-কে A শীর্ষবিন্দুর চারদিকে 45° ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ AB'C' পাওয়া যায়। B বিন্দুর চলার পথ হলো BB' চাপ। যদি ∠BAC=60° এবং AC=1 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "397accb3-9cad-49d3-bd9d-7af78916e15e",
+    "images": [
+      "images/68764_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্রগুলোর একটি দল এমনভাবে সাজানো হয়েছে যে, শীর্ষবিন্দু B_1 y-অক্ষের উপর অবস্থিত এবং শীর্ষবিন্দু C_1, E_1, E_2, C_2, E_3, E_4, C_3 ইত্যাদি x-অক্ষের উপর অবস্থিত। দেওয়া আছে যে, বর্গক্ষেত্র A_1B_1C_1D_1 এর বাহুর দৈর্ঘ্য 1, ∠B_1C_1O = 60° এবং B_1C_1 // B_2C_2 // B_3C_3। তাহলে বর্গক্ষেত্র A_2017B_2017C_2017D_2017 এর বাহুর দৈর্ঘ্য কত?\n\nOptions:\nক) \\( ( \\dfrac {1}{2})^{2016}\\)\nখ) \\( ( \\dfrac {1}{2})^{2017}\\)\nগ) \\( ( \\dfrac { \\sqrt {3}}{3})^{2016}\\)\nঘ) \\( ( \\dfrac { \\sqrt {3}}{3})^{2017}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97fe6d4d-ccd8-48f1-b481-02fd562603bc",
+    "images": [
+      "images/40836_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PA, PB এবং DE রেখাংশগুলো যথাক্রমে A, B এবং C বিন্দুতে বৃত্ত O-কে স্পর্শ করে। যদি বৃত্ত O-এর ব্যাসার্ধ 6 এবং OP = 10 হয়, তবে ত্রিভুজ PDE-এর পরিসীমা কত?\n\nOptions:\nক) 10\nখ) 12\nগ) 16\nঘ) 20",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "82433c18-a051-4aad-9ad6-be42033b7860",
+    "images": [
+      "images/48563_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি সমতল আকৃতি দেখানো হয়েছে যা ভাঁজ করে একটি ঘনক তৈরি করা যায়। '城' (শহর) অক্ষরের বিপরীত অক্ষরটি কোনটি?\n\nOptions:\nক) 厨 (kitchen)\nখ) 出 (exit)\nগ) 广 (broad)\nঘ) 东 (east)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "676d5a8b-d2b4-485d-bf4a-0ed98cf94399",
+    "images": [
+      "images/38588_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, AD সমান্তরাল BC, এবং AC ও BD কর্ণদ্বয় O বিন্দুতে ছেদ করে। যদি ত্রিভুজ BCO, CDO এবং ADO-এর ক্ষেত্রফল যথাক্রমে S_1, S_2 এবং S_3 হয়, তবে (S_1 + S_3) / S_2-এর মানের সীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "58fb1c6d-c1dc-45f2-965a-86591730198a",
+    "images": [
+      "images/50092_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত এল-আকৃতির বাঁধাকপির ক্ষেতের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a072aa05-1221-49e1-b8ea-0001c5f4c433",
+    "images": [
+      "images/23119_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, E এবং F বিন্দুদ্বয় যথাক্রমে AD এবং BC বাহুর মধ্যবিন্দু। কর্ণ AC, রেখা BE এবং DF-কে M এবং N বিন্দুতে ছেদ করে। নিচের সিদ্ধান্তগুলো দেওয়া হলো: 1. ত্রিভুজ ABM, ত্রিভুজ CDN-এর সর্বসম; 2. AM = 1/3 AC; 3. DN = 2NF; 4. চতুর্ভুজ BFNM-এর ক্ষেত্রফল সামান্তরিক ABCD-এর ক্ষেত্রফলের 1/4 অংশ। কোন সিদ্ধান্তগুলো সঠিক?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b27c8cf0-0f36-4216-b997-138530b8970b",
+    "images": [
+      "images/3437_0.png"
+    ],
+    "english_question": "<image>\nকোন ত্রিভুজটি সদৃশ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33cdb861-5930-43cb-9e85-8273b4450972",
+    "images": [
+      "images/70549_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, ∠1 এবং ∠2 এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b7cd60a-1a93-4e17-8582-d159b02877ef",
+    "images": [
+      "images/45283_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজ x বার ভাঁজ করার পর, খোলার পর সমান্তরাল ভাঁজের সংখ্যা হয় n। কাগজটি x+1 বার ভাঁজ করলে সমান্তরাল ভাঁজের সংখ্যা কত হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a89deb9b-6d09-4656-880c-4845dea5f61f",
+    "images": [
+      "images/56458_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক কঠিন বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। গ্রিডের প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 একক। এই জ্যামিতিক কঠিন বস্তুটির পার্শ্বতলের ক্ষেত্রফল কত? \nক. 12π \nখ. 15π \nগ. 20π \nঘ. 24π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69f621b8-fb43-41b1-8615-df073dc58b42",
+    "images": [
+      "images/53454_0.png"
+    ],
+    "english_question": "<image>\nলিমিন কমিউনিটিতে, তিনটি ভিন্ন আকারের সমবাহু ত্রিভুজ নিয়ে গঠিত একটি সবুজ সৌন্দর্যবর্ধন পার্ক রয়েছে। বিন্দু A থেকে শুরু করে, সৌন্দর্যবর্ধন পার্কের চারপাশে হেঁটে আসতে কত দূরত্ব অতিক্রম করতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3eb016f7-385a-4e9a-9a0b-2a403786ebdc",
+    "images": [
+      "images/35614_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l₁ রেখাটি l₂ রেখার সমান্তরাল এবং তারা যথাক্রমে ত্রিভুজ ABC-এর AB ও AC বাহুকে ছেদ করে। যদি ∠A = 50° এবং ∠1 = 35° হয়, তবে ∠2-এর মান কত?\n\nOptions:\nক) 95°\nখ) 65°\nগ) 85°\nঘ) 35°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0a24dac8-86d2-493a-be8f-96f05a8285d6",
+    "images": [
+      "images/19497_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক বস্তু (a)-এর দৃশ্য (b)-এর নাম কী?\nOptions:\nb) of the geometric body (a) shown in the figure is .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6a0540b-05b6-44f5-afe9-94764a8cb0cb",
+    "images": [
+      "images/11422_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত O-তে, AB হলো ব্যাস, বিন্দু D বৃত্ত O-এর উপর অবস্থিত, বিন্দু C হলো চাপ AD-এর মধ্যবিন্দু, জ্যা CE, AB-এর উপর E বিন্দুতে লম্ব, D বিন্দুতে অঙ্কিত স্পর্শক EC-এর বর্ধিতাংশকে G বিন্দুতে ছেদ করে এবং রেখা AD, CE ও CB-কে যথাক্রমে P ও Q বিন্দুতে ছেদ করে। নিচের কোন সিদ্ধান্তগুলো সঠিক? ① ∠DAC = ∠ABC; ② AD = CB; ③ বিন্দু P, ত্রিভুজ ACQ-এর পরিবৃত্তের কেন্দ্র; ④ AC² = AE • AB; ⑤ CB ∥ GD.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3fd8714c-1037-4183-a3f5-c81350f46bfb",
+    "images": [
+      "images/26594_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, যেখানে কোণ A সূক্ষ্মকোণ এবং AB > AC, AH হলো BC-এর উপর লম্ব যার পাদবিন্দু H। E, D এবং F হলো বাহুগুলোর মধ্যবিন্দু। EDHF কী ধরনের চতুর্ভুজ?\n\nOptions:\nক) Trapezoid\nখ) Isosceles Trapezoid\nগ) Right Trapezoid\nঘ) Rectangle",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "704ce6c5-c22c-4259-9365-6ffc04d6c46f",
+    "images": [
+      "images/810_0.png"
+    ],
+    "english_question": "<image>\nএকটি বাঁকানো পাইপ তৈরির সময়, প্রথমে কেন্দ্ররেখা বরাবর \"আনফোল্ডেড দৈর্ঘ্য\" বা প্রসারিত দৈর্ঘ্য নির্ণয় করা প্রয়োজন, এবং তারপর উপাদানটি কাটতে হয়। নিচের ছবিতে একটি বাঁকানো পাইপের অংশ দেখানো হয়েছে, যেখানে ∠O=∠O'=90°, এবং কেন্দ্ররেখার দুটি চাপের ব্যাসার্ধই 1000 মিমি। এই বাঁকানো পাইপটির আনফোল্ডেড দৈর্ঘ্য প্রায় কত? (π = 3.14 ধরে) ( ) \nক. 9280 মিমি \nখ. 6280 মিমি \nগ. 6140 মিমি \nঘ. 4570 মিমি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5291f66e-dd64-41dc-bc01-2bdc6b621fe5",
+    "images": [
+      "images/40858_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, প্রতীকী ভাষায় এর প্রকাশ হলো ( )\nক. \\(α∩β=\\) \\(m\\), \\(n\\)\\(⊂α\\), \\(m\\)\\(∩\\) \\(n\\)\\(=A\\)\nখ. \\(α∩β=\\) \\(m\\), \\(n\\)\\(\\inα\\), \\(m\\)\\(∩\\) \\(n\\)\\(=A\\)\nগ. \\(α∩β=\\) \\(m\\), \\(n\\)\\(⊂α\\), \\(A⊂\\) \\(m\\), \\(A⊂\\) \\(n\\)\nঘ. \\(α∩β=\\) \\(m\\), \\(n\\)\\(\\inα\\), \\(A\\in\\) \\(m\\), \\(A\\in\\) \\(n\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "abd5a477-d19e-4ede-856d-5277d992949d",
+    "images": [
+      "images/18347_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, দুটি রেখা l₁ এবং l₂ মূলবিন্দু O দিয়ে অতিক্রম করে এবং যথাক্রমে x-অক্ষ ও y-অক্ষের সাথে 30° কোণ উৎপন্ন করে। দেওয়া আছে যে, PQ রেখাংশের দৈর্ঘ্য 2, বিন্দু P(x₁, y₁) রেখা l₁ বরাবর এবং বিন্দু Q(x₂, y₂) রেখা l₂ বরাবর চলে। বিন্দু M(x₁, x₂) এর সঞ্চারপথ C এর সমীকরণ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b5892564-667f-41a9-b518-b7948983b0c2",
+    "images": [
+      "images/31775_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো মতো, চিত্রটিতে ( ) জোড়া একান্তর কোণ রয়েছে।\nক. 2 জোড়া\nখ. 3 জোড়া\nগ. 4 জোড়া\nঘ. 5 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

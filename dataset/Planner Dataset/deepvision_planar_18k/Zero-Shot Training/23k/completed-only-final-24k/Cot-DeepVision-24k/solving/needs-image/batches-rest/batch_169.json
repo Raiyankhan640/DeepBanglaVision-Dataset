@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bffc2324-f71f-4a65-8f38-be5a3dee302a",
+    "images": [
+      "images/39785_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ত্রিভুজের তিনটি বাহুকে যথাক্রমে 2, 3, 4,... সমান ভাগে ভাগ করা হয়েছে এবং চিত্র 1, 2, এবং 3-এ দেখানো অনুযায়ী বিভাজন বিন্দুগুলো যুক্ত করা হয়েছে। এভাবে প্রাপ্ত ছোট ত্রিভুজগুলো সর্বসম। এই পদ্ধতি অনুসরণ করে, যখন তিনটি বাহুকে 10টি সমান ভাগে ভাগ করা হয়, তখন প্রাপ্ত সর্বসম ছোট ত্রিভুজের সংখ্যা কত হবে ( )?\n\nOptions:\nক) 98\nখ) 99\nগ) 100\nঘ) 101",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07f7dc66-21ac-4616-b648-138bc4ba2dd4",
+    "images": [
+      "images/4894_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো অনুযায়ী একটি ত্রিভুজাকার রুলার স্থাপন করুন, যাতে বিন্দু A রেখা DE-এর উপর থাকে এবং BC, DE-এর সমান্তরাল হয়। কোণ AFC-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0c6ce191-11c5-4f8b-97d0-6b1910e0cfcd",
+    "images": [
+      "images/9207_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, P বিন্দুটি সামান্তরিক ABCD-এর AB বাহুর উপর অবস্থিত। E এবং F বিন্দু দুটি যথাক্রমে PD এবং PC-এর ত্রিখণ্ডক বিন্দু (P-এর নিকটবর্তী)। ছায়াবৃত অংশের ক্ষেত্রফল এবং চতুর্ভুজ CDEF-এর ক্ষেত্রফলের অনুপাত কত?\n\nOptions:\nক) $ \\frac {1}{2}$\nখ) $ \\frac {10}{3}$\nগ) $ \\frac {9}{8}$\nঘ) $ \\frac {5}{4}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "df1a0c42-a2b7-4f4e-b5cc-f7fdbbee2977",
+    "images": [
+      "images/65813_0.png"
+    ],
+    "english_question": "<image>\n“Mouhefanggai” হলো আমাদের গণিতবিদ লিউ হুই কর্তৃক গোলকের আয়তন নির্ণয়ের সময় উদ্ভাবিত একটি জ্যামিতিক কাঠামো। এটি চারটি অভিন্ন বক্রতল দ্বারা গঠিত। এর সম্মুখ দৃশ্য (front view) এবং পার্শ্ব দৃশ্য (side view) সম্পূর্ণ একই হলে, এর সম্মুখ দৃশ্য এবং শীর্ষ দৃশ্য (top view) কী হতে পারে?\n\nOptions:\nক) (a), (b)\nখ) (a), (c)\nগ) (c), (b)\nঘ) (b), (d)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "83cd47b9-b0d7-4ea6-86eb-765fd08a7bd0",
+    "images": [
+      "images/67426_0.png"
+    ],
+    "english_question": "<image>\nএকটি রুলার এবং একটি ত্রিভুজাকার রুলার চিত্রে প্রদর্শিত উপায়ে রাখা হয়েছে। যদি ∠1 = 140° হয়, তবে ∠2 এর মান কত ডিগ্রি?\n\nOptions:\nক) \\(30^{\\circ}\\)\nখ) \\(40^{\\circ}\\)\nগ) \\(50^{\\circ}\\)\nঘ) \\(60^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6952a9f-6c7f-48a2-942c-610711485c0d",
+    "images": [
+      "images/55412_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজকে \"বর্গাকৃতি\" করার ধারণাটি হলো: প্রথমে ত্রিভুজটিকে ক্ষেত্রফল-সমতুল্য একটি ______ (চিত্রের নাম লেখো)-এ রূপান্তর করা, এবং তারপর সেটিকে ক্ষেত্রফল-সমতুল্য একটি বর্গক্ষেত্রে রূপান্তর করা।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6de7be60-1466-47ad-8b37-fa9a6fd99ca8",
+    "images": [
+      "images/38912_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে গ্রিড পেপারের ওপর বর্গক্ষেত্রগুলোর বাহুর দৈর্ঘ্য 1। ঘন রেখাগুলো একটি নির্দিষ্ট জ্যামিতিক ঘনবস্তুর তিনটি দৃশ্য নির্দেশ করে। এই ঘনবস্তুটির আয়তন কত?\nক. 30\nখ. 50\nগ. 75\nঘ. 150",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2f631a30-3d99-48dd-9e0c-c29f67cec585",
+    "images": [
+      "images/9138_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AE, ∠BAC-কে সমদ্বিখণ্ডিত করে এবং CE, ∠ACD-কে সমদ্বিখণ্ডিত করে। কোন শর্তে AB ∥ CD নিশ্চিতভাবে বলা যায় না? ( )\n\nOptions:\nক) ∠1 = ∠2\nখ) ∠1 + ∠2 = 90°\nগ) ∠3 + ∠4 = 90°\nঘ) ∠2 + ∠3 = 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ec02519-d3b4-4c75-b3d2-9b6f7f02b344",
+    "images": [
+      "images/45775_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বিন্দু A এর অবস্থান দেখানো হয়েছে। বিন্দু A এর অবস্থান সম্পর্কে নিচের কোন বক্তব্যটি সঠিক? ( )\n\nOptions:\nক) Distance 4 km from point O\nখ) 4 km in the direction of 40° east of north\nগ) 4 km in the direction of 50° east of north from point O\nঘ) 4 km in the direction of 40° east of north from point O",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "293f7aa5-7b75-429b-83ba-0c5e18bc216d",
+    "images": [
+      "images/53339_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD রম্বসে AB=AC, E এবং F বিন্দুদ্বয় যথাক্রমে AB এবং BC বাহুর উপর অবস্থিত এবং AE=BF। CE এবং AF রেখাদ্বয় H বিন্দুতে ছেদ করে। নিচের সিদ্ধান্তগুলো নেওয়া হলো: ① ΔABF ≅ ΔCAE; ② ∠AHC = 120°; ③ ΔAEH ~ ΔCEA; ④ AE·AD = AH·AF। সঠিক সিদ্ধান্তের সংখ্যা হলো ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9d58ea5-1f53-4fc5-81b7-0a3e1f288b34",
+    "images": [
+      "images/30152_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, ⊙O হলো △ABC-এর পরিবৃত্ত। দেওয়া আছে ∠ABO = 25°, তবে ∠ACB-এর মান কত?\n\nOptions:\nক) 50°\nখ) 55°\nগ) 65°\nঘ) 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "915c7a07-9ed2-446a-9a2d-58b9af6844c9",
+    "images": [
+      "images/19812_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2016•নিঙ্গবো দ্বিতীয় মক পরীক্ষা), একটি নিয়মিত ত্রিভুজাকার গ্রিডে, রম্বস M-কে ঘূর্ণনের মাধ্যমে রম্বস N-এ রূপান্তরিত করা যায়। নিচের কোন বিন্দুটি ঘূর্ণনের কেন্দ্র হতে পারে?\nক. বিন্দু D\nখ. বিন্দু B\nগ. বিন্দু A\nঘ. বিন্দু C",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a511664b-633a-4b6d-9a7c-8d79d981a031",
+    "images": [
+      "images/69298_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি ঘনকের উন্মুক্ত রূপ। 'bridge' (桥)-এর বিপরীতে কী আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "01ecc224-0149-4d8b-85f4-5652a0e5984e",
+    "images": [
+      "images/9947_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয়কে EF রেখা ছেদ করেছে। ∠1 এর একান্তর অন্তঃস্থ কোণটি চিহ্নিত করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0749208a-83d6-48d0-87e3-849b53fa3d0c",
+    "images": [
+      "images/24293_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1। M হলো CD বাহুর মধ্যবিন্দু। বিন্দু P যখন A-B-C-M পথে চলে, তখন অতিক্রান্ত দূরত্ব x-এর সাপেক্ষে ত্রিভুজ APM-এর ক্ষেত্রফলের ফাংশনের আকৃতি কেমন হবে?\nOptions:\nD) When point P moves along A-B-C-M, with the distance $x$ traveled by point P as the independent variable, the shape of the area function of triangle APM is approximately ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a012bc38-285e-4060-bd3c-250c4c40f175",
+    "images": [
+      "images/38134_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয় E বিন্দুতে ছেদ করে। যদি ΔAEC সর্বসম ΔBED হয়, তবে নিচের কোনটি ভুল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c0053652-0ba4-4832-8520-6cceecb2781d",
+    "images": [
+      "images/23414_0.png"
+    ],
+    "english_question": "<image>\n8 মিটার উচ্চতা বিশিষ্ট একটি ফ্ল্যাগপোল DE একটি খিলানযুক্ত ব্রিজ সংবলিত রাস্তার ওপর EF ছায়া ফেলে। 1.6 মিটার লম্বা একজন ব্যক্তির ছায়ার দৈর্ঘ্য 2.4 মিটার। দেওয়া আছে EG = 3 m, HF = 1 m এবং ব্রিজের খিলানের উচ্চতা MN = 2 m, ব্রিজের খিলানটি যে বৃত্তের অংশ তার ব্যাসার্ধ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e8c73eac-0c22-43fd-96ca-e72a37285a52",
+    "images": [
+      "images/35830_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OA রেখাংশ OB এর উপর লম্ব। যদি OA রশ্মির দিক উত্তর দিকের সাথে পূর্ব দিকে 65° কোণে থাকে, তবে OB রশ্মির দিক কোনটি?\nOptions:\nB) If the direction of ray OA is 65° east of north, then the direction of ray OB is.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c69fc13-bf3b-4b27-90b8-372b08510ec9",
+    "images": [
+      "images/53298_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজ ABC দেওয়া আছে যেখানে ∠C = 90°, AC = 4, এবং BC = 3। বিন্দু O, AC বাহুর উপর অবস্থিত এবং এটি একটি বৃত্তের কেন্দ্র যা BC বাহুকে C বিন্দুতে স্পর্শ করে। যদি এই বৃত্তটি AB বাহুর উপর FG জ্যা তৈরি করে যার দৈর্ঘ্য (2√31)/5 হয়, তবে বৃত্তটির ব্যাসার্ধ নির্ণয় করো।\nOptions:\nC) If the chord FG intercepted by this circle on side AB has length $\\frac{2\\sqrt{31}}{5}$, find the radius of the circle.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ac6769d1-9d12-45f6-86ad-66adfaa0282b",
+    "images": [
+      "images/10468_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। জ্যামিতিক বস্তুটির আয়তন কত? ( ) \nক. 2/3 \nখ. 4/3 \nগ. 5/3 \nঘ. 7/3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

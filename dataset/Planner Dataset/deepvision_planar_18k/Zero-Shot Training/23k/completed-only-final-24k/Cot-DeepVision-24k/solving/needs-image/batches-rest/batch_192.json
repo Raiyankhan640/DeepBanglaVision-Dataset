@@ -1,0 +1,302 @@
+[
+  {
+    "id": "64540ac3-25cd-45a3-aad4-7053cdf471b4",
+    "images": [
+      "images/39791_0.png"
+    ],
+    "english_question": "<image>\nবাম পাশের চিত্রে একটি ত্রিমাত্রিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\nক. 48\nখ. 48 + 8√17\nগ. 32 + 8√17\nঘ. 80",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aab2138c-0e9e-4440-9604-031cd839625c",
+    "images": [
+      "images/48159_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন শর্তটি নির্দেশ করে যে AB রেখাংশ CD রেখাংশের সমান্তরাল?\n\nOptions:\nক) ∠3 = ∠5\nখ) ∠2 = ∠4\nগ) ∠1 = ∠2 + ∠3\nঘ) ∠D + ∠4 + ∠5 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6b4b6b27-0825-4029-9d78-6bef1b85ff41",
+    "images": [
+      "images/40055_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 6টি ছোট ঘনক সাজালে কয়টি তল উন্মুক্ত থাকে?\n\nOptions:\nক) 21\nখ) 23\nগ) 25\nঘ) 27",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa96f799-87f4-4dcd-a062-293bdde852fd",
+    "images": [
+      "images/25503_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, l1, l2 এবং l3 রেখাগুলো একটি বিন্দুতে ছেদ করে এবং l4 রেখাটি l1 রেখার সমান্তরাল। যদি ∠1 = 36° এবং ∠2 = 56° হয়, তবে ∠3 এর মান কত?\nক. 92°\nখ. 88°\nগ. 56°\nঘ. 36°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8f6d399-a6c1-4aff-9b0f-9cdbfa4daf55",
+    "images": [
+      "images/9501_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে রেখা l₁ সমান্তরাল রেখা l₂-এর, কোণ ∠1 এবং ∠2 পরস্পর পূরক, এবং ∠4 = 149°, তাহলে ∠3-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a545f9ff-056e-410e-bf96-f2f76e23dbf8",
+    "images": [
+      "images/58027_0.png"
+    ],
+    "english_question": "<image>\nনিচের বাম চিত্রের কোন জ্যামিতিক আকৃতি নিম্নলিখিত সমতল আকৃতি ঘুরিয়ে পাওয়া যায়? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3690b7df-8d59-41fe-baa5-78caa8bd2a62",
+    "images": [
+      "images/58301_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠B=∠C=90°, AE, ∠BAD কে সমদ্বিখণ্ডিত করে এবং DE, ∠ADC কে সমদ্বিখণ্ডিত করে। যদি S_{△CDE} = 2/3 S_{△ABE} হয়, তবে S_{△DEC} : S_{△ADE} = কত?\nOptions:\nC) If S<sub>△CDE</sub>=<table><tr><td>2</td></tr><tr><td>3</td></tr></table>S<sub>△ABE</sub>, then S<sub>△DEC</sub>: S<sub>△ADE</sub>= .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cdf394ad-80cf-446b-85cb-ba8e15466e22",
+    "images": [
+      "images/44969_0.png"
+    ],
+    "english_question": "<image>\nএকটি বাগানের বাহুগুলোর দৈর্ঘ্য 40 মিটার, 20 মিটার, 35 মিটার ও 15 মিটার। আপনার কাছে 150 মিটার বেড়া থাকলে কি আপনি বাগানটি সম্পূর্ণরূপে ঘেরাতে পারবেন? তোমার উত্তরের যুক্তি দাও।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c1df7c03-8c05-4c39-bcef-9a1201aab2eb",
+    "images": [
+      "images/17475_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত যৌগিক আকৃতির ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a91d3b1a-53b7-4b05-b8e2-889af9dd6961",
+    "images": [
+      "images/7312_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রতিটি বড় ত্রিভুজের ভেতরে সাদা ত্রিভুজগুলোর বিন্যাসের ধরন পর্যবেক্ষণ করো। 5ম বড় ত্রিভুজে কয়টি সাদা ত্রিভুজ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fdf16d10-33ed-4776-9dcc-62a99b0f5939",
+    "images": [
+      "images/54392_0.png"
+    ],
+    "english_question": "<image>\nOE হলো ∠AOB এর সমদ্বিখণ্ডক এবং AO = BO। তাহলে OE রেখার সাপেক্ষে প্রতিসম ত্রিভুজ জোড়ার সংখ্যা কতটি ( )?\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d4df3821-bc61-4754-8db3-dadd5d252bf9",
+    "images": [
+      "images/69762_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো অনুযায়ী একটি সেট স্কয়ার স্থাপন করো, যাতে বিন্দু A, DE-এর ওপর থাকে এবং ∠BCE = ∠E হয়। ∠CAD-এর মান নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c5359f9-4bc6-4334-bb73-2028e914cab0",
+    "images": [
+      "images/66735_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রবিশিষ্ট বৃত্তে, AB ব্যাস = 6, BC একটি জ্যা, ∠ABC = 30°, P বিন্দুটি BC-এর উপর অবস্থিত এবং Q বিন্দুটি বৃত্তের পরিধির উপর অবস্থিত, যেখানে OP ⊥ PQ। যদি PQ ∥ AB হয়, তবে PQ-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5718895b-5781-40aa-b54b-fa8766df3aa6",
+    "images": [
+      "images/44451_0.png"
+    ],
+    "english_question": "<image>\nধরি, ABCD একটি সামান্তরিক যার শীর্ষবিন্দুগুলো A(1,0), B(3,1), C(3,3) এবং D বিন্দুটি x > 0 এর জন্য y = m/x বিপরীত সমানুপাতিক ফাংশনের ওপর অবস্থিত। P বিন্দুটি এই ফাংশন এবং y = kx + 3 - 3k (যেখানে k ≠ 0) সরলরেখার ছেদবিন্দু। যখন x বৃদ্ধির সাথে সাথে y বৃদ্ধি পায়, তখন P বিন্দুর x-স্থানাঙ্কের সীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb810c4f-6347-40d0-83a8-a84137103613",
+    "images": [
+      "images/5302_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি বস্তুর মডেল দেখানো হয়েছে। এর আয়তন নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6bd1e63e-3665-47ac-9763-78e4b115a0f5",
+    "images": [
+      "images/72402_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে, চিত্রানুসারে ∠AOB কোণটি স্থাপন করা হয়েছে। tan ∠AOB এর মান কত?\n\nOptions:\nক) $\\frac { \\sqrt { 5 } } { 5 }$\nখ) $\\frac { 2 \\sqrt { 5 } } { 5 }$\nগ) $\\frac { 1 } { 2 }$\nঘ) 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "86dd7bd2-f0c3-4678-9a6a-2a7d66c74029",
+    "images": [
+      "images/17792_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, a ও b রেখাদ্বয়কে c রেখা ছেদ করেছে। চারটি শর্ত দেওয়া হলো: ①∠2=∠7, ②∠3=∠5, ③∠3+∠6=180°, ④∠1=∠5। নিচের কোন শর্তটি a∥b প্রমাণ করতে পারে না? ( )\n\nOptions:\nক) ①\nখ) ②\nগ) ③\nঘ) ④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8886c5d4-7478-45c9-a1b8-0957874fa5f6",
+    "images": [
+      "images/67612_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, 2 একক চওড়া একটি আয়তাকার কাগজের এক প্রান্তে বর্গক্ষেত্র MNCB রয়েছে। বর্গক্ষেত্র MNCB ভাঁজ করে ভাঁজরেখা AE তৈরি করা হলো। এরপর কাগজটি উল্টে দেওয়া হলো যেন AB ও AD মিলে যায়। নীচের কোন সিদ্ধান্তটি ভুল? ( )\nAB²=10+2 \\sqrt{5}\n\\frac{CD}{BC}=\\frac{\\sqrt{5}-1}{2}\nBC²=CD•EH\nsin∠AHD=\\frac{\\sqrt{5}+1}{5}\nOptions:\nD) Which of the following conclusions is incorrect? ( )\nAB²=10+2 \\sqrt{5}\n\\frac{CD}{BC}=\\frac{\\sqrt{5}-1}{2}\nBC²=CD•EH\nsin∠AHD=\\frac{\\sqrt{5}+1}{5}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0db84e17-7908-4e47-a7ae-bb5db1c5b67e",
+    "images": [
+      "images/66089_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, ছায়াবৃত অংশের ক্ষেত্রফল 330 বর্গ সেন্টিমিটার। ট্রাপিজয়েডটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97d612c7-4730-4b0f-b9ba-58535d851300",
+    "images": [
+      "images/61333_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সিলিন্ডারটির উচ্চতা 2 এবং ভূমির ব্যাসার্ধ 1। সিলিন্ডারের বক্রপৃষ্ঠ বরাবর A থেকে A₁ পর্যন্ত ক্ষুদ্রতম দূরত্ব কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

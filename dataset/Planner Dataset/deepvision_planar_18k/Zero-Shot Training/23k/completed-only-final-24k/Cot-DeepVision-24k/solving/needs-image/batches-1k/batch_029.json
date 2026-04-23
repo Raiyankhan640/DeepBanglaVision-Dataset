@@ -1,0 +1,302 @@
+[
+  {
+    "id": "2c354655-4105-411c-b6f7-feb1f75cdbf7",
+    "images": [
+      "images/51807_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি আয়তাকার ঘনবস্তুর অংশবিশেষ। এই আয়তাকার ঘনবস্তুর বাম পাশের প্রকৃত আকৃতি হলো ( )\n\nOptions:\nক) \\boxed{\\begin{array}{l}{}\\\\ {20\\mathrm{cm}}\\end{array}}15\\mathrm{cm}\nখ) \\boxed{\\begin{array}{l}{\\begin{array}{r l}\\end{array}}9\\mathrm{cm}\nগ) \\boxed{\\begin{array}{r l}&{}\\\\ &{15\\mathrm{cm}}\\end{array}}9\\mathrm{cm}\nঘ) \\boxed{\\begin{array}{r l}&{}\\\\ &{15\\mathrm{cm}}\\end{array}}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "19efcd04-81f7-41b9-91d1-dd3b229db985",
+    "images": [
+      "images/28972_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, △ABF ≌ △CDE। নিচের কোন উক্তিটি সঠিক?\n\nOptions:\nক) ∠B = ∠ECD\nখ) ∠A = ∠ECD\nগ) AF = CE\nঘ) AB = CE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "472dcbb8-14ff-444f-a8ff-a6dfd1e509db",
+    "images": [
+      "images/51978_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-কে বিন্দু A-এর চারদিকে ঘড়ির কাঁটার দিকে 45° কোণে ঘুরিয়ে ত্রিভুজ A'B'C' পাওয়া গেল। যদি ∠BAC = 90°, AB = AC = 2 হয়, তবে চিত্রে ছায়াঘেরা অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "df86dcbb-bdd9-4605-b65f-d76d73e3856a",
+    "images": [
+      "images/20925_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PD লম্ব AB, PE লম্ব AC এবং PD = PE। AP যোগ করলে, ∠BAP _______ ∠CAP।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "26785bb1-8fdd-4721-82a0-c7ec2c645daa",
+    "images": [
+      "images/13714_0.png"
+    ],
+    "english_question": "<image>\n13 বর্গ সেমি, 29 বর্গ সেমি এবং 34 বর্গ সেমি ক্ষেত্রফলবিশিষ্ট তিনটি বর্গক্ষেত্র এমনভাবে সাজানো হয়েছে যে প্রতিটি ত্রিভুজ ABC-এর একটি বাহুর সাথে যুক্ত। ত্রিভুজ ABC-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nC) Find the area of triangle ABC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8fcfebfe-ff53-4a6f-941e-ef5fc7584ac8",
+    "images": [
+      "images/triangle_ext_8fcfebfe-ff53-4a6f-941e-ef5fc7584ac8.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমবাহু ত্রিভুজ ABC-এর পরিসীমা 18 এবং AD, BC-এর ওপর D বিন্দুতে লম্ব। AD-এর দৈর্ঘ্য কত?\nOptions:\nD) What is the length of AD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d615e272-7991-42f7-ba1b-c71ff2ed6617",
+    "images": [
+      "images/66366_0.png"
+    ],
+    "english_question": "<image>\nABCD বর্গক্ষেত্রে, E বিন্দুটি DC বাহুর উপর অবস্থিত। BE যোগ করি এবং ত্রিভুজ BCE কে C বিন্দুর চারদিকে 90° ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ DCF পাই। EF যোগ করি। যদি ∠BEC = 60° হয়, তবে ∠EFD এর মান কত ডিগ্রি?\nক. 10°\nখ. 15°\nগ. 20°\nঘ. 25°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "171bdcde-3fde-4847-b857-e4fb0dfe897d",
+    "images": [
+      "images/231_0.png"
+    ],
+    "english_question": "<image>\nআপনি কি বাম পাশের চিত্রটিকে সমান আকার ও আকৃতির দুটি ছোট অংশে বিভক্ত করতে পারবেন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c128cdfa-dbc0-4943-afe7-ef7cbc9593fd",
+    "images": [
+      "images/63910_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চারটি অংশ রঙ করার জন্য 4টি ভিন্ন রঙ রয়েছে। শর্ত হলো, দুটি সংলগ্ন অংশ একই রঙের হতে পারবে না। কতগুলো ভিন্ন উপায়ে রঙ করা সম্ভব? \nক. 24 \nখ. 30 \nগ. 36 \nঘ. 48",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d8f1d27d-9d26-463b-ba6a-3e99a7b3d556",
+    "images": [
+      "images/41618_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, AB=3, BC=4। বিন্দু E, F, G, H যথাক্রমে AB, BC, CD, AD বাহুর ওপর অবস্থিত এবং ∠1=∠2=∠3=∠4। চতুর্ভুজ EFGH-এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f8d8eb7-f1bd-4b15-a68f-0177d745cf81",
+    "images": [
+      "images/4832_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90^{\\circ} এবং AC=BC=1, E বিন্দুটি BC বাহুর উপর অবস্থিত। A কেন্দ্র এবং AE ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তচাপ AB রেখাকে D বিন্দুতে ছেদ করে এবং AC রেখার বর্ধিতাংশকে F বিন্দুতে ছেদ করে। যদি চিত্রে প্রদর্শিত দুটি ছায়াবৃত অঞ্চলের ক্ষেত্রফল সমান হয়, তবে AF^{2} এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5a09c892-5691-4035-b055-9ebae64214db",
+    "images": [
+      "images/747_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্রতিটি ছোট বর্গের ক্ষেত্রফল 1 বর্গমিটার। চিত্রটির ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d5d6d5d-ab4c-4e34-998a-e0571cd07c0d",
+    "images": [
+      "images/68829_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2012 ইয়াংপু ডিস্ট্রিক্ট স্কুল-লেভেল ইন্ডিপেন্ডেন্ট এনরোলমেন্ট), বহুভুজ ABCDEFGH-এর প্রতিটি সংলগ্ন বাহু একে অপরের ওপর লম্ব। এর পরিসীমা নির্ণয় করতে, কমপক্ষে কয়টি রেখাংশের দৈর্ঘ্য জানা প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "38829fb0-2d1d-4dae-b487-0107a568d5a3",
+    "images": [
+      "images/22020_0.png"
+    ],
+    "english_question": "<image>\nচিত্র A-তে দেখানো চতুর্ভুজাকার কাগজের টুকরো ABCD-তে, ∠B = 120°, ∠D = 50°। চিত্র B-তে দেখানো অনুসারে নীচের ডানদিকের কোণটি ভেতরের দিকে ভাঁজ করে △PCR তৈরি করা হলো যেন CP ∥ AB এবং RC ∥ AD হয়। সেক্ষেত্রে ∠C-এর মান কত? ( )\nবিকল্পসমূহ:\n(ক) 80°\n(খ) 85°\n(গ) 95°\n(ঘ) 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6dd66c3-47d6-44b9-949b-15cc9e597b4f",
+    "images": [
+      "images/64749_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O বৃত্তে, AB হলো ব্যাস, D বৃত্তের ওপর একটি বিন্দু, C হলো AD চাপের মধ্যবিন্দু, জ্যা CE, AB-এর ওপর E বিন্দুতে লম্ব, D বিন্দুগামী স্পর্শক EC-এর বর্ধিতাংশকে G বিন্দুতে ছেদ করে, AD যোগ করলে তা CE এবং CB-কে যথাক্রমে P এবং Q বিন্দুতে ছেদ করে, এবং AC যোগ করা হলো। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ①∠BAD=∠ABC; ②AD=CB; ③বিন্দু P, ত্রিভুজ ACQ-এর পরিকেন্দ্র; ④GP=GD; ⑤CB∥GD। সঠিক সিদ্ধান্তের সংখ্যা কত? ( ) ক. 1 খ. 2 গ. 3 ঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6dd8f07f-8e2a-422d-b3a3-7eacf8844b61",
+    "images": [
+      "images/69390_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, দেওয়া আছে ∠BDE=45°, DE⊥BC, বিন্দু E-তে, BF⊥CD, বিন্দু F-তে, DE এবং BF বিন্দু H-এ ছেদ করে, এবং BF ও AD এর বর্ধিতাংশ বিন্দু G-তে ছেদ করে। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① DB= √2 BE; ② ∠A=∠BHE; ③ AB=BH; ④ △BHD∽△BDG। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( )\n\nOptions:\nক) ①②③④\nখ) ①②③\nগ) ①②④\nঘ) ②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d27f243b-f8a2-4d85-8fca-71ba58827d61",
+    "images": [
+      "images/75017_0.png"
+    ],
+    "english_question": "<image>\nABCD রম্বসে, AE, BC বাহুর উপর E বিন্দুতে লম্ব এবং তা BD কর্ণকে F বিন্দুতে ছেদ করে। নিচের সিদ্ধান্তগুলো দেওয়া হলো: (1) BF, ∠ABE এর সমদ্বিখণ্ডক; (2) DF = 2BF; (3) 2AB² = DF • DB; (4) sin ∠BAE = EF/AF। কোন সিদ্ধান্তগুলো সঠিক? (ক্রমিক নম্বর লিখুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6cf94f56-4621-4500-8494-7fdc0adbf972",
+    "images": [
+      "images/58470_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, যদি l₁ এবং l₂ রেখাদ্বয় সমান্তরাল হয়, তবে ∠α কোণের মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "11cfa1a4-3012-47b0-bf49-7d0d6d1ac4a9",
+    "images": [
+      "images/46007_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, দ্বিতল কোণ α-AB-β এর একটি সূক্ষ্ম সমতল কোণ আছে। C হলো সমতল α-এর একটি বিন্দু (AB রেখায় নয়), D হলো সমতল β-এর ওপর C বিন্দুর অভিক্ষেপ এবং E হলো AB রেখার ওপর যেকোনো একটি বিন্দু যাতে ∠CEB সূক্ষ্ম কোণ হয়। তাহলে নিচের কোনটি সঠিক?\n\nOptions (copied from English):\nA. ∠CEB > ∠DEB\n∠CEB = ∠DEB\n∠CEB < ∠DEB\nThe relationship between ∠CEB and ∠DEB cannot be determined",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae443607-3cf9-412d-90f0-36adf3a90217",
+    "images": [
+      "images/75635_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু P রেখা l এর বাইরে অবস্থিত এবং বিন্দু A, B, ও C রেখা l এর উপর অবস্থিত। রেখাংশ PB, বিন্দু B তে রেখা l এর উপর লম্ব এবং ∠APC = 90°। নিচের সিদ্ধান্তগুলো নেওয়া হলো: ① রেখাংশ AP হলো বিন্দু A থেকে রেখা PC এর দূরত্ব; ② রেখাংশ BP এর দৈর্ঘ্য হলো বিন্দু P থেকে রেখা l এর দূরত্ব; ③ রেখাংশ PA, PB, এবং PC এর মধ্যে, PB ক্ষুদ্রতম; ④ রেখাংশ PC এর দৈর্ঘ্য হলো বিন্দু P থেকে রেখা l এর দূরত্ব। নিচের কোনটি সঠিক? ( )\n\nOptions:\nক) \\(②③\\)\nখ) \\(①②③\\)\nগ) \\(③④\\)\nঘ) \\(①②③④\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

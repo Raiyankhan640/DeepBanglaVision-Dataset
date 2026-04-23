@@ -1,0 +1,302 @@
+[
+  {
+    "id": "7c8b4d47-cc96-461e-853d-5c7fd41febea",
+    "images": [
+      "images/63316_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি O কেন্দ্রিক একটি কেন্দ্র প্রতিসম চিত্র। যদি \\(∠A=30^{\\circ}\\), \\(∠C=90^{\\circ}\\) এবং \\(AC=1\\) হয়, তবে \\(AB\\)-এর দৈর্ঘ্য কত?\nক. \\(4\\)\nখ. \\( \\dfrac { \\sqrt {3}}{3}\\)\nগ. \\( \\dfrac {2 \\sqrt {3}}{3}\\)\nঘ. \\( \\dfrac {4 \\sqrt {3}}{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ff6fa83-a1ca-4058-bd67-e5c133f261db",
+    "images": [
+      "images/23788_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-কে বাহু CB বরাবর ডানদিকে স্থানান্তর করে ত্রিভুজ DFE পাওয়া গেল, যেখানে DE, AB-কে G বিন্দুতে ছেদ করে। যদি ∠A: ∠C: ∠ABC = 1: 2: 3, AB = 9 সেমি, BF = 5 সেমি এবং AG = 5 সেমি হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49a81ba8-9844-4e89-942d-4b854a549bc3",
+    "images": [
+      "images/61541_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, একটি স্যান্ডব্যাগকে একটি ত্রিভুজাকার এলাকায় নিক্ষেপ করা হলো (রঙ ছাড়া প্রতিটি ছোট ত্রিভুজ অভিন্ন)। প্রতিটি ছোট ত্রিভুজে আঘাত করার সম্ভাবনা সমান ধরে নিলে, এক নিক্ষেপে ছায়াযুক্ত এলাকায় আঘাত করার সম্ভাবনা কত? \nক. 1/6 \nখ. 1/4 \nগ. 3/8 \nঘ. 5/8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c00feffa-6a3e-461b-a51c-0f853fbb5753",
+    "images": [
+      "images/49493_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2010 হুয়াংপু ডিস্ট্রিক্ট সেকেন্ড মক এক্সাম), বৃত্ত O-এর ব্যাসার্ধ 5। বিন্দু P হলো রেখাংশ AB-এর মধ্যবিন্দু। রেখা OP, AB-কে H বিন্দুতে ছেদ করে। যদি PH = 1 হয়, তবে জ্যা AB-এর দৈর্ঘ্য কত?\nOptions:\nB) Line OP intersects AB at point H. If PH = 1, what is the length of chord AB?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7f78ea54-1ff9-4d1b-ba31-fbdc04b72192",
+    "images": [
+      "images/76768_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তের পরিধির ওপর দশটি বিন্দু বৃত্তটিকে দশটি সমান অংশে বিভক্ত করে। দুই ঘর অন্তর বিন্দুগুলোকে যুক্ত করে দশটি জ্যা পাওয়া যায়, যা একে অপরকে ছেদ করে বিভিন্ন জ্যামিতিক আকৃতি তৈরি করে। চিত্রটিতে কতগুলো সামান্তরিক আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "38c9a9b9-4a76-4225-aad4-33b6ad1575e5",
+    "images": [
+      "images/57417_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকার পিরামিডের সম্মুখ দৃশ্য (Front view) ও শীর্ষ দৃশ্য (Top view) চিত্রে দেওয়া আছে। শীর্ষ দৃশ্যটি একটি সমবাহু ত্রিভুজ যার বাহুর দৈর্ঘ্য 2। ত্রিভুজাকার পিরামিডটির পার্শ্ব দৃশ্য (Side view) কেমন হতে পারে?\n\nOptions:\nক) ![Option A](tikuimages/2/2016/600/shoutiniao52/bad319f7b0d4dd5f141bd3781402fcb6.png) Option\nখ) ![Option B](tikuimages/2/2016/600/shoutiniao1/721fab99e196d64c205e2416aaa2e31a.png) Option\nগ) ![Option C](tikuimages/2/2016/600/shoutiniao56/113f3a35c8d347105be12d6b5b06198e.png) Option\nঘ) ![Option D](tikuimages/2/2016/600/shoutiniao51/3665c77d7dc68c46ab8090262120c9c7.png)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d1a0e995-6b8c-42a4-9934-c87d51605abc",
+    "images": [
+      "images/50670_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PA এবং PB হলো O কেন্দ্রবিশিষ্ট বৃত্তের বহিঃস্থ বিন্দু P থেকে দুটি স্পর্শক, যা বৃত্তকে A ও B বিন্দুতে স্পর্শ করে। OP রেখাংশ AB জ্যা-কে C বিন্দুতে ছেদ করে। চিত্রে রেখাংশগুলোর মধ্যে একটি গুণফল সমীকরণ লেখো।\nOptions:\nখ) Segment OP intersects chord AB at point গ) Write one product equation relating the segments in the figure.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e2f7e028-5906-4eb3-ad27-41e7e3ba25cd",
+    "images": [
+      "images/12972_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং EF সমান্তরাল GH। নিচের কোন সিদ্ধান্তটি ভুল? ( ) \nক. ∠1=∠4 \nখ. ∠1=∠2 \nগ. ∠3+∠5=180° \nঘ. ∠1+∠3=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec92dfa6-0c17-45f7-88b6-a91e028e6bb3",
+    "images": [
+      "images/triangle_ext_ec92dfa6-0c17-45f7-88b6-a91e028e6bb3.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB, EF-এর ওপর লম্ব, CD, EF-এর ওপর লম্ব, ∠1 = ∠F = 45° হলে, ∠FCD-এর সমান কোণের সংখ্যা কত? (___ )\nবিকল্পসমূহ:\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3de47df9-bb39-4f3d-ae15-bc160b4d6fbf",
+    "images": [
+      "images/76963_0.png"
+    ],
+    "english_question": "<image>\nধরা যাক, একটি পরাবৃত্তের সমীকরণ y^2 = 2px (যেখানে p > 0)। ফোকাস F দিয়ে গমনকারী একটি রেখা l পরাবৃত্তটিকে A ও B বিন্দুতে ছেদ করে এবং এর নিয়ামক রেখাকে C বিন্দুতে ছেদ করে। যদি |BC| = 2|BF| এবং |AF| = 3 হয়, তবে এই পরাবৃত্তটির সমীকরণ কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50cb7456-f0a1-4856-af93-2ca7504d0b9c",
+    "images": [
+      "images/41602_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যদি ∠BAD = ∠CAE হয়, তবে নিম্নলিখিত শর্তগুলোর একটি যোগ করার পরও △ABC ∼ △ADE নির্ধারণ করা যায় না ( ) ক. ∠B = ∠D খ. ∠C = ∠AED গ. AB/AD = DE/BC ঘ. AB/AD = AC/AE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0fccbec4-a773-4b19-ab5e-d2a4eedfee32",
+    "images": [
+      "images/61219_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি আনুভূমিক তলের ওপর 30π cm² ক্ষেত্রফল বিশিষ্ট একটি ধূসর বৃত্তকলা OAB রয়েছে, যেখানে OA = 6 cm এবং OA ভূমির ওপর লম্ব। যদি চিত্র (ক)-এর বৃত্তকলাটি ডানে গড়াতে থাকে যতক্ষণ না A বিন্দু পুনরায় ভূমি স্পর্শ করে (চিত্র খ), তবে O বিন্দু কতটুকু দূরত্ব অতিক্রম করবে?\nক. 11π + √3\nখ. 10π + 2√3\nগ. 12π\nঘ. 11π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "621a6d87-8221-4cee-9495-09e0f488d693",
+    "images": [
+      "images/41035_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ PAOB হলো বৃত্তকলা OMN এর একটি অন্তর্লিখিত আয়তক্ষেত্র, যার শীর্ষবিন্দু P উপরে অবস্থিত এবং এটি M ও N বিন্দুর সাথে মিলে যায় না। বিন্দু P যখন MN বৃত্তচাপ বরাবর উপরের দিকে সরে যায়, তখন AB এর দৈর্ঘ্যের পরিবর্তন কেমন হয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3695f3c-9e74-4063-b63e-500164b825ae",
+    "images": [
+      "images/22052_0.png"
+    ],
+    "english_question": "<image>\nএকটি খেলনা বাসের বিনিময়ে কয়টি খেলনা সাইকেল পাওয়া যাবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "686b1320-8767-4462-a1bf-5b327e40f64f",
+    "images": [
+      "images/63509_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমদ্বিবাহু সমকোণী ত্রিভুজ যেখানে AC = BC = 4 এবং ∠BCD = 15°। P বিন্দুটি CD রেখার উপর একটি চলমান বিন্দু। |PA - PB|-এর সর্বোচ্চ মান কত?\nOptions:\nD) What is the maximum value of |PA - PB|?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20466987-753a-43c9-94df-4021e3bd786f",
+    "images": [
+      "images/4495_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র ABCD তে, AE রেখা কর্ণ BD এর ওপর E বিন্দুতে লম্ব। যদি ∠DAE = 3∠BAE হয়, তবে ∠EAC এর মান কত degree?\nক. 67.5°\nখ. 45°\nগ. 22.5°\nঘ. নির্ণয় করা সম্ভব নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d38afa43-c971-4bea-8c5d-d0ec752b27c7",
+    "images": [
+      "images/56208_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, E এবং F হলো AD বাহুর n সংখ্যক সমান ভাগের দুটি মধ্যবিন্দু এবং G এবং H হলো BC বাহুর n সংখ্যক সমান ভাগের দুটি মধ্যবিন্দু (যেখানে n একটি বিজোড় সংখ্যা)। যদি আমরা EG এবং FH যোগ করি, তবে EFHG চতুর্ভুজের ক্ষেত্রফল এবং ABCD চতুর্ভুজের ক্ষেত্রফলের অনুপাত কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "04b83cb0-eb5d-495b-aaa1-8cbd7077bb29",
+    "images": [
+      "images/24070_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, সমান্তরাল সূর্যালোকের একটি রশ্মি একটি সুষম পঞ্চভুজের ওপর পড়ছে যেখানে প্রতিটি অন্তঃস্থ কোণ সমান। যদি ∠1 = 47° হয়, তবে ∠2 = ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9da2272-8553-407e-ab20-d33b05dd6233",
+    "images": [
+      "images/53420_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-তে, E বিন্দুটি AB রেখার বর্ধিতাংশের ওপর অবস্থিত এবং DE রেখা BC-কে F বিন্দুতে ছেদ করে। কোনো অতিরিক্ত অঙ্কন ছাড়া, ত্রিভুজ CDF এবং ত্রিভুজ BEF-কে সর্বসম করার একটি শর্ত প্রদান করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "278f026c-986d-4c34-86bb-e0ddbe6a9425",
+    "images": [
+      "images/73123_0.png"
+    ],
+    "english_question": "<image>\nনিচের তিনটি আকৃতির ক্ষেত্রফলই সমান। (উক্তিটি সত্য না মিথ্যা তা নির্ধারণ করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

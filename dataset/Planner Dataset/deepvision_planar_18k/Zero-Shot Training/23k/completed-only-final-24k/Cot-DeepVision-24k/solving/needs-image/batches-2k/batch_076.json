@@ -1,0 +1,342 @@
+[
+  {
+    "id": "c46987a0-8096-472a-ba79-38ff3b20c82a",
+    "images": [
+      "images/16976_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-কে C বিন্দুর চারদিকে 90° ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ A'B'C' তৈরি করা হয়েছে, যেখানে A' এবং B' গ্রিড বিন্দুতে অবস্থান করে। যদি প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 একক হয়, তবে রেখাংশ AC দ্বারা সৃষ্ট সেক্টর দ্বারা গঠিত শঙ্কুর ভূমির ব্যাসার্ধ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa5d3e56-dba8-4144-97d0-7c4766c746de",
+    "images": [
+      "images/33387_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB = 90°, DE রেখা AB-এর ওপর লম্ব এবং AC-কে F বিন্দুতে ছেদ করে, চিত্রটিতে কত জোড়া সদৃশ ত্রিভুজ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0fbf92c-ab48-4740-8178-4f0c1272ba75",
+    "images": [
+      "images/26844_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O₁ এবং O₂ কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব 7 এবং ⊙O₁ ও ⊙O₂ বৃত্তদ্বয়ের ব্যাসার্ধ যথাক্রমে 2 এবং 3। রেখা O₁O₂ বৃত্ত ⊙O₂ কে P বিন্দুতে ছেদ করে। যদি ⊙O₁ বৃত্তটি P বিন্দুর সাপেক্ষে ঘড়ির কাঁটার দিকে প্রতি সেকেন্ডে 30° বেগে ঘোরে, তবে কত সেকেন্ড পর ⊙O₁ এবং ⊙O₂ সর্বশেষ স্পর্শ করবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7f447329-e8d0-4472-8dfc-68c2d0655074",
+    "images": [
+      "images/61551_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, পাহাড়ের চূড়ায় একটি টাওয়ার আছে। টাওয়ারের উচ্চতা পরিমাপের জন্য, জরিপকারী পাহাড়ের পাদদেশ A বিন্দু থেকে টাওয়ারের ভিত্তি C বিন্দুর উন্নতি কোণ পরিমাপ করলেন যা 60°। a মিটার দূরে B বিন্দুতে সরে গিয়ে, C বিন্দুর উন্নতি কোণ পরিমাপ করা হলো 30° এবং টাওয়ারের শীর্ষ D বিন্দুর উন্নতি কোণ পরিমাপ করা হলো 45°। টাওয়ার CD-এর উচ্চতা নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c67a3f88-8e67-4f25-8841-7d05bd032cd6",
+    "images": [
+      "images/55005_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে 10, 12 এবং 8 বাহুবিশিষ্ট তিনটি বর্গক্ষেত্র এবং 2 প্রস্থবিশিষ্ট একটি আয়তক্ষেত্র রয়েছে। AB রেখাংশটি চিত্রটিকে সমান ক্ষেত্রফলের দুটি অংশে বিভক্ত করে। ছোট আয়তক্ষেত্রটির দৈর্ঘ্য নির্ণয় করো।\nOptions:\na. Find the length of the small rectangle.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3412b013-7921-4f1a-b4e7-fecb52246d37",
+    "images": [
+      "images/34491_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ BCED-এ ∠C = ∠D = 90°, BC = BD = √3 এবং CE = DE = 1। একটি রেখাংশ PQ, BD-এর উপর P বিন্দু এবং EC-এর উপর Q বিন্দুকে যুক্ত করে চতুর্ভুজটিকে দুটি সমান ক্ষেত্রফলে বিভক্ত করে। ধরি DP = x এবং EQ = y। সম্পর্ক (x + √3)(y + 2) = 4√3 দেওয়া থাকলে, PQ-এর সর্বনিম্ন দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ff4aaa0-723c-4672-aa6e-9e1fce21049f",
+    "images": [
+      "images/54034_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, কর্ণ AC, AB-এর উপর লম্ব এবং O হলো AC-এর মধ্যবিন্দু। O বিন্দুগামী একটি রেখা AD-কে E বিন্দুতে এবং BC-কে F বিন্দুতে ছেদ করে। AF এবং CE যোগ করি। নিচের কোন শর্তগুলো চতুর্ভুজ AFCE-কে একটি রম্বস নিশ্চিত করে? ① OE = OA; ② EF ⊥ AC; ③ AF, ∠BAC-কে সমদ্বিখণ্ডিত করে; ④ E হলো AD-এর মধ্যবিন্দু। এই শর্তগুলোর মধ্যে কয়টি সঠিক?\nOptions:\nC) A line through O intersects AD at E and BC at F. Connect AF and CE. Which of the following conditions ensure quadrilateral AFCE is a rhombus? ① OE = OA; ② EF ⊥ AC; ③ AF bisects ∠BAC; ④ E is the midpoint of AD) How many of these conditions are correct?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "061c360b-ffd2-44f2-a4de-fef5b18c9207",
+    "images": [
+      "images/54221_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রের ছায়াবৃত অঞ্চল ① এবং ②-এর ক্ষেত্রফল তুলনা করো। তারা কি সমান নাকি কোনটি বড়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "968007d9-2ffe-44c6-a3cc-1c520c26bb6d",
+    "images": [
+      "images/30902_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট অর্ধবৃত্তের ব্যাস, ∠BAC=60° এবং D অর্ধবৃত্তের ওপর যেকোনো একটি বিন্দু। ∠ACD এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "90e26d1a-b8a8-472e-a37d-2499244538e3",
+    "images": [
+      "images/32502_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে: চিত্রটিতে মোট কয়টি রশ্মি আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5888040d-1fae-452b-a22e-61e5f6777172",
+    "images": [
+      "images/7138_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, α = π/6 এবং β = 5π/3। ছায়াবৃত অঞ্চলে (সীমানা অন্তর্ভুক্ত) প্রান্তীয় বাহু অবস্থিত হলে, সকল কোণের সেট নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e4df8cfa-850f-4f8e-ae98-491706564303",
+    "images": [
+      "images/22183_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অর্ধবৃত্ত AB-কে CD অবস্থানে স্থানান্তর করলে যে ক্ষেত্রফল অতিক্রম করে তা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e3e89787-e708-4f2b-a5bb-9ce1ec03115b",
+    "images": [
+      "images/2731_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, রেখা CF, AB কে E বিন্দুতে এবং DA এর বর্ধিতাংশকে F বিন্দুতে ছেদ করে। যদি ত্রিভুজ ADE এর ক্ষেত্রফল 1 হয়, তবে ত্রিভুজ BEF এর ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ce745cb4-fa55-422d-b909-4c111689650e",
+    "images": [
+      "images/9198_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BD বৃত্ত O-এর B বিন্দুতে একটি স্পর্শক। DO যোগ করলে তা বৃত্ত O-কে C বিন্দুতে ছেদ করে এবং AB হলো বৃত্ত O-এর ব্যাস। যদি ∠D = 30° এবং বৃত্ত O-এর ব্যাসার্ধ 4 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ecf47947-d39e-4134-9e0f-32034c6c9e22",
+    "images": [
+      "images/52083_0.png"
+    ],
+    "english_question": "<image>\nসমান্তরাল চতুর্ভুজের উপরের বাহু ও নিচের বাহু হল ( ) ক. a ও b খ. b ও d গ. b ও c ঘ. a ও c",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6ca6a5f-eb91-4855-9a5b-a9359fe1b660",
+    "images": [
+      "images/triangle_ext_a6ca6a5f-eb91-4855-9a5b-a9359fe1b660.png"
+    ],
+    "english_question": "<image>\nক. BC ত্রিভুজে, D এবং E বিন্দু দুটি যথাক্রমে AB এবং AC বাহুর মধ্যবিন্দু। BC = 4 হলে, নিচের কোন সিদ্ধান্তটি ভুল?\nক. DE = 2\nক. DE ত্রিভুজ ও ABC ত্রিভুজের ক্ষেত্রফলের অনুপাত 1:4\nক. DE ত্রিভুজ ও ABC ত্রিভুজ সদৃশ\nঘ. EC ত্রিভুজ ও ABC ত্রিভুজের পরিসীমার অনুপাত 1:2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2d7c1954-d6ae-48ca-b2e8-0eb2d8c34638",
+    "images": [
+      "images/23198_0.png"
+    ],
+    "english_question": "<image>\nএকটি জাহাজ পশ্চিম থেকে পূর্ব দিকে যাত্রা করছে। O বিন্দুতে, দ্বীপ A-কে উত্তর-পূর্ব দিকে 60° বিয়ারিংয়ে দেখা যায়। 20 নটিক্যাল মাইল পথ অতিক্রম করে B বিন্দুতে পৌঁছানোর পর, দ্বীপ A-কে উত্তর-পূর্ব দিকে 45° বিয়ারিংয়ে দেখা যায়। দ্বীপ A-এর চারপাশে 25 নটিক্যাল মাইল ব্যাসার্ধের মধ্যে প্রবাল প্রাচীর রয়েছে। জাহাজের যাত্রাপথ থেকে দ্বীপ A-এর সর্বনিম্ন দূরত্ব নির্ণয় করো এবং জাহাজটি প্রবাল প্রাচীরের সাথে ধাক্কা খাবে কি না তা নির্ধারণ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c51467d9-ad7a-4b35-936d-edd9620a9861",
+    "images": [
+      "images/29748_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, P এবং Q দুটি স্টিল প্লেট যাদের প্রস্থ যথাক্রমে 4 সেমি এবং 8 সেমি। এদের 60° কোণে ঝালাই করতে হবে। উপাদানটি কাটার সময় tan x এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "09407d5d-9afd-4497-958f-bd1e6febccfa",
+    "images": [
+      "images/42071_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি আয়তক্ষেত্র দেখানো হয়েছে যার উপরের অংশ থেকে একটি বর্গক্ষেত্র কেটে নেওয়া হয়েছে। ডেসিমিটারে এই আকৃতির পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7dd6f90e-9a08-414e-ae9a-84b08da8b105",
+    "images": [
+      "images/22433_0.png"
+    ],
+    "english_question": "<image>\nবামন গ্রহ ছাড়া ছবিতে মোট কয়টি গ্রহ দেখানো হয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

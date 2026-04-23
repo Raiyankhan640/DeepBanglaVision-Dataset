@@ -1,0 +1,362 @@
+[
+  {
+    "id": "d5e7ffca-b9aa-461b-9dbe-1c4edaa01a38",
+    "images": [
+      "images/triangle_ext_d5e7ffca-b9aa-461b-9dbe-1c4edaa01a38.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে, এই বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\nক. $2\\pi + 16 + 2 \\sqrt{3}$\nখ. $3\\pi + 16 + 2 \\sqrt{3}$\nগ. $3\\pi + 8 + \\sqrt{3}$\nঘ. $3\\pi + 8 + 2 \\sqrt{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b147a23a-f4d9-46e9-8242-bb3fbd6d83f0",
+    "images": [
+      "images/69964_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি সামান্তরিক। BA বাহুকে E বিন্দু পর্যন্ত এমনভাবে বর্ধিত করা হলো যেন AE = AB হয়। ED, EC এবং AC যোগ করা হলো। কোন শর্তটি চতুর্ভুজ ACDE-কে একটি রম্বস তৈরি করতে পারে? ( ) \nক) AB = AD \nখ) AB = ED \nগ) CD = AE \nঘ) EC = AD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5461367f-3645-49b6-9bc3-4e65c19657ad",
+    "images": [
+      "images/10750_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB ∥ CD এবং E বিন্দুটি CB-এর বর্ধিতাংশে অবস্থিত। যদি ∠ABE = 60° হয়, তবে ∠ECD-এর পরিমাপ কত? ( ) \nঅপশন: \n(ক) 120° \n(খ) 100° \n(গ) 60° \n(ঘ) 20°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9f67c9f-783b-4da0-afdc-1238bb368d12",
+    "images": [
+      "images/triangle_ext_d9f67c9f-783b-4da0-afdc-1238bb368d12.png"
+    ],
+    "english_question": "<image>\n(1998•Shaoxing) চিত্রে দেখানো হয়েছে, যখন 1 সেমি বাহুবিশিষ্ট সমদ্বিবাহু সমকোণী ত্রিভুজ ABC-কে B বিন্দুর চারপাশে ঘুরিয়ে ত্রিভুজ A'B'C' অবস্থানে আনা হয়, যাতে A, B এবং C' বিন্দুগুলো সমরেখ হয়, তখন A বিন্দুটি যে ক্ষুদ্রতম দূরত্ব অতিক্রম করে তা কত? ( )\nক. $\\frac{3}{4} \\pi$\nখ. $\\textstyle{\\frac{3}{4}}{\\sqrt{2}} \\pi$\nগ. $\\frac{1}{2} \\pi$\nঘ. $\\textstyle{\\frac{1}{2}}{\\sqrt{2}} \\pi$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "455d8607-c240-4c31-92d8-85157d1c70b2",
+    "images": [
+      "images/60876_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ত্রিভুজাকার পিরামিডের তিনটি দৃশ্য দেখানো হয়েছে। সামনের দৃশ্য এবং পাশের দৃশ্য দুটি 1 একক বাহুবিশিষ্ট সর্বসম সমদ্বিবাহু সমকোণী ত্রিভুজ এবং উপরের দৃশ্যটি একটি বর্গক্ষেত্র। এই ত্রিভুজাকার পিরামিডের চারটি তলের মধ্যে বৃহত্তম ক্ষেত্রফল কত?\n\nOptions:\nক) $ \\frac {1}{2}$\nখ) $ \\frac { \\sqrt {2}}{2}$\nগ) $ \\frac { \\sqrt {3}}{2}$\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e694c457-e384-4603-ab7e-2478e43c0c00",
+    "images": [
+      "images/1120_0.png"
+    ],
+    "english_question": "<image>\nAC হলো সামান্তরিক ABCD এর কর্ণ, তবে চিত্রে সদৃশ ত্রিভুজের সংখ্যা কতটি?\n\nOptions:\nক) 2 pairs\nখ) 3 pairs\nগ) 4 pairs\nঘ) 5 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e88213e4-8da7-44b2-89de-c9e3ba18d0b0",
+    "images": [
+      "images/23203_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD তে, কর্ণ AC বাহু AB এর ওপর লম্ব এবং O হলো AC এর মধ্যবিন্দু। O বিন্দুগামী একটি রেখা AD কে E বিন্দুতে এবং BC কে F বিন্দুতে ছেদ করে। AF এবং CE যোগ করো। এখন, চতুর্ভুজ AFCE কে রম্বস বানাতে নিচের কোন শর্তটি উপযুক্ত? শর্তগুলো হলো: ① OE = OA; ② EF ⊥ AC; ③ AF কোণ ∠BAC কে সমদ্বিখণ্ডিত করে; ④ E হলো AD এর মধ্যবিন্দু। কতটি শর্ত সঠিক?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c11ea834-1732-453a-bd11-9d06a0ea798e",
+    "images": [
+      "images/5429_0.png"
+    ],
+    "english_question": "<image>\nকতগুলো অভিন্ন ঘনক একত্রে সাজানো আছে? চিত্রটিতে বস্তুটির সামনে থেকে দেখা দৃশ্য (front view) এবং উপর থেকে দেখা দৃশ্য (top view) দেওয়া হলো। বস্তুটিতে সর্বোচ্চ কতগুলো ঘনক থাকতে পারে?\n\nOptions:\nক) 8 cubes\nখ) 9 cubes\nগ) 10 cubes\nঘ) 11 cubes",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3446e972-c9c6-409b-ba4e-ee81ec308a9c",
+    "images": [
+      "images/48033_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-কে AB এবং AC বাহু বরাবর 180° ভাঁজ করে ত্রিভুজ ABE এবং ADC তৈরি করা হয়েছে। যদি ∠1:∠2:∠3 = 28:5:3 হয়, তবে কোণ ∠α-এর মান কত ডিগ্রি? ( )\n\nOptions:\nক) 80°\nখ) 100°\nগ) 60°\nঘ) 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3191b4f-fce8-412c-84e5-63300a48ee24",
+    "images": [
+      "images/triangle_ext_f3191b4f-fce8-412c-84e5-63300a48ee24.png"
+    ],
+    "english_question": "<image>\nপ্রতিটি ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1 এমন একটি বর্গাকার গ্রিডে, ত্রিভুজ ABC-এর বাহুগুলোর মধ্যে অমূলদ সংখ্যার বাহুর সংখ্যা হলো ( )\nক. 0\nখ. 1\nগ. 2\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "184767d3-3fb5-4869-a8e1-06a369e0bb49",
+    "images": [
+      "images/62618_0.png"
+    ],
+    "english_question": "<image>\n2008 সালের বেইজিং অলিম্পিক গেমসের উদ্বোধনী অনুষ্ঠানে পতাকা উত্তোলনের সময়, 15° ঢাল বিশিষ্ট একটি গ্যালারিতে একই সারিতে অবস্থিত প্রথম সারি এবং শেষ সারি থেকে পতাকাদণ্ডের চূড়ার উন্নতি কোণ যথাক্রমে 60° এবং 30° পরিমাপ করা হলো। প্রথম সারি এবং শেষ সারির মধ্যবর্তী দূরত্ব 10√6 মিটার (চিত্রে প্রদর্শিত)। পতাকাদণ্ডের উচ্চতা কত মিটার?\n\nOptions:\nক) 10\nখ) 30\nগ) 10\\sqrt{3}\nঘ) 10\\sqrt{6}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43eb1005-28ec-4645-b002-36f42f52a639",
+    "images": [
+      "images/55803_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র ABCD-এর বাহুর দৈর্ঘ্য AB=8 এবং AD=4। আয়তক্ষেত্রটিকে EF বরাবর ভাঁজ করলে, A বিন্দু C বিন্দুর সাথে মিলে যায়। ভাঁজ করার পর, একটি নির্দিষ্ট অংশ রঙিন করা হয় (চিত্রে দেখানো হয়েছে)। রঙিন অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) 16\nখ) \\frac{11}{2}\nগ) 22\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e09f0210-528a-439b-b234-7a16645923bd",
+    "images": [
+      "images/triangle_ext_e09f0210-528a-439b-b234-7a16645923bd.png"
+    ],
+    "english_question": "<image>\nচিত্রে, FB, AB-এর ওপর লম্ব, EC, AB-এর ওপর লম্ব এবং ∠1 = ∠D = 45°। চিত্রে কতগুলো কোণ ∠CED-এর সমান?\nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "032573a2-155e-489c-83c7-d98f98356126",
+    "images": [
+      "images/25058_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত O-তে, যদি AB = CD = EF = HG এবং BC = DE = FG = AH হয়, তবে কোণ AHG-এর মান কত ডিগ্রি?\n\nOptions:\nক) 120°\nখ) 125°\nগ) 130°\nঘ) 135°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f85ab78-830d-43cd-8530-ba23cc9df7d0",
+    "images": [
+      "images/triangle_ext_8f85ab78-830d-43cd-8530-ba23cc9df7d0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC তে, ∠ABC=90°, ∠C=30°, AD কোণ সমদ্বিখণ্ডক, DE ⊥ AC, E বিন্দুতে, এবং AD রেখা BE কে F বিন্দুতে ছেদ করে। তাহলে চিত্রে সমদ্বিবাহু ত্রিভুজের সংখ্যা হলো ( )\nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0915a6a1-63af-4ddb-a88d-abc4ffbd26a0",
+    "images": [
+      "images/21222_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্র OABC-এর বাহুর দৈর্ঘ্য 2। O-কে কেন্দ্র করে একটি অর্ধবৃত্তের ব্যাস EF, যা বিন্দু A দিয়ে অতিক্রম করে। AE এবং CF সংযোগ করলে তারা P বিন্দুতে ছেদ করে। বর্গক্ষেত্র OABC যখন OA এবং OF-এর সাথে মিলে থাকে, সেই অবস্থান থেকে O বিন্দুর চারদিকে ঘড়ির কাঁটার বিপরীত দিকে 90° ঘোরানো হলে, P বিন্দু দ্বারা অতিক্রান্ত পথের দৈর্ঘ্য কত?\n\nOptions:\nক) 2π\nখ) \\sqrt{2} \\pi\nগ) 3 \\sqrt{2}\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55ce917d-39ab-4403-8177-3bd2ed331df0",
+    "images": [
+      "images/triangle_ext_55ce917d-39ab-4403-8177-3bd2ed331df0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। সামনের দৃশ্য এবং পাশের দৃশ্যটি সর্বসম আকৃতির। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\nক. 384+4π\nখ. 336+4π\nগ. 336+\\(4π\\) + 3\nঘ. 384+\\(4π\\) + 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "084f3a8a-2bc9-42ea-9102-ec1c143e2d25",
+    "images": [
+      "images/68220_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সরলরেখা a ও b-কে সরলরেখা c ছেদ করেছে, যেখানে a, b-এর সমান্তরাল, ∠1 = ∠2 এবং যদি ∠4 = 70° হয়, তবে ∠3-এর মান কত? ( ) ক. 40° খ. 50° গ. 70° ঘ. 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7f8efde-1d91-4bc5-9f4d-45441e9c86f9",
+    "images": [
+      "images/41974_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি ভবনের মাঝে একটি 15 মিটার উঁচু পতাকাদণ্ড রয়েছে। বিন্দু A থেকে পতাকাদণ্ডের চূড়া এবং ছোট ভবনটির কোণ C-এর অবনতি কোণ 60 ডিগ্রি। বিন্দু A থেকে বিন্দু D-এর অবনতি কোণ 30 ডিগ্রি। যদি পতাকাদণ্ডের ভূমি G, BC-এর মধ্যবিন্দু হয়, তবে ছোট ভবনটির উচ্চতা CD কত?\n\nOptions:\nক) 20 meters\nখ) 10 \\sqrt{3} meters\nগ) 15 \\sqrt{3} meters\nঘ) 5 \\sqrt{6} meters",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "87f8d55a-9eac-4716-a26f-4b27082768c3",
+    "images": [
+      "images/26417_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। বিন্দু A, B এবং C ছোট বর্গগুলোর শীর্ষবিন্দু। ∠ABC কোণের পরিমাপ কত ডিগ্রি? ( ) \nক. 90° \nখ. 60° \nগ. 45° \nঘ. 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

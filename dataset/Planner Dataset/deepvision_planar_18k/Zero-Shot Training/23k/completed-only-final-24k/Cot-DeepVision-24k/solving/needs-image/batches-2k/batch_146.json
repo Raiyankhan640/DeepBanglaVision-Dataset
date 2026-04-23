@@ -1,0 +1,304 @@
+[
+  {
+    "id": "144a4369-f945-487f-9afc-f2bfdd407908",
+    "images": [
+      "images/29067_0.png"
+    ],
+    "english_question": "<image>\nএকটি সামান্তরিক আকৃতির লনের মাঝখানে 8 মিটার লম্বা এবং 1 মিটার চওড়া একটি পথ আছে। লনটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c71420d3-ca6c-4312-9a42-9d0f438f180a",
+    "images": [
+      "images/8912_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে রেখাটির প্রকাশের কোন পদ্ধতিটি সঠিক? (সংখ্যাটি লিখ)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c2fe1dde-1c3c-45cf-b51c-91881e436723",
+    "images": [
+      "images/666_0.png"
+    ],
+    "english_question": "<image>\nনিচের সমকোণী ট্রাপিজিয়ামটিকে l রেখার সাপেক্ষে একবার পূর্ণ ঘূর্ণন করা হলে, তা ডানদিকের কঠিন বস্তুটি তৈরি করে। কোন বিকল্পটি সঠিকভাবে ট্রাপিজিয়ামটিকে উপস্থাপন করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "671adf8b-5c74-44b9-9825-a9ebcc94bbff",
+    "images": [
+      "images/8759_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠AOB = ∠COD = 90°, OC রেখাটি ∠AOB কে সমদ্বিখণ্ডিত করে এবং ∠BOD = 3∠DOE। ∠COE এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e42b738c-135f-4b44-9407-40381c400130",
+    "images": [
+      "images/26942_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দু একটি 5 × 5 গ্রিডের গ্রিড পয়েন্টে অবস্থিত (প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 একক)। ত্রিভুজ ABC-কে B বিন্দুর চারদিকে ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ A'BC'-এর অবস্থানে আনা হলো, যেখানে A' এবং C' বিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত। রেখাংশ AB দ্বারা অতিক্রান্ত ক্ষেত্রের ক্ষেত্রফল কত ______ বর্গ একক (ফলাফলে π থাকবে)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "174454a9-45eb-4f98-9d1a-a58faf14fac7",
+    "images": [
+      "images/7479_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90°, ∠CAB=30°, এবং BC=2, O এবং H বিন্দুদ্বয় যথাক্রমে AB এবং AC বাহুর মধ্যবিন্দু। যখন ত্রিভুজ ABC-কে B বিন্দুর চারদিকে 120° ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ A₁BC₁ অবস্থানে আনা হয়, তখন ঘূর্ণনের সময় OH রেখাংশ দ্বারা অতিক্রান্ত ক্ষেত্রফল (অর্থাৎ ছায়াবৃত অঞ্চলের ক্ষেত্রফল) কত?\n\nOptions:\nক) \\( \\dfrac {7}{3}π- \\dfrac {7}{8} \\sqrt {3}\\)\nখ) \\( \\dfrac {4}{3}π+ \\dfrac {7}{8} \\sqrt {3}\\)\nগ) \\(π\\)\nঘ) \\( \\dfrac {4}{3}π+ \\sqrt {3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b1e03960-46bf-4a88-9cce-4390bdfc352f",
+    "images": [
+      "images/66508_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। নিচের কোন সিদ্ধান্তটি সঠিক? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00f3544d-42b4-4533-bf42-cc9fadaa6315",
+    "images": [
+      "images/34166_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত ট্রাপিজিয়ামে, বৃহত্তম সম্ভাব্য ত্রিভুজটি কেটে ফেলার পর অবশিষ্ট অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af450e94-2515-48a0-98ac-28913ad1bce7",
+    "images": [
+      "images/15783_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস। যদি ∠COA = ∠DOB = 60° হয়, তবে কতটি রেখাংশের দৈর্ঘ্য AO রেখাংশের সমান?\nক. 3টি রেখাংশ\nখ. 4টি রেখাংশ\nগ. 5টি রেখাংশ\nঘ. 6টি রেখাংশ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eeb8668b-aebb-4e6d-9c03-edadcb958511",
+    "images": [
+      "images/23384_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015 ইয়াঞ্চেং স্কুল-লেভেল সিমুলেশন) দেওয়া আছে যে, রেখা l_3 || l_4 || l_5। তারা l_1 এবং l_2 রেখাকে যথাক্রমে E, A, C এবং D, A, B বিন্দুতে ছেদ করে। যদি AD = 2, AE = 3 এবং AB = 4 হয়, তবে CE এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "28a281a7-b1d3-4df9-9154-92ee1922a89f",
+    "images": [
+      "images/26436_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি বর্গক্ষেত্র। ∠DAF = 25°, যা কর্ণ BD-কে E বিন্দুতে এবং CD-কে F বিন্দুতে ছেদ করে। ∠BEC-এর মান নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3fc71015-88ef-4f9a-a7fc-8eb4b22aa999",
+    "images": [
+      "images/8190_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, △ABC এবং △A₁B₁C₁ ত্রিভুজদ্বয় E বিন্দুর সাপেক্ষে কেন্দ্রিক প্রতিসম। E বিন্দুর স্থানাঙ্ক কত?\n\nOptions:\nক) (-3, -1)\nখ) (-3, -3)\nগ) (-3, 0)\nঘ) (-4, -1)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b156af1-7e4f-4c82-b661-937bd2c34035",
+    "images": [
+      "images/17472_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, P বিন্দুটি 60° কোণ বিশিষ্ট দ্বিতল কোণ a-l-b এর অভ্যন্তরে অবস্থিত। PA তল a এর উপর লম্ব অভিক্ষেপ এবং PB তল b এর উপর লম্ব অভিক্ষেপ। A এবং B হলো লম্বের পাদবিন্দু। যদি PA = 4 এবং PB = 2 হয়, তবে AB এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5770f8c9-4f98-4bcb-bee8-3d75b6d47eeb",
+    "images": [
+      "images/57602_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, D হলো AC বাহুর মধ্যবিন্দু, E হলো BC বাহুর এক-চতুর্থাংশ বিন্দু এবং F হলো BD বাহুর মধ্যবিন্দু। যদি ত্রিভুজ ABC-এর ক্ষেত্রফল 16 হয়, তবে ত্রিভুজ DEF-এর ক্ষেত্রফল কত?\nOptions:\nD) Given that the area of triangle ABC is 16, what is the area of triangle DEF?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74a5e1f5-6304-4d02-956a-a05e2fb665a7",
+    "images": [
+      "images/13885_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে, দেওয়া আছে AB=12; AB, B বিন্দুতে BC এর উপর লম্ব এবং AB, A বিন্দুতে AD এর উপর লম্ব। AD=5, BC=10। E বিন্দুটি CD এর মধ্যবিন্দু হলে, AE এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9ea472fa-8fa0-4f08-832e-a03f3008e396",
+    "images": [
+      "images/44848_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে কতটি কেন্দ্রিক প্রতিসম চিত্র রয়েছে? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "205963cd-5a4f-4027-9916-839acb0cdfc1",
+    "images": [
+      "images/19871_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তক্ষেত্র ABCD-তে, AB = 3 সেমি এবং AD = 9 সেমি। আয়তক্ষেত্রটিকে এমনভাবে ভাঁজ করা হলো যেন B বিন্দুটি D বিন্দুর উপর পড়ে। ভাঁজের রেখাটি হলো EF। ত্রিভুজ ABE-এর ক্ষেত্রফল কত?\n\nOptions:\nক) \\(6cm^{2}\\)\nখ) \\(8cm^{2}\\)\nগ) \\(10cm^{2}\\)\nঘ) \\(12cm^{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24a64a2e-4f10-4859-956f-7d63109e7147",
+    "images": [
+      "images/33227_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\( \\triangle ABC \\) এবং \\( \\triangle ADE \\) ত্রিভুজদ্বয়ে, \\( \\frac{AB}{BC} = \\frac{AE}{ED} \\)। \\( \\triangle ABC \\) এবং \\( \\triangle ADE \\) সদৃশ হওয়ার জন্য অতিরিক্ত কোন শর্তটি প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "67e5c5fc-1b3a-4c33-954b-14d55bb34bc3",
+    "images": [
+      "images/35550_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সুষম ষড়ভুজের ভিতরে দুটি ছোট ত্রিভুজ আছে। ষড়ভুজের বাহুর দৈর্ঘ্য a। চিত্রে সংশ্লিষ্ট তথ্য দেওয়া আছে। যদি ছায়ায়িত অংশের ক্ষেত্রফল S1 এবং দুটি শূন্য ত্রিভুজের ক্ষেত্রফল S2 হয়, তবে S1/S2 = ( )\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bd05a848-a83b-4b0b-b84d-eac291c57f78",
+    "images": [
+      "images/55974_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র ABCD-এর বাহুর দৈর্ঘ্য 2 এবং H বিন্দুটি CD বাহুর বর্ধিতাংশের ওপর অবস্থিত। CEFH চতুর্ভুজটিও একটি বর্গক্ষেত্র। ত্রিভুজ DBF-এর ক্ষেত্রফল কত?\n\nOptions:\nক) \\(4\\)\nখ) \\( \\sqrt {2}\\)\nগ) \\(2 \\sqrt {2}\\)\nঘ) \\(2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

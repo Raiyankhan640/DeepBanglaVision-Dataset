@@ -1,0 +1,302 @@
+[
+  {
+    "id": "714b9c7d-ae6b-46bb-9b74-dcde7a6a9a94",
+    "images": [
+      "images/42830_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015, জাওঝুয়াং) সমতলে সরলরেখা a ও b সেগমেন্ট OK-এর প্রান্তবিন্দু দ্বারা গঠিত তীব্র কোণে ছেদ করে (চিত্রে তথ্য অনুসারে)। সরলরেখা a ও b দ্বারা গঠিত তীব্র কোণ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "85b2caea-8581-4b90-8165-2bae34be13db",
+    "images": [
+      "images/45337_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2015 পানইউ ডিস্ট্রিক্ট মক এক্সাম) অনুযায়ী, একটি পরিবহন জাহাজের A বিন্দু থেকে উপকূলের বাতিঘর BC এর উচ্চতা 41 মিটার (পর্যবেক্ষণ বিন্দু A এবং বাতিঘরের পাদদেশ C একই অনুভূমিক তলে অবস্থিত)। বাতিঘরের চূড়া B এর উন্নতি কোণ 35° পরিমাপ করা হলো। বিন্দু A থেকে বাতিঘর BC এর দূরত্ব কত (নিকটতম সেমি পর্যন্ত)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "39d0d68f-21f5-4518-bb63-46d97aef518b",
+    "images": [
+      "images/55609_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, এই পদ্ধতি ব্যবহার করে কেন্দ্র চিহ্নিত না করেই একটি বৃত্তের ব্যাস পরিমাপ করা যেতে পারে কারণ ( )\nক. ব্যাস ব্যাসার্ধের দ্বিগুণ\nখ. বৃত্ত একটি প্রতিসম চিত্র\nগ. বৃত্তের পরিধি ব্যাসের π গুণ\nঘ. ব্যাস হলো বৃত্তের দীর্ঘতম রেখাংশ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6d08364-c4c6-47f8-9f18-e3ea893bea5b",
+    "images": [
+      "images/1960_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে চারটি অসমান্তরাল রেখা L₁, L₂, L₃ এবং L₄ দেওয়া আছে যা সাতটি কোণ তৈরি করে। এই সাতটি কোণের পরিমাপ সম্পর্কে নিচের কোন উক্তিটি সঠিক? ( )\n\nOptions:\nক) ∠2 = ∠4 + ∠7\nখ) ∠3 = ∠1 + ∠6\nগ) ∠1 + ∠4 + ∠6 = 180°\nঘ) ∠2 + ∠3 + ∠5 = 360°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79d575f9-bcba-4c3c-b862-fedeeaf98ba0",
+    "images": [
+      "images/64838_0.png"
+    ],
+    "english_question": "<image>\nএকটি অর্ধবৃত্তে যার ব্যাস AB = 4√3 এবং কেন্দ্র O, P এবং Q বিন্দুগুলো চাপের উপর এমনভাবে অবস্থিত যে ∠AOB কোণটি A বিন্দু থেকে 60° এবং 30° চাপে বিভক্ত। রেখাংশ PB, ব্যাসার্ধ OQ কে M বিন্দুতে ছেদ করে। QM এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nA) Line segment PB intersects radius OQ at point M. Find the length of QM.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4baa7d4d-425c-446f-bcc2-2cdb0646d333",
+    "images": [
+      "images/11020_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে AB সমান্তরাল EF এবং BC লম্ব CD। ∠α, ∠β এবং ∠γ এর মধ্যে সম্পর্ক কী? ( )\n\nOptions:\nক) ∠α - ∠β + ∠γ = 90°\nখ) ∠α + ∠β - ∠γ = 90°\nগ) ∠α - ∠β + ∠γ = 180°\nঘ) ∠β + ∠γ - ∠α = 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ac205fe-c051-4ade-b0be-42272fd81a74",
+    "images": [
+      "images/triangle_ext_3ac205fe-c051-4ade-b0be-42272fd81a74.png"
+    ],
+    "english_question": "<image>\nশিক্ষার্থীরা ক্যালিডোস্কোপ নিয়ে খেলেছে, যা সমান প্রস্থ ও দৈর্ঘ্যের তিনটি কাঁচের টুকরো দিয়ে তৈরি। চিত্রটি ক্যালিডোস্কোপে দেখা একটি প্যাটার্ন, যেখানে সব ছোট ত্রিভুজগুলো সর্বসম সমবাহু ত্রিভুজ। রম্বস AEFG-কে রম্বস ABCD এর A বিন্দুর সাপেক্ষে ঘূর্ণন হিসেবে বিবেচনা করা যায় ( )\nক. Clockwise rotation of 60°\nখ. Clockwise rotation of 120°\nঘ. Counterclockwise rotation of 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c80592ae-1a03-4cec-957d-263093358e8b",
+    "images": [
+      "images/33511_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অর্ধবৃত্ত A-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed244d5d-f7f7-48eb-87d4-4590c0601346",
+    "images": [
+      "images/60328_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্রতিটি ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 2। A, B এবং C হলো ছোট বর্গগুলোর শীর্ষবিন্দু। sin ∠ABC-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c27d45e7-10a4-428b-ac21-65c9e41ca3ed",
+    "images": [
+      "images/48116_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, P বিন্দুটি রম্বস ABCD-এর অভ্যন্তরে সুষমভাবে বিন্যস্ত। AP * AC <= (1/4) * |AC|^2 হওয়ার সম্ভাবনা কত? ( ) ক. 1/2 খ. 1/4 গ. 1/6 ঘ. 1/8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a2bb1c5c-2944-4442-852e-079096e47d97",
+    "images": [
+      "images/60522_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দুটি অভিন্ন আয়তক্ষেত্র রয়েছে যার ভেতরে ত্রিভুজ A এবং B আছে। ত্রিভুজ A এর ক্ষেত্রফল ত্রিভুজ B এর ক্ষেত্রফলের চেয়ে বড়। (এই উক্তিটি সত্য না মিথ্যা তা নির্ণয় করো)\nOptions:\nB) Triangle A's area is larger than triangle B's area. (Determine if this statement is true or false)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fa6e4532-5425-4cc7-b580-9c3860d722dc",
+    "images": [
+      "images/38366_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে, একটি মাছ ধরার নৌকা সমুদ্র পর্যবেক্ষণ কেন্দ্র P থেকে 60° কোণে উত্তর-পূর্ব দিকে অবস্থিত। মাছ ধরার নৌকা A থেকে সমুদ্র পর্যবেক্ষণ কেন্দ্র P-এর দূরত্ব 60 নটিক্যাল মাইল। কিছুক্ষণ দক্ষিণ দিকে চলার পর, এটি B বিন্দুতে পৌঁছায়, যা সমুদ্র পর্যবেক্ষণ কেন্দ্র P থেকে 45° কোণে দক্ষিণ-পূর্ব দিকে অবস্থিত। মাছ ধরার নৌকা B থেকে সমুদ্র পর্যবেক্ষণ কেন্দ্র P-এর দূরত্ব নির্ণয় করো (ফলাফল বর্গমূল আকারে রাখতে হবে)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2a6a691-0a71-470f-8c24-07401d464814",
+    "images": [
+      "images/358_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, পাহাড়ের পাদদেশ A থেকে পাহাড়ের চূড়া P-এর উন্নতি কোণ 30°। ঢাল বরাবর 15° কোণে a মিটার দূরত্ব অতিক্রম করে B বিন্দুতে পৌঁছালে, B বিন্দু থেকে পাহাড়ের চূড়া P-এর উন্নতি কোণ হয় 60°। পাহাড়ের উচ্চতা h নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c59656b2-0d6d-481a-9346-9512e93a80df",
+    "images": [
+      "images/29098_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 25-এ দেখানো হয়েছে যে, সমান দৈর্ঘ্যের দুটি মই আছে। বাম পাশের মইয়ের উচ্চতা AC এবং ডান পাশের মইয়ের ভূমির দৈর্ঘ্য DF সমান। মই দুটির উন্নতি কোণ ∠ABC এবং ∠DFE-এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "76bfcab8-ae05-49fe-8d89-b6c8c2bbef68",
+    "images": [
+      "images/75201_0.png"
+    ],
+    "english_question": "<image>\nছোট আয়তক্ষেত্র দ্বারা গঠিত গ্রিডে, প্রতিটি ছোট আয়তক্ষেত্রের দৈর্ঘ্য 2 এবং প্রস্থ 1। বিন্দু A এবং B গ্রিড বিন্দুতে অবস্থিত। যদি বিন্দু C-ও একটি গ্রিড বিন্দুতে থাকে এবং ত্রিভুজ ABC একটি সমদ্বিবাহু ত্রিভুজ হয়, তবে শর্ত পূরণকারী বিন্দু C-এর সংখ্যা কত?\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52a3c2a0-38a9-494c-a131-b552080ddf24",
+    "images": [
+      "images/48060_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত সমস্যাটিতে, ABCD একটি বর্গাকার কাগজের টুকরো যার বাহুর দৈর্ঘ্য 2। কোণ B এবং D এমনভাবে ভাঁজ করা হয়েছে যাতে সমকোণী শীর্ষবিন্দু দুটি কর্ণ BD-এর উপর একটি বিন্দু P-তে মিলিত হয়। EF এবং GH হলো ভাঁজের রেখা। ধরি, AE = x (0 < x < 2)। নিম্নলিখিত বিবৃতিগুলো দেওয়া হলো:\n1. যখন x = 1, বিন্দু P বর্গক্ষেত্র ABCD-এর কেন্দ্র;\n2. যখন x ≤ 2, EF + GH > AC;\n3. যখন 0 < x < 2, ষড়ভুজ AEFCHG-এর সর্বোচ্চ ক্ষেত্রফল 3;\n4. যখন 0 < x < 2, ষড়ভুজ AEFCHG-এর পরিসীমা ধ্রুবক থাকে।\nনিচের কোন বিকল্পটি সঠিক?\n\nOptions:\nক) 1, 3\nখ) 1, 2, 4\nগ) 1, 3, 4\nঘ) 1, 2, 3, 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ad0cc45-aa01-4122-93e5-d770b324bd5c",
+    "images": [
+      "images/22483_0.png"
+    ],
+    "english_question": "<image>\nএকটি কণা A বিন্দু থেকে যাত্রা শুরু করে B, C, D, E, F, G, H, I, J বিন্দুগুলো অতিক্রম করে পুনরায় A বিন্দুতে ফিরে আসে। শর্তগুলো হলো: AB ⊥ BC, এবং AB || CD || EF || HG || IJ, এবং BC || DE || FG || HI || JA। এই কণাটির অতিক্রান্ত দূরত্ব নির্ণয়ের জন্য কমপক্ষে কয়টি বাহুর দৈর্ঘ্য পরিমাপ করতে হবে? n এর মান কত?\n\nOptions:\nক) 5\nখ) 4\nগ) 3\nঘ) 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0787a921-d311-4411-ab09-b80e95e3a45d",
+    "images": [
+      "images/15982_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক ঘনবস্তুর তিনটি দৃশ্য দেখানো হয়েছে। বাম দিকের দৃশ্য এবং সামনের দৃশ্য উভয়ই আয়তাকার, এবং উপরের দৃশ্যটি একটি সমবাহু ত্রিভুজ। চিত্রে প্রদত্ত পরিমাপ অনুযায়ী, এই জ্যামিতিক ঘনবস্তুটির মোট পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) \\( \\frac{27}{2} \\sqrt{3} \\)\nখ) 12 \\( \\sqrt{3} \\)\nগ) 24\nঘ) \\( 24 + 2 \\sqrt{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "96e8caf0-9f92-4517-af82-8d951cd12630",
+    "images": [
+      "images/60950_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, বিন্দু A(-3, 6), B(-9, -3), মূলবিন্দু O-কে সদৃশতার কেন্দ্র ধরে, ত্রিভুজ ΔABO-কে 1/3 অনুপাতে ছোট করা হলো। তাহলে বিন্দু A-এর অনুরূপ বিন্দু A'-এর স্থানাঙ্ক হবে (____)\nঅপশন:\n(ক) (-1, 2)\n(খ) (-1, 2) অথবা (1, -2)\n(গ) (-9, 18) অথবা (9, -18)\n(ঘ) (1, -2)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d72a7bf3-5486-4aed-9edf-6eff0a607802",
+    "images": [
+      "images/32938_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি ট্রাপিজিয়াম, যেখানে AD সমান্তরাল BC, ∠ABC = 30°, ∠BCD = 60°, AD = 4, AB = 3√3। নিচের ভূমি BC এর দৈর্ঘ্য কত?\n\nOptions:\nক) 6\nখ) 8\nগ) 10\nঘ) 12",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

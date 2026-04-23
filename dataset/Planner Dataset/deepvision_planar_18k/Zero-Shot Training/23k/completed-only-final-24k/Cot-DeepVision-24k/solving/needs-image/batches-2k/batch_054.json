@@ -1,0 +1,302 @@
+[
+  {
+    "id": "17a3f112-2959-45e1-b56c-b615242881c8",
+    "images": [
+      "images/868_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে a₁ এবং a₂ রেখাদ্বয়কে দুটি ছেদক দ্বারা ছেদ করা হয়েছে। যদি ∠1 = ∠2 অথবা ∠3 = ∠4 হয়, তবে a₁ এবং a₂ এর মধ্যকার সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9126d6a5-5e4e-4b0e-a097-77fab7957b24",
+    "images": [
+      "images/8745_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 15টি অভিন্ন রম্বস একটি গ্রিড গঠন করেছে, যেখানে রম্বসের শীর্ষবিন্দুগুলোকে গ্রিড পয়েন্ট বলা হয়। রম্বসের একটি কোণ 60°। A, B এবং C বিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত এবং D বিন্দুটি A, B ও C বিন্দুগামী চাপের ওপর অবস্থিত। যদি E বিন্দুটিও একটি গ্রিড পয়েন্ট হয় এবং ∠AED = ∠ACD হয়, তবে cos ∠AEC = কত?\nOptions:\nC) If point E is also on a grid point and ∠AED = ∠ACD, then cos∠AEC = ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0d46ac2b-6ef0-4c43-9151-738f20231db2",
+    "images": [
+      "images/22423_0.png"
+    ],
+    "english_question": "<image>\n(এই প্রশ্নটির মান 8) চিত্রে প্রদর্শিত অনুযায়ী, MN || EF, GH || EF এবং BA রেখাটি CA রেখার ওপর A বিন্দুতে লম্ব। যদি ∠1 = 70° হয়, তবে ∠ABF এর মান নির্ণয় করো।\nOptions:\nA) If ∠1 = 70º, find the degree measure of ∠ABF.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02ca6f4b-84a5-4f10-8953-08db98866a0c",
+    "images": [
+      "images/4589_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, F বিন্দুটি y^2 = 8x পরাবৃত্তের উপকেন্দ্র। A এবং B বিন্দুদ্বয় যথাক্রমে y^2 = 8x পরাবৃত্ত এবং x^2 + y^2 - 4x - 12 = 0 বৃত্তের ওপর অবস্থিত এবং AB রেখাংশ সর্বদা x-অক্ষের সমান্তরাল। ত্রিভুজ FAB-এর পরিসীমার সীমা কত?\n\nOptions:\nক) \\((8,12)\\)\nখ) \\((6,10)\\)\nগ) \\([6,8]\\)\nঘ) \\([8,12]\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f4540f8e-a536-4901-b193-8ceb4aab2578",
+    "images": [
+      "images/62818_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি চতুর্ভুজাকৃতির কাগজকে একটি সরলরেখা বরাবর কাটা হলো। যদি উৎপন্ন দুটি আকৃতির অন্তঃস্থ কোণগুলোর সমষ্টি সমান হয়, তবে নিচের কোন পদ্ধতিটি শর্তটি পূরণ করে? ($$__$$)\n\nOptions:\nক) $$①②$$\nখ) $$①③$$\nগ) $$②④$$\nঘ) $$③④$$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "120f5a3d-a93d-447e-bcdf-6a7b07803076",
+    "images": [
+      "images/65200_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, B, C এবং E বিন্দুগুলো y-অক্ষের ওপর অবস্থিত। সমকোণী ত্রিভুজ ABC-কে সমকোণী ত্রিভুজ ODE-তে রূপান্তরিত করা হলো। যদি বিন্দু C-এর স্থানাঙ্ক (0,1) এবং AC=2 হয়, তবে এটি কী ধরনের রূপান্তর হতে পারে?\n\nOptions (copied from English):\nD. \\(\\triangle ABC\\) is rotated clockwise \\(90^{\\circ}\\) around point \\(C\\), then translated down \\(3\\) units.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c9f7cab-8a9c-43ea-b4e0-ea88c568b491",
+    "images": [
+      "images/triangle_ext_7c9f7cab-8a9c-43ea-b4e0-ea88c568b491.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BD $-$ AC, CE $-$ AB, এবং BD ও CE রেখা O বিন্দুতে ছেদ করে। চিত্রে সদৃশ ত্রিভুজের কয়টি জোড়া আছে? ( )\nক. 2 pairs\nখ. 4 pairs\nগ. 5 pairs\nঘ. 6 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "16cbc880-473b-4846-8efd-3395287415c8",
+    "images": [
+      "images/46841_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি ত্রিভুজের সমকোণী শীর্ষবিন্দুটিকে দুটি সমান্তরাল রেখার একটির ওপর স্থাপন করা হয়েছে, যার একটি কোণ 30^{\\circ}। যদি \\angle 1 = 35^{\\circ} হয়, তবে \\angle 2 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ecc71c7-5198-488f-b5de-a258022b60ca",
+    "images": [
+      "images/49421_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 = 60° এবং CD ∥ BE। ∠B এর মান নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3630a8af-fb94-4e89-96a6-370e0816cbbc",
+    "images": [
+      "images/71607_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছোট পাহাড়ের পূর্ব দিকে A বিন্দুতে একটি হট এয়ার বেলুন উল্লম্বের সাথে 30° কোণে প্রতি মিনিটে 28 মিটার বেগে উড়ছে। আধা ঘণ্টা পর এটি C বিন্দুতে পৌঁছায়। এই সময়ে, বেলুনের যাত্রী A বিন্দুর সরাসরি পশ্চিমে একটি অগ্নিকুণ্ড B লক্ষ্য করেন। 5 মিনিট পর, D বিন্দুতে পরিমাপকৃত অগ্নিকুণ্ড B-এর অবনতি কোণ 15°। হট এয়ার বেলুনের উৎক্ষেপণ বিন্দু A এবং অগ্নিকুণ্ড B-এর মধ্যবর্তী দূরত্ব নির্ণয় করো। (ফলাফলে বর্গমূল রাখতে হবে। রেফারেন্স ডেটা: sin 15° = (√6-√2)/4, cos 15° = (√6+√2)/4, tan 15° = 2-√3, cot 15° = 2+√3)\nOptions:\nগ) At this time, the person in the balloon notices a fire point B directly west of point ক) After 5 minutes, the angle of depression to fire point B measured at point D is 15°. Find the distance between the launch point A of the hot air balloon and the fire point খ) (Results should retain the square root. Reference data: \\( \\sin 15°= \\frac{\\sqrt{6}-\\sqrt{2}}{4} \\), \\( \\cos 15°= \\frac{\\sqrt{6}+\\sqrt{2}}{4} \\), \\( \\tan 15°=2-\\sqrt{3} \\), \\( \\cot 15°=2+\\sqrt{3} \\))",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74cffcba-047c-421b-8dec-082b2fc3a95e",
+    "images": [
+      "images/63475_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রটি একই সাথে অক্ষ-প্রতিসম এবং কেন্দ্র-প্রতিসম? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "16321cba-1f63-44ab-b268-97245d84be5a",
+    "images": [
+      "images/24995_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠2 + ∠3 = 180°, ∠2 = 70°, ∠4 = 80°, তাহলে ∠1 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "435740cf-93bb-4539-93fc-1a62a78cb797",
+    "images": [
+      "images/37328_0.png"
+    ],
+    "english_question": "<image>\nশাও মিং এবং শাও গাং দুটি স্পিনার ব্যবহার করে একটি খেলা খেলছে: স্পিনার 1-এ 1 এবং 2 সংখ্যা আছে; স্পিনার 2-এ 1, 2 এবং 3 সংখ্যা আছে। সংখ্যাগুলোর গুণফল বিজোড় হলে শাও মিং 2 পয়েন্ট পায়; আর জোড় হলে শাও গাং 1 পয়েন্ট পায়। প্রতিটি খেলোয়াড়ের প্রত্যাশিত পয়েন্ট গণনা করে খেলাটি নিরপেক্ষ কি না তা নির্ধারণ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b03b7745-b362-4b42-b483-db2766135ae2",
+    "images": [
+      "images/6471_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $\\Delta ABC$ হলো বৃত্ত $\\odot O$-এর একটি অন্তর্লিখিত সমবাহু ত্রিভুজ এবং জ্যা $EF$, বাহু $BC$-এর মধ্যবিন্দু $D$ দিয়ে অতিক্রম করে, যেখানে $EF \\parallel AB$। যদি বৃত্ত $\\odot O$-এর ব্যাসার্ধ $\\frac{4\\sqrt{3}}{3}$ হয়, তবে $DE$-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e73da9ae-c69d-4a1e-9d16-b5591bdf21a5",
+    "images": [
+      "images/11107_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, জাহাজ A এবং B একই সময়ে বন্দর থেকে যাত্রা শুরু করে। জাহাজ A দক্ষিণ-পূর্ব দিকে 58° কোণে 16.1 নটিক্যাল মাইল/ঘণ্টা বেগে এবং জাহাজ B দক্ষিণ-পশ্চিম দিকে 32° কোণে যাত্রা করে। 2 ঘণ্টা পর, জাহাজ A বিন্দু A-তে পৌঁছায় এবং দেখে যে জাহাজ B তার ঠিক পশ্চিমে অবস্থিত। জাহাজ B-এর গতিবেগ কত নটিক্যাল মাইল/ঘণ্টা? (ফলাফল 0.1 নটিক্যাল মাইল/ঘণ্টা পর্যন্ত আসন্ন মানে প্রকাশ করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f2ee6b1a-6bbe-405b-a690-f99fc8d159c2",
+    "images": [
+      "images/34697_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমতলীয় চিত্রটি হলো ( )\n\nOptions:\nক) Equilateral triangle\nখ) Right triangle\nগ) Acute triangle\nঘ) Obtuse triangle",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cee1d9f2-267e-439d-95a9-6e048d78965f",
+    "images": [
+      "images/61173_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কয়টি স্থূলকোণ দেখানো হয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4cea34f9-99f0-46e4-9607-0b3153fc972c",
+    "images": [
+      "images/52245_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তাকার সবজি বাগানের দৈর্ঘ্য a ডেসিমিটার এবং প্রস্থ b ডেসিমিটার। বেড়া দেওয়ার জন্য কত ডেসিমিটার দৈর্ঘ্যের বেড়া প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "765a8da7-b588-4fbc-b0cd-3d27311032b6",
+    "images": [
+      "images/triangle_ext_765a8da7-b588-4fbc-b0cd-3d27311032b6.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CE হওয়ার শর্তটি হলো ( )\nখ. ∠A=∠ACE\nঘ. ∠B=∠ACE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1bc0cce2-eb2f-4815-9d4b-eb6723eb1047",
+    "images": [
+      "images/72147_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্রতিটি ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1। গ্রিড কাগজে A এবং B দুটি গ্রিড বিন্দু। এই 4x4 গ্রিডে, এমন কতটি গ্রিড বিন্দু C আছে যাতে ত্রিভুজ ABC একটি সমদ্বিবাহু ত্রিভুজ হয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

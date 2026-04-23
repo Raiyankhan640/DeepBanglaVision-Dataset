@@ -1,0 +1,302 @@
+[
+  {
+    "id": "6826d197-c381-4133-bb3b-446f7a23a6f7",
+    "images": [
+      "images/62709_0.png"
+    ],
+    "english_question": "<image>\nছায়াঘেরা অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07ecf3e0-79eb-4f34-96ca-69dd0752a512",
+    "images": [
+      "images/19311_0.png"
+    ],
+    "english_question": "<image>\nযদি বলয়ের প্রস্থ (দুটি বৃত্তের ব্যাসার্ধের পার্থক্য) 6 সেমি হয়, AB = 5 সেমি এবং BC = 10 সেমি হয়, তবে ছোট বৃত্তের ব্যাসার্ধ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71472da8-5ac0-4867-9ab1-6cdcd9edf4d4",
+    "images": [
+      "images/31022_0.png"
+    ],
+    "english_question": "<image>\nতেংফেই মিডল স্কুলের টিচিং বিল্ডিং-এর সামনে 'তেংফেই' নামে একটি নতুন ভাস্কর্য তৈরি করা হয়েছে (চিত্রে যেমন দেখানো হয়েছে)। ভাস্কর্যটির উচ্চতা পরিমাপ করতে শিয়াওমিং ভাস্কর্যটির চূড়া A-র উন্নতি কোণ 30° এবং এর পাদবিন্দু B-র অবনতি কোণ 45° পরিমাপ করল। শিয়াওহুয়া পঞ্চম তলায় একটি বিন্দু D খুঁজে পেল এবং সেখান থেকে A বিন্দুর অবনতি কোণ 60° পরিমাপ করল (চিত্রে যেমন দেখানো হয়েছে)। যদি CD = 10 মিটার হয়, তবে ভাস্কর্যটির উচ্চতা AB গণনা করো। ফলাফল 0.1 মিটার পর্যন্ত নিঁখুত হতে হবে (রেফারেন্স: $\\sqrt{3} = 1.73$)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "827c86f0-9d61-477f-b51e-aa6131a61b65",
+    "images": [
+      "images/75818_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে AB একটি অর্ধবৃত্তের ব্যাস, জ্যা AD এবং BC বিন্দু M-এ ছেদ করে, বিন্দু E, AM-এর উপর অবস্থিত এবং ∠CEM = ∠B। যদি AB = 1 হয়, তবে কোন রেখাংশের দৈর্ঘ্য cos∠AMC-এর সমান?\n\nOptions:\nক) AB\nখ) CE\nগ) AM\nঘ) CM",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ed48e24-9de1-4f50-a770-3a088ac7d7a5",
+    "images": [
+      "images/13348_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে কোণের সংখ্যা গণনা করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "96d22b66-0101-41ed-a0e3-7bb366b9d9b1",
+    "images": [
+      "images/71001_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, EF রেখাটি চতুর্ভুজ ABCD-এর প্রতিসাম্যের কেন্দ্র O দিয়ে অতিক্রম করে এবং AB ও CD বাহুকে যথাক্রমে E ও F বিন্দুতে ছেদ করে। যদি চতুর্ভুজ ABCD-এর ক্ষেত্রফল 8 বর্গ সেমি হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7103326a-6d0b-4f43-8e88-3f799a25d5c7",
+    "images": [
+      "images/64585_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর ওপরের দৃশ্য (top view) একটি আয়তক্ষেত্র, যা ডানদিকের চিত্রে দেখানো হয়েছে। সামনের দৃশ্য (front view) একটি সমদ্বিবাহু ত্রিভুজ যার ভূমি 8 এবং উচ্চতা 5। পাশের দৃশ্য (side view) একটি সমদ্বিবাহু ত্রিভুজ যার ভূমি 6 এবং উচ্চতা 5। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) 24\nখ) 80\nগ) 64\nঘ) 240",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d4f05cc3-1ab2-40f4-8d89-b468bcd4b36e",
+    "images": [
+      "images/62159_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বর্গক্ষেত্রটি 480 নির্দেশ করে। রঙিন অংশটি কত মান নির্দেশ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f963b41-358d-4358-bc86-09d81c3cc1da",
+    "images": [
+      "images/56668_0.png"
+    ],
+    "english_question": "<image>\nযখন x = 2, তখন চিত্রে প্রদর্শিত প্রোগ্রামটি চালানোর পর আউটপুট ফলাফল কত হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9be6ccd6-2cba-49cd-92f8-899f95416de8",
+    "images": [
+      "images/48976_0.png"
+    ],
+    "english_question": "<image>\nশাও মিং চিত্র অনুযায়ী সামনে থেকে দুটি বস্তু পর্যবেক্ষণ করছে। নিচের কোন চিত্রটি বস্তু দুটির সামনের দৃশ্য (Front View) নির্দেশ করে? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "538f01b5-0785-43ab-bcd4-6168edb18433",
+    "images": [
+      "images/491_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠A=∠D। ΔAOB সর্বসম ΔDOC হওয়ার জন্য নিচের কোন শর্তটি সঠিক নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc34b7ac-3592-49b0-935f-9f8921f952bd",
+    "images": [
+      "images/67944_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, তবে জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) \\frac{11{\\sqrt{3}}}{6}\nখ) \\sqrt{3}\nগ) \\frac{5\\sqrt{3}}{3}\nঘ) \\frac{4{\\sqrt{3}}}{3}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1a8c5c0b-659f-4573-b28e-68cb4407fe3c",
+    "images": [
+      "images/48487_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, বাহুর দৈর্ঘ্য 1 বিশিষ্ট ছোট বর্গক্ষেত্র দ্বারা গঠিত একটি গ্রিডের ভেতর O বিন্দুকে কেন্দ্র করে 1 ব্যাসার্ধের একটি বৃত্ত রয়েছে, যেখানে O একটি গ্রিড পয়েন্ট। \\( \\tan \\angle AED \\)-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6513ebc8-b5ce-49fd-a7b9-d43f3d049b9e",
+    "images": [
+      "images/52588_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো একটি অর্ধবৃত্তের ব্যাস, বিন্দু D হলো চাপ AC-এর মধ্যবিন্দু এবং ∠ABC = 50°। ∠DAB-এর পরিমাপ কত?\nক. 55°\nখ. 60°\nগ. 65°\nঘ. 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4cf23def-89ad-4de6-b3fd-5e1ad8bc02b5",
+    "images": [
+      "images/27228_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে যে, রেখাগুলি $l_{1} \\parallel l_{2} \\parallel l_{3} \\parallel l_{4}$ এবং যেকোনো দুটি সন্নিহিত সমান্তরাল রেখার মধ্যবর্তী দূরত্ব 1। যদি বর্গক্ষেত্র $ABCD$-এর চারটি শীর্ষবিন্দু এই চারটি রেখার ওপর অবস্থিত হয়, তবে $\\sin\\alpha=$ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4da63803-9769-48b6-b0b8-7e8739dde958",
+    "images": [
+      "images/6513_0.png"
+    ],
+    "english_question": "<image>\n5 × 5 বর্গাকার গ্রিডে, একটি বৃত্তচাপ A, B এবং C বিন্দু দিয়ে অতিক্রম করে। বৃত্তচাপটি যে বৃত্তের অংশ, তার কেন্দ্র কোনটি?\n\nOptions:\nক) Point P\nখ) Point Q\nগ) Point R\nঘ) Point M",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cfe1e228-02bf-49bc-a9a9-25470b9fa595",
+    "images": [
+      "images/6956_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী একটি মহাসড়ক নকশা করার সময় সুড়ঙ্গ AP-এর দৈর্ঘ্য নির্ণয় করা প্রয়োজন। দুটি পরিমাপ বিন্দু B এবং C নির্বাচন করা হলো, যেখানে AB = AC = 50 মিটার, ∠BAC = 60°, ∠ABP = 120° এবং ∠ACP = 135°। সুড়ঙ্গ AP-এর দৈর্ঘ্য নির্ণয় করো। (ফলাফলটি মূলদীয় আকারে প্রকাশ করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dedd9070-ae58-47ec-99d2-e62eb24898ab",
+    "images": [
+      "images/49359_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী একটি সোজা রুলার এবং একটি ত্রিকোণী সেট রাখা হলো। যদি ∠1 = 35° হয়, তবে ∠2 এর মান কত?\nক. 65°\nখ. 70°\nগ. 75°\nঘ. 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4b4d1c3c-0558-4aa8-8695-249ed278c5a7",
+    "images": [
+      "images/60368_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রটি একই সাথে অক্ষ-প্রতিসম এবং কেন্দ্র-প্রতিসম? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f164bad0-ba56-424e-b1f4-34c52f77a632",
+    "images": [
+      "images/triangle_ext_f164bad0-ba56-424e-b1f4-34c52f77a632.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, 30° কোণবিশিষ্ট দুটি অভিন্ন ত্রিভুজাকার স্কেল ABC এবং DEF, l রেখা বরাবর স্লাইড করছে। নিচের কোন উক্তিটি ভুল? ক. চতুর্ভুজ ACDF একটি সামান্তরিক। খ. চতুর্ভুজ ACDF বর্গক্ষেত্র হতে পারে না। গ. যখন B বিন্দু E বিন্দুর সাথে সমাপতিত হয়, তখন চতুর্ভুজ ACDF একটি রম্বস। ঘ. যখন E বিন্দু BC এর মধ্যবিন্দু হয়, তখন চতুর্ভুজ ACDF একটি আয়তক্ষেত্র।\nক. Quadrilateral ACDF is a parallelogram.\nখ. Quadrilateral ACDF cannot be a square.\nগ. When point B coincides with point E, quadrilateral ACDF is a rhombus.\nঘ. When point E is the midpoint of BC, quadrilateral ACDF is a rectangle.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "64f75df0-19d2-4d66-95a2-1791f35c172b",
+    "images": [
+      "images/64411_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বিন্যাস পদ্ধতি অনুসারে, 14তম প্যাটার্নে কালো ছোট বর্গাকার টাইলসের সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f85bdcb-d9e0-42fc-a5d0-45b4f8bb12d8",
+    "images": [
+      "images/52065_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l1 || l2, l3 ⊥ l4, তিনটি সিদ্ধান্ত দেওয়া হলো: ① ∠1 + ∠3 = 90°, ② ∠2 + ∠3 = 90°, ③ ∠2 = ∠4। নিচের কোনটি সঠিক?\n\nOptions:\nক) Only \\(①\\) is correct\nখ) Only \\(②\\) is correct\nগ) Both \\(①\\) and \\(③\\) are correct\nঘ) All \\(①\\), \\(②\\), and \\(③\\) are correct",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d54eb814-5f30-47f7-a592-032e9dfe5ed8",
+    "images": [
+      "images/14395_0.png"
+    ],
+    "english_question": "<image>\nচারটি বৃত্তের ব্যাস 10 সেমি। ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "513b56ed-7a75-4120-9e80-3e8c36c0f506",
+    "images": [
+      "images/74725_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আমাদের দেশের কয়েকটি ব্যাংকের লোগোর প্যাটার্ন দেওয়া হলো। এদের মধ্যে অক্ষীয় প্রতিসম (axisymmetric) চিত্র কয়টি? ( ) \nক. 4 \nখ. 3 \nগ. 2 \nঘ. 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b591eb4d-9689-4aa8-86a9-ca344f143a6c",
+    "images": [
+      "images/58389_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l₁ রেখাটি l₂ রেখার সমান্তরাল এবং l₃ রেখা দ্বারা ছেদকৃত। দেওয়া আছে ∠1 = ∠2 = 35° এবং ∠P = 90°, ∠3 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37937138-fe58-4c13-82a6-37291f205888",
+    "images": [
+      "images/36147_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-এর মধ্যমা AD এবং ∠ADC=45°। যদি ত্রিভুজ ADC-কে AD রেখা বরাবর ভাঁজ করা হয়, যাতে বিন্দু C, বিন্দু C'-এ পতিত হয়, তবে চিত্রের সমদ্বিবাহু সমকোণী ত্রিভুজটি কোনটি? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6778b473-1b0b-4b88-ad81-2ac702287a30",
+    "images": [
+      "images/30184_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ⊙O₁ এবং ⊙O₂ বৃত্ত দুটি P বিন্দুতে স্পর্শ করেছে। সাধারণ অভ্যন্তরীণ স্পর্শক PC, সাধারণ বাহ্যিক স্পর্শক AB-কে (যেখানে A এবং B যথাক্রমে ⊙O₁ এবং ⊙O₂ বৃত্তের স্পর্শবিন্দু) C বিন্দুতে ছেদ করে। যদি ⊙O₁ এবং ⊙O₂ বৃত্তের ব্যাসার্ধ যথাক্রমে 3 এবং 4 হয়, তবে PC-এর দৈর্ঘ্য কত?\nOptions:\nC) Given that the radii of circles ⊙O₁ and ⊙O₂ are 3 and 4 respectively, what is the length of PC?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1074e33a-7eb1-45e1-9395-cf30f451bb0d",
+    "images": [
+      "images/32818_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি Ω একটি জ্যামিতিক বস্তু হয় যা আয়তাকার ঘনবস্তু ABCDA₁B₁C₁D₁-কে EFGH তল দ্বারা কেটে পাওয়া যায়, যেখানে E হলো A₁B₁ রেখাংশের উপর B₁ থেকে ভিন্ন একটি বিন্দু, F হলো BB₁ রেখাংশের উপর B₁ থেকে ভিন্ন একটি বিন্দু এবং EH ∥ D₁ হয়, তবে নিচের কোন সিদ্ধান্তটি ভুল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f9a13128-fcad-470d-a621-44baac587633",
+    "images": [
+      "images/38464_0.png"
+    ],
+    "english_question": "<image>\nদুটি ত্রিভুজাকার রুলার নিয়ে গঠিত প্রদত্ত চিত্রে, যার একটির কোণগুলো 30°, 60°, 90° এবং অন্যটির 45°, 45°, 90°, ত্রিভুজ AFC-এর শীর্ষবিন্দু A-তে কোণ α-এর পরিমাপ নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ae46310-948e-4d68-8e3c-63ae0d2b6d9b",
+    "images": [
+      "images/63910_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চারটি অংশ রঙ করার জন্য 4টি ভিন্ন রঙ রয়েছে। শর্ত হলো, দুটি সংলগ্ন অংশ একই রঙের হতে পারবে না। কতগুলো ভিন্ন উপায়ে রঙ করা সম্ভব? ক. 24 খ. 30 গ. 36 ঘ. 48",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95cb0c63-44f7-4deb-8429-3f430e44940e",
+    "images": [
+      "images/67485_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্জ্য পানি উপরের প্রবেশপথ দিয়ে প্রবেশ করে এবং একটি সমদ্বিবাহু সমকোণী ত্রিভুজাকৃতির পরিশোধন উপাদানের পৃষ্ঠ দিয়ে প্রবাহিত হয়। পানি প্রতিবার ত্রিভুজের দুটি বাহু দিয়ে প্রবাহিত হওয়ার সময় সমান সুযোগ পায়। চার স্তর পরিশোধন শেষে, এটি নিচের পাঁচটি আউটলেটের একটিতে গিয়ে পড়ে। নিচের সিদ্ধান্তগুলো বিবেচনা করা হলো: (1) পাঁচটি আউটলেট থেকে নির্গত পানির পরিমাণ সমান; (2) 2 নম্বর আউটলেট থেকে নির্গত পানি 4 নম্বর আউটলেটের সমান; (3) 1, 2 এবং 3 নম্বর আউটলেট থেকে নির্গত পানির অনুপাত প্রায় 1:4:6; (4) যদি পরিশোধন উপাদানের ক্ষয় হওয়ার হার তার পৃষ্ঠ দিয়ে প্রবাহিত পানির পরিমাণের সমানুপাতিক হয়, তবে সবচেয়ে ধীরগতির ত্রিভুজাকৃতির উপাদান পরিবর্তনের সময় সবচেয়ে দ্রুতগতির উপাদানের তুলনায় প্রায় 8 গুণ। কোন সিদ্ধান্তগুলো সঠিক? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ab4bb2f3-f0a4-4221-bd2a-c90d5abc9053",
+    "images": [
+      "images/7129_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, দুটি সমান্তরাল রেখা d এবং c-এর মধ্যবর্তী দূরত্ব 10 সেমি এবং তাদের মাঝে একটি বর্গক্ষেত্র A ও একটি আয়তক্ষেত্র B আছে। বর্গক্ষেত্র A রেখা d বরাবর প্রতি সেকেন্ডে 2 সেমি বেগে ডানদিকে অগ্রসর হয় যেখানে আয়তক্ষেত্র B স্থির থাকে। A এবং B আকৃতি দুটির উপরিপাতিত অংশ কতক্ষণ স্থায়ী হবে? (একক: সেকেন্ড)\nOptions:\nB) Square A moves to the right along line d at a speed of 2 centimeters per second, while rectangle B remains stationary. How long does the overlapping part of shapes A and B last? (Unit: seconds)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1784c9df-0e87-49d0-9640-22f5c35bbe1b",
+    "images": [
+      "images/3546_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু A এবং B যথাক্রমে OM এবং ON রশ্মির উপর অবস্থিত। নিচের ভেক্টরগুলো বিবেচনা করি: (1) OA + OB; (2) 1/2 OA + 1/3 OB; (3) 3/4 OA + 1/3 OB; (4) 3/4 OA + 1/5 OB; (5) 3/4 OA - 1/5 OB। বিন্দু O থেকে শুরু করে, এদের মধ্যে কোন ভেক্টরগুলোর শেষ বিন্দু ছায়াবৃত অংশে অবস্থিত?\n\nOptions:\nক) ①②\nখ) ①④\nগ) ①③\nঘ) ⑤",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e6eb464d-f566-4102-91a1-24eb295d9b31",
+    "images": [
+      "images/28746_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজটির বহিঃস্থ কোণ কোনটি? ( ) \nক. ∠1 \nখ. ∠2 \nগ. ∠3 \nঘ. ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "12c8db9f-80fd-4135-af9c-e5b6086be517",
+    "images": [
+      "images/61524_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠A = 40°, ∠ABD = ∠D = ∠F = 90°, AG ⊥ GF, G বিন্দুতে, ∠E এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "75a82810-d33a-45cc-a5a7-1f26b58734ec",
+    "images": [
+      "images/54820_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন শর্তটি দিয়ে নিশ্চিত হওয়া যায় যে a এবং b রেখাদ্বয় সমান্তরাল?\nক. ∠2 = ∠3\nখ. ∠1 = ∠3\nগ. ∠4 + ∠5 = 180°\nঘ. ∠2 = ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "36c62238-aefd-4b92-97a1-f1069059a393",
+    "images": [
+      "images/55986_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ AOB এবং ত্রিভুজ COD-কে সদৃশ করার জন্য একটি অতিরিক্ত শর্ত প্রয়োজন: ▲ (কেবল একটি লিখুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5d578531-3539-4089-a5dd-8faff1093ed5",
+    "images": [
+      "images/11893_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনটি কেন্দ্রিক প্রতিসম কিন্তু অক্ষীয় প্রতিসম নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae62ed0c-1430-4470-912f-356af03d1bbb",
+    "images": [
+      "images/6912_0.png"
+    ],
+    "english_question": "<image>\nমোট ত্রিভুজগুলোর মধ্যে কতটি ত্রিভুজ মোট সংখ্যার 3/5 অংশ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c4c4f76e-001c-4edd-ad38-fff93354c674",
+    "images": [
+      "images/5106_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, b এবং c রেখাদ্বয়কে a রেখা ছেদ করেছে, তাহলে ∠1 এবং ∠2 কোণদ্বয় হলো ( )\n\nOptions (copied from English):\nক. Same-side interior angles\nখ. Alternate interior angles\nConsecutive interior angles\nঘ. Vertical angles",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

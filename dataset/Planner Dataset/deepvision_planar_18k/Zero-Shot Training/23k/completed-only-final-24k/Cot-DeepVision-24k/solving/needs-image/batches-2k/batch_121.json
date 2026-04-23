@@ -1,0 +1,302 @@
+[
+  {
+    "id": "2cf5db43-3670-466a-bb8d-3e4adeb6c38a",
+    "images": [
+      "images/11734_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন শর্তটি দ্বারা রেখা a এবং b সমান্তরাল তা নিশ্চিত করা যায়?\n\nOptions:\nক) ∠3 = ∠2\nখ) ∠1 = ∠3\nগ) ∠4 + ∠5 = 180°\nঘ) ∠2 = ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6fc580e5-ebc6-4ead-8c89-96f3ac780d44",
+    "images": [
+      "images/21605_0.png"
+    ],
+    "english_question": "<image>\nABCD একটি আয়তক্ষেত্র, যার কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। AE, BD এর উপর লম্ব এবং OE: ED = 1: 3 হলে, AB: BD এর অনুপাত কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54c1f011-7305-4e05-9c1b-6ab1de748654",
+    "images": [
+      "images/61601_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AOB একটি সরলরেখা এবং ∠COD = 90°, তাহলে ∠1 ও ∠2 এর মধ্যে সম্পর্কটি হলো ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "749bff62-eb55-4a5c-b6f8-c11241c97221",
+    "images": [
+      "images/34086_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি কার্টুন চিত্র এবং দুটি বৃত্তের মধ্যে অবস্থানগত সম্পর্ক হলো ( )\n\nOptions:\nক) Intersecting\nখ) Externally separate\nগ) Internally tangent\nঘ) Internally contained",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "afe3197c-7120-4d9f-a7e2-3b1edc05d27a",
+    "images": [
+      "images/7851_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক বস্তুটি 4টি অভিন্ন ছোট ঘনক দ্বারা গঠিত। এর সামনের দৃশ্যটি কেমন হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d884be4e-9fa7-4c86-8fba-1b4c77032db1",
+    "images": [
+      "images/35748_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, এবং C ও D হলো অর্ধবৃত্তের ত্রিখণ্ডক বিন্দু। বিন্দু E বৃত্তের ওপর এমনভাবে অবস্থিত যে CE এবং DE জ্যা। ∠C + ∠E + ∠D এর মান নির্ণয় করো, যেখানে প্রতিটি কোণ তার নিজ নিজ শীর্ষবিন্দুতে উৎপন্ন পরিধিস্থ কোণ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94e680e6-0ebe-4ce0-b516-2ad20cc9a111",
+    "images": [
+      "images/69658_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি সমকোণী ত্রিভুজ দেওয়া আছে যার একটি কোণ 30° এবং অতিভুজ AB = 8 সেমি। ফাঁপা ত্রিভুজ DEF এর বাহুগুলো ত্রিভুজ ABC এর অনুরূপ বাহুগুলোর সমান্তরাল এবং প্রতিটি অনুরূপ বাহুর মধ্যবর্তী দূরত্ব 1 সেমি। ত্রিভুজ DEF এর পরিসীমা কত?\n\nOptions:\nক) 5 cm\nখ) 6 cm\nগ) \\left( 6 - { \\sqrt { 3 } } \\right) cm\nঘ) \\left( 3 + { \\sqrt { 3 } } \\right) cm",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97f252de-0e06-44f6-b890-b99169ad1f96",
+    "images": [
+      "images/66233_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ত্রিভুজ দেওয়া আছে। এই ত্রিভুজের ক্ষেত্রফল নির্ণয়ের সঠিক সূত্রটি কোনটি? ( ) \nক. a×4÷2 \nখ. 8×4÷2 \nগ. 5×4÷2 \nঘ. 8×5÷2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b82e976-a8a6-433d-af07-b3cfa0c9e789",
+    "images": [
+      "images/40494_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত যৌগিক চিত্রটির ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "11f363f8-0232-4479-b501-b5d38ded0c97",
+    "images": [
+      "images/66932_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l1 এবং l2 রেখাদ্বয়কে l3 এবং l4 রেখা ছেদ করেছে। নিচের শর্তগুলোর মধ্যে কোনটি দ্বারা এটি নিশ্চিত করা যায় না যে, l1 রেখা l2 রেখার সমান্তরাল?\n\nOptions:\nক) ∠1 = ∠3\nখ) ∠5 = ∠4\nগ) ∠5 + ∠3 = 180°\nঘ) ∠4 + ∠2 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "85434b33-d144-4a3e-aa56-6a1cad0dfb40",
+    "images": [
+      "images/26896_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, AB = (2, 0) এবং AD = (-3, 2) হলে, BD · AC এর মান কত?\nক. -6\nখ. 4\nগ. 9\nঘ. 13",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "25927ec3-b99a-4d42-b37c-73878e8b9a41",
+    "images": [
+      "images/75937_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, ∠1 + ∠2 + ∠3 + ∠4 এর মান কত? ( ) \nক. 150° \nখ. 240° \nগ. 300° \nঘ. 330°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b3fff8f9-56ea-4403-a40a-23433e4817f5",
+    "images": [
+      "images/49011_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AE: EC = 1: 2, CD: DB = 1: 4, BF: FA = 1: 3 হয় এবং ত্রিভুজ ABC-এর ক্ষেত্রফল S = 1 হয়, তবে চতুর্ভুজ AFHG-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "702d2d1d-9c98-4917-8293-092e9c7fe5f0",
+    "images": [
+      "images/47243_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্ত O-এর ব্যাস ট্রাপিজিয়াম ABCD-এর নিচের বাহু AB-এর ওপর অবস্থিত এবং এটি অন্য তিনটি বাহু BC, CD ও DA-কে স্পর্শ করে। যদি BC = 2 এবং DA = 3 হয়, তবে AB-এর দৈর্ঘ্য কত?\nOptions:\nA) If BC = 2 and DA = 3, what is the length of AB ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50f971e4-0df3-4430-a950-185374dab3fa",
+    "images": [
+      "images/19505_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রবিশিষ্ট বৃত্তে, AB জ্যা-এর মধ্যবিন্দু P এবং CD হলো P বিন্দুগামী একটি ব্যাস। নিচের কোন সিদ্ধান্তটি ভুল? ( )\n\nOptions (copied from English):\nC. AD = BD\nPO = PD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "761d0f0f-ec67-46dd-9fd9-fad268c40bae",
+    "images": [
+      "images/35566_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গাড়িটি দুটি মোড় নিয়ে তার আদি দিকের সমান্তরাল দিকে চলতে শুরু করে। যদি প্রথম মোড়টি α এবং দ্বিতীয় মোড়টি β হয়, তবে α এর মাধ্যমে β কে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "32317c1e-f1ce-4738-9cb6-1d00913b10b8",
+    "images": [
+      "images/5588_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি কোণের বাহুর ওপর নয়টি বিন্দু A, B, C, D, E, F, G, H, I রয়েছে। যদি প্রতিটি বিন্দুর জোড়াকে সংযোগকারী রেখাগুলো পরস্পরকে ছেদ করে এবং ছেদবিন্দুগুলো কোণের ভেতরে অবস্থিত হয়, তবে এরূপ ছেদবিন্দুর সর্বোচ্চ সংখ্যা কত? (সংখ্যায় উত্তর দাও)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eac7ec48-7ed3-467d-8a7e-a01977760019",
+    "images": [
+      "images/14971_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে, AB = BC। ত্রিভুজ ABD এবং ত্রিভুজ CBD-কে সর্বসম করার জন্য তুমি আর কী শর্ত যোগ করবে? (কেবল একটি শর্ত লেখো)\nOptions:\nC) To make triangle ABD congruent to triangle CBD, what additional condition would you add? (Write only one condition)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ed95226-a1cd-4747-a947-615dcc6e4706",
+    "images": [
+      "images/57670_0.png"
+    ],
+    "english_question": "<image>\nআদেন উপসাগরীয় এলাকায়, একটি নৌ-জাহাজ পূর্ব থেকে পশ্চিমে যাচ্ছে। যখন এটি B বিন্দুতে পৌঁছায়, তখন বাতিঘর A ঠিক উত্তরে 500 মিটার দূরত্বে অবস্থিত। পশ্চিমে C বিন্দুতে পৌঁছানোর পর, বাতিঘর A উত্তর থেকে 60° পূর্ব দিকে অবস্থিত। জাহাজটি B থেকে C পর্যন্ত কত দূরত্ব অতিক্রম করেছে তা নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b606d096-835a-41ac-a200-9a4f0316c1be",
+    "images": [
+      "images/21141_0.png"
+    ],
+    "english_question": "<image>\nশাও মিং সাইকেলে করে বাড়ি থেকে জাদুঘরে এবং সেখান থেকে বিনোদন পার্কে যায়, এতে মোট 2 ঘণ্টা সময় লাগে। সে যদি একই গতিতে সরাসরি বাড়ি থেকে বিনোদন পার্কে যায়, তবে সে কত সময় বাঁচাতে পারবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "99284fb2-a16d-4649-9cd9-0b5ee3516b28",
+    "images": [
+      "images/4971_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দুটি সমকেন্দ্রিক বৃত্ত রয়েছে। বড় বৃত্তের ব্যাসার্ধ OA = 4 সেমি এবং ∠AOB = ∠BOC = 60°। ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc227097-ae9b-42f8-9ff9-d73daad287d8",
+    "images": [
+      "images/65340_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে AD = a এবং AB = b। বিপরীত বাহুগুলোর মধ্যবিন্দু যোগ করে চারটি ছোট আয়তক্ষেত্র তৈরি করা হলো। প্রতিটি নতুন আয়তক্ষেত্রের বাহুর মধ্যবিন্দু যোগ করে একটি রম্বস (I₁, I₂, ইত্যাদি) তৈরি করা হয়। রম্বস I_{2016} এর ক্ষেত্রফল কত?\nOptions:\nc.). What is the area of rhombus I_{2016}?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7be90494-1dae-45f3-8e44-c63a9eec8dd6",
+    "images": [
+      "images/71211_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্ত O একটি চাঁদা, ত্রিভুজ AOB একটি কাগজের টুকরো, A বিন্দুটি অর্ধবৃত্তের উপর অবস্থিত, AB বাহু অর্ধবৃত্তকে D বিন্দুতে ছেদ করে এবং OB বাহু অর্ধবৃত্তকে C বিন্দুতে ছেদ করে। যদি C, D এবং A বিন্দুগুলো চাঁদায় যথাক্রমে 45°, 70° এবং 160° নির্দেশ করে, তবে ∠B-এর মান কত ডিগ্রি?\nOptions:\nC) If points C, D, and A correspond to readings of 45°, 70°, and 160° on the protractor, respectively, then ∠B equals \\( \\) degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a0f1b46-88ab-40d6-aeec-d65d939271a8",
+    "images": [
+      "images/36936_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, দ্বীপ B, দ্বীপ A থেকে 75 ডিগ্রি কোণে দক্ষিণ-পূর্বে 4√3 নটিক্যাল মাইল দূরত্বে অবস্থিত। দ্বীপ A-এর পর্যবেক্ষকরা বিন্দু D-তে অবৈধ চোরাচালান শনাক্ত করেছেন, যা দ্বীপ B থেকে ঠিক উত্তরে এবং দ্বীপ A থেকে 60 ডিগ্রি উত্তর-পূর্ব দিকের ছেদবিন্দু। বিন্দু B থেকে 7 নটিক্যাল মাইল উত্তর-পূর্বে বিন্দু C-তে অবস্থিত একটি টহল বোটকে সতর্ক করা হয়েছে এবং তাকে আধা ঘণ্টার মধ্যে বিন্দু D-তে পৌঁছাতে হবে। টহল বোটটির সর্বনিম্ন গতিবেগ প্রতি ঘণ্টায় কত নটিক্যাল মাইল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9ba4d66c-8a45-4635-bbca-ac873b4756a9",
+    "images": [
+      "images/42165_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, যদি ∠A = 35° হয়, তবে ∠1 + ∠2 + ∠3 + ∠4 এর সমষ্টি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "869eb8d2-7db6-470b-855f-552bb8eaf68b",
+    "images": [
+      "images/55692_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রুলার এবং ত্রিভুজাকার রুলার উভয়ই O কেন্দ্রবিশিষ্ট বৃত্তের স্পর্শক। যদি AB = 8 সেমি হয়, তবে বৃত্তটির ব্যাস নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "15a6fb9c-0c4d-45cc-89cb-92ebe1b39db8",
+    "images": [
+      "images/20123_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, দেওয়া আছে ∠A = 60° এবং ∠B = 40°। D এবং E বিন্দু দুইটি যথাক্রমে BC এবং AC বাহুর বর্ধিতাংশের উপর অবস্থিত। কোণ 1-এর পরিমাপ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0d7d8e8b-ff66-4ea0-b344-ea1eeddceee9",
+    "images": [
+      "images/45702_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি আয়তাকার কাগজের ফালি ভাঁজ করে দেখানো আকৃতি তৈরি করা হয়েছে। যদি জানা থাকে ∠1 = 130°, তাহলে ∠2 = _______°।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c7c66ee0-0a03-4d01-bc57-81de2dd66b15",
+    "images": [
+      "images/74532_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমবাহু ত্রিভুজ ABC-এর বাহুর দৈর্ঘ্য 2। BC বাহুর ওপর উচ্চতা AB_1 ব্যবহার করে একটি নতুন সমবাহু ত্রিভুজ AB_1C_1 গঠন করা হলো। ত্রিভুজ ABC এবং ত্রিভুজ AB_1C_1-এর সাধারণ অঞ্চলের ক্ষেত্রফল S_1 দ্বারা চিহ্নিত করা হলো। এরপর, B_1C_1 বাহুর ওপর উচ্চতা AB_2 ব্যবহার করে আরেকটি সমবাহু ত্রিভুজ AB_2C_2 গঠন করা হলো এবং ত্রিভুজ AB_1C_1 ও ত্রিভুজ AB_2C_2-এর সাধারণ অঞ্চলের ক্ষেত্রফল S_2 দ্বারা চিহ্নিত করা হলো। এই প্রক্রিয়াটি অব্যাহত রাখলে, S_n ক্ষেত্রফলটি হবে ______ (n-এর মাধ্যমে প্রকাশ করো)।\nOptions:\nC) The area of the overlapping region between triangle ABC and triangle AB<sub>1</sub>C<sub>1</sub> is denoted as S<sub>1</sub>. Then, another equilateral triangle AB<sub>2</sub>C<sub>2</sub> is constructed using the height AB<sub>2</sub> from side B<sub>1</sub>C<sub>1</sub>, and the area of the overlapping region between triangle AB<sub>1</sub>C<sub>1</sub> and triangle AB<sub>2</sub>C<sub>2</sub> is denoted as S<sub>2</sub>. Continuing this process, we denote the area S<sub>n</sub> as ______ (expressed in terms of n).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "93a1c789-61d0-469d-a2a3-8eb491476f8c",
+    "images": [
+      "images/37875_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BC হলো বৃত্ত O-এর একটি জ্যা, OD ⊥ BC, যা E বিন্দুতে ছেদ করে এবং বৃত্তকে D বিন্দুতে ছেদ করে। A বিন্দুটি চাপের উপর একটি চলমান বিন্দু (B বা C-এর সাথে মিলিত নয়)। দেওয়া আছে, BC = $4\\sqrt{3}$ এবং ED = 2। ত্রিভুজ ABD এবং জ্যা BD দ্বারা গঠিত ছায়ায়িত অংশের সর্বোচ্চ ক্ষেত্রফল নির্ণয় করো।\nOptions:\nঘ) Point A is a moving point on the arc (not coinciding with B or গ). Given BC = 4√3 and ED = 2, find the maximum area of the shaded region composed of triangle ABD and segment BD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b17e8baa-f5e3-4ce9-9e2b-7609ada77d36",
+    "images": [
+      "images/56814_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায় বর্গক্ষেত্রের কেন্দ্র মূলবিন্দু O-তে এবং বর্গক্ষেত্রের এক জোড় বিপরীত বাহু x-অক্ষের সমান্তরাল। বিন্দু P (3a, a) বিপরীত অনুপাতী ফাংশন y = k/x (k > 0)-এর সাথে বর্গক্ষেত্রের ছেদবিন্দু। যদি চিত্রের ছায়াযুক্ত অংশের ক্ষেত্রফল 9 হয়, তবে এই বিপরীত অনুপাতী ফাংশনের বিশ্লেষণী সমীকরণ হল ▲।\nOptions:\na) is an intersection point of the inverse proportional function $\\mathrm{y}={\\frac{\\mathrm{k}}{\\mathrm{x}}}$ (k > 0) with the square. If the area of the shaded part in the figure equals 9, then the analytical expression of this inverse proportional function is ▲.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "31d81744-63a1-4e1b-b422-128b8e87df82",
+    "images": [
+      "images/24180_0.png"
+    ],
+    "english_question": "<image>\nএকটি চতুর্ভুজাকার পিরামিডের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, যেখানে সম্মুখ দৃশ্যটি একটি সমকোণী সমদ্বিবাহু ত্রিভুজ যার একটি বাহুর দৈর্ঘ্য 1। এই ঘনবস্তুটির আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "db60911f-267e-463e-9d27-f40657599b3e",
+    "images": [
+      "images/68756_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ AOB একটি সমদ্বিবাহু সমকোণী ত্রিভুজ, যেখানে AO = AB = 10 সেমি। অর্ধবৃত্ত ADB-এর ব্যাস AB এবং O কেন্দ্রবিশিষ্ট বৃত্তচাপ OAC-এর ব্যাসার্ধ AO = 10 সেমি। চিত্রটির ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (উত্তর বর্গ সেমিতে রাখো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dcb3e184-e45e-4220-a4c4-bca420ebf9cb",
+    "images": [
+      "images/12321_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: দেওয়া আছে AB সমান্তরাল DE, যদি ∠ABC = 60° এবং ∠CDE = 140° হয়, তবে ∠BCD এর মান নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "70a439ba-447f-41df-9206-c13aa64c5dd1",
+    "images": [
+      "images/36935_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি বর্গাকার গ্রিডে পাঁচটি ত্রিভুজ দেওয়া আছে। এদের মধ্যে △ABC-এর সদৃশ ত্রিভুজগুলোর সংখ্যা কত? (△ABC নিজে বাদে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a40e2ec7-2d87-427d-b8f7-e6e2b2eaae6d",
+    "images": [
+      "images/triangle_ext_a40e2ec7-2d87-427d-b8f7-e6e2b2eaae6d.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হিসাবে, এটি পপকর্ন রাখার জন্য একটি শঙ্কু আকৃতির কাগজের কাপ। কাপের বৃত্তাকার মুখের ব্যাস EF হলো 10 সেমি, এবং হেলানো উচ্চতা OE (OF) হলো 10 সেমি। হেলানো উচ্চতা OF-এর A বিন্দুতে পপকর্নের একটি টুকরো আটকে আছে, যেখানে FA = 2 সেমি। একটি পিঁপড়া কাপের মুখের E বিন্দু থেকে শঙ্কুর পৃষ্ঠ বরাবর A বিন্দুতে যায়। পিঁপড়াটির অতিক্রান্ত ক্ষুদ্রতম দূরত্ব কত সেমি?\nOptions:\nA) What is the shortest distance the ant crawls in cm?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f98782fb-8aec-4a29-b6dc-0432f1f487e6",
+    "images": [
+      "images/21007_0.png"
+    ],
+    "english_question": "<image>\nABCD সামান্তরিকের ∠DAB = 60°, AB = 15 সেমি। 3 সেমি ব্যাসার্ধের একটি বৃত্ত শুরুতে AB ও AD বাহুকে যথাক্রমে E ও F বিন্দুতে স্পর্শ করে। বৃত্তটি AB বাহুর সমান্তরালে গড়িয়ে BC বাহুকে স্পর্শ করা পর্যন্ত চলে। বৃত্তটি কত দূরত্ব অতিক্রম করেছে?\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9dfdd1d3-7761-45c3-b22d-b223053ec493",
+    "images": [
+      "images/67146_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O এর ব্যাস, P হলো বৃত্তচাপ AB এর ওপর একটি বিন্দু, এবং M ও N হলো AB এর দুটি সমত্রিখণ্ডক বিন্দু, যেখানে AB = 6। PM • PN এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bdad8ad2-01ad-4ca4-bbd4-0d689b1a9e04",
+    "images": [
+      "images/70849_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি কেন্দ্র O বিশিষ্ট কেন্দ্রিক প্রতিসম আকৃতি প্রদর্শন করছে। যদি ∠A = 30°, ∠C = 90° এবং AC = 3 হয়, তবে AB-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e806cff-ad56-43c5-ae1d-936df267fd9f",
+    "images": [
+      "images/61081_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠C=30°, PA⊥OA (A বিন্দুতে), PB⊥OB (B বিন্দুতে), PA=2, PB=11 হলে, OP এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

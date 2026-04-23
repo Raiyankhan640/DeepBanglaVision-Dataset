@@ -1,0 +1,362 @@
+[
+  {
+    "id": "b013f48b-4f65-4574-bac0-64b8faa70304",
+    "images": [
+      "images/60138_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: দেওয়া আছে যে একটি আয়তক্ষেত্রের কর্ণদ্বয় AC এবং BD পরস্পর O বিন্দুতে ছেদ করে, তবে চিত্রে সর্বসম ত্রিভুজের সংখ্যা কত জোড়া? ( ) \nক. 8 জোড়া \nখ. 5 জোড়া \nগ. 4 জোড়া \nঘ. 3 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b73a6f82-89bb-4a88-8ad1-1c2d86fbbce8",
+    "images": [
+      "images/15955_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AB হলো বৃত্ত O-এর ব্যাস এবং BC, CD, DA হলো বৃত্তের তিনটি জ্যা, যেখানে BC = CD = DA। ∠BCD-এর পরিমাপ কত?\nক. 105°\nখ. 120°\nগ. 135°\nঘ. 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4b9a41a7-57b2-4ef0-be5a-c8a799385f7f",
+    "images": [
+      "images/73930_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বিন্দু O নিয়মিত ষড়ভুজ ABCDEF-এর কেন্দ্র। A, B, C, D, E, F ও O-এর যেকোনো বিন্দু থেকে শুরু হয়ে ভিন্ন বিন্দুতে শেষ হয় এমন সব ভেক্টরের মধ্যে ভেক্টর \\overline{OA}-এর সাথে সমরেখায় থাকা ভেক্টরের মোট সংখ্যা (ভেক্টর \\overline{OA} বাদে) কত? ( ) ক. 6 খ. 7 গ. 8 ঘ. 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a2ab3a13-a641-4dca-9e92-0ed2c2684db5",
+    "images": [
+      "images/68957_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি বর্গাকার বাগান আছে এবং চতুর্ভুজ ABGF হলো ছোট বর্গক্ষেত্রগুলোর একটি, যেখানে AB = 2 মিটার এবং BC = 3 মিটার। একটি পাখি দৈবচয়নভাবে এই বাগানের ছায়াযুক্ত অংশে অবতরণ করার সম্ভাবনা কত?\n\nOptions:\nক) 1/2\nখ) 1/3\nগ) 12/25\nঘ) 13/25",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f448975-4314-4f79-ba71-a907c710aeb3",
+    "images": [
+      "images/triangle_ext_5f448975-4314-4f79-ba71-a907c710aeb3.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে এবং চিত্রে চিহ্নিত পরিমাপ (একক: mm) অনুযায়ী, জ্যামিতিক বস্তুটির আয়তন কত? ( )\nক. 12000000 mm^3\nখ. 8000000 mm^3\nগ. 6000000 mm^3\nঘ. 4000000 mm^3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8fba3f94-9aff-4298-869c-1c668cbb1212",
+    "images": [
+      "images/70159_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-তে, ∠BAD = 80°, AB-এর লম্ব দ্বিখণ্ডক কর্ণ AC-কে F বিন্দুতে ছেদ করে এবং E হলো লম্বের পাদবিন্দু। DF যুক্ত করলে, ∠CDF-এর পরিমাপ কত?\n\nOptions:\nক) 60°\nখ) 65°\nগ) 70°\nঘ) 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a538214c-8666-4bac-af54-9f490d87995a",
+    "images": [
+      "images/47849_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90^{\\circ}, বিন্দু O হলো AB-এর মধ্যবিন্দু এবং স্থানাঙ্ক মূলবিন্দু, এবং AB রেখাটি x-অক্ষ বরাবর অবস্থিত। ত্রিভুজ ABC-কে বিন্দু B-এর সাপেক্ষে ঘড়ির কাঁটার দিকে এমনভাবে ঘোরানো হলো যাতে বিন্দু A, y-অক্ষের ধনাত্মক দিকে বিন্দু A'-তে পৌঁছায়। যদি AO=OB=2 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) \\( \\dfrac {2}{3}π\\)\nখ) \\( \\dfrac {2}{3}π-1\\)\nগ) \\( \\dfrac {4π}{3}+1\\)\nঘ) \\( \\dfrac {4π}{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "abed524a-5e4b-45b5-a6da-a91d825a575e",
+    "images": [
+      "images/triangle_ext_abed524a-5e4b-45b5-a6da-a91d825a575e.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, D এবং E বিন্দু দুটি BC রেখাংশের ওপর দুটি চলমান বিন্দু এবং \\overrightarrow{AD} + \\overrightarrow{AE} = x \\overrightarrow{AB} + y \\overrightarrow{AC}। \\frac{1}{x} + \\frac{4}{y} এর সর্বনিম্ন মান কত?\nক. \\( \\frac{3}{2} \\)\nখ. 2\nগ. \\( \\frac{5}{2} \\)\nঘ. \\( \\frac{9}{2} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "27a28f45-319c-4b5f-acc2-395e4769014e",
+    "images": [
+      "images/61240_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছোট বর্গগুলোর বাহুর দৈর্ঘ্য 1। OAB সেক্টরটি একটি শঙ্কুর পার্শ্বতলের বিস্তৃতি। এই শঙ্কুর ভূমির পরিধি কত?\n\nOptions:\nক) π\nখ) \\sqrt{2} \\pi\nগ) 2 \\sqrt{2} \\pi\nঘ) 3\\pi",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d222ebe6-5daa-43a2-af8d-abc7aa4f2cda",
+    "images": [
+      "images/triangle_ext_d222ebe6-5daa-43a2-af8d-abc7aa4f2cda.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। যদি গ্রিডের প্রতিটি ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1 হয় এবং এই জ্যামিতিক বস্তুটির সব শীর্ষবিন্দু গোলক O এর পৃষ্ঠের ওপর থাকে, তবে এই গোলকটির পৃষ্ঠতলের ক্ষেত্রফল হলো ( )\nক. \\(20π\\)\nখ. \\(4 \\sqrt {5}π\\)\nগ. \\( \\dfrac {49π}{16}\\)\nঘ. \\( \\dfrac {49π}{4}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97803f28-081f-4591-8047-1f1c1932ac9d",
+    "images": [
+      "images/76822_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, গ্রিড কাগজের ছোট বর্গগুলোর বাহুর দৈর্ঘ্য 1। মোটা রেখাগুলো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য নির্দেশ করে এবং শীর্ষ দৃশ্যের ডানদিকে একটি অর্ধবৃত্ত রয়েছে। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) \\(16+2π \\)\nখ) \\(16+4π \\)\nগ) \\(48+4π \\)\nঘ) \\(48+2π \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6c48918-1169-47f2-b510-6e21ce1df45d",
+    "images": [
+      "images/triangle_ext_b6c48918-1169-47f2-b510-6e21ce1df45d.png"
+    ],
+    "english_question": "<image>\n$1$ বাহুর দৈর্ঘ্যবিশিষ্ট একটি বর্গক্ষেত্র $ABCD$-কে কর্ণ $BD$ বরাবর ভাঁজ করা হলো, যাতে তল $ABD$, তল $CBD$-এর ওপর লম্ব হয়। ত্রিভুজাকার পিরামিড $C-ABD$-এর সম্মুখ দৃশ্য (front view) এবং শীর্ষ দৃশ্য (top view) চিত্রে দেখানো হয়েছে। পার্শ্ব দৃশ্যের (side view) ক্ষেত্রফল কত?\nক. \\(\\textstyle{\\frac{1}{2}}\\)\nখ. \\(\\textstyle{\\frac{1}{4}}\\)\nগ. \\(\\frac{\\sqrt{2}}{4}\\)\nঘ. - \\(\\frac{\\sqrt{2}}{4}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "13d99c9b-d3e7-4ea8-8055-47be2ca605c2",
+    "images": [
+      "images/60503_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AP রেখাটি O কেন্দ্রবিশিষ্ট বৃত্তের P বিন্দুতে একটি স্পর্শক এবং ∠APQ = ∠CPQ। চিত্রে কোন রেখাংশটি CQ এর সমান? ( )\n\nOptions (copied from English):\nক. PQ\nPB\nPC\nঘ. BQ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c44e590d-4c93-4540-adf5-a0e393c5ca2f",
+    "images": [
+      "images/51454_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বোতলের নিচের অংশের ক্ষেত্রফল শঙ্কু আকৃতির কাপের মুখের ক্ষেত্রফলের সমান। যদি বোতলের তরল শঙ্কু আকৃতির কাপে ঢালা হয়, তবে কতগুলো কাপ পূর্ণ করা যাবে?\n\nOptions (copied from English):\nক. 3\nখ. 6\nগ. 12",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e35d43a-f160-449c-8ce7-a38783d88726",
+    "images": [
+      "images/40053_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি কাগজের বৃত্তকলার কেন্দ্রীয় কোণ 90 ডিগ্রি এবং ব্যাসার্ধ 6। যখন এই বৃত্তকলাটিকে এমনভাবে ভাঁজ করা হয় যে A বিন্দুটি O বিন্দুর সাথে মিলে যায়, তখন ভাঁজটি হয় CD। ছায়াবৃত অংশের ক্ষেত্রফল কত? \nক. 9√3 - 3π \nখ. 6π - 9√3 \nগ. 3π - 9√3 \nঘ. 9√3 - 6π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "23e05289-bc84-4576-a7c2-8cd885a8f323",
+    "images": [
+      "images/44023_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, বিন্দু A হলো ধনাত্মক x-অক্ষের উপর একটি নির্দিষ্ট বিন্দু এবং বিন্দু P হলো অধিবৃত্ত y = 3/x (যেখানে x > 0) এর উপর একটি চলমান বিন্দু। PB হলো y-অক্ষের উপর লম্ব যা B বিন্দুতে ছেদ করে। P বিন্দুর x-স্থানাঙ্ক ক্রমাগত বৃদ্ধি পেলে, চতুর্ভুজ OAPB-এর ক্ষেত্রফল ( )\n\nOptions:\nক) Gradually increase\nখ) Remain unchanged\nগ) Gradually decrease\nঘ) First increase then decrease",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f29fa7a4-2a8b-4925-a5de-488aa333084d",
+    "images": [
+      "images/triangle_ext_f29fa7a4-2a8b-4925-a5de-488aa333084d.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, তবে এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত ( )\nক. $4 + 4 { \\sqrt { 3 } }$\nখ. $\\frac { 4 \\sqrt { 3 } } { 3 }$\nগ. 12\nঘ. 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc0c7d28-1758-4fa3-9880-6863bd7fc33e",
+    "images": [
+      "images/40174_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O বৃত্তের ব্যাস AB, জ্যা CD-এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে। যদি DE = OB এবং ∠AOC = 84° হয়, তবে ∠E-এর মান কত?\n\nOptions:\nক) 42 °\nখ) 28°\nগ) 21°\nঘ) 20°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94c2194a-3808-4b2c-9509-2d707c38a1b3",
+    "images": [
+      "images/triangle_ext_94c2194a-3808-4b2c-9509-2d707c38a1b3.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, D এবং E বিন্দু দুটি যথাক্রমে AB এবং BC বাহুর মধ্যবিন্দু। দেওয়া আছে ∠B = 23° এবং ∠C = 40°। যদি ত্রিভুজ ABC-কে DE রেখা বরাবর ভাঁজ করা হয়, তবে B বিন্দুর অনুরূপ বিন্দু হয় B'। ∠ADB'-এর মান কত?\nক. 45°\nখ. 54°\nগ. 60°\nঘ. 65°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2432d79a-983b-468f-b90f-5505ddfdd52b",
+    "images": [
+      "images/40797_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী একটি ত্রিভুজাকার রুলার (∠A=30°, ∠E=45°) এমনভাবে রাখা হয়েছে যেন BA, EF-এর সমান্তরাল হয়। ∠AOF-এর মান কত?\nক. 75°\nখ. 90°\nগ. 105°\nঘ. 115°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

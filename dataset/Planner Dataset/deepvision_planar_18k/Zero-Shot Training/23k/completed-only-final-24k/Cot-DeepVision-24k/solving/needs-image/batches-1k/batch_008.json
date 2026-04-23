@@ -1,0 +1,302 @@
+[
+  {
+    "id": "4e8d4b4e-20e8-4e9b-87dc-b7e4830ae55d",
+    "images": [
+      "images/13861_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 2 সেমি বাহুবিশিষ্ট বর্গক্ষেত্র ABCD-এ, Q হলো BC বাহুর মধ্যবিন্দু এবং P হলো কর্ণ AC-এর উপর একটি চলমান বিন্দু। PB ও PQ যুক্ত করলে, ত্রিভুজ PBQ-এর পরিসীমার সর্বনিম্ন মান কত সেমি (ফলাফল নির্ভুল রাখুন)?\nOptions:\nC) Connecting PB and PQ, what is the minimum perimeter of triangle PBQ in cm (keep the result accurate)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a48fe4a4-1488-4621-ae3f-70a450f7ee0b",
+    "images": [
+      "images/8140_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O1 বৃত্তটি O2 বৃত্তকে এবং O2 বৃত্তটি O3 বৃত্তকে বহিঃস্থভাবে স্পর্শ করে। তিনটি বৃত্তই a এবং b রেখাকে স্পর্শ করে। A1, A2 এবং A3 হলো স্পর্শবিন্দু। যদি O1 বৃত্তের ব্যাসার্ধ 3 এবং O2 বৃত্তের ব্যাসার্ধ 4 হয়, তবে O3 বৃত্তের ব্যাসার্ধ কত?\nOptions:\nb. Points A1, A2, and A3 are the points of tangency, where the radius of circle O1 is 3 and the radius of circle O2 is 4. What is the radius of circle O3?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f6b6451b-5f83-4948-8b84-923caba4a17e",
+    "images": [
+      "images/23380_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল EF এবং ∠C = 90°। ∠α, ∠β এবং ∠γ এর মধ্যে সম্পর্ক কী?\n\nOptions:\nক) ∠β = ∠α + ∠γ\nখ) ∠α + ∠β + ∠γ = 180°\nগ) ∠α + ∠β - ∠γ = 90°\nঘ) ∠β + ∠γ - ∠α = 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52f090ea-7baa-41e8-b770-9500e4cd6923",
+    "images": [
+      "images/17349_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ট্রাপিজিয়াম ABCD-তে AD || BC, ∠C = 90° এবং AB > AD + BC। AB যদি বৃত্ত O-এর ব্যাস হয়, তবে রেখা CD এবং বৃত্ত O-এর পারস্পরিক অবস্থান কীরূপ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4da154b8-b8de-4bf5-b8d3-cc9aefab9753",
+    "images": [
+      "images/10286_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠1 = ∠2 এবং ∠D = ∠B হয়, তবে নিচের কোন সিদ্ধান্তটি ভুল তা নির্ণয় করো:\nAB ∥ DC\nAD ∥ BC\n∠DAB = ∠BCD\n∠DCA = ∠DAC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "773bc837-a877-41df-9d28-f904c148ec85",
+    "images": [
+      "images/29097_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, যখন একটি প্রহরী যুদ্ধজাহাজ একটি নির্দিষ্ট সমুদ্র এলাকার B বিন্দুতে পৌঁছায়, তখন লাইটহাউস A যুদ্ধজাহাজটি থেকে উত্তর থেকে 60° পূর্ব অভিমুখে অবস্থিত ছিল; যুদ্ধজাহাজটি B বিন্দু থেকে 1800 মিটার পূর্ব দিকে হেঁটে C বিন্দুতে পৌঁছাল, যেখানে লাইটহাউস A ঠিক উত্তর দিকে অবস্থিত। C বিন্দু থেকে লাইটহাউস A-এর দূরত্ব নির্ণয় করো (ফলাফল চারটি তাৎপর্যপূর্ণ অংক পর্যন্ত আসন্ন করো)।\nOptions:\nA) (Result rounded to four significant figures)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "88bdea0a-0888-4394-bbf0-e9c2866bcc47",
+    "images": [
+      "images/35936_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার জমির প্রস্থ 100 মিটার। ডেভেলপার এটিকে তিনটি অংশে ভাগ করেছেন: ক এবং খ হলো বর্গক্ষেত্র এবং গ হলো একটি আয়তক্ষেত্র। পরিকল্পনা অনুযায়ী, ক হবে আবাসিক এলাকা, খ হবে একটি শপিং মল, এবং শপিং মলের ক্ষেত্রফল 1000 বর্গমিটারের বেশি হতে হবে। গ অংশটিকে 2100 বর্গমিটার ক্ষেত্রফল বিশিষ্ট একটি পার্কে রূপান্তর করা হবে। জমিটির দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00f72c13-2d65-4b14-ad1a-6b2b85834519",
+    "images": [
+      "images/50019_0.png"
+    ],
+    "english_question": "<image>\nযখন \"দীর্ঘ দিন\" লেবেলটি উত্তরের দিকে নির্দেশ করে তখন কোন গোলার্ধে গ্রীষ্মকাল বিরাজ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9e180a8-475f-4e38-b4ca-5c12426260a2",
+    "images": [
+      "images/59897_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি দালানের সামনে একটি বাঁশগাছ আছে। দালানের পাদদেশ থেকে বাঁশগাছের দূরত্ব (CB) 2 মিটার। বাতাসের ঝাপটায় বাঁশগাছটি হেলে পড়লে এর শীর্ষবিন্দু দালানের শীর্ষবিন্দুকে স্পর্শ করে। এই মুহূর্তে বাঁশগাছ ও অনুভূমিক ভূমির মধ্যবর্তী কোণ 75° পরিমাপ করা হলো। বাঁশগাছটি দালান অপেক্ষা কত মিটার লম্বা? (0.1 মিটার পর্যন্ত নির্ভুল)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0a3d9ff0-e225-4c7e-94d5-408885768424",
+    "images": [
+      "images/63995_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজাকার কাগজের টুকরো থেকে, অতিভুজের মধ্যবিন্দু থেকে সমকোণ সংলগ্ন বাহুদ্বয়ের ওপর অঙ্কিত রেখা বরাবর দুটি ত্রিভুজ কেটে নেওয়া হলো। এতে চিত্রে প্রদর্শিত একটি ট্রাপিজিয়াম অবশিষ্ট রইল। যদি ট্রাপিজিয়ামটির তিন বাহুর দৈর্ঘ্য 2, 4 এবং 3 হয়, তবে মূল সমকোণী ত্রিভুজটির অতিভুজের দৈর্ঘ্য কত?\nক. 10\nখ. $4 \\sqrt { 5 }$\nগ. 10 অথবা $4 \\sqrt { 5 }$\nঘ. 10 অথবা $2 \\sqrt { 17 }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f3d3db4-4958-44b4-b6b8-31f434fa25fa",
+    "images": [
+      "images/19469_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, l রেখাটি l₁ ও l₂ রেখাকে ছেদ করে ∠1 থেকে ∠8 পর্যন্ত কোণ উৎপন্ন করেছে। এই কোণগুলোর মধ্যে একটি শর্ত উল্লেখ করো যা l₁ ও l₂-এর সমান্তরাল হওয়া নিশ্চিত করে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "84d715e5-e89e-4e25-97fb-f782db5fae08",
+    "images": [
+      "images/17722_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্তের মধ্যে ত্রিভুজ AOC-এর ক্ষেত্রফল 11 বর্গ সেমি। O বৃত্তের কেন্দ্র এবং ব্যাস 10 সেমি। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dcf5a3d4-8717-4aae-83f6-69a0ad9c615a",
+    "images": [
+      "images/51540_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি ∠1 = ∠2 এবং ∠3 = 80° হয়, তবে ∠4 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3d17c6b6-14aa-4f9c-845c-e77b059a16b0",
+    "images": [
+      "images/15124_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, ΔABC এর ক্ষেত্রফল 12 সেমি²। ত্রিভুজটিকে BC বাহুর দিকে ΔDEF অবস্থানে স্থানান্তর করা হলো এবং স্থানান্তরের দূরত্ব BC বাহুর দৈর্ঘ্যের 2 গুণ। চতুর্ভুজ ACED এর ক্ষেত্রফল কত?\n\nOptions:\nক) \\(24cm^{2}\\)\nখ) \\(36cm^{2}\\)\nগ) \\(48cm^{2}\\)\nঘ) Cannot determine",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "220355fc-1e0b-48b2-8701-d5c4f452053f",
+    "images": [
+      "images/20671_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O বিন্দুটি ABCD বর্গক্ষেত্রের কেন্দ্র। BE রেখাটি ∠DBC-কে সমদ্বিখণ্ডিত করে এবং DC রেখাকে E বিন্দুতে ছেদ করে। BC রেখাকে F বিন্দু পর্যন্ত এমনভাবে বর্ধিত করা হলো যেন FC = EC হয়। DF যোগ করি যা BE-এর বর্ধিতাংশকে H বিন্দুতে ছেদ করে। OH যোগ করি যা DC রেখাকে G বিন্দুতে ছেদ করে। HC যোগ করি। নিচের চারটি সিদ্ধান্তের মধ্যে: ① OH ⊥ BF, ② GH = 1/4 BC, ③ OD = 1/2 BF, ④ ∠CHF = 45°। কয়টি সঠিক?\nOptions:\nD) Line BE bisects ∠DBC and intersects line DC at point E. Extend line BC to point F such that FC = EC) Connect DF which intersects the extension of BE at point H. Connect OH which intersects line DC at point G. Connect HC) Among the following four conclusions: ① OH ⊥ BF, ② GH = 1/4 BC, ③ OD = 1/2 BF, ④ ∠CHF = 45°. How many are correct?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f78bf661-9d59-429b-bb09-7f4fdf54d358",
+    "images": [
+      "images/8245_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ত্রিভুজাকৃতি স্কেল এবং একটি সোজা স্কেল একসাথে রাখা হয়েছে। চিত্রে চিহ্নিত কোণগুলোর মধ্যে, কতটি কোণ ∠6 এর পূরক কোণ?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "39f7a881-df47-444f-b25b-b3632ddb3646",
+    "images": [
+      "images/46782_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, AE ⊥ BC, AE = EB = EC = a এবং a হলো দ্বিঘাত সমীকরণ x^2 + 2x - 3 = 0 এর একটি মূল। তাহলে সামান্তরিক ABCD এর ক্ষেত্রফল কত?\n\nOptions:\nক) 4\nখ) 3\nগ) 2\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fcc83464-aa3c-4036-a180-d9c848afa872",
+    "images": [
+      "images/40822_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্তে 5টি বাস্তব সংখ্যা রয়েছে। মূলদ সংখ্যাগুলোর যোগফল এবং অমূলদ সংখ্যাগুলোর গুণফলের পার্থক্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4fcab6e-2add-4109-b5e0-9dbc41614d14",
+    "images": [
+      "images/55771_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, শাও মিং এবং শাও লং একটি লাটিম খেলার খেলছে। তারা প্রত্যেকে একই সাথে একটি করে লাটিম ঘুরায়। যখন উভয় লাটিম থেমে যায়, তখন টেবিলের সাথে স্পর্শ করা প্রান্তের সংখ্যা উভয়ই বিজোড় হওয়ার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b062c62-c714-4fad-b811-58daa8bc822d",
+    "images": [
+      "images/55389_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ঘনক এবং সুষম চতুস্তলকের ভূমি একই সমতল α-তে অবস্থিত এবং AB, CD-এর সমান্তরাল। রেখাংশ EF ঘনকের ছয়টি তলের সমতলের সাথে কতটি বিন্দুতে ছেদ করে?\nOptions:\nD) How many planes does the line EF intersect with the planes of the six faces of the cube?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "334e90bb-e899-40a3-b7b7-66c2b2e3e9d3",
+    "images": [
+      "images/44322_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজের সংখ্যা কত? ( ) \nক. 2 \nখ. 3 \nগ. 4 \nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "feb41f6f-5618-4a5b-bd91-b851412272be",
+    "images": [
+      "images/68335_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, যদি BE = 2EC এবং FC = FD হয়, এবং ত্রিভুজ ABC-এর ক্ষেত্রফল 12 বর্গ সেন্টিমিটার হয়, তবে চতুর্ভুজ DBEF-এর ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e112b5d7-7428-497c-9896-bfd8cc09da83",
+    "images": [
+      "images/30079_0.png"
+    ],
+    "english_question": "<image>\nদেখানো প্যাটার্ন অনুযায়ী, প্রতিটি অতিরিক্ত টেবিল আরও 2 টি আসন যুক্ত করলে n সংখ্যক টেবিলে কতজন বসতে পারে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24ca8f24-d5bf-4d1d-8aac-b0d9e1b0e650",
+    "images": [
+      "images/10201_0.png"
+    ],
+    "english_question": "<image>\nনিচের ছবিতে ত্রিভুজের সংখ্যা গণনা করুন। উত্তর: মোট ত্রিভুজ আছে ______ টি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94060a33-9ba0-484d-b5c2-be351b4cd700",
+    "images": [
+      "images/16286_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 4 এবং BC ব্যাসবিশিষ্ট অর্ধবৃত্ত O, কর্ণ BD-কে E বিন্দুতে ছেদ করে। ছায়াবৃত অংশের ক্ষেত্রফল কত (উত্তর π এর মাধ্যমে প্রকাশ কর)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8111711d-547b-464d-9aa4-ff827963f4b6",
+    "images": [
+      "images/55586_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, E বিন্দু CD-এর মধ্যবিন্দু এবং F বিন্দু BC-এর ওপর অবস্থিত, যেখানে CF=2BF। AE এবং AF যোগ করা হলো। যদি AF=√29, AE=7 এবং tan ∠EAF=5/2 হয়, তবে BF রেখাংশের দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d6d9017-806a-4e53-84d0-c05643d8cfc7",
+    "images": [
+      "images/54015_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, AB সমান্তরাল CD এবং AC সমান BC। যদি কোণ 1-এর পরিমাপ কোণ 2-এর পরিমাপের তিনগুণ হয়, তবে কোণ 2-এর পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4d0896d3-86cc-4251-841d-b7b3f4e35789",
+    "images": [
+      "images/68521_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে DH || EG || BC এবং DC || EF। কতটি কোণের মান ∠1 এর সমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "47ac4b17-bf84-447f-993e-6acc4d1dbd24",
+    "images": [
+      "images/14692_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $AB$ হলো $O$ কেন্দ্রবিশিষ্ট বৃত্তের ব্যাস এবং $AB = 2$, বিন্দু $C$ রেখাংশ $AB$-এর বর্ধিতাংশে অবস্থিত যেন $BC = 1$, এবং বিন্দু $P$ অর্ধবৃত্তের ওপর দিয়ে চলাচল করে। $PC$-কে একটি বাহু ধরে একটি সমবাহু ত্রিভুজ $PCD$ গঠন করা হলো, যেখানে $D$ কেন্দ্রটির বিপরীত দিকে অবস্থিত। ধরি $\\angle POB = x$। যখন ত্রিভুজ $OPC$ এবং $PCD$-এর ক্ষেত্রফলের সমষ্টি সর্বোচ্চ হয়, তখন $x$-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe80cb51-7f42-42cb-8ef8-52440bf64c28",
+    "images": [
+      "images/61834_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজ \\(\\triangle APB\\)-তে, দেওয়া আছে \\(AB=2\\) এবং \\(\\angle APB=90^{\\circ}\\)। \\(AB\\)-এর একই পাশে তিনটি সমবাহু ত্রিভুজ \\(\\triangle ABD\\), \\(\\triangle APE\\) এবং \\(\\triangle BPC\\) অঙ্কন করা হলো। চতুর্ভুজ \\(PCDE\\)-এর সর্বোচ্চ ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "971eb167-b185-47d1-a8ba-ce89f081b6a8",
+    "images": [
+      "images/39331_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্তের ব্যাস AB = 10। C এবং D বিন্দু দুটি অর্ধবৃত্তের সমত্রিখণ্ডক বিন্দু এবং P হলো AB-এর ওপর একটি বিন্দু। ছায়াবৃত অঞ্চলের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nB) Find the area of the shaded region.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35ce5b71-d37a-4082-8aab-24e23cb11390",
+    "images": [
+      "images/24176_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 2 ব্যাসার্ধবিশিষ্ট বৃত্ত O-তে, কোণ AOB = 90°, D হলো OB-এর মধ্যবিন্দু এবং AD-এর বর্ধিতাংশ বৃত্ত O-কে E বিন্দুতে ছেদ করে। DE রেখাংশের দৈর্ঘ্য কত?\n\nOptions:\nক) $ \\frac { \\sqrt {5}}{5}$\nখ) $ \\frac {2 \\sqrt {5}}{5}$\nগ) $ \\frac {3 \\sqrt {5}}{5}$\nঘ) $ \\frac { \\sqrt {3}}{2}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b1da7c9-4df6-4d21-92ff-41a4932d6b46",
+    "images": [
+      "images/74870_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে AB ∥ CD, ∠1=30^{\\circ}, ∠2=50^{\\circ}, ∠3=60^{\\circ}, তবে ∠4 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "13038bb2-300b-4c9a-a9c0-e3078a63f025",
+    "images": [
+      "images/48830_0.png"
+    ],
+    "english_question": "<image>\nযদি নদীর দুই তীর সমান্তরাল হয় এবং নদীর প্রস্থ 900 মিটার হয়, তবে একটি নৌকা এক তীর থেকে অন্য তীরে নদীর তীরের সাথে 60° কোণে যাত্রা করে। নৌকার গতিবেগ 5 মিটার/সেকেন্ড হলে, নৌকাটির এক তীর থেকে অন্য তীরে পৌঁছাতে কত মিনিট সময় লাগবে? (তথ্য: √3 ≈ 1.7)\nOptions:\nd. How long does it take for the boat to travel from A to B in minutes? (Reference data: ≈1.7)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2a6c1a6d-62fb-4cc7-a4ae-0e4f5508df64",
+    "images": [
+      "images/triangle_ext_2a6c1a6d-62fb-4cc7-a4ae-0e4f5508df64.png"
+    ],
+    "english_question": "<image>\nসমান বাহুর দৈর্ঘ্য বিশিষ্ট কালো সমবাহু ত্রিভুজ এবং সাদা সুষম ষড়ভুজ ব্যবহার করে একটি মোজাইক প্যাটার্ন তৈরি করতে, চিত্র ①②③-তে প্রদর্শিত নিয়ম অনুসরণ করলে, n-তম প্যাটার্নে কালো সমবাহু ত্রিভুজ এবং সাদা সুষম ষড়ভুজের মোট সংখ্যা কত?\nক. $n ^ { 2 }$ +4n+2\nখ. 6n+1\nগ. $n ^ { 2 }$ +3n+3\nঘ. 2n+4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a23d6449-e283-4c76-a6b8-2c904e415f55",
+    "images": [
+      "images/61552_0.png"
+    ],
+    "english_question": "<image>\nকাগজের ক্লিপ ব্যবহার করে রেখাটি পরিমাপ করো। রেখাটি প্রায় (_) কাগজের ক্লিপের সমান লম্বা।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c71623b7-d1a5-4f56-961c-4ce49be0ec12",
+    "images": [
+      "images/64371_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু P সমবাহু ত্রিভুজ ABC-এর পরিবৃত্ত ⊙O-এর উপর অবস্থিত। কোন উক্তিটি ভুল? ক. যখন জ্যা PB দীর্ঘতম হয়, তখন ত্রিভুজ APC সমদ্বিবাহু হয়। খ. যখন ত্রিভুজ APC সমদ্বিবাহু হয়, তখন PO ⊥ AC। গ. যখন PO ⊥ AC, তখন ∠ACP = 30°। ঘ. যখন ∠ACP = 30°, তখন ত্রিভুজ BPC একটি সমকোণী ত্রিভুজ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51395252-e664-4629-889a-2f6f2eb8da13",
+    "images": [
+      "images/28053_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি সাধারণ বইয়ের কাগজ মূল কাগজকে কয়েকবার ভাঁজ করে পাওয়া যায়। আয়তক্ষেত্র ABCD কে EF বরাবর ভাঁজ করা হয়, তারপর আয়তক্ষেত্র EFCD কে MN বরাবর ভাঁজ করা হয়, এবং এভাবে চলতে থাকে। যদি সব আকারের আয়তক্ষেত্রগুলো সদৃশ হয়, তবে AB/AD এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "67c92700-bc0c-48d2-84e0-5fba3027c46e",
+    "images": [
+      "images/13787_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: ∠3 + ∠4 = 180°, ∠1 = 108°। ∠2 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "28185b7c-75e4-48d8-82d5-c8452f3259cb",
+    "images": [
+      "images/39000_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চতুর্ভুজ ABCD এ, E বিন্দু AD এর উপর অবস্থিত, BE যোগ করা হলো, DF ∥ BE যা BC কে F বিন্দুতে ছেদ করে, AF, BE কে M বিন্দুতে ছেদ করে, CE, DF কে N বিন্দুতে ছেদ করে, AF এবং BE যথাক্রমে ∠BAD এবং ∠ABC কে সমদ্বিখণ্ডিত করে; CE এবং DF যথাক্রমে ∠BCD এবং ∠ADC কে সমদ্বিখণ্ডিত করে, তবে চতুর্ভুজ MFNE হলো ( )\n\nOptions:\nক) Rhombus\nখ) Rectangle\nগ) Parallelogram\nঘ) Square",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

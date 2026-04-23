@@ -1,0 +1,342 @@
+[
+  {
+    "id": "519456f1-3e77-442c-a834-5e70c8e65530",
+    "images": [
+      "images/10132_0.png"
+    ],
+    "english_question": "<image>\n32 সেমি দৈর্ঘ্য এবং 22 সেমি প্রস্থের একটি আয়তক্ষেত্রকে 5টি অংশে ভাগ করা হয়েছে (চিত্রে দেখানো হয়েছে)। A অভিন্ন বর্গক্ষেত্র এবং B অভিন্ন আয়তক্ষেত্র নির্দেশ করে। ছায়াবৃত বর্গক্ষেত্রের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fdb069c-17a3-4fd2-9792-d090c7cfc1ab",
+    "images": [
+      "images/34009_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে। এই জ্যামিতিক বস্তুটির আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "409f8204-e735-4f27-a232-6f728e70c8f5",
+    "images": [
+      "images/65472_0.png"
+    ],
+    "english_question": "<image>\nসূক্ষ্মকোণী ত্রিভুজ ABC-তে, AB-এর ওপর লম্ব CE এবং AC-এর ওপর লম্ব BD পরস্পরকে H বিন্দুতে ছেদ করে। DE ব্যাস বিশিষ্ট একটি বৃত্ত AB ও AC-কে যথাক্রমে F এবং G বিন্দুতে ছেদ করে। FG রেখা AH-কে K বিন্দুতে ছেদ করে। দেওয়া আছে BC = 25, BD = 20 এবং BE = 7 হলে AK-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5081f7f2-996b-408b-be9e-62f7f6b7de7e",
+    "images": [
+      "images/10931_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি নদীর দুই তীর PQ এবং MN পরস্পর সমান্তরাল। PQ তীরে ছোট গাছের একটি সারি রয়েছে এবং দুটি সংলগ্ন গাছ C ও D এর মধ্যবর্তী দূরত্ব 28 মিটার। MN তীরের A বিন্দুতে একজন ব্যক্তি ∠DAN = 45° পরিমাপ করলেন। এরপর তিনি তীর বরাবর 43 মিটার হেঁটে B বিন্দুতে পৌঁছালেন এবং ∠CBN = 64° পরিমাপ করলেন। নদীর প্রস্থ CE নির্ণয় করো। (তথ্য: sin 64° ≈ 0.90, cos 64° ≈ 0.44, tan 64° ≈ 2.0)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a969b33f-3b21-45ff-b4d1-53b0ca4cfe50",
+    "images": [
+      "images/8696_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু C বৃত্ত O এর বাইরে অবস্থিত। CA এবং CB রেখা দুটি যথাক্রমে A এবং B বিন্দুতে বৃত্তের স্পর্শক। বিন্দু P, AmB চাপের উপর অবস্থিত। যদি ∠C = x° হয়, তবে ∠APB এর মান কত?\nOptions:\nB) If ∠C = x°, then what is the degree measure of ∠APB?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1df09783-0ff2-466f-881c-03c47e0a590d",
+    "images": [
+      "images/45060_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, 1 একক বাহুবিশিষ্ট একটি ত্রিভুজকে প্রতিটি বাহুর তিন সমান ভাগে ভাগ করা হয়েছে। মাঝের অংশটিকে বাহু ধরে বাইরের দিকে একটি ত্রিভুজ গঠন করা হয়েছে এবং মাঝের অংশটি মুছে ফেলা হয়েছে, যার ফলে চিত্র (2) পাওয়া যায়। এই প্রক্রিয়াটি চিত্র (3) এবং পরবর্তী চিত্রগুলোর জন্য চলতে থাকে। প্রথম n সংখ্যক চিত্রে মোট বাহুর সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69213cc0-dca6-47d0-bfef-ad57516a3f4e",
+    "images": [
+      "images/2256_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, সামুদ্রিক সম্পদ উন্নয়ন ও ব্যবহারের জন্য একটি জরিপকারী বিমান একটি দ্বীপের দুই প্রান্ত A এবং B-এর মধ্যবর্তী দূরত্ব পরিমাপ করতে চায়। বিমানটি সমুদ্রপৃষ্ঠ থেকে 100 মিটার উচ্চতায় C বিন্দু থেকে A বিন্দুর অবনতি কোণ 60° পরিমাপ করে। এরপর, এটি AB-এর সমান্তরাল দিকে 500 মিটার অনুভূমিকভাবে উড়ে গিয়ে D বিন্দু থেকে B বিন্দুর অবনতি কোণ 45° পরিমাপ করে। দ্বীপের দুই প্রান্ত A এবং B-এর মধ্যবর্তী দূরত্ব নির্ণয় করো (ফলাফল দশমিকের পর 1 ঘর পর্যন্ত সঠিক হতে হবে; রেফারেন্স ডেটা: √3 ≈ 1.73, √2 ≈ 1.41)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c62355b-de87-4a71-bb16-be6eba0b2ef3",
+    "images": [
+      "images/1134_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2013, চাংচুন), MN হলো বৃত্ত O-এর একটি জ্যা এবং বর্গক্ষেত্র OABC-এর শীর্ষবিন্দু B ও C, MN-এর ওপর অবস্থিত। B বিন্দুটি CM-এর মধ্যবিন্দু। যদি বর্গক্ষেত্র OABC-এর বাহুর দৈর্ঘ্য 7 হয়, তবে MN-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0d774e9b-da5f-4b4d-8807-4fece646f572",
+    "images": [
+      "images/49049_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, MN একটি শহরের রিং রোডের একটি অংশ এবং A বিন্দুতে একটি পানির প্ল্যান্ট আছে। AB এবং AC রাস্তা দুটি রিং রোড MN-কে যথাক্রমে D ও E বিন্দুতে ছেদ করে। পরিমাপ করে দেখা গেল ∠BDM = 30°, ∠CEM = 60° এবং DE = 2 কিলোমিটার। পানির প্ল্যান্ট A থেকে রিং রোড MN-এর দূরত্ব নির্ণয় করো (ফলাফলটি বর্গমূলের মাধ্যমে প্রকাশ করো)।\nOptions:\nA) Streets AB and AC intersect the ring road MN at points D and E, respectively. It is measured that ∠BDM = 30°, ∠CEM = 60°, and DE = 2 kilometers. Find the distance from the water plant A to the ring road MN (result to be kept in radical form).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4eb3aa33-d3c4-495b-a564-f0414e22f6cb",
+    "images": [
+      "images/20528_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97ce3c76-95d8-4bd8-a00a-934e979bf75e",
+    "images": [
+      "images/48706_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, PC বৃত্ত O-এর একটি স্পর্শক যা A বিন্দুতে স্পর্শ করে, PO-এর বর্ধিতাংশ বৃত্ত O-কে B বিন্দুতে ছেদ করে এবং BC বৃত্ত O-এর একটি স্পর্শক যা B বিন্দুতে স্পর্শ করে। যদি AC:CP = 1:2 হয়, তবে PO:OB এর মান কত?\nOptions:\nB) If AC:CP = 1:2, then PO:OB equals",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "710d34b5-aef9-4934-a857-dab5a8a31efb",
+    "images": [
+      "images/24172_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র OABC-এর বাহু OA সংখ্যা রেখার উপর অবস্থিত এবং O মূলবিন্দু। আয়তক্ষেত্র OABC-এর ক্ষেত্রফল 12 এবং OC বাহুর দৈর্ঘ্য 3। যখন আয়তক্ষেত্র OABC-কে সংখ্যা রেখা বরাবর x দূরত্বে (AA' = x) সরানো হয়, ধরি D হলো AA' রেখাংশের মধ্যবিন্দু এবং E হলো OO' রেখাংশের উপর এমন একটি বিন্দু যেন OE = (1/3)OO' হয়। D এবং E বিন্দু দ্বারা নির্দেশিত সংখ্যা দুটি বিপরীত হলে x-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc7b2707-4c72-4c9c-9db7-e2dccd070004",
+    "images": [
+      "images/33956_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু C রেখাংশ AB-এর উপর অবস্থিত, DA ⊥ AB, EB ⊥ AB, FC ⊥ AB এবং DA = BC, EB = AC, FC = AB, ∠AFB = 51°, তবে ∠DFE = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9fe1e0d-217e-4212-9fd6-849d20057750",
+    "images": [
+      "images/21513_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AB ব্যাস বিশিষ্ট অর্ধবৃত্ত \\(⊙O\\)-র ওপর বিন্দু \\(C\\) অবস্থিত। রেখা \\(BE\\) এবং \\(AD\\) যথাক্রমে কোণ \\(∠ABC\\) এবং \\(∠CAB\\)-এর সমদ্বিখণ্ডক যেখানে \\(AB=6\\)। \\(DE\\)-এর দৈর্ঘ্য কত?\nক. 3\nখ. 3 \\sqrt {2}\nগ. 3 \\sqrt {3}\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9ca8b0b-22e9-4391-9e29-ee87ad57dfe8",
+    "images": [
+      "images/66472_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41bb5c7f-7b39-47b4-9373-ba4319a30604",
+    "images": [
+      "images/33683_0.png"
+    ],
+    "english_question": "<image>\nছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো (একক: সেমি)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2e412c85-85e3-491a-92e8-b874ec2bccca",
+    "images": [
+      "images/4134_0.png"
+    ],
+    "english_question": "<image>\nএকটি ষড়ভুজ ABCDEF এর একটি কোণ ∠BGD কেটে ফেলা হয়েছে, যার ফলে ∠1 + ∠2 + ∠3 + ∠4 + ∠5 = 440° হয়েছে। ∠BGD এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 90,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6a85c7f-502b-4512-beea-1214887b9d36",
+    "images": [
+      "images/52468_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ⊥ BC, AB = BC = 2 সেমি। OA এবং OC চাপ দুটি O বিন্দুর সাপেক্ষে প্রতিসম। AB, BC, চাপ CO এবং চাপ OA দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 90,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e74ce2f0-db6d-4aa5-b976-e6c8ddfa2a25",
+    "images": [
+      "images/52061_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 6 সেমি ব্যাসার্ধের তিনটি বৃত্ত একে অপরের সাথে বহিঃস্পর্শ করে আছে এবং ত্রিভুজ ABC-এর প্রতিটি বাহু দুটি বৃত্তকে স্পর্শ করে। ত্রিভুজ ABC-এর পরিসীমা কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 90,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "81a228ca-db48-4eed-8b55-26352387a591",
+    "images": [
+      "images/55594_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রে বিশিষ্ট বৃত্তে, কোণ AOB = 130°, কোণ ABC = 40°, তবে কোণ D = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 90,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

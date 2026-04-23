@@ -1,0 +1,302 @@
+[
+  {
+    "id": "7e2d3b1f-1500-4f8f-a5e2-57871512b474",
+    "images": [
+      "images/30621_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, AB || CD দেওয়া থাকলে কোন আকৃতিটি থেকে আমরা সিদ্ধান্ত নিতে পারি যে angle 1 = angle 2?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ce95a10-20f2-4775-87d5-fe3bf207d89f",
+    "images": [
+      "images/47109_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা $l$ এবং পরাবৃত্ত $y = \\frac{k}{x}$ ($k > 0$) পরস্পর $A$ ও $B$ বিন্দুতে ছেদ করে। $P$ হলো রেখাংশ $AB$-এর ওপর একটি বিন্দু (যা $A$ বা $B$ বিন্দুর সাথে মিলে যায় না)। $A, B$ এবং $P$ বিন্দু থেকে $x$-অক্ষের ওপর যথাক্রমে $C, D$ এবং $E$ লম্ব টানা হলো। $O, A, B$ এবং $P$ বিন্দুগুলো যুক্ত করা হলো। যদি ত্রিভুজ $AOC$-এর ক্ষেত্রফল $S_1$, ত্রিভুজ $BOD$-এর ক্ষেত্রফল $S_2$ এবং ত্রিভুজ $POE$-এর ক্ষেত্রফল $S_3$ হয়, তবে নিচের কোনটি সঠিক?\n\nOptions:\nক) $S_1 < S_2 < S_3$\nখ) $S^{-1} = S^2 = S_{3}$\nগ) $S_1 = S_2 > S_3$\nঘ) $S_1 = S_2 < S_3$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "527ceb7f-85d5-4939-8920-507616e37e55",
+    "images": [
+      "images/39692_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b1aa97a-25c7-4ed6-8270-09eb03439b70",
+    "images": [
+      "images/45301_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি রেখা a এবং b কে রেখা c ছেদ করে, তবে ∠1 এর অনুরূপ কোণ কোনটি? ক. ∠2 খ. ∠3 গ. ∠4 ঘ. ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "328571f7-623b-4e5e-8265-3aede672cf88",
+    "images": [
+      "images/26246_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ঢালু বিন্দু A-তে, ঢালের সাপেক্ষে চূড়া C-তে অবস্থিত একটি ভবন CD-এর শীর্ষের উন্নতি কোণ 15°। ঢাল বরাবর 100 মিটার উপরে B বিন্দুতে পৌঁছালে, ঢালের সাপেক্ষে C-এর উন্নতি কোণ হয় 45°। যদি CD = 50 মিটার হয় এবং অনুভূমিক তলের সাপেক্ষে ঢালের কোণ θ হয়, তবে cos θ = কত?\n\nOptions:\nক) $\\frac{\\sqrt{3}}{2}$\nখ) 2- $\\sqrt{3}$\nগ) $\\sqrt{3}$ -1\nঘ) $\\frac{\\sqrt{2}}{2}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "539ebf59-a3a1-43d4-afd2-102ae22240b5",
+    "images": [
+      "images/23823_0.png"
+    ],
+    "english_question": "<image>\nনিচের যৌগিক চিত্রটির ক্ষেত্রফল নির্ণয় করো (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1d37e9cc-48d2-4896-a6d4-4a4af828b84b",
+    "images": [
+      "images/52316_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দাঁড়িপাল্লার বাম দিক থেকে যদি একটি বস্তু সরিয়ে নেওয়া হয়, তবে দাঁড়িপাল্লার ভারসাম্য বজায় রাখতে ডান দিক থেকে কয়টি ওজন সরাতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f1533aeb-9b07-457f-8bb5-2b89c8bf1de7",
+    "images": [
+      "images/61552_0.png"
+    ],
+    "english_question": "<image>\nকাগজের ক্লিপ ব্যবহার করে রেখাটি পরিমাপ করো। রেখাটি প্রায় (_) কাগজের ক্লিপের সমান লম্বা।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95326e6d-9b68-4e17-a6fb-437b03b20080",
+    "images": [
+      "images/27369_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একজন ব্যক্তি একটি সুষম পঞ্চভুজাকৃতির কাঁচ ভেঙে চারটি টুকরো করেছেন। এখন, কাঁচের দোকান থেকে হুবহু একই আকৃতির একটি কাঁচ পেতে হলে, তার সাথে কোন টুকরোটি নিয়ে যাওয়া সবচেয়ে সহজ পদ্ধতি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1db5d047-0aae-4107-b88f-1a47c5dc7fbc",
+    "images": [
+      "images/3029_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আকাশে একটি স্থির হট এয়ার বেলুন A রয়েছে। ভূমি থেকে B বিন্দুতে A-এর উন্নতি কোণ 30° এবং ভূমি থেকে C বিন্দুতে উন্নতি কোণ 60°। দেওয়া আছে BC = 50 মিটার এবং A বিন্দু ও BC রেখা একই উলম্ব সমতলে অবস্থিত। হট এয়ার বেলুনটির ভূমি থেকে উচ্চতা নির্ণয় করো।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cee1839c-035f-4979-9d1b-f8a65d4e8cc2",
+    "images": [
+      "images/47242_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB, AC, AD, AE রেখাংশগুলোর মধ্যে কোনটি ক্ষুদ্রতম?\n\nOptions (copied from English):\nখ. AC\nগ. AD\nঘ. AE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "660d619a-ff3c-4fbe-bf6a-4e13802113cf",
+    "images": [
+      "images/18283_0.png"
+    ],
+    "english_question": "<image>\nবড় আয়তক্ষেত্রটির জন্য সঠিক খণ্ডটি কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "88fc632d-dd7a-4564-97b5-27905764a34e",
+    "images": [
+      "images/55690_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুস্তলক ABCD-তে, E, F, G এবং H বিন্দুগুলো যথাক্রমে AB, BC, CD এবং AD বাহুর মধ্যবিন্দু। এখানে রেখা ও তলের সমান্তরাল সম্পর্কের মোট কতটি জোড়া বিদ্যমান?\n\nOptions:\nক) 2 pairs\nখ) 4 pairs\nগ) 6 pairs\nঘ) 8 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3dc3db14-695d-435e-af71-2b782b6eb700",
+    "images": [
+      "images/21873_0.png"
+    ],
+    "english_question": "<image>\nABCD সমদ্বিবাহু ট্রাপিজিয়ামে, যেখানে AD সমান্তরাল BC, AD = 2, AB = 5, BC = 8, বিন্দু E অবস্থিত BC-এর ওপর এবং বিন্দু F অবস্থিত CD-এর ওপর, যা ∠AEF = ∠B এবং AF = EF শর্ত পূরণ করে। BE-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c8e0e508-e213-4d2d-969a-5c9305b12977",
+    "images": [
+      "images/52077_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, AD সমান্তরাল BC, AD = a, BC = b এবং E হলো AD-এর মধ্যবিন্দু। G, F এবং H যথাক্রমে BE, BC এবং CE-এর মধ্যবিন্দু। যদি চতুর্ভুজ EGFH একটি বর্গক্ষেত্র হয়, তবে ট্রাপিজিয়ামটির ক্ষেত্রফল নির্ণয় করো।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "80f5ef8a-354e-4c3c-818b-adbc5efb88f2",
+    "images": [
+      "images/49666_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ত্রিভুজাকার স্কেলকে বিভিন্ন অবস্থানে রাখা হয়েছে। কতগুলো অবস্থানে ∠α=∠β হবে?\n\nOptions:\nক) \\(1\\)\nখ) \\(2\\)\nগ) \\(3\\)\nঘ) \\(4\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ef23c65-7a0b-467c-bdfa-c147bfa3c5aa",
+    "images": [
+      "images/29938_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, এটি জানা আছে যে AB হলো বৃত্ত O-এর ব্যাস, ∠BAC = 32° এবং D হলো চাপ AC-এর মধ্যবিন্দু। ∠DAC-এর ডিগ্রি পরিমাপ কত?\nক. 25°\nখ. 29°\nগ. 30°\nঘ. 32°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1470bf08-290d-4a47-890a-a11eed7e19d8",
+    "images": [
+      "images/49986_0.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট ব্র্যান্ডের টি-শার্টের চারটি ধৌতকরণ নির্দেশনার ডিজাইনের মধ্যে কোনটি ঘূর্ণন বা অক্ষীয় প্রতিসাম্যের জ্ঞান ব্যবহার করে না?\n\nOptions (copied from English):\nক. \\boxdot\nখ. \\bigotimes\nগ. \nঘ. \\bigotimes",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7557d40e-fdc9-45e9-8023-d4eb5b5d2375",
+    "images": [
+      "images/9907_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ PQR হলো বৃত্ত O-তে অন্তর্লিখিত একটি সমবাহু ত্রিভুজ এবং চতুর্ভুজ ABCD হলো বৃত্ত O-তে অন্তর্লিখিত একটি বর্গক্ষেত্র। যদি BC, QR-এর সমান্তরাল হয়, তবে কোণ AOQ-এর মান কত ডিগ্রি?\n\nOptions:\nক) 60°\nখ) 65°\nগ) 72°\nঘ) 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3e1c407e-767e-40ce-b556-2cd69ac1207e",
+    "images": [
+      "images/25743_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি আয়তক্ষেত্রের ভেতরে দুটি পাশাপাশি বর্গক্ষেত্র রয়েছে, যাদের ক্ষেত্রফল যথাক্রমে 4 এবং a²। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

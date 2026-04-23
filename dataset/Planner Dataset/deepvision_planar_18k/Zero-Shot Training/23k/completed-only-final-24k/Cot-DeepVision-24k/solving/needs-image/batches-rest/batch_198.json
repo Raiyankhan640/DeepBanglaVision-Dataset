@@ -1,0 +1,342 @@
+[
+  {
+    "id": "ae256c55-e0d5-4f2a-95d8-7e168938bcb6",
+    "images": [
+      "images/triangle_ext_ae256c55-e0d5-4f2a-95d8-7e168938bcb6.png"
+    ],
+    "english_question": "<image>\nচিত্রে, গ্রিড কাগজের ছোট বর্গের বাহুর দৈর্ঘ্য \\(1\\)। গাঢ় রেখাগুলো একটি নির্দিষ্ট পলিহেড্রনের তিনটি দৃশ্য উপস্থাপন করে। এই পলিহেড্রনের পৃষ্ঠতলের ক্ষেত্রফল কত? \\((\\) \\()\\)\nক. \\(16\\)\nখ. \\(24+8 \\sqrt {5}\\)\nগ. \\(48\\)\nঘ. \\(24+16 \\sqrt {2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49291f50-7f94-413b-95aa-0c13d01075bb",
+    "images": [
+      "images/triangle_ext_49291f50-7f94-413b-95aa-0c13d01075bb.png"
+    ],
+    "english_question": "<image>\nচিত্রে, y²=2px (যেখানে p>0) পরাবৃত্তের উপকেন্দ্র F দিয়ে গমনকারী একটি রেখা l পরাবৃত্তটিকে এবং এর নিয়ামক রেখাকে A, B এবং C বিন্দুতে ছেদ করে। যদি |BC|=2|BF| এবং |AF|=3 হয়, তবে পরাবৃত্তটির সমীকরণ হলো ______।\nOptions:\nC) If $|BC|=2|BF|$ and $|AF|=3$, then the equation of the parabola is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18ad8d5b-94d8-484a-960d-95b944f9e4d0",
+    "images": [
+      "images/23115_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, ∠C = 60°, এবং ∠ABE = 42°। ∠E এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cd0991e6-24b9-4263-9c82-c4a21b5fd6dc",
+    "images": [
+      "images/37404_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, আয়তক্ষেত্র $$ABCD$$-তে বিন্দু $$E$$ DC বাহুর ওপর এবং বিন্দু $$F$$ কর্ণ $$BD$$-র ওপর অবস্থিত। যদি $$DF$$:$$DE=2$$:$$\\sqrt {5}$$ হয় এবং $$EF$$ $$BD$$-র ওপর লম্ব হয়, তবে $$\\tan ∠ADB=$$ ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3e97e184-4906-4432-8d4e-de80f9a7ec42",
+    "images": [
+      "images/40273_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং ∠ABE ও ∠CDE এর সমদ্বিখণ্ডকদ্বয় F বিন্দুতে মিলিত হয়েছে। যদি ∠F = 125° হয়, তবে ∠E এর মান কত?\nক. 120°\nখ. 115°\nগ. 110°\nঘ. 105°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00e03700-f824-43fe-80b6-92493f5706f4",
+    "images": [
+      "images/61584_0.png"
+    ],
+    "english_question": "<image>\nএকটি জলাধারের বাঁধের ট্রাপিজিয়াম আকৃতির প্রস্থচ্ছেদ হলো ABCD, যেখানে AD সমান্তরাল BC। EF হলো জলাধারের পানির উপরিভাগ এবং E বিন্দুটি DC-এর ওপর অবস্থিত। শিক্ষকের নির্দেশনায় একটি প্রজেক্ট টিম পানির গভীরতা পরিমাপ করতে চায়। তারা পিছনের ঢাল AB = 12 মিটার, সামনের ঢাল DE = 2 মিটার, ∠BAD = 135° এবং ∠ADC = 120° পরিমাপ করল। পানির গভীরতা নির্ণয় করো। (0.1 মিটার পর্যন্ত সঠিক, √2 ≈ 1.41, √3 ≈ 1.73)\nOptions:\nC) EF is the water surface of the reservoir, and point E is on DC) A project team, under the guidance of their teacher, wants to measure the depth of the water. They measured the length of the back slope AB to be 12 meters, the length of the front slope DE to be 2 meters, ∠BAD = 135°, and ∠ADC = 120°. Find the water depth. (Accurate to 0.1 meters, \\( \\sqrt{2} \\approx 1.41, \\sqrt{3} \\approx 1.73 \\))",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f437cf7-7a46-4940-b779-7c11f52fe090",
+    "images": [
+      "images/41625_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, তবে এর আয়তন কত? ( ) ক. π+2 খ. 2π+4 গ. π+4 ঘ. 2π+2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "375ebba4-18ba-4e95-9cd4-33be42e9d3e7",
+    "images": [
+      "images/11220_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, উপবৃত্ত C_1: x^2/11 + y^2 = 1 এবং অধিবৃত্ত C_2: x^2/a^2 - y^2/b^2 = 1 (a > 0, b > 0) দেওয়া আছে। যদি C_1-এর প্রধান অক্ষকে ব্যাস ধরে একটি বৃত্ত আঁকা হয় যা C_2-এর একটি অসীমতটকে A ও B বিন্দুতে ছেদ করে এবং C_1-এর সাথে ওই অসীমতটের ছেদবিন্দু দুটি AB রেখাংশকে ত্রিখণ্ডিত করে, তবে C_2-এর উৎকেন্দ্রিকতা কত?\nক. 5\nখ. √17\nগ. √5\nঘ. 2√14/7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8c1ac86b-1399-45d3-8fc7-ae4480a8c530",
+    "images": [
+      "images/20293_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015 বসন্ত, জিয়াওশান জেলা মাসিক পরীক্ষা), দেওয়া আছে যে AB, EF এর সমান্তরাল এবং ∠C = 45°। x, y এবং z এর মধ্যে সম্পর্কটি লেখো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d68fedff-4cb3-4591-9eb7-224fe84ce845",
+    "images": [
+      "images/4495_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র ABCD তে, AE রেখা কর্ণ BD এর ওপর E বিন্দুতে লম্ব। যদি ∠DAE = 3∠BAE হয়, তবে ∠EAC এর মান কত degree?\nক. 67.5°\nখ. 45°\nগ. 22.5°\nঘ. নির্ণয় করা সম্ভব নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dadf49f1-0bf0-43f8-822c-1fa0ac550427",
+    "images": [
+      "images/49334_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে মোট কয়টি ত্রিভুজ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7cb6a07-052b-44e9-9d0f-7935a3e7d288",
+    "images": [
+      "images/37875_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BC হলো বৃত্ত O-এর একটি জ্যা, OD ⊥ BC, যা E বিন্দুতে ছেদ করে এবং বৃত্তকে D বিন্দুতে ছেদ করে। A বিন্দুটি চাপের উপর একটি চলমান বিন্দু (B বা C-এর সাথে মিলিত নয়)। দেওয়া আছে, BC = $4\\sqrt{3}$ এবং ED = 2। ত্রিভুজ ABD এবং জ্যা BD দ্বারা গঠিত ছায়ায়িত অংশের সর্বোচ্চ ক্ষেত্রফল নির্ণয় করো।\nOptions:\nঘ) Point A is a moving point on the arc (not coinciding with B or গ). Given BC = 4√3 and ED = 2, find the maximum area of the shaded region composed of triangle ABD and segment BD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fa38493e-4d71-42ff-8966-b9dec2c95f49",
+    "images": [
+      "images/59994_0.png"
+    ],
+    "english_question": "<image>\nদুটি অভিন্ন সমান্তরাল চতুর্ভুজাকার কাগজের টুকরো চিত্র (1)-এ দেখানো হয়েছে। সমান্তরাল চতুর্ভুজাকার কাগজ ABCD কে উপরের বাহু AD বরাবর ডানদিকে স্থানান্তর করে চিত্র (2) পাওয়া যায়। দেওয়া আছে AD = 4, BC = 8 এবং ছায়াযুক্ত অংশের ক্ষেত্রফল চতুর্ভুজ A'B'CD-এর ক্ষেত্রফলের এক-তৃতীয়াংশ, চিত্র (2)-এ স্থানান্তর দূরত্ব A'A কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f34959d5-a5da-4b60-90b6-99c933a72736",
+    "images": [
+      "images/51571_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বড় বর্গক্ষেত্র যার বাহুর দৈর্ঘ্য a (যেখানে a > b) থেকে b বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র কেটে নেওয়া হলো। অবশিষ্ট অংশটিকে একটি ট্রাপিজিয়ামে রূপান্তর করা হলো। দুটি চিত্রের ছায়াবৃত অংশের ক্ষেত্রফলের সম্পর্কের ভিত্তিতে a এবং b এর একটি অভেদ পাওয়া যায়, তা হলো ( )\n\nOptions:\nক) $\\left(a-b\\right)^{2}=a^{2}-2a b+b^{2}$\nখ) $\\left(a+b\\right)^{2}=a^{2}+2a b+b^{2}$\nগ) $a^{2}-b^{2}=(a+b)(a-b)$\nঘ) 无法确定",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2cd215b6-9487-493b-90bb-ac8eba71e159",
+    "images": [
+      "images/5750_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD এর DC বাহুকে E বিন্দু পর্যন্ত এমনভাবে বর্ধিত করা হলো যাতে CE = CD হয়। AE যোগ করো যা BC বাহুকে F বিন্দুতে ছেদ করে। যখন ∠AFC = n∠D হয়, তখন n এর কোন মানের জন্য চতুর্ভুজ ABEC একটি আয়তক্ষেত্র হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f09e762b-327a-4cfa-9b3e-63d2cb90f7fb",
+    "images": [
+      "images/triangle_ext_f09e762b-327a-4cfa-9b3e-63d2cb90f7fb.png"
+    ],
+    "english_question": "<image>\nছুটির দিনে, 1.6 মিটার উচ্চতার জিয়াওফাং এবং জিয়াওলি জিজিয়াং পার্কে সাউথ টাওয়ারের উচ্চতা পরিমাপ করতে গেল। চিত্রে প্রদর্শিত, জিয়াওফাং A বিন্দুতে দাঁড়িয়ে টাওয়ারের চূড়ার উন্নতি কোণ পরিমাপ করল \\( \\alpha = 45^{\\circ} \\)। জিয়াওলি B বিন্দুতে দাঁড়িয়ে উন্নতি কোণ পরিমাপ করল \\( \\beta = 30^{\\circ} \\)। তারা A ও B বিন্দুর মধ্যবর্তী দূরত্ব 30 মিটার পরিমাপ করল। তাদের চোখ মাথার 10 সেমি নিচে অবস্থিত ধরে নিয়ে, টাওয়ারের উচ্চতা প্রায় কত হবে (ফলাফল 0.01 পর্যন্ত আসন্ন, তথ্য: \\( \\sqrt{2} \\approx 1.414 \\), \\( \\sqrt{3} \\approx 1.732 \\)) ( )\nক. 36.21 meters\nখ. 37.71 meters\nগ. 40.98 meters\nঘ. 42.48 meters",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "486f4f5d-4d5a-4875-86c2-762104800968",
+    "images": [
+      "images/42371_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বাহুর দৈর্ঘ্য 6 বিশিষ্ট বর্গ ABCD তার কর্ণ AC বরাবর কাটা হয়েছে, এবং ত্রিভুজ ABC কে AD দিকে স্থানান্তর করে ত্রিভুজ A'B'C' পাওয়া হয়েছে। যখন দুটি ত্রিভুজের অধিক্রমণ অংশ একটি রম্বস গঠন করে, তখন AA'-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "797930c0-2f71-4cbb-bb86-09d42dda51ee",
+    "images": [
+      "images/2997_0.png"
+    ],
+    "english_question": "<image>\nশাও মিং একটি আয়তাকার কার্ডবোর্ড ব্যবহার করে চিত্রে প্রদর্শিত একটি সিলিন্ডার তৈরি করেছে। এই সিলিন্ডারের পার্শ্বতলের ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f467b8c-d97d-49b1-9ce8-a5121228f07e",
+    "images": [
+      "images/28980_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB, CD এবং EF রেখাসমূহ O বিন্দুতে ছেদ করে, EF, AB-এর উপর লম্ব এবং OG, ∠COF-কে সমদ্বিখণ্ডিত করে। যদি ∠COG : ∠BOC = 1:7 হয়, তবে ∠DOF-এর মান নির্ণয় করুন।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a4290550-ab21-4365-b180-a48cef04c150",
+    "images": [
+      "images/46527_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, দুটি কাঠের লাঠির (লাঠিগুলোকে রেখাংশ হিসেবে বিবেচনা করা যায়) মাঝে একটি ত্রিভুজাকার পাত বসানো আছে। চিত্রে কত জোড়া একই পার্শ্বস্থ অন্তঃস্থ কোণ (same-side interior angles) আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

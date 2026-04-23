@@ -1,0 +1,342 @@
+[
+  {
+    "id": "d961c900-82b9-44cb-b419-14abb086c532",
+    "images": [
+      "images/55303_0.png"
+    ],
+    "english_question": "<image>\nউপরের বামদিকের চিত্রে, একটি 4×4 দাবা বোর্ডে 8টি বৃত্তাকার গুটি রাখা আছে। গুটিগুলোর কেন্দ্রগুলো বিভিন্নভাবে যুক্ত করে বিভিন্ন অবস্থান ও আকারের তিনটি বর্গক্ষেত্র তৈরি করা যায়। যদি দাবা বোর্ডের প্রতিটি ঘরে একটি করে বৃত্তাকার গুটি রাখা হয় (যেমনটি উপরের ডানদিকের চিত্রে দেখানো হয়েছে), তবে গুটিগুলোর কেন্দ্রগুলো যুক্ত করে মোট কতটি ভিন্ন অবস্থানের বর্গক্ষেত্র তৈরি করা সম্ভব?\nOptions:\nd. By connecting the centers of the pieces in different ways, three squares of different positions and sizes can be formed. If each square on the chessboard has a circular piece placed on it (as shown in the upper right image), how many squares of different positions (regardless of whether their sizes are equal) can be formed by connecting the centers of the pieces?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a3aa21f-e360-457c-acb4-9728e16a0a74",
+    "images": [
+      "images/47047_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, বর্গক্ষেত্র ABCD-এর বাহুর দৈর্ঘ্য 1 এবং BC বাহুটি একটি টেবিলের ওপর স্থির। যখন AD বরাবর বল প্রয়োগ করা হয়, তখন বর্গক্ষেত্রটি চতুর্ভুজ A'BCD'-এ রূপান্তরিত হয়। ধরি A'D' রেখা DC-কে E বিন্দুতে ছেদ করে। যখন E হলো DC-এর মধ্যবিন্দু, তখন চতুর্ভুজ ABCD এবং A'BCD'-এর উপরিপাতিত (overlapping) অঞ্চলের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "db51b3ea-56fc-4bcd-8f5e-3e8249e91310",
+    "images": [
+      "images/36911_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ট্রাপিজিয়াম ABCD-তে, AB = BC = 4, M বিন্দুটি BC বাহুর ওপর অবস্থিত এবং ত্রিভুজ ADM একটি সমবাহু ত্রিভুজ। ত্রিভুজ CDM এবং ত্রিভুজ ABM-এর ক্ষেত্রফলের অনুপাত কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f66124e7-60dc-4557-afbe-86a4b3a67cb8",
+    "images": [
+      "images/24161_0.png"
+    ],
+    "english_question": "<image>\nচিত্রস্থ যৌগিক আকৃতিটির ক্ষেত্রফল নির্ণয় করো (একক: সেমি)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9cf41281-9193-494b-ae01-b3be89518ae5",
+    "images": [
+      "images/72171_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বিন্দু B, C ও D মাটির একই সরলরেখায়, DC = a। বিন্দু C ও D থেকে বিন্দু A-এর উন্নত কোণ যথাক্রমে β ও α (যেখানে α < β)। বিন্দু A-এর মাটি থেকে উচ্চতা AB কত? AB = a sinα / sin(β - α) খ. AB = a sinα / sin(α - β) গ. AB = a sinα cosβ / sin(β - α) ঘ. AB = a cosα sinβ / sin(α - β)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f52a48c1-1191-4f86-8691-f0d22dac98a7",
+    "images": [
+      "images/73453_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দুটি বর্গক্ষেত্র দিয়ে গঠিত আকৃতির ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সে.মি.)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "26f0d618-f2be-49b7-9c96-b3a034556613",
+    "images": [
+      "images/48771_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নদীর প্রস্থ AB পরিমাপ করার জন্য, 21 মিটার উঁচু একটি ভবন CD-এর চূড়া D থেকে নদীর তীর B-এর অবনতি কোণ 45° এবং বিপরীত তীর A-এর অবনতি কোণ 30° পরিমাপ করা হলো (বিন্দু A, B, এবং C একই সরলরেখায় অবস্থিত)। নদীর প্রস্থ AB কত মিটার (0.1 মিটার পর্যন্ত সঠিক)? (সহায়ক তথ্য: √2 ≈ 1.41, √3 ≈ 1.73)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "de6b4f77-baa2-4d20-b7dd-cf72bc124d7a",
+    "images": [
+      "images/61498_0.png"
+    ],
+    "english_question": "<image>\nধরা যাক, AB হলো O কেন্দ্রবিশিষ্ট একটি অর্ধবৃত্তের ব্যাস এবং AB = 16। P বিন্দুটি O কেন্দ্রের সাথে মিলে যায়। PQ ⊥ AB রেখাটি অর্ধবৃত্তকে Q বিন্দুতে ছেদ করে। PB হলো O₁ কেন্দ্রবিশিষ্ট অর্ধবৃত্তের ব্যাস। O₂ কেন্দ্রবিশিষ্ট একটি বৃত্ত, অর্ধবৃত্ত O, অর্ধবৃত্ত O₁ এবং PQ রেখাকে যথাক্রমে M, N ও C বিন্দুতে স্পর্শ করে। O₂ বৃত্তের ব্যাসার্ধ r নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "739a07fe-9ef0-42b6-b3c6-8e37c10087da",
+    "images": [
+      "images/72744_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O বৃত্তের ব্যাস এবং জ্যা DC, AB-কে E বিন্দুতে ছেদ করে। যদি ∠ACD = 60°, ∠ADC = 50° এবং ∠CAD = 70° হয়, তবে ∠ABD-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7639a1e5-cdd5-419a-ba9d-a153ba58e0fc",
+    "images": [
+      "images/29323_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে: ∠3 + ∠4 = 180°, ∠1 = 108°। ∠2-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ab5f57a4-55d2-4638-9cc9-3cf610ae26af",
+    "images": [
+      "images/26132_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি 2×2 বর্গাকার গ্রিডে 9টি গ্রিড বিন্দু রয়েছে। বিন্দু A এবং B নির্দিষ্ট করা আছে এবং অবশিষ্ট 7টি বিন্দু থেকে বিন্দু C এমনভাবে নির্বাচন করা হলো যাতে ∠ABC একটি সমকোণ না হয়। এর সম্ভাবনা কত?\nOptions:\nd. Points A and B are fixed, and point C is chosen from the remaining 7 points such that the angle ∠ABC is not a right triangle. What is the probability of this?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad7309a1-03e0-4399-a2d6-a59113dae4a2",
+    "images": [
+      "images/53637_0.png"
+    ],
+    "english_question": "<image>\nবিন্দু O-কে কেন্দ্র করে ∠COD-এর ঘড়ির কাঁটার বিপরীত দিকে ঘূর্ণনের সময়, যদি ∠AOB = 45° এবং ∠COD = 30° হয়, এবং OM ও ON যথাক্রমে ∠AOC ও ∠BOD-এর সমদ্বিখণ্ডক হয়, তবে ∠MON-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7f196353-07c0-4001-bb95-a40a78112bde",
+    "images": [
+      "images/55974_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র ABCD-এর বাহুর দৈর্ঘ্য 2 এবং বিন্দু H, CD বাহুর বর্ধিতাংশের ওপর অবস্থিত। চতুর্ভুজ CEFH-ও একটি বর্গক্ষেত্র। ত্রিভুজ DBF-এর ক্ষেত্রফল কত?\n\nOptions:\nক) \\(4\\)\nখ) \\( \\sqrt {2}\\)\nগ) \\(2 \\sqrt {2}\\)\nঘ) \\(2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c693334-5ba3-47c1-a627-2a4a003c4a87",
+    "images": [
+      "images/43054_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-এর কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। যদি \\(\\overrightarrow{AB}= \\overrightarrow{m}\\) এবং \\(\\overrightarrow{AD}= \\overrightarrow{n}\\) হয়, তবে নিচের কোন ভেক্টরটি \\(\\dfrac {1}{2}( \\overrightarrow{m}+ \\overrightarrow{n})\\)-এর সমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "479e63cc-418d-4250-832b-1baa1d1a8baf",
+    "images": [
+      "images/18492_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BD হলো O কেন্দ্রবিশিষ্ট বৃত্তের B বিন্দুতে একটি স্পর্শক। DO রেখাংশ বৃত্তটিকে C বিন্দুতে ছেদ করে এবং AB হলো বৃত্তের ব্যাস। যদি ∠D = 30° এবং বৃত্তের ব্যাসার্ধ 4 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "58a20f06-fca5-4393-b881-fa576dd3e681",
+    "images": [
+      "images/14405_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, EF সমান EH, EH কোণ AEG কে সমদ্বিখণ্ডিত করে এবং কোণ GEH হলো 30 ডিগ্রি। কোণ CFH এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d59e6ace-6e67-4405-94db-fe54af407b7d",
+    "images": [
+      "images/30467_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ABCD একটি আয়তাকার কাগজের টুকরো, যেখানে AB = 6 সেমি এবং AD = 8 সেমি। AD বাহুর উপর E এমন একটি বিন্দু যেন AE = 6 সেমি হয়। ধাপগুলো হলো: (1) AB বাহুকে AE এর উপর ভাঁজ করা হলো যাতে তারা মিলে যায়, ফলে AF ভাঁজ রেখা তৈরি হয়; (2) ত্রিভুজ AFB কে BF বরাবর ডানদিকে ভাঁজ করা হলো, ফলে চিত্র C পাওয়া গেল। ত্রিভুজ GFC এর ক্ষেত্রফল কত?\n\nOptions:\nক) 1 cm²\nখ) 2 cm²\nগ) 3 cm²\nঘ) 4 cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "89816210-9911-4ae8-b350-f328844654a6",
+    "images": [
+      "images/31003_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কাগজটিকে ভাঁজ করে একটি ঘনক তৈরি করলে, 2 সংখ্যাটির বিপরীত তলে কোন সংখ্যাটি থাকবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a1c1f502-45c9-4cda-b94c-859aaf08641d",
+    "images": [
+      "images/48336_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক কঠিন বস্তুর তিনটি দৃশ্য এবং পরিমাপ (একক: সেমি) দেওয়া আছে। এই জ্যামিতিক কঠিন বস্তুটির পার্শ্বতলের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "587b69de-2288-4201-8694-903eb61644e0",
+    "images": [
+      "images/46044_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের AB একটি ব্যাস। OB-কে P বিন্দু পর্যন্ত এমনভাবে বর্ধিত করা হলো যেন BP = OB হয়। C বৃত্তের ওপর A ও B ব্যতীত যেকোনো একটি বিন্দু। যদি ∠PCB = α এবং ∠POC = β হয়, তবে tan α · tan(β/2) এর মান নির্ণয় করো।\nOptions:\nখ) Point C is any point on the circle except A and খ) Let ∠PCB = α and ∠POC = β. Find the value of \\( \\tan \\alpha \\cdot \\tan \\frac{\\beta}{2} \\).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

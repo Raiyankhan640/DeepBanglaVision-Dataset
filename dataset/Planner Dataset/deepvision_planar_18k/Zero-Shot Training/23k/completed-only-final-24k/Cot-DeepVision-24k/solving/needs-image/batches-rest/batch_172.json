@@ -1,0 +1,302 @@
+[
+  {
+    "id": "206b54fa-f297-4e48-a88d-8daa0ce3e05c",
+    "images": [
+      "images/60976_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড কাগজের ছোট বর্গগুলোর বাহুর দৈর্ঘ্য 1। একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য (three views) কঠিন রেখা দ্বারা দেখানো হয়েছে, যেখানে শীর্ষ দৃশ্যটি (top view) একটি বৃত্তকলা (sector)। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) $ \\frac {2π}{3}$\nখ) $ \\frac {4π}{3}$\nগ) $ \\frac {14π}{3}$\nঘ) $ \\frac {16π}{9}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "108bd617-6c01-4e5e-a327-7a465c974d6a",
+    "images": [
+      "images/72041_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন আকৃতির জোড়াগুলো সদৃশ? (ক. (1) (2) (3) খ. (2) (3) (4) গ. (1) (3) (4) ঘ. (1) (2) (4))",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1d421e8f-6185-496c-98bf-0f04ab461c1a",
+    "images": [
+      "images/39022_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে গ্রিড কাগজের ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1। পুরু কঠিন রেখা দিয়ে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কত? ( ) ক. 4+6π খ. 8+6π গ. 4+12π ঘ. 8+12π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b93bfde6-efc9-4702-b339-54c854ce84de",
+    "images": [
+      "images/17035_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত পর্যবেক্ষণ কেন্দ্র O-তে, মাছ ধরার নৌকা A এবং B-এর দিক যথাক্রমে উত্তর দিকের 45° পূর্বে এবং দক্ষিণ দিকের 30° পশ্চিমে পরিমাপ করা হলো। পারস্পরিক হস্তক্ষেপ কমাতে এবং মাছ ধরার দক্ষতা বাড়াতে, মাছ ধরার নৌকা C-কে ∠AOB-এর সমদ্বিখণ্ডকের ওপর স্থাপন করা হলো। পর্যবেক্ষণ কেন্দ্রের সাপেক্ষে নৌকা C-এর দিক নির্ণয় করো।\nOptions:\nB) Find the direction of fishing boat C relative to the observation station.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ce15cff-32b7-4d32-90d6-e8f94fb5cd78",
+    "images": [
+      "images/75069_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ABCD একটি সামান্তরিক। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "933e939b-1b9b-4716-8e0d-6fc2d833b30e",
+    "images": [
+      "images/5362_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে 32.13 ডেসিমিটার দৈর্ঘ্যের একটি তার দিয়ে তিনটি অভিন্ন বৃত্তকলা তৈরি করা হয়েছে। বৃত্তকলাগুলো যে বৃত্তের অংশ, তার ব্যাসার্ধ কত ডেসিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "093b3a43-0ada-4eb8-805e-abc6391e6927",
+    "images": [
+      "images/70967_0.png"
+    ],
+    "english_question": "<image>\nনিচের নিম্ন-কার্বন পরিবেশ সুরক্ষা প্রতীকগুলোর মধ্যে কয়টিকে কেন্দ্র-প্রতিসম চিত্র হিসেবে বিবেচনা করা যায়?\nক. 4\nখ. 3\nগ. 2\nঘ. 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "925d2fab-a4b0-478d-bd84-9ef252ba1ca7",
+    "images": [
+      "images/14134_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PA এবং PB হলো O কেন্দ্রবিশিষ্ট বৃত্তের দুটি স্পর্শক, যেখানে A ও B স্পর্শবিন্দু। রেখাংশ OP, AB কে C বিন্দুতে ছেদ করে। চিত্রে রেখাংশগুলোর মধ্যে একটি গুণফল সম্পর্ক নির্ণয় করো।\nOptions:\nC) Find one product relationship among the segments in the figure.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "de31fe02-a9bc-4833-a0f0-a75b033695a6",
+    "images": [
+      "images/33113_0.png"
+    ],
+    "english_question": "<image>\nছোট অর্ধবৃত্তের ব্যাসার্ধ 8 সেমি এবং বড় অর্ধবৃত্তের ব্যাসার্ধ 12 সেমি। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fcbd12d0-9c3b-4f60-8774-a2b7819ea365",
+    "images": [
+      "images/27628_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অষ্টভুজটি একটি সুষম অষ্টভুজাকার প্রিজমের শীর্ষ দৃশ্য। আমরা যদি এই সুষম অষ্টভুজাকার প্রিজমের ঠিক তিনটি পার্শ্বতল দেখতে চাই, তবে আমাদের কোথায় দাঁড়াতে হবে? ( )\n\nOptions:\nক) ①\nখ) ②\nগ) ③\nঘ) ④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb2866d4-3e73-42b5-a3fd-2dbec634d915",
+    "images": [
+      "images/33543_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, √3 ব্যাসার্ধের তিনটি বৃত্ত পরস্পরকে বহিঃস্থভাবে স্পর্শ করে আছে এবং ত্রিভুজ ABC-এর প্রতিটি বাহু বৃত্তগুলোর দুটির সাথে স্পর্শক হিসেবে আছে। ত্রিভুজ ABC-এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e2f20df-7000-4d1d-b4b7-5f224c43ce14",
+    "images": [
+      "images/41323_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে, ত্রিভুজ ABC-তে ∠C=30° এবং ∠ABC=90°। যদি AC সমান্তরাল BD হয়, তবে ∠ABD এর মান নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8370f453-e640-411e-b069-1407e9051d63",
+    "images": [
+      "images/46586_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো 1 ব্যাসার্ধবিশিষ্ট অর্ধবৃত্ত O-এর ব্যাস এবং জ্যা CD, AB-এর সমান্তরাল। যদি ∠COD = 90° হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nB) Given that ∠COD = 90°, find the area of the shaded region.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "15bf2185-6bbc-4c73-b36f-7fa994a6d725",
+    "images": [
+      "images/38014_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চারটি আয়তক্ষেত্র একটি বহুভুজ গঠন করে। যদি চিত্রে চিহ্নিত মানগুলো সেন্টিমিটারে হয়, তবে এই বহুভুজের পরিসীমা কত সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9cf01a2-6d23-4ca3-aa24-1d52c003570a",
+    "images": [
+      "images/33445_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সামান্তরিকটিকে একটি আয়তক্ষেত্রে রূপান্তর করা হলো। পরিসীমা পরিবর্তিত হয় কিন্তু ক্ষেত্রফল একই থাকে।______ (বিবৃতিটি সত্য না মিথ্যা যাচাই করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb920788-6fdf-4995-a97f-354b1d0951fc",
+    "images": [
+      "images/28575_0.png"
+    ],
+    "english_question": "<image>\nঅসমতাটি \\( \\frac{x + 3y - 6}{x - y + 2} \\geq 0 \\) কোন সমতলীয় অঞ্চল নির্দেশ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2e624ddb-0a8b-4b74-b2f0-b86b121a2b6d",
+    "images": [
+      "images/21594_0.png"
+    ],
+    "english_question": "<image>\nদুটি ছায়াবৃত অংশ A এবং B-এর ক্ষেত্রফলের বর্ণনায়, নিচের কোনটি সঠিক? ( )\nক. A-এর ক্ষেত্রফল < B-এর ক্ষেত্রফল\nখ. A-এর ক্ষেত্রফল = B-এর ক্ষেত্রফল\nগ. A-এর ক্ষেত্রফল > B-এর ক্ষেত্রফল\nঘ. নির্ণয় করা সম্ভব নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb6cc1bd-e054-497b-b5a7-95384bf46678",
+    "images": [
+      "images/18143_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে তিনটি অভিন্ন রম্বস পাশাপাশি যুক্ত করা হয়েছে যার প্রতিটি বাহুর দৈর্ঘ্য 15 সেমি। বিন্দু A, B এবং C হলো ওপরের ধারের পর্যায়ক্রমিক শীর্ষবিন্দু যেখানে AB = BC = 15 সেমি। প্রথম রম্বসটির নিচের বাম কোণের ∠1-এর পরিমাপ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18c74b51-1365-4de4-ad97-a6072ad69490",
+    "images": [
+      "images/32860_0.png"
+    ],
+    "english_question": "<image>\nABCD রম্বসে, ∠BAD = 80°, AB-এর লম্ব দ্বিখণ্ডক কর্ণ AC-কে F বিন্দুতে ছেদ করে এবং E হলো লম্বের পাদবিন্দু। তাহলে, ∠CDF-এর পরিমাপ কত?\nক. 80°\nখ. 70°\nগ. 65°\nঘ. 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "96faef29-2a2a-4434-807c-4e07ca5fb778",
+    "images": [
+      "images/37477_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, যদি AB = AC = AD এবং ∠CBD = 23° হয়, তবে ∠CAD কত?\n\nOptions:\nক) 47°\nখ) 46°\nগ) 45°\nঘ) 44°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

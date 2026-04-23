@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f5171ef9-0018-492a-8b7a-9ce0bf517e4d",
+    "images": [
+      "images/23273_0.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ট্রাপিজিয়াম ABCD-এ, যেখানে AD সমান্তরাল BC এবং কর্ণদ্বয় AC ও BD পরস্পর O বিন্দুতে ছেদ করে, নিচের চারটি সিদ্ধান্ত নেওয়া হলো: ① ∠ABC = ∠DCB, ② OA = OD, ③ ∠BCD = ∠BDC, ④ S_{△AOB} = S_{△DOC}। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( )\nক. ①②\nখ. ①④\nগ. ②③④\nঘ. ①②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2f4f1914-e32a-4158-aae5-ce158d469109",
+    "images": [
+      "images/9413_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তক্ষেত্রের দৈর্ঘ্য ও প্রস্থের অনুপাত 2:1 এবং ছায়াবৃত অংশের পরিসীমা 5.14। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "62e50d20-d16e-4a00-8a2d-5c241bb07151",
+    "images": [
+      "images/13367_0.png"
+    ],
+    "english_question": "<image>\n4 সেমি ব্যাসবিশিষ্ট একটি বৃত্তকে কয়েকটি সমান অংশে ভাগ করে কেটে চিত্রানুযায়ী সাজানো হলো। মূল বৃত্তের পরিধির তুলনায় নতুন আকৃতির পরিধি কত সেমি বৃদ্ধি পেল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08fc1df8-2f31-4900-84ae-9309b663fca4",
+    "images": [
+      "images/20478_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি একটি ত্রিভুজাকৃতির স্কেলের সমকোণী শীর্ষবিন্দুদ্বয় একই বিন্দুতে মিলিত হয় এবং AB সমান্তরাল CD হয়, তবে ∠AEC এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0f25a38-43f6-4a45-a53f-565fae06e11b",
+    "images": [
+      "images/9654_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি জাহাজ A বিন্দুতে অবস্থিত, যা বাতিঘর P থেকে উত্তর-পূর্ব দিকে 50° কোণে 10 নটিক্যাল মাইল দূরে। যদি জাহাজটি সরাসরি দক্ষিণ দিকে B বিন্দু পর্যন্ত চলে যেখানে B বিন্দুটি বাতিঘরের ঠিক পূর্ব দিকে অবস্থিত, তবে জাহাজটি AB কত দূরত্ব অতিক্রম করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0e6a0a6-a46d-4acb-872e-47f20f77a0fd",
+    "images": [
+      "images/65211_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, শিয়াও হং একটি সুষম ষড়ভুজ ABCDEF-কে বিন্দু F-এর সাপেক্ষে ঘড়ির কাঁটার দিকে ঘুরিয়ে A'B'C'D'E'F' অবস্থানে নিয়ে এল। ঘূর্ণন কোণের মান কত? ( )\n\nOptions:\nক) 60°\nখ) 72°\nগ) 108°\nঘ) 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f87e0368-881c-45df-9e35-5bdc1c631187",
+    "images": [
+      "images/35632_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015 • শিংহুয়া সিটি থার্ড মক এক্সাম), সমান্তরাল সূর্যালোকের একটি রশ্মি একটি সুষম পঞ্চভুজের ওপর পড়ছে। যদি ∠1 = 46° হয়, তবে ∠2 = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5dbbc7d0-a12c-40c7-8f8a-e1aedc416a54",
+    "images": [
+      "images/55618_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2010, হ্যাংজু) দেওয়া আছে যে, ∠1 = ∠2 = ∠3 = 62°, তাহলে ∠4 = ___ ডিগ্রি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aacbd916-a3f4-45ca-a6bd-0119048c2e33",
+    "images": [
+      "images/71212_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তথ্য অনুযায়ী, নিচের কোন উক্তিটি ভুল?\n\nOptions:\nক) The direction of OA is 25° east of north.\nখ) The direction of OB is 30° west of north.\nগ) The direction of OC is 35° west of south.\nঘ) The direction of OD is southeast.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00812707-7e01-40b5-b648-c164a56a6a13",
+    "images": [
+      "images/63112_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত \\(⊙O\\)-তে, \\(CD\\) হলো ব্যাস এবং জ্যা \\(AB\\) ব্যাস \\(CD\\)-এর ওপর E বিন্দুতে লম্ব। দেওয়া আছে \\(∠C=22.5^{\\circ}\\) এবং \\(AB=6cm\\), তবে ছায়াবৃত অঞ্চলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "519d77da-56f1-4233-9771-5455a16beb31",
+    "images": [
+      "images/44475_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রম্বস ABCD-তে, E এবং F বিন্দুদ্বয় যথাক্রমে AB এবং AC বাহুর মধ্যবিন্দু। যদি EF = 2 হয়, তবে রম্বস ABCD-এর পরিসীমা কত?\n\nOptions:\nক) 4\nখ) 8\nগ) 12\nঘ) 16",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24813e54-f8fd-4d4f-ae77-0fbbb2db2688",
+    "images": [
+      "images/66826_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছয়টি সর্বসম সমবাহু ত্রিভুজ দ্বারা গঠিত সমদ্বিবাহু ট্রাপিজিয়ামের সংখ্যা কত? () \nক. 3 \nখ. 4 \nগ. 5 \nঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "433f3dfb-4068-41a6-aeeb-366a843806eb",
+    "images": [
+      "images/43040_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তক্ষেত্রে, DE, AC-এর ওপর E বিন্দুতে লম্ব এবং ∠ADE ও ∠EDC-এর অনুপাত 3:2। ∠BDE-এর মান কত ডিগ্রি?\n\nOptions:\nক) 36°\nখ) 9°\nগ) 27°\nঘ) 18°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8522338a-9982-48cd-a624-6ae54dade59a",
+    "images": [
+      "images/25034_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। জ্যামিতিক বস্তুটির আয়তন কত? ( ) \nক. 16+4√2 \nখ. 12+4√2 \nগ. 8 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ecb701c-f481-47d3-98ef-af663c367ab0",
+    "images": [
+      "images/3348_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো, যেখানে চিত্রটি 6 সেমি ব্যাসার্ধের একটি বৃত্তাংশ (quarter-circle) এবং এর ভেতরে 6 সেমি বাহুবিশিষ্ট একটি সমকোণী সমদ্বিবাহু ত্রিভুজ অঙ্কিত আছে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b96d5e09-392b-4838-91a5-4f4901c4b870",
+    "images": [
+      "images/29509_0.png"
+    ],
+    "english_question": "<image>\nক্ষেত্রফলের সম্পর্ক ব্যবহার করে, আমরা একটি বীজগাণিতিক অভেদ নির্ণয় করতে পারি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af185f48-55fc-4763-80f3-7de3aba43000",
+    "images": [
+      "images/42726_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের CD একটি জ্যা এবং AB ব্যাস CD জ্যা-এর উপর P বিন্দুতে লম্ব। নিচের কোন সিদ্ধান্তটি ভুল? ( )\n\nOptions (copied from English):\nA. $\\sim$ CB = $\\sim$ BD\n∠CDB = 1∠COB\n∠CDB = ∠BAD\n∠OCD = ∠OBD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "255316b7-2e9b-4cf9-8bc4-2625f5b5a4a1",
+    "images": [
+      "images/49701_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি সূক্ষ্মকোণী ত্রিভুজ △ABC বৃত্ত ⊙O-এর মধ্যে অন্তর্লিখিত থাকে এবং বিন্দু D বৃত্তের বাইরে রেখা AB-এর একই পাশে অবস্থিত হয়, তবে নিচের কোন সিদ্ধান্তগুলো সঠিক তা নির্ণয় করো: ① sin∠C > sin∠D; ② cos∠C > cos∠D; ③ tan∠C > tan∠D।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca0090a7-f7b3-40db-8a5b-d07ec1932164",
+    "images": [
+      "images/triangle_ext_ca0090a7-f7b3-40db-8a5b-d07ec1932164.png"
+    ],
+    "english_question": "<image>\n4\\( \\times \\)4 গ্রিড কাগজে একটি গ্রিড বিন্দু ত্রিভুজ ABC আছে। এটি সম্পর্কে নিচের কোন বর্ণনাটি সঠিক? ( )\nক. The lengths of all three sides are rational numbers.\nখ. It is an সমদ্বিবাহু triangle.\nগ. It is a right triangle.\nঘ. One side has a length of 5.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "602a614e-485a-4c75-aff7-8ab9f238cf4d",
+    "images": [
+      "images/71930_0.png"
+    ],
+    "english_question": "<image>\nইয়ান্দু পার্কে চিত্র অনুযায়ী একটি ট্রাপিজিয়াম আকৃতির জমি আছে। মাঝখানে 5 মিটার ভূমি বিশিষ্ট একটি সামান্তরিক রাস্তা তৈরি করা হয়েছে, যা জমিটিকে দুটি অংশে বিভক্ত করেছে। ট্রাপিজিয়াম আকৃতির জমির মোট ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

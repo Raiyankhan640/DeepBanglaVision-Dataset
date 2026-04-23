@@ -1,0 +1,361 @@
+[
+  {
+    "id": "496686b2-5a4b-4972-a272-76a891320b84",
+    "images": [
+      "images/triangle_ext_496686b2-5a4b-4972-a272-76a891320b84.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির আয়তন কত?\nক. \\(2\\pi + \\dfrac{4}{3}\\)\nখ. \\(4\\pi + \\dfrac{4}{3}\\)\nগ. \\(4\\pi + 4\\)\nঘ. \\(2\\pi + 4\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "061e7451-14d9-47ee-baf6-242827ae4efe",
+    "images": [
+      "images/76924_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1)-এ একটি কাগজের স্ট্রিপ দেওয়া আছে যেখানে AD//BC। চিত্র (1) থেকে চিত্র (2) এবং চিত্র (3)-এর ধাপগুলো অনুসরণ করে, স্ট্রিপটিকে প্রথমে EF বরাবর ভাঁজ করে সমতল করা হয়, তারপর BF বরাবর ভাঁজ করে সমতল করা হয়। যদি চিত্র (3)-এ ∠CFE = 18° হয়, তবে চিত্র (2)-এ ∠AEF-এর মান কত ডিগ্রি?\n\nOptions:\nক) \\(108^{\\circ}\\)\nখ) \\(114^{\\circ}\\)\nগ) \\(116^{\\circ}\\)\nঘ) \\(120^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1357455f-6783-4958-858c-b9e0207dfe12",
+    "images": [
+      "images/2914_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD ট্রাপিজিয়ামে AD সমান্তরাল BC, ∠D = 90°, AB ব্যাসবিশিষ্ট O কেন্দ্রিক বৃত্তটি CD বাহুকে E বিন্দুতে স্পর্শ করে এবং BC বাহুকে F বিন্দুতে ছেদ করে। যদি AB = 8 এবং AD = 2 হয়, তবে ছায়াবৃত অঞ্চল দুটির ক্ষেত্রফলের সমষ্টি কত? ( )\n\nOptions:\nক) 3\nখ) $\\sqrt { 3 }$\nগ) $2 \\sqrt { 3 }$\nঘ) $4 \\sqrt { 3 }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cce37eee-392a-42eb-9d29-f296225bf9c4",
+    "images": [
+      "images/52257_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য, যদি এই জ্যামিতিক বস্তুর আয়তন 24 হয়, তবে এই বস্তুর ভিত্তির ক্ষেত্রফল কত? ( ) ক. 6 খ. 12 গ. 18 ঘ. 24",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0341bea0-be24-47a4-a097-161fb47d56ed",
+    "images": [
+      "images/60866_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD রেখার সমান্তরাল। ∠FEC এবং ∠FED এর সমদ্বিখণ্ডকদ্বয় যথাক্রমে G এবং H বিন্দুতে AB রেখাকে ছেদ করে। যদি ∠1 = 120° হয়, তবে ∠EHB এর মান কত?\nক. 120°\nখ. 130°\nগ. 140°\nঘ. 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e728537f-5c2a-4f92-91ba-910c966350f1",
+    "images": [
+      "images/47571_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি সামান্তরিক, যেখানে শীর্ষবিন্দু A এবং B-এর স্থানাঙ্ক যথাক্রমে A (1, 0) এবং B (0, -2)। শীর্ষবিন্দু C এবং D অধিবৃত্ত y = k/x এর ওপর অবস্থিত। AD রেখা y-অক্ষকে E বিন্দুতে ছেদ করে এবং চতুর্ভুজ BEDC-এর ক্ষেত্রফল ত্রিভুজ ABE-এর ক্ষেত্রফলের 5 গুণ, যা হলো 10। k-এর মান কত?\nক. -16\nখ. -9\nগ. -8\nঘ. -12",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "412ddaf9-20c6-41fb-b7d6-3ae9fd557d52",
+    "images": [
+      "images/21128_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং AD রেখাদ্বয় যথাক্রমে B ও D বিন্দুতে O কেন্দ্রবিশিষ্ট বৃত্তের স্পর্শক। C বিন্দুটি বৃত্তের ওপর অবস্থিত এবং ∠BCD = 140°। ∠A-এর মান কত ডিগ্রি?\n\nOptions:\nক) 70°\nখ) 105°\nগ) 100°\nঘ) 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3a34ff60-a729-4a91-8136-fafd92ed42d9",
+    "images": [
+      "images/70366_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্র 2 পর্যবেক্ষণ করে, 'x'-এর মান কত তা নির্ণয় করো ( )\n\nOptions:\nক) 171\nখ) 183\nগ) 205\nঘ) 268",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a71afd25-117f-4a9b-9fd9-ec9ce93e6fd4",
+    "images": [
+      "images/20580_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত O-তে, জ্যা BC ব্যাসার্ধ OA-কে D বিন্দুতে ছেদ করে। AB এবং OC যোগ করা হলো। যদি ∠A = 60° এবং ∠ADC = 90° হয়, তবে ∠C-এর মান কত?\n\nOptions:\nক) 25°\nখ) 27.5°\nগ) 30°\nঘ) 35°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f2fcebf-0a86-42dc-8bd6-116d0ab63ebc",
+    "images": [
+      "images/68708_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে। জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত? ( ) \nক. 16+√2 \nখ. 12+2√2+2√6 \nগ. 18+2√2 \nঘ. 16+2√2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a3dc0bb-7eee-46f3-883c-b696b6adc763",
+    "images": [
+      "images/70466_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, 2 ব্যাসার্ধের একটি বৃত্তকে চারটি বৃত্তচাপ খণ্ডে বিভক্ত করা হয়েছে এবং এই চারটি খণ্ডকে সাজিয়ে একটি তারার আকৃতি তৈরি করা হয়েছে। মূল বৃত্তের ক্ষেত্রফলের সাথে এই আকৃতির ক্ষেত্রফলের অনুপাত কত? ( )\n\nOptions:\nক) $ \\frac {4-\\pi}{\\pi }$\nখ) $ \\frac { \\sqrt {2}}{\\pi }$\nগ) $ \\frac {\\pi-1}{\\pi }$\nঘ) $ \\frac {3}{\\pi }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "32821aed-0d68-4dee-86ca-5f9060942de1",
+    "images": [
+      "images/137_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়, তবে জ্যামিতিক বস্তুটির আয়তন কত? ( )\n\nOptions:\nক) \\(1\\)\nখ) \\( \\dfrac {1}{2}\\)\nগ) \\( \\dfrac {1}{3}\\)\nঘ) \\( \\dfrac {1}{6}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9a4c2165-2243-4c64-9d9e-4f41413bab80",
+    "images": [
+      "images/triangle_ext_9a4c2165-2243-4c64-9d9e-4f41413bab80.png"
+    ],
+    "english_question": "<image>\nএকটি সুষম ত্রিভুজাকৃতি পিরামিড \\(V-ABC\\)-এর ফ্রন্ট ভিউ, সাইড ভিউ এবং টপ ভিউ চিত্রে দেখানো হয়েছে, পার্শ্বীয় ধার এবং ভূমির মধ্যবর্তী কোণ কত? \\((\\) \\()\\)\nক. \\( \\dfrac {π}{3}\\)\nখ. \\(\\arcsin \\dfrac { \\sqrt {6}}{3}\\)\nগ. \\( \\dfrac {π}{6}\\)\nঘ. \\(\\arcsin \\dfrac {2 \\sqrt {39}}{13}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5ab5bcfd-7d60-47f1-b081-a811cd47bb3a",
+    "images": [
+      "images/13082_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রম্বস ABCD-এর ক্ষেত্রফল 96 এবং বর্গক্ষেত্র AECF-এর ক্ষেত্রফল 72। রম্বসটির বাহুর দৈর্ঘ্য কত?\nক. 10\nখ. 12\nগ. 8\nঘ. 16",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f577a9e3-29d1-409e-9ffe-e37f6617bb56",
+    "images": [
+      "images/69722_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, শিয়াও হুয়া একটি বৃত্তাকার মাঠের A বিন্দু থেকে যাত্রা শুরু করে, OA ব্যাসার্ধের সাথে α কোণ উৎপন্ন করে এমন একটি দিকে হাঁটা শুরু করে এবং B বিন্দুতে মাঠের প্রান্তে পৌঁছায়। এরপর সে দিক পরিবর্তন করে OB ব্যাসার্ধের সাথে α কোণ উৎপন্ন করে এমন দিকে হাঁটা শুরু করে। এই পদ্ধতি অনুসরণ করে, শিয়াও হুয়া যখন পঞ্চম বারের মতো মাঠের প্রান্তে পৌঁছায়, তখন সে AB চাপের উপর অবস্থান করে। এই সময়ে, ∠AOE = 52°, তবে α এর মান কত?\n\nOptions:\nক) 51.5°\nখ) 60°\nগ) 72°\nঘ) 76°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ba78b2a9-46ff-496c-b77e-c1a7cd2dd08e",
+    "images": [
+      "images/28715_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, এক সেট ত্রিভুজাকার রুলার একত্রে রাখা আছে। দেওয়া আছে যে, ∠C=90°, ∠D=30°, এবং ∠B=45°। ∠AOE এর মান কত?\n\nOptions:\nক) \\(165^{\\circ}\\)\nখ) \\(120^{\\circ}\\)\nগ) \\(150^{\\circ}\\)\nঘ) \\(135^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d3b994d4-1ffd-4e0b-aa51-0b6f9e22a927",
+    "images": [
+      "images/51960_0.png"
+    ],
+    "english_question": "<image>\nএকটি চতুস্তলকের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। চতুস্তলকটির চারটি তলের মধ্যে সমকোণী ত্রিভুজগুলোর ক্ষেত্রফলের সমষ্টি কত?\n\nOptions:\nক) \\(2\\)\nখ) \\(4\\)\nগ) \\(2+ \\sqrt {5}\\)\nঘ) \\(4+2 \\sqrt {5}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9493536e-6bba-4c25-b54b-e4b41b591508",
+    "images": [
+      "images/triangle_ext_9493536e-6bba-4c25-b54b-e4b41b591508.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ AOB-তে, ∠B = 20°, ∠A = 30°। ত্রিভুজ AOB-কে বিন্দু O-এর চারপাশে 60° ঘড়ির কাঁটার দিকে ঘোরানো হলে ত্রিভুজ A'OB' পাওয়া যায়। বাহু A'B', বাহু OB-কে বিন্দু C-তে ছেদ করে (A', OB-এর ওপর অবস্থিত নয়)। কোণ ∠A'CO-এর মান কত ডিগ্রি?\nক. 70°\nখ. 80°\nগ. 90°\nঘ. 100°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a04d9d5b-6524-45d0-a32d-6b96468a4d5e",
+    "images": [
+      "images/47133_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তথ্য অনুযায়ী, নিচের কোন বিবৃতিটি ভুল? ( )\nক. যেহেতু ∠1 = ∠2, তাই c ∥ d\nখ. যেহেতু ∠3 = ∠4, তাই c ∥ d\nগ. যেহেতু ∠1 = ∠3, তাই a ∥ b\nঘ. যেহেতু ∠1 = ∠4, তাই a ∥ b",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8eb53e8c-aef4-4656-963e-e6c1e7bc7b38",
+    "images": [
+      "images/33057_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রটিকে ভাঁজ করে ঘনক তৈরি করা সম্ভব নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

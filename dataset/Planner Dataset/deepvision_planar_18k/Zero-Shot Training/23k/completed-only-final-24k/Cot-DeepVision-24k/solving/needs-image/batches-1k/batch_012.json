@@ -1,0 +1,302 @@
+[
+  {
+    "id": "75c79d03-77ef-4b6c-b58a-cc8ddd5a0934",
+    "images": [
+      "images/74886_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, চতুর্ভুজ A'B'C'D' হলো একটি সমদ্বিবাহু ট্রাপিজিয়াম যার ভূমি কোণ 45°। আদি সমতল চিত্রটি (original plane figure) কী ছিল?\nক. যেকোনো ট্রাপিজিয়াম\nখ. সমকোণী ট্রাপিজিয়াম\nগ. যেকোনো চতুর্ভুজ\nঘ. সামান্তরিক",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "70484186-7b46-4ad8-94e0-5b535dee71ea",
+    "images": [
+      "images/28155_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি অনুভূমিক তলের ওপর একটি ধূসর বৃত্তকলা OAB দেখানো হয়েছে, যার ক্ষেত্রফল 30π বর্গ সেমি এবং OA = 6 সেমি। OA রেখাটি ভূমির ওপর লম্ব। যখন এই বৃত্তকলাটি ডানদিকে গড়িয়ে যায় (পিছলে না গিয়ে) এবং বিন্দু B ভূমির স্পর্শ করে, তখন বিন্দু O কত দূরত্ব অতিক্রম করে?\n\nOptions:\nক) \\(10πcm\\)\nখ) \\(20πcm\\)\nগ) \\(24πcm\\)\nঘ) \\(30πcm\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "288a46ce-6dbc-4e97-be87-0720f7b2eb80",
+    "images": [
+      "images/31500_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ABCD সামান্তরিকটিতে, AB ⊥ BD। যদি ত্রিভুজ ABD-কে BD রেখা বরাবর এমনভাবে ভাঁজ করা হয় যেন ABD তলটি BCD তলের ওপর লম্ব হয় এবং AC যোগ করা হয়, তবে চতুস্তলক ABCD-এর চারটি তলের মধ্যে কত জোড়া পরস্পর লম্ব তল বিদ্যমান?\nOptions:\nD) If triangle ABD is folded along BD so that face ABD is perpendicular to face BCD, and AC is connected, then among the four faces of tetrahedron ABCD, how many pairs of mutually perpendicular planes are there?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ecb8ba76-b2ab-47f3-9c64-d28a774b23b8",
+    "images": [
+      "images/14663_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু D(0,3), O(0,0), C(4,0) এবং বিন্দু B বৃত্ত A এর উপর অবস্থিত। রেখাংশ BD বৃত্ত A এর একটি জ্যা। তাহলে sin ∠OBD = ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2b40f1ce-ac16-415d-81e8-a00e752f9fb5",
+    "images": [
+      "images/53912_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a, b, c এবং d রেখাগুলো সমান্তরাল এবং সমদূরবর্তী। ABCD আয়তক্ষেত্রের শীর্ষবিন্দুগুলো এই চারটি রেখার ওপর অবস্থিত। যদি AB = 4 এবং BC = 6 হয়, তবে tan α এর মান কত?\n\nOptions:\nক) \\( \\dfrac{2}{3} \\)\nখ) \\( \\dfrac{3}{2} \\)\nগ) \\( \\dfrac{4}{3} \\)\nঘ) \\( \\dfrac{3}{4} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4465a3a6-dc3c-4b4c-bf1d-7c5029663054",
+    "images": [
+      "images/20314_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, 16 সেমি দৈর্ঘ্য এবং 8 সেমি প্রস্থের একটি আয়তক্ষেত্রের ওপর রেখাংশ এবং বৃত্তচাপ ব্যবহার করে 9 সংখ্যাটির মতো একটি ছায়া তৈরি করা হয়েছে। ফাঁকা জায়গার ক্ষেত্রফল কত বর্গ সেমি?\n\nOptions:\nক) 20\nখ) 22\nগ) 24\nঘ) None of the above",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4eeb7540-98f2-4244-9335-07376d435e47",
+    "images": [
+      "images/19183_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একজন ব্যক্তি A বিন্দু থেকে যাত্রা শুরু করে উত্তর থেকে 60° পূর্ব দিকে B বিন্দুতে যায়, তারপর B বিন্দু থেকে দক্ষিণ থেকে 15° পশ্চিম দিকে C বিন্দুতে যায়। ∠ABC-এর পরিমাপ কত?\nক. 75°\nখ. 105°\nগ. 45°\nঘ. 135°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d86d029b-ad49-4da7-af63-87240015550b",
+    "images": [
+      "images/11760_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত $5 \\times 5$ গ্রিডে, প্রতিটি ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য $1$। ত্রিভুজ $ABC$ একটি গ্রিড পয়েন্ট ত্রিভুজ (অর্থাৎ, এর শীর্ষবিন্দুগুলো গ্রিডের সংযোগস্থলে অবস্থিত)। ত্রিভুজ $ABC$-এর সাথে একটি সাধারণ বাহু বিশিষ্ট এবং এর সর্বসম এমন গ্রিড পয়েন্ট ত্রিভুজের মোট সংখ্যা কত?\nক. $1$\nখ. $2$\nগ. $3$\nঘ. $4$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb9a4aa4-d0a6-4d79-bbe1-a2982db7587b",
+    "images": [
+      "images/64340_0.png"
+    ],
+    "english_question": "<image>\nএকটি ভবনের চূড়ায় CD নামক একটি বিলবোর্ড আছে। A এবং B নামক দুইজন ব্যক্তি যথাক্রমে A এবং B বিন্দুতে 8 মিটার দূরত্বে অবস্থান করছে। তারা D এবং C বিন্দুর উন্নতি কোণ যথাক্রমে 45° এবং 60° পরিমাপ করে। A, B এবং E বিন্দুত্রয় সমরেখ এবং BE দূরত্ব 15 মিটার। বিলবোর্ডটির উচ্চতা নির্ণয় করো। (sqrt(3) ≈ 1.73 ধরে, ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করো)\nOptions:\nd. (Use $\\sqrt{3} \\approx 1.73$, round the result to the nearest integer)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "750c939c-2b42-4b50-971c-68819081ed73",
+    "images": [
+      "images/58398_0.png"
+    ],
+    "english_question": "<image>\nমূলবিন্দু O-তে সমকোণ বিশিষ্ট সমান্তরাল চতুর্ভুজ OABC-এ OA x-অক্ষ বরাবর, OC y-অক্ষ বরাবর, OA, BC-এর সমান্তরাল, BD = √2, AB = 3, ∠OAB = 45° এবং বিন্দু D, BC-এর উপর যেমন BD = OA-এর 1/4। বিন্দু E ও F যথাক্রমে OA ও AB-এ গতিশীল, ∠DEF = 45° বজায় রেখে। OE = x এবং AF = y ধরি। y ও x-এর মধ্যে ফাংশন সম্পর্ক নির্ণয় করো।\nOptions:\nA) Points E and F move on OA and AB respectively, maintaining ∠DEF = 45°. Let OE = x and AF = y. Determine the functional relationship between y and x.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "19807176-ff35-488f-94c5-27caef09816c",
+    "images": [
+      "images/59345_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজ ABCD-তে, ∠C=110° এবং ∠BAD ও ∠ABC-এর সংলগ্ন বহিঃস্থ কোণদ্বয় প্রত্যেকে 120°। তাহলে ∠ADC-এর বহিঃস্থ কোণ α-এর মান কত?\n\nOptions:\nক) 45°\nখ) 50°\nগ) 55°\nঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29c2defa-4655-4c26-a7e0-7a85a57ca33a",
+    "images": [
+      "images/26524_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, E এবং F বিন্দুদ্বয় যথাক্রমে AB এবং CD বাহুর ওপর অবস্থিত। যখন ABCD আয়তক্ষেত্রটিকে EF বরাবর ভাঁজ করা হয়, তখন A এবং D বিন্দুদ্বয় আয়তক্ষেত্রের বাইরে A₁ এবং D₁ বিন্দুতে পতিত হয়। দেওয়া আছে, AB = 10 এবং BC = 4, তবে সম্পূর্ণ ছায়াবৃত অংশের পরিসীমা কত?\n\nOptions:\nক) 14\nখ) 24\nগ) 28\nঘ) 56",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c2eea7e-0677-4e11-aefb-5fac53f247df",
+    "images": [
+      "images/21100_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AD একটি অর্ধবৃত্ত যার ব্যাস বর্গক্ষেত্রের বাহু AD-এর সমান। যদি বর্গক্ষেত্রের ভেতরে একটি বিন্দু দৈবভাবে নিক্ষেপ করা হয়, তবে বিন্দুটি ছায়াবৃত অংশে পড়ার সম্ভাবনা কত?\n\nOptions:\nক) \\(\\dfrac{\\pi }{16}\\)\nখ) \\(\\dfrac{3}{16}\\)\nগ) \\(\\dfrac{\\pi }{4}\\)\nঘ) \\(\\dfrac{1}{4}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e9a65d52-832f-4ca0-8564-dab10b669dd4",
+    "images": [
+      "images/14112_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছাত্র ওয়াং কিয়াং ভবন A (বিন্দু ক) এর ছাদ থেকে ভবন B (বিন্দু ঘ) এর চূড়ার উন্নতি কোণ পরিমাপ করল 30°। ভবন A (বিন্দু খ) এর গোড়া থেকে ভবন B (বিন্দু ঘ) এর চূড়ার উন্নতি কোণ 45°। যদি ভবন A এর উচ্চতা 26 মিটার হয়, তবে ভবন B এর উচ্চতা নির্ণয় কর। (\\sqrt { 3 } ≈ 1.7)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af8aca19-c111-4d00-a4fa-8ba528926fdc",
+    "images": [
+      "images/32896_0.png"
+    ],
+    "english_question": "<image>\n2 একক বাহুবিশিষ্ট একটি সুষম ষড়ভুজকে তিনটি সমান্তরাল রেখাজোড়া দ্বারা ছোট ছোট সমবাহু ত্রিভুজে বিভক্ত করা হয়েছে। যদি চিত্র থেকে দৈবচয়ন পদ্ধতিতে একটি সমবাহু ত্রিভুজ নির্বাচন করা হয়, তবে এর বাহুর দৈর্ঘ্য 2 হওয়ার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f55b97f-333f-4523-ac28-91682ed8e6cc",
+    "images": [
+      "images/63031_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বৃত্তাকার লক্ষ্যবস্তুতে ডার্ট নিক্ষেপ করা হলো যা সমান 6টি ভাগে বিভক্ত। ডার্টটি ছায়াবৃত অংশে পড়ার সম্ভাবনা কত?\n\nOptions:\nক) \\frac{1}{6}\nখ) \\frac{1}{3}\nগ) \\frac{1}{2}\nঘ) \\frac{2}{3}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "138906bf-30e8-4cd3-a425-cfb7192cc249",
+    "images": [
+      "images/61480_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি লম্বা কাগজের ফিতায় AB সমান্তরাল CD। কাগজটিকে EF বরাবর ভাঁজ করা হয়েছে এবং A ও D বিন্দু যথাক্রমে A' ও D' বিন্দুতে মিলেছে। যদি ∠1 = 2∠2 হয়, তবে ∠1 এর মান কত ডিগ্রি?\n\nOptions:\nক) 60°\nখ) 65°\nগ) 72°\nঘ) 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ccee2dd8-a2b2-44bf-83f2-2b7cbbe3d9fa",
+    "images": [
+      "images/69898_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015 ইয়াংচেং স্কুল লেভেল মক এক্সাম), AB এবং CD রেখাদ্বয় সমান্তরাল এবং CE রেখাটি AB-কে F বিন্দুতে ছেদ করে। যদি ∠AFE = 48° হয়, তবে ∠ECD এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cff7ae7d-1595-433e-8954-59de85069b39",
+    "images": [
+      "images/7746_0.png"
+    ],
+    "english_question": "<image>\nক্যাম্পাসে একটি ফুলের বাগান আছে (চিত্রে প্রদর্শিত), তুমি কি এর ক্ষেত্রফল বর্গমিটারে গণনা করতে পারবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3721b1ca-dc34-4735-9cbe-ae401e9b7049",
+    "images": [
+      "images/10360_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 1 একক বাহুবিশিষ্ট 16টি ছোট বর্গক্ষেত্র মিলে একটি বড় বর্গক্ষেত্র তৈরি হয়েছে। CA, CB, CD এবং CE রেখাংশগুলো যোগ করলে, এদের মধ্যে কতটি রেখাংশের দৈর্ঘ্য পূর্ণসংখ্যা বা ভগ্নাংশ নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

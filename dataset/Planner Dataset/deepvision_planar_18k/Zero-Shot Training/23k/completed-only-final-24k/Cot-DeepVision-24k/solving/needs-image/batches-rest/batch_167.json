@@ -1,0 +1,302 @@
+[
+  {
+    "id": "050614ee-b0a4-4c3f-9c01-2b943ef4f3c4",
+    "images": [
+      "images/11301_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্তটির কেন্দ্র নির্ণয় করো। যেকোনো জ্যামিতিক সরঞ্জাম ব্যবহার করা যাবে এবং কোনো লিখিত পদ্ধতির প্রয়োজন নেই।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9a4a874-a6d6-47be-a2c7-e8e4cd405855",
+    "images": [
+      "images/43047_0.png"
+    ],
+    "english_question": "<image>\nএকটি পলিহেড্রনের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, যেখানে সামনের দৃশ্যটি একটি বর্গক্ষেত্র এবং পাশের দৃশ্যটি একটি সমদ্বিবাহু ত্রিভুজ। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 158\nখ) 108\nগ) 98\nঘ) 88",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8be8f5f3-1693-4fce-991a-a2524302cca3",
+    "images": [
+      "images/7120_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি সমকোণী ট্রাপিজিয়াম দেওয়া আছে। AB = 8 সেমি, BC = 6 সেমি, CD = 4 সেমি। দুটি ছায়াবৃত অঞ্চলের ক্ষেত্রফলের পার্থক্য 18 বর্গ সেমি হলে, ED এর দৈর্ঘ্য কত সেমি?\nOptions:\nd. AB = 8 cm, BC = 6 cm, CD = 4 cm. The difference in the areas of the two shaded regions is 18 square cm. What is the length of ED in cm?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "90d39ebe-e5e0-41da-9e88-e3c897ecc6c3",
+    "images": [
+      "images/46455_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি ত্রিভুজাকার ভূমিসহ ত্রিভুজাকার প্রিজমের সম্মুখ দৃশ্য ডানদিকের চিত্রে দেখানো হয় এবং এর সকল শীর্ষবিন্দু একটি গোলকের উপর অবস্থিত হয়, তবে সেই গোলকের পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) $4\\pi$\nখ) ${\\frac{19}{12}}\\pi$\nগ) ${\\frac{19}{3}}\\pi$\nঘ) $\\frac43\\pi$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "851c7559-64d9-42ad-ac07-6c2ce2bb3433",
+    "images": [
+      "images/49249_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, ∠A = 90°, BD হলো ত্রিভুজ ABC-এর কোণ সমদ্বিখণ্ডক, এবং DE, AC-এর ওপর লম্ব যা BC-কে E বিন্দুতে ছেদ করে। যদি BC = 8 এবং DC = 3 হয়, তবে ত্রিভুজ DCE-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cfd009b0-4f2d-46f1-9ef1-3f33abe79958",
+    "images": [
+      "images/38796_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি সম্মিলিত আতশবাজির প্রস্থচ্ছেদ দেখানো হয়েছে, যেখানে 16টি বৃত্তের ব্যাসার্ধ সমান। A, B, C এবং D হলো চারটি কোণায় অবস্থিত বৃত্তের কেন্দ্র এবং ABCD চতুর্ভুজটি একটি বর্গক্ষেত্র। যদি বৃত্তগুলোর ব্যাসার্ধ r এবং সম্মিলিত আতশবাজির উচ্চতা h হয়, তবে আতশবাজির পার্শ্বতলের জন্য প্রয়োজনীয় মোড়ক কাগজের সর্বনিম্ন ক্ষেত্রফল কত? (সেলাইয়ের অংশ গণনা করা হয়নি)\n\nOptions:\nক) 26πrh\nখ) 24rh+πrh\nগ) 12rh+2πrh\nঘ) 24rh+2πrh",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "107ecd1b-2ecc-4e9d-affd-e5be06aa90cc",
+    "images": [
+      "images/25431_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, $y=-\\frac{1}{2}x+b$ (যেখানে $b>0$) রেখাটি x-অক্ষ এবং y-অক্ষকে যথাক্রমে A এবং B বিন্দুতে ছেদ করে। x-অক্ষের উপরে একটি সমকোণী ট্রাপিজিয়াম ODEF গঠন করা হলো যার একটি বাহু OD, যেখানে ED, x-অক্ষের উপর লম্ব, $OD=8$, $ED=2$ এবং $EF=4$। ট্রাপিজিয়াম ODEF এবং ত্রিভুজ ABO-এর সাধারণ অঞ্চলের ক্ষেত্রফলকে $S$ দ্বারা চিহ্নিত করা হলো। $b$-এর মান ছোট থেকে বড় হওয়ার সাথে সাথে $b$-এর সাপেক্ষে $S$-এর ফাংশনাল সম্পর্ক নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a7b15f9a-6b5f-4e22-b863-71e8795be91d",
+    "images": [
+      "images/73786_0.png"
+    ],
+    "english_question": "<image>\nস্কুলের ক্যানটিনের তাকে একটি নির্দিষ্ট ব্র্যান্ডের ইনস্ট্যান্ট নুডলস সাজানো রয়েছে এবং তাদের তিনটি দৃশ্য ছবিতে দেখানো হয়েছে। তাকে সর্বনিম্ন কতটি নুডলসের বক্স রয়েছে?\nক. 7 বক্স\nখ. 8 বক্স\nগ. 9 বক্স\nঘ. 10 বক্স",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "935a3176-0bcd-4ff7-b7f7-33f5c01880cd",
+    "images": [
+      "images/38254_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস, E অর্ধবৃত্তের ওপর একটি বিন্দু এবং OE, AB-এর ওপর লম্ব। বিন্দু C হলো চাপ BE-এর মধ্যবিন্দু। তাহলে ∠A = ______ ডিগ্রি।\nOptions:\nB) Point C is the midpoint of \\( \\overparen{BE} \\). Then \\( \\angle A = ______ \\degree.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9f6d303e-989d-420a-94d0-36c6f8424412",
+    "images": [
+      "images/53849_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, CM এবং ON রেখাদ্বয়কে AO ছেদক দ্বারা ছেদ করা হয়েছে। কোন জোড়া কোণগুলো অনুরূপ কোণ (corresponding angles)? ক. ∠1 এবং ∠3 খ. ∠2 এবং ∠4 গ. ∠ACD এবং ∠AOB ঘ. ∠1 এবং ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5232eba6-3575-49ba-b5f2-df7ecb8691a0",
+    "images": [
+      "images/22662_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB = CD, ∠ABD = ∠CDB। তবে চিত্রে সর্বসম ত্রিভুজের সংখ্যা কতটি?\nOptions: \n(ক) 5 জোড়া\n(খ) 4 জোড়া\n(গ) 3 জোড়া\n(ঘ) 2 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "776dbd0b-b344-45f2-9a37-c67b94a4e1dc",
+    "images": [
+      "images/49832_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জটিল সমতলে ছায়াবৃত অংশের (সীমানা সহ) জটিল সংখ্যার সেটটি হলো ( )\n\nOptions (copied from English):\nক. {z |, | z |=1, Re z ≥ 1, z \\in C}\nখ. {z |, | z |≤1, Re z ≥ 1, z \\in C}\n{z |, | z |=1, Im z ≥ 1, z \\in C}\nঘ. {z |, | z |≤1, Im z ≥ 1, z \\in C}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c4791df-4510-4862-8983-8e53cc793c68",
+    "images": [
+      "images/66518_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ∠2 = 70° হলে AB, CD-এর সমান্তরাল হওয়ার জন্য কোন শর্ত অবশ্যই পূরণ করতে হবে? (ক. ∠1 = 100° খ. ∠3 = 80° গ. ∠4 = 80° ঘ. ∠4 = 100°)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5e1d43a4-7eed-44f2-9748-142a341bdcba",
+    "images": [
+      "images/71236_0.png"
+    ],
+    "english_question": "<image>\nস্বাভাবিক সংখ্যাগুলোকে চিত্রে দেখানো উপায়ে সাজানো হয়েছে। ড্যাশ দেওয়া ছোট ত্রিভুজের ভেতরের তিনটি সংখ্যার যোগফল 5 + 8 + 9 = 22। যদি একইভাবে বৃত্তাকার তিনটি সংখ্যার যোগফল (শুধুমাত্র উপরের দিকে মুখ করা ছোট ত্রিভুজগুলো বিবেচনা করে) 2013 হয়, তবে তাদের মধ্যে বৃহত্তম সংখ্যাটি কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3410c86f-02ea-48c8-8323-58716c2fe716",
+    "images": [
+      "images/68391_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চাঁদার বাইরের প্রান্তে A, P এবং Q বিন্দুগুলো যথাক্রমে 180°, 70° এবং 30° পাঠ নির্দেশ করে। ∠PAQ কোণের পরিমাপ কত?\n\nOptions:\nক) 10°\nখ) 20°\nগ) 30°\nঘ) 40°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fcef4756-f45b-41e3-a008-c0f1b89eaa87",
+    "images": [
+      "images/32995_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, ∠A : ∠C : ∠ABC = 1 : 1 : 2 এবং AB = BC = 9 সেমি। ত্রিভুজ ABC-কে 4 সেমি ডানে সরিয়ে ত্রিভুজ A'B'C' গঠন করা হলো। BC রেখা A'C'-কে D বিন্দুতে ছেদ করে এবং যদি CD = 4 সেমি হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "634b6156-2f39-4ee3-bfa4-69a349c7a8e1",
+    "images": [
+      "images/27030_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে দিনের বিভিন্ন সময়ে একটি টেলিফোন খুঁটির ছায়ার দৈর্ঘ্য দেখানো হয়েছে। দিনের বিভিন্ন সময়ে ছায়ার দৈর্ঘ্যের পরিবর্তনের সঠিক ক্রমটি সাজাও ( ) \nক. ①②③④\nখ. ④①③②\nগ. ④②③①\nঘ. ④③②①",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "088cfc98-e9ec-4a77-bf33-7843b1628d81",
+    "images": [
+      "images/26502_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC কে তার সমকোণ সংলগ্ন বাহু AC এর চারদিকে একবার পূর্ণ ঘূর্ণন দেওয়া হলো। সামনে থেকে দেখলে জ্যামিতিক আকৃতিটি কেমন হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e32d4002-5b0b-494d-af13-8d18a78c8332",
+    "images": [
+      "images/30101_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2005, হারবিন), পানির বাঁধের প্রস্থচ্ছেদ একটি ট্রাপিজিয়াম ABCD। বাঁধের উপরের প্রস্থ BC হলো 6 মিটার, এবং বাঁধের উচ্চতা 3.2 মিটার। বাঁধের পানি ধারণ ক্ষমতা বাড়ানোর জন্য, বাঁধটিকে 2 মিটার উঁচু করতে হবে এবং উপরের প্রস্থ অপরিবর্তিত রাখতে হবে। পানি-মুখী ঢাল CD একই থাকবে, কিন্তু বিপরীত দিকের ঢাল i=1:2 থেকে পরিবর্তিত হয়ে i'=1:2.5 হবে (প্রাসঙ্গিক তথ্য চিত্রে উল্লেখ করা আছে)। উচ্চতা বৃদ্ধির পর বাঁধের নিচের অংশ HD-এর দৈর্ঘ্য কত?\nOptions:\nD) The width of the dam top BC is 6 meters, and the height of the dam is 3.2 meters. To enhance the dam's water retention capacity, the dam needs to be raised by 2 meters while keeping the top width unchanged. The slope of the water-facing side CD remains the same, but the slope of the back-facing side changes from i=1:2 to i'=1:2.5 (relevant data is noted in the image). What is the length of the dam bottom HD after the increase?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35da3ed8-4f43-488e-bfa5-1755184bb491",
+    "images": [
+      "images/28193_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের আকৃতিটির ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

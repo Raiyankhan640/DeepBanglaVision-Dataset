@@ -1,0 +1,302 @@
+[
+  {
+    "id": "7e3f1fef-34da-4e7f-ba7f-dd69919c0b9f",
+    "images": [
+      "images/16802_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সুষম ষড়ভুজাকৃতির কাগজের ছায়াযুক্ত অংশ কেটে একটি চতুর্ভুজ তৈরি করা হলো। যদি গঠিত চতুর্ভুজের ক্ষেত্রফল 2a হয়, তবে কাগজের অবশিষ্ট অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f86777ec-2927-4c0b-bfab-b2588f75f4dc",
+    "images": [
+      "images/55821_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বর্গ ABCD-এর বাহুর দৈর্ঘ্য 2√2 সে.মি., যদি বর্গ ABCD কে রেখা l কেন্দ্র করে ঘড়ির কাঁটার দিকে চারবার ঘোরানো হয়, তবে বিন্দু A-এর গতিপথের দৈর্ঘ্য কত? ক. 4π সে.মি. খ. (2 + 2√2)π সে.মি. গ. 2√2 π সে.মি. ঘ. (4 + 2√2)π সে.মি.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e0667552-d2ac-4049-a32c-6dd14613fe31",
+    "images": [
+      "images/31742_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1)-এ, চতুর্ভুজ ABCD একটি সমদ্বিবাহু ট্রাপিজিয়াম, যেখানে AB, CD-এর সমান্তরাল। চিত্র (2)-এ দেখানো সামান্তরিকটি গঠন করতে এই রকম চারটি সমদ্বিবাহু ট্রাপিজিয়াম একত্রিত করা যায়। সুতরাং, ট্রাপিজিয়াম ABCD-তে, ∠A = ডিগ্রি।\nOptions:\nD) Four such isosceles trapezoids can be combined to form the parallelogram shown in figure (2). Therefore, in trapezoid ABCD, ∠A = degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "acef329c-4e57-45b8-aeac-1edd5be91d53",
+    "images": [
+      "images/37133_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD রেখার সমান্তরাল। নিচের কোন সিদ্ধান্তটি সঠিক? ( )\n\nOptions:\nক) ∠1 = ∠2\nখ) ∠3 = ∠4\nগ) ∠1 + ∠3 = 180°\nঘ) ∠3 + ∠4 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ed661ce-2bec-4768-a846-00d6260f8e5c",
+    "images": [
+      "images/42133_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত P, x-অক্ষকে O বিন্দুতে স্পর্শ করে এবং P বিন্দুর স্থানাঙ্ক (0, 3)। বিন্দু A বৃত্ত P-এর উপর প্রথম চতুর্ভাগে অবস্থিত এবং ∠APO = 120°। বৃত্ত P ঋণাত্মক x-অক্ষের দিকে গড়িয়ে চলে। যখন বিন্দু A প্রথমবার x-অক্ষের উপর পতিত হয়, তখন বিন্দু A-এর x-স্থানাঙ্ক কত? (ফলাফলে π রাখতে হবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "598b842b-84f7-4431-b415-2bc5b53da714",
+    "images": [
+      "images/51470_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a রেখা b রেখার সমান্তরাল এবং l রেখা a ও b কে ছেদ করেছে। নিচের কোনটি নিশ্চিতভাবে সঠিক বলা যায় না? ( )\nক. ∠1=∠5\nখ. ∠1=∠3\nগ. ∠2=∠6\nঘ. ∠2+∠4=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "761ab3ff-a473-4a05-82e4-db49ce1c7076",
+    "images": [
+      "images/65532_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB = 90°, 1 একক ব্যাসার্ধের একটি বৃত্ত AB বাহুকে D বিন্দুতে এবং AC বাহুকে E বিন্দুতে ছেদ করে। DE রেখাকে বর্ধিত করলে তা বর্ধিত BC বাহুকে P বিন্দুতে ছেদ করে। যদি tan ∠BPD = 1/2 এবং CE = 2 হয়, তবে ত্রিভুজ ABC-এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "688da4e6-bd6c-41eb-99b8-e97e650c3b8b",
+    "images": [
+      "images/46960_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, B, C, D, E, F, G, H এবং K বিন্দুগুলো একটি 7 × 8 গ্রিড কাগজের গ্রিড বিন্দু (প্রতিটি ছোট ঘর একটি বর্গক্ষেত্র)। ত্রিভুজ ΔDEM কে ত্রিভুজ ABC এর সদৃশ করতে হলে, বিন্দু M কে F, G, H বা K এর মধ্যে কোনটি হতে হবে? ( )\n\nOptions:\nক) $ ext{H}$ ;\nখ) $G$ ;\nগ) $F$ ;\nঘ) $K$ .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b9fccce5-56b2-49d6-9cd9-afef1aa46a1a",
+    "images": [
+      "images/41082_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি l₁ এবং l₂ রেখাদ্বয় সমান্তরাল হয়, তবে α = ( )\n\nOptions:\nক) 50°\nখ) 60°\nগ) 70°\nঘ) 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "caf3e1ae-66a8-4938-a7cd-9c819a86d677",
+    "images": [
+      "images/12542_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD চতুর্ভুজে AC এবং BD হলো কর্ণ এবং E বিন্দুটি BA-এর বর্ধিতাংশের ওপর অবস্থিত। নিচের কোন শর্তটি AD সমান্তরাল BC প্রমাণ করতে পারে না? ( )\nOptions:\nA) Which of the following conditions cannot determine that AD is parallel to BC? ( )\n∠ABD=∠BDC\n∠EAD=∠ABC\n∠ADB=∠DBC\n∠DAB+∠ABC=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5c6f6ea9-c4ae-4cdc-b70e-3c094afd8c4a",
+    "images": [
+      "images/72373_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তের আটটি সমান বিন্দুকে দুটি পর্যায়ক্রমিক গ্রুপে ভাগ করা হলো এবং প্রতিটি গ্রুপের চারটি বিন্দুকে যুক্ত করে দুটি বর্গক্ষেত্র তৈরি করা হলো। দুটি বর্গক্ষেত্রের ভেতরের আটটি রেখাংশ অপসারণ করলে একটি সুষম অষ্টভুজাকৃতি (regular octagram) পাওয়া যায়। যদি সুষম অষ্টভুজাকৃতির কেন্দ্র O হয় এবং \\( \\overrightarrow{OA}= \\overrightarrow{e_{1}}\\), \\( \\overrightarrow{OB}= \\overrightarrow{e_{2}}\\), তবে O বিন্দু থেকে সুষম অষ্টভুজাকৃতির 16টি শীর্ষবিন্দুর ভেক্টরগুলোকে \\(λ \\overrightarrow{e_{1}}+μ \\overrightarrow{e_{2}}\\) আকারে প্রকাশ করলে \\(λ+μ\\)-এর সর্বোচ্চ মান কত?\n\nOptions:\nক) \\( \\sqrt {2}\\)\nখ) \\(2\\)\nগ) \\(1+ \\sqrt {2}\\)\nঘ) \\(2 \\sqrt {2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f71dc07-1aff-4bd2-9150-905b400730a6",
+    "images": [
+      "images/39730_0.png"
+    ],
+    "english_question": "<image>\nনীচের ব্যাংক লোগোগুলো পর্যবেক্ষণ করো। প্যাটার্নগুলোর মধ্যে কোনগুলো অক্ষরেখা-প্রতিসম এবং কেন্দ্র-প্রতিসম উভয়ই? ( )\nক. 1টি\nখ. 2টি\nগ. 3টি\nঘ. 4টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb9c264d-8b11-4ee4-858f-06f44a2fbbae",
+    "images": [
+      "images/48130_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু P হলো সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর উপরের ভূমি AD-এর উপর একটি বিন্দু। যদি ∠A = ∠BPC হয়, তবে চিত্রে △ABP-এর সদৃশ ত্রিভুজগুলো হলো ( )\n\nOptions (copied from English):\nক. △PCB and △DPC\n△PCB\n△DPC\nঘ. None",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ecdeb4b-e5a6-4066-8348-86f117049393",
+    "images": [
+      "images/5318_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, AC লম্ব BC এবং ∠BAC = 65°। ∠BCD এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e4936a9f-4a69-4d5f-a03c-35e199e170ae",
+    "images": [
+      "images/27215_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, বিন্দু D, AB-এর বর্ধিতাংশের উপর এমনভাবে অবস্থিত যেন BD = OB হয় এবং রেখা CD, বিন্দু C-তে বৃত্ত O-এর স্পর্শক। ∠CAB-এর মান কত ডিগ্রি?\nOptions:\nC) What is the measure of angle ∠CAB in degrees?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0a87caf0-6275-416b-b98e-682d2edaa69a",
+    "images": [
+      "images/13353_0.png"
+    ],
+    "english_question": "<image>\nচীন তার উন্নয়নের সাথে সাথে বিশ্বজুড়ে চীনা সংস্কৃতির প্রসার ঘটাচ্ছে। কনফুসিয়াস ইনস্টিটিউটগুলো চীনা ভাষা ও সংস্কৃতি প্রচারের জন্য বিশ্বব্যাপী কাজ করছে। শিয়াওমিন তার বিদেশি বন্ধুদের জন্য একটি ঘনকাকৃতির উপহারের বাক্স তৈরি করার পরিকল্পনা করেছে, যার প্রতিটি তলে একটি করে ঐতিহ্যবাহী চীনা গুণাবলি লেখা থাকবে। মোট ছয়টি অক্ষর হলো: '仁' (Ren), '义' (Yi), '礼' (Li), '智' (Zhi), '信' (Xin), এবং '孝' (Xiao)। চিত্রে বাক্সটির উন্মুক্ত রূপ দেওয়া হয়েছে। '礼' (Li) অক্ষরের বিপরীত দিকে কোন অক্ষরটি থাকবে?\n\nOptions:\nক) 仁 (Ren)\nখ) 义 (Yi)\nগ) 智 (Zhi)\nঘ) 信 (Xin)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e25e367f-0bcd-403a-bfb2-adf39301fd57",
+    "images": [
+      "images/62447_0.png"
+    ],
+    "english_question": "<image>\nরুলার ও কম্পাসের সাহায্যে প্রদত্ত চিত্রের ন্যায় একটি কোণের সমদ্বিখণ্ডক অঙ্কন করার ক্ষেত্রে ∠AOC = ∠BOC হওয়ার ভিত্তি হলো ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ff183dc9-d3df-4c3a-822c-ed08cd54d458",
+    "images": [
+      "images/13868_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, গ্রিড কাগজের ছোট বর্গক্ষেত্রগুলোর বাহুর দৈর্ঘ্য 1। মোটা রেখাগুলো একটি বহুতলকের তিনটি দৃশ্য নির্দেশ করে। এই বহুতলকটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 18 + 36 \\sqrt{5}\nখ) 54 + 18 \\sqrt{5}\nগ) 90\nঘ) 81",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "99f7580b-31dc-4373-8c98-31ca0335dcca",
+    "images": [
+      "images/45906_0.png"
+    ],
+    "english_question": "<image>\nএই ছবিতে সাদা রেখাগুলো কী নির্দেশ করে?\n\nOptions:\nক) Vascular flow direction\nখ) Microchannel structure\nগ) Channel flow speed\nঘ) Cellular coverage",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29d75992-c2e1-434b-ab64-d866b7ae67e0",
+    "images": [
+      "images/62237_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2012 ইয়াংপু ডিস্ট্রিক্ট স্কুল-লেভেল ইন্ডিপেন্ডেন্ট এনরোলমেন্ট) প্রদর্শিত বহুভুজ ABCDEFGH-এর সন্নিহিত বাহুগুলো পরস্পর লম্ব। এর পরিসীমা নির্ণয় করতে হলে কমপক্ষে কয়টি বাহুর দৈর্ঘ্য জানা প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

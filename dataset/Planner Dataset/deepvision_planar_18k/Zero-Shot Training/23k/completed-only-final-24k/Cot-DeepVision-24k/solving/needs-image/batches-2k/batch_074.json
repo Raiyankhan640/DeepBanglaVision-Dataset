@@ -1,0 +1,342 @@
+[
+  {
+    "id": "5fcd7b25-505b-4f60-aa20-1a9309d41a88",
+    "images": [
+      "images/3799_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত নদীর তীর 'a' এবং রাস্তা 'b' সমান্তরাল। নদীর তীর 'a'-তে অবস্থিত দুটি গাছ C ও D-এর মধ্যবর্তী দূরত্ব 50 মিটার। রাস্তা 'b'-এর বিন্দু A থেকে বিন্দু D-এর দিক উত্তর-পূর্ব দিকে 60° কোণে অবস্থিত। রাস্তা 'b'-এর বিন্দু B থেকে বিন্দু C-এর দিক উত্তর-পূর্ব দিকে 30° কোণে অবস্থিত। শিয়াও মিং এবং শিয়াও লিয়াং-এর মধ্যবর্তী দূরত্ব 100 মিটার। নদীর তীর 'a' এবং রাস্তা 'b'-এর মধ্যবর্তী দূরত্ব নির্ণয় করো।\nOptions:\nb. (Result should retain the square root)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73a92317-6e59-489c-9c23-62f5db4c5933",
+    "images": [
+      "images/triangle_ext_73a92317-6e59-489c-9c23-62f5db4c5933.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো অনুযায়ী, ত্রিভুজ ABD-কে ঘূর্ণনের মাধ্যমে ত্রিভুজ ACE-এর অবস্থানে আনা হয়েছে। নিচের কোন বিবৃতিটি ভুল? ( )\nখ. ∠DAC is a rotation angle\nঙ. Which of the following statements is incorrect? ( ) Point A is the center of rotation",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "532c695b-d462-4c66-b562-931083555e5b",
+    "images": [
+      "images/72487_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত পার্কের আকৃতি অনুযায়ী, পার্কের পাঁচটি এলাকা A, B, C, D এবং E-তে 3টি ভিন্ন ধরনের গাছ লাগাতে হবে। শর্ত হলো, সাধারণ সীমানা বিশিষ্ট সংলগ্ন এলাকাগুলোতে ভিন্ন ভিন্ন গাছ লাগাতে হবে। কতগুলো ভিন্ন উপায়ে গাছ লাগানো সম্ভব?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d20870bd-4a6b-404f-9e6e-b2b300f927b1",
+    "images": [
+      "images/51033_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 6টি অভিন্ন রম্বস একটি গ্রিড গঠন করে এবং রম্বসের শীর্ষবিন্দুগুলোকে গ্রিড বিন্দু বলা হয়। রম্বসের একটি কোণ (∠O) 60° দেওয়া আছে। A, B এবং C বিন্দুগুলো গ্রিড বিন্দুতে অবস্থিত। cos ∠ABC এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8d0798f-c868-4807-b731-4ee19c6683ce",
+    "images": [
+      "images/51058_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত প্যাটার্নগুলো একই দৈর্ঘ্যের দিয়াশলাইয়ের কাঠি দিয়ে একটি নির্দিষ্ট নিয়ম মেনে তৈরি করা হয়েছে: 1ম প্যাটার্নে 7টি, 2য় প্যাটার্নে 13টি কাঠি প্রয়োজন হয়। এই নিয়ম অনুসরণ করলে, 12তম প্যাটার্নটি তৈরি করতে কতটি দিয়াশলাইয়ের কাঠির প্রয়োজন হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "536dfda9-dcf3-43b1-b500-4f8597415f5b",
+    "images": [
+      "images/46797_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB রেখা CD এবং EF এর সমান্তরাল হয় এবং ∠ABC = 50^\\circ, ∠CEF = 150^\\circ হয়, তবে ∠BCE এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51332e93-8725-488f-9489-e0487960513a",
+    "images": [
+      "images/32944_0.png"
+    ],
+    "english_question": "<image>\n2008 সালে বেইজিংয়ে 29তম গ্রীষ্মকালীন অলিম্পিক গেমস অনুষ্ঠিত হয়েছিল। চিত্রে অলিম্পিক রিংয়ের লোগো দেখানো হয়েছে। এখন, a, b, c, d, e, f, g, h, i অবস্থানগুলোতে 1 থেকে 9 পর্যন্ত পূর্ণসংখ্যাগুলো এমনভাবে বসাতে হবে যেন প্রতিটি সংখ্যা ভিন্ন হয়। যদি প্রতিটি রিংয়ের ভেতরের সংখ্যাগুলোর যোগফল সমান হয় এবং তাকে M দ্বারা প্রকাশ করা হয়, তবে M-এর সর্বোচ্চ মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4203b339-234e-4fbb-b70b-d0910ffb6e18",
+    "images": [
+      "images/23743_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি বর্গের বাহুর দৈর্ঘ্য যথাক্রমে a এবং b। যদি a + b = 7 এবং ab = 13 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc661ce0-d456-40c6-8b7c-2d5b8e148678",
+    "images": [
+      "images/41545_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: মোট কয়টি রশ্মি আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65c43dd4-01e1-41c1-a385-7e593dd19cfd",
+    "images": [
+      "images/38318_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, বিন্দু C হলো x^2 + y^2 = 1 (y >= 0) অর্ধবৃত্তাকার চাপের উপর অবস্থিত। AC যোগ করি এবং এটিকে D বিন্দু পর্যন্ত বর্ধিত করি যেন |CD| = |CB| হয়। যখন বিন্দু C অর্ধবৃত্তাকার চাপের উপর B থেকে A বিন্দুতে গমন করে, তখন বিন্দু D দ্বারা অতিক্রান্ত দূরত্ব কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f24b7020-7b6f-454b-ad4c-64685d7243a1",
+    "images": [
+      "images/1608_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: বর্গ সেন্টিমিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "018c790c-7166-4d67-a4dc-4d9096c0f5ca",
+    "images": [
+      "images/53656_0.png"
+    ],
+    "english_question": "<image>\nএকটি জাহাজ একটি সরলরেখা বরাবর বিন্দু A থেকে বিন্দু B-এর দিকে (1000 মিটার দূরত্বে) পূর্ব দিকে যাত্রা করে। A বিন্দুতে, বয়া C-কে উত্তর থেকে 60° পূর্ব দিকে দেখা যায়; B বিন্দুতে, এটিকে উত্তর থেকে 45° পূর্ব দিকে দেখা যায়। জাহাজের পথ থেকে C-এর লম্ব দূরত্ব 1200 মিটারের চেয়ে বেশি কি না তা নির্ণয় করো। যদি বেশি হয়, তবে সামুদ্রিক বরফের কোনো বাধা নেই; অন্যথায়, বিপদ আছে। (√3 ≈ 1.73 ব্যবহার করো)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc1c6541-784a-4ae6-ae47-21ae89a77510",
+    "images": [
+      "images/62199_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 1, 2 এবং 3 সেন্টিমিটার বাহু বিশিষ্ট 8টি ছোট সমবাহু ত্রিভুজ 5 সেন্টিমিটার বাহু বিশিষ্ট একটি বড় সমবাহু ত্রিভুজের অংশ বিশেষকে ঢেকে রেখেছে। বড় ত্রিভুজটির ছায়াবৃত অংশ এবং সবগুলো ছোট ত্রিভুজের মোট ছায়াবৃত অংশের ক্ষেত্রফলের পার্থক্য কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3260ca0-c3ae-41cb-9ec7-3c57820e14da",
+    "images": [
+      "images/18450_0.png"
+    ],
+    "english_question": "<image>\nছায়াঘেরা অংশের ক্ষেত্রফল নির্ণয় করো (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "23c2aec8-0d14-4bb1-8022-9cb04932efe2",
+    "images": [
+      "images/41919_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি অনিয়মিত সবজির বাগান দেখানো হয়েছে (একক: মিটার)। এর ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1b52b817-f405-4ca4-a1a3-a3150b8baaa3",
+    "images": [
+      "images/31945_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একজন পর্যটক পাহাড়ের পাদদেশ A থেকে 30° কোণে AB ঢাল বরাবর 600 মিটার পথ হেঁটে একটি দর্শনীয় স্থান B-তে পৌঁছালেন, তারপর BC ঢাল বরাবর 200 মিটার পথ হেঁটে পাহাড়ের চূড়া C-তে পৌঁছালেন। যদি পাহাড়ের চূড়া C থেকে দর্শনীয় স্থান B-এর অবনতি কোণ 45° হয়, তবে পাহাড়ের উচ্চতা CD কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6cfb1905-ed8f-4910-a7a7-5319095a9179",
+    "images": [
+      "images/58600_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে চতুর্ভুজ ABCD ও চতুর্ভুজ AEFG উভয়ই বর্গক্ষেত্র। CF ও DG যুক্ত করলে DG/CF = ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17f206e9-1389-45c4-9124-e41f68218831",
+    "images": [
+      "images/48951_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 20 সেমি ব্যাসবিশিষ্ট একটি অর্ধবৃত্তাকার স্টিলের পাত দেওয়া আছে। এই পাতটিকে একটি সমদ্বিবাহু ট্রাপিজিয়ামে কাটার পরিকল্পনা করা হয়েছে, যার নিচের ভূমি AB এবং উপরের ভূমি CD-এর প্রান্তবিন্দুগুলো পরিধির ওপর অবস্থিত, যেখানে CD = 10 সেমি। চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "87184d07-9879-4438-b15e-799736bbf076",
+    "images": [
+      "images/25338_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে কর্ণ AC এবং BD পরস্পরকে O বিন্দুতে ছেদ করে। E এবং F বিন্দু BD এর ওপর এমনভাবে অবস্থিত যেন BE = DF। চিত্রে কত জোড়া সর্বসম ত্রিভুজ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6b219295-faa1-4e9d-960c-001cb7c89f18",
+    "images": [
+      "images/70383_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

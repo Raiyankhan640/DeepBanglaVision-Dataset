@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cc9f48b7-df9f-4284-926a-6314bd42b6ae",
+    "images": [
+      "images/22586_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a ও b রেখাদ্বয় c ও d রেখাদ্বয়ের সাথে ছেদ করেছে। যদি ∠1 = ∠2 এবং ∠3 = 70° হয়, তবে ∠4 এর মান কত?\nক. 35°\nখ. 70°\nগ. 90°\nঘ. 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c5440b7-77d6-4bcf-9e57-76b79e00b1b5",
+    "images": [
+      "images/51501_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ⊙O হলো △ABC এর পরিবৃত্ত, D হলো ¯ABC এর মধ্যবিন্দু, এবং DE রেখাটি BC এর উপর লম্ব এবং AC এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে। যদি AE=10 এবং ∠ACB=60^{\\circ} হয়, তবে BC এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da63a22d-bccc-4027-a4ba-544fb7b4d32e",
+    "images": [
+      "images/13165_0.png"
+    ],
+    "english_question": "<image>\nএকজন শিক্ষার্থী চিত্রে দেখানো অনুযায়ী একটি ত্রিভুজাকৃতির স্কেল স্থাপন করেছে। যদি AE সমান্তরাল BC হয়, তবে কোণ AFD এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "85b2ff63-80a2-45b2-a7f8-4e1eb119dce3",
+    "images": [
+      "images/32251_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l, OB-এর সমান্তরাল হলে, কোণ 1-এর মান কত ডিগ্রি? ( )\n\nOptions:\nক) 120°\nখ) 30°\nগ) 40°\nঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a9cd17fb-8480-46d4-aaa5-840415ecb55b",
+    "images": [
+      "images/33730_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, 3 cm ব্যাসার্ধ এবং 60° কেন্দ্রস্থ কোণ বিশিষ্ট একটি বৃত্তকলা আকৃতির কাগজ l রেখা বরাবর না পিছলে ডানে গড়িয়ে A'O'B' অবস্থানে পৌঁছায়। শীর্ষবিন্দু O দ্বারা অতিক্রান্ত পথের মোট দৈর্ঘ্য কত ______ cm? (ফলাফল π এর মাধ্যমে প্রকাশ করো)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "927370aa-4862-4cec-9cd9-6fce2f482758",
+    "images": [
+      "images/67935_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বৃত্তে অন্তর্লিখিত সমবাহু ত্রিভুজ ABC দেওয়া আছে এবং BC উপচাপের ওপর P একটি বিন্দু। যদি রেখা AP, BC-কে D বিন্দুতে ছেদ করে এবং PB = 21, PC = 28 হয়, তবে PD = কত?\nOptions:\nC) If line AP intersects BC at point D, and PB = 21, PC = 28, then PD = ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eaaa8b1f-05a4-41b5-ae1e-add969faba3b",
+    "images": [
+      "images/68373_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BE ⊥ CD, DF ⊥ BC, BE = DE, BC = 10, CE = 6। AB-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "047b48dc-9d91-4c35-b8a6-6703cfe4f995",
+    "images": [
+      "images/62047_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, m এবং n রেখাদ্বয় সমান্তরাল হওয়ার শর্তটি হলো ( )\n\nOptions:\nক) ∠1 + ∠4 = 180°\nখ) ∠4 = ∠3\nগ) ∠1 + ∠2 = 180°\nঘ) ∠2 + ∠3 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2bb72675-5fd7-4dbf-8a60-5d5db4261c80",
+    "images": [
+      "images/64825_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রশ্মি দ্বারা নির্দেশিত দিকগুলোর মধ্যে কোনটি ভুল? ( ) \nক. OA উত্তর দিকের 15° পূর্বে \nখ. OB উত্তর দিকের 50° পশ্চিমে \nগ. OC দক্ষিণ দিকের 45° পূর্বে \nঘ. OD দক্ষিণ-পশ্চিম দিক",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "609b7eb3-9ffa-48bb-92fb-0a394c7c6617",
+    "images": [
+      "images/40595_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৈদ্যুতিক বাল্ব ভূমি থেকে 3 মিটার উচ্চতায় অবস্থিত। 0.2 মিটার ব্যাসার্ধের একটি গোলককে এমনভাবে রাখা হলো যেন বাল্ব থেকে গোলকের কেন্দ্রের দূরত্ব 1 মিটার হয়। ভূমিতে গোলকটির দ্বারা সৃষ্ট ছায়ার ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71f85894-b6e2-4006-abe6-a2b8b2fb4d52",
+    "images": [
+      "images/35348_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি ট্রাপিজিয়াম, যেখানে AD সমান্তরাল BC, ∠ABC = 30°, ∠BCD = 60°, AD = 4, AB = 3√3। নিম্নভূমি BC-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 6\nখ) 8\nগ) 10\nঘ) 12",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06c6988a-8c2c-48ff-ad42-9da1e1fc8089",
+    "images": [
+      "images/35100_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, 10 পরিসীমা বিশিষ্ট ত্রিভুজ ABC-কে BC-এর অভিমুখে 1 একক দৈর্ঘ্য সরিয়ে ত্রিভুজ DEF পাওয়া গেল। চতুর্ভুজ ABFD-এর পরিসীমা কত?\nক. 8\nখ. 10\nগ. 12\nঘ. 14",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ddcbeb03-8626-4bfc-9cee-4351c00455a2",
+    "images": [
+      "images/19035_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজ ABCD এ, ∠BAD = 100°, ∠B = ∠D = 90°। BC এবং CD বাহুর উপর যথাক্রমে M এবং N বিন্দু এমনভাবে অবস্থিত যেন ত্রিভুজ AMN এর পরিসীমা সর্বনিম্ন হয়। তাহলে, ∠AMN + ∠ANM এর সমষ্টি কত?\nক. 130°\nখ. 120°\nগ. 160°\nঘ. 100°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d28723a-b87a-4fca-9281-6ffdd6422440",
+    "images": [
+      "images/25532_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, AB সমান্তরাল DC এবং BD কোণ ABC-কে সমদ্বিখণ্ডিত করে, যেখানে কোণ DAB = 60°। যদি ট্রাপিজিয়ামটির পরিসীমা 40 সেমি হয়, তবে AD = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca3d59b3-9bc3-447d-ae09-d1e9ad641cba",
+    "images": [
+      "images/6722_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ট্রাপিজিয়াম ABCD এর কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। ত্রিভুজ ADO এর ক্ষেত্রফল S_1, ত্রিভুজ BCO এর ক্ষেত্রফল S_2, ত্রিভুজ ABO এর ক্ষেত্রফল S_3 এবং ত্রিভুজ CDO এর ক্ষেত্রফল S_4 হলে, নিচের কোন সম্পর্কটি সঠিক? ( ) ক. S_1 = S_2, খ. S_1 * S_2 = S_3 * S_4, গ. S_1 + S_2 = S_4 + S_3, ঘ. S_2 = 2S_3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "091f0dc8-f56b-4b03-98d3-996cedb4e117",
+    "images": [
+      "images/180_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB সমান্তরাল CD এবং CD সমান্তরাল EF হয়, তবে ∠BCE = কত?\n\nOptions:\nক) ∠1 + ∠2\nখ) 180° - ∠1 + ∠2\nগ) ∠2 - ∠1\nঘ) 180° - ∠2 + ∠1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "903992e2-89de-4a50-9643-35e28395df49",
+    "images": [
+      "images/45912_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রে অবস্থিত বৃত্তে সমবাহু ত্রিভুজ ABC এবং সমবাহু ত্রিভুজ DEF অন্তর্লিখিত আছে এবং BC//EF। যদি বৃত্তের ভেতর একটি বিন্দু নিক্ষেপ করা হয়, তবে বিন্দুটি চিত্রের ছায়াবৃত অংশে পড়ার সম্ভাবনা কত? ( )\n\nOptions:\nক) \\(\\dfrac{3}{\\pi}\\)\nখ) \\(\\dfrac{\\sqrt{3}}{\\pi}\\)\nগ) \\(\\dfrac{\\sqrt{3}}{2\\pi}\\)\nঘ) \\(\\dfrac{\\sqrt{6}}{4\\pi}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0492b377-5956-49c9-ad23-c69821894ff0",
+    "images": [
+      "images/23196_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1) একটি ত্রিভুজ। এই ত্রিভুজের তিনটি বাহুর মধ্যবিন্দুগুলো যোগ করে আমরা চিত্র (2) পাই। এরপর, চিত্র (2)-এর ছোট ত্রিভুজটির বাহুগুলোর মধ্যবিন্দু যোগ করে আমরা চিত্র (3) পাই। এই পদ্ধতি অব্যাহত রাখলে, 10ম চিত্রে মোট কতটি ত্রিভুজ থাকবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "46d190b2-0db2-4f4d-9da3-c0e24b665f67",
+    "images": [
+      "images/52551_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ∠1 = 30°, ∠2 = ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74cf5fa5-6670-440f-a50e-d0a1ac65a448",
+    "images": [
+      "images/9087_0.png"
+    ],
+    "english_question": "<image>\nএকজন কর্মী চিত্রের সমকোণী ধাতব পাতটিকে একটি সরলরেখা m ব্যবহার করে সমান ক্ষেত্রফলের দুটি অংশে ভাগ করতে চান। নিচে চারজন শিক্ষার্থী A, B, C এবং D-এর প্রস্তাবিত পদ্ধতি দেওয়া হলো। কতজন শিক্ষার্থী সঠিক পদ্ধতি প্রস্তাব করেছে? ( )\n\nOptions:\nক) 4\nখ) 3\nগ) 2\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

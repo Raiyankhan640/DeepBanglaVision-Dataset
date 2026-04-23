@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1996a551-9d54-4c07-9f46-00438cf369ed",
+    "images": [
+      "images/33790_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আকৃতিগুলোর মধ্যে কোনগুলোকে ভাঁজ করে একটি প্রিজম তৈরি করা যাবে?\nক. (1) (2) (3)\nখ. (2) (3) (4)\nগ. (1) (3) (4)\nঘ. (1) (2) (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29d61fea-48c6-4b4f-a375-8118e59845ab",
+    "images": [
+      "images/56723_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb3267b7-50ea-43fa-a79d-77c21663b132",
+    "images": [
+      "images/27024_0.png"
+    ],
+    "english_question": "<image>\nবিপরীত বাহুগুলো সমান্তরাল এমন একটি কাগজের ফিতাকে চিত্রে প্রদর্শিত আকারে ভাঁজ করা হলো। যদি ∠EFB = 32° হয়, তবে নিচের কোন সিদ্ধান্তটি সঠিক?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ce0197c9-f1f8-40ea-ba8b-7da33fe3a83c",
+    "images": [
+      "images/49826_0.png"
+    ],
+    "english_question": "<image>\nনিচে প্রদর্শিত গুণ অংকে কিছু সংখ্যা ত্রিভুজাকৃতির কাগজ দিয়ে ঢেকে রাখা হয়েছে। গুণফলটি কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52add04b-c611-487d-b0ed-0c4918b5fdd9",
+    "images": [
+      "images/triangle_ext_52add04b-c611-487d-b0ed-0c4918b5fdd9.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি ভিউ চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কত?\nক. \\(\\dfrac{2}{3} \\)\nখ. \\(\\dfrac{1}{3} \\)\nগ. \\(\\dfrac{4}{3} \\)\nঘ. \\(\\dfrac{8}{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b2a6842b-3c30-4e69-847a-53236502a619",
+    "images": [
+      "images/38803_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 3 × 3 বর্গাকার গ্রিডে চারটি গ্রিড বিন্দু A, B, C এবং D রয়েছে। এই বিন্দুগুলোর যেকোনো একটিকে মূলবিন্দু ধরে এবং গ্রিড রেখাগুলোকে স্থানাঙ্ক অক্ষ হিসেবে ব্যবহার করলে, যদি অবশিষ্ট তিনটি বিন্দুর মধ্যে দুটি বিন্দু কোনো একটি স্থানাঙ্ক অক্ষের সাপেক্ষে প্রতিসম হয়, তবে মূলবিন্দুটি হবে ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4e7f86a-15f2-4c75-8064-ad024de8aef7",
+    "images": [
+      "images/73023_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, AB = 5 সেমি, ∠A = 45°, ∠C = 30°, এবং O বৃত্তটি ABC ত্রিভুজের পরিবৃত্ত। P বিন্দুটি BC চাপের উপর যেকোনো একটি বিন্দু। OABP চতুর্ভুজের সর্বোচ্চ পরিসীমা কত সেমি?\nOptions:\nC) Point P is any point on arc BC) What is the maximum perimeter of quadrilateral OABP in cm?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17d1e0b8-9adf-4720-8454-79584bea1171",
+    "images": [
+      "images/250_0.png"
+    ],
+    "english_question": "<image>\nসমবাহু ত্রিভুজ ABC এবং DEF একটি বৃত্তে অন্তর্লিখিত এবং BC || EF। বৃত্তের ভেতর একটি বিন্দু ফেললে তা ছায়াযুক্ত অংশে পড়ার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "359daf17-8b08-4c2a-8885-03a1684bdfbd",
+    "images": [
+      "images/32097_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-তে, EF || AB এবং কর্ণ AC, EF-কে G বিন্দুতে ছেদ করে। ∠BAC-এর সমান কতগুলো কোণ আছে (∠BAC ব্যতীত)?\n\nOptions:\nক) \\(3\\)\nখ) \\(4\\)\nগ) \\(5\\)\nঘ) \\(6\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed079d89-fa36-43fc-a06c-fe179bc48d4d",
+    "images": [
+      "images/56325_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014•চাংশা), মোট কয়টি ত্রিভুজ আছে?\nOptions:\na), how many triangles are there in total?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f06fe25b-ad5f-4ef9-9ed6-054ebc3e3ed8",
+    "images": [
+      "images/2729_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l1 // l2, ∠A = 125°, ∠B = 105° হলে, ∠1 + ∠2 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "893809bf-face-454c-8f28-6f337f4fe0a0",
+    "images": [
+      "images/13010_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ব্যাসবিশিষ্ট অর্ধবৃত্ত O এর উপর D এবং E দুটি বিন্দু। ED রেখাংশ BA এর বর্ধিতাংশকে C বিন্দুতে ছেদ করে এবং দেওয়া আছে যে DC = OE। যদি ∠C = 20° হয়, তবে ∠EOB এর মান কত ডিগ্রি?\n\nOptions:\nক) 40°\nখ) 50°\nগ) 60°\nঘ) 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc6acbab-5cce-43a3-bc09-d014906335be",
+    "images": [
+      "images/56757_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD চতুর্ভুজের কর্ণদ্বয় O বিন্দুতে ছেদ করে। নিচের কোন শর্তটি দ্বারা নিশ্চিতভাবে বলা যায় না যে ABCD একটি সামান্তরিক?\nOA=OC, OB=OD\n∠BAD=∠BCD, AB∥CD\nAD∥BC, AD=BC\nAB=CD, AO=CO",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8c058b76-b85d-4eef-9be8-f29babc234aa",
+    "images": [
+      "images/9160_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গ গ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। বিন্দু A এবং B ছোট বর্গের শীর্ষবিন্দুতে অবস্থিত, যেমনটি চিত্রে দেখানো হয়েছে। বিন্দু C-ও একটি ছোট বর্গের শীর্ষবিন্দুতে অবস্থিত এবং ত্রিভুজ ABC একটি সমদ্বিবাহু ত্রিভুজ। বিন্দু C-এর জন্য কতটি সম্ভাব্য অবস্থান রয়েছে?\n\nOptions:\nক) 7\nখ) 8\nগ) 9\nঘ) 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7d4f749-e276-4689-9347-247f26b102e5",
+    "images": [
+      "images/triangle_ext_b7d4f749-e276-4689-9347-247f26b102e5.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, ∠BAC = 60°। ∠BAC-এর কোণ সমদ্বিখণ্ডক AD, বাহু BC-এর লম্ব সমদ্বিখণ্ডক MD-কে বিন্দু D-তে ছেদ করে। DE, AB-এর ওপর লম্ব এবং AB-এর বর্ধিতাংশকে বিন্দু E-তে ছেদ করে, এবং DF, AC-এর ওপর বিন্দু F-এ লম্ব। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① DE = DF; ② DE + DF = AD; ③ DM, ∠ADF-কে সমদ্বিখণ্ডিত করে; ④ AB + AC = 2AE। নিচের কোন সিদ্ধান্তগুলো সঠিক?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2372cf60-77ef-4f74-bc0f-8a72ff3ef10a",
+    "images": [
+      "images/47706_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 3 দৈর্ঘ্য এবং 2 প্রস্থের একটি আয়তক্ষেত্রের বাহু বরাবর 10টি বিন্দু এমনভাবে আছে যে পাশাপাশি দুটি বিন্দুর দূরত্ব 1। এই বিন্দুগুলোকে শীর্ষবিন্দু ধরে 3 ক্ষেত্রফলের কতটি ত্রিভুজ গঠন করা সম্ভব?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c2291e4a-9533-4c52-b8da-ace428cb4b7e",
+    "images": [
+      "images/41572_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ, ABCD একটি আয়তক্ষেত্র। কাগজটিকে EF বরাবর ভাঁজ করে চিত্র 2 তৈরি করা হয়, তারপর BF বরাবর ভাঁজ করে চিত্র 3 তৈরি করা হয়। যদি ∠DEF = α হয়, তবে চিত্র 3-এ ∠CFE এর পরিমাপ α এর মাধ্যমে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dd7da95c-4684-4c21-b2da-6503aa7e9bf4",
+    "images": [
+      "images/51548_0.png"
+    ],
+    "english_question": "<image>\nআরও 2 টি কুকুরছানা আসার পর মোট কতটি কুকুরছানা হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a92c24fd-c034-4eed-affb-da13acbc505f",
+    "images": [
+      "images/71522_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমবাহু ত্রিভুজ ABC এবং এর অন্তর্বৃত্ত ও পরিবৃত্ত দ্বারা গঠিত ছায়াবৃত অংশের ক্ষেত্রফল কত, যদি পরিবৃত্তের ব্যাসার্ধ 3 হয় ( )\n\nOptions:\nক) 2π\nখ) 3π\nগ) 4π\nঘ) 6π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3802affc-e35d-4afb-883c-04c7916b1b0d",
+    "images": [
+      "images/20867_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং AD ও BC রেখাদ্বয় E বিন্দুতে ছেদ করে। EF রেখাটি ∠BED-এর সমদ্বিখণ্ডক। যদি ∠1=30° এবং ∠2=40° হয়, তবে ∠BEF-এর মান কত ডিগ্রি?\nOptions:\nD) If ∠1=30° and ∠2=40°, then ∠BEF=______ degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

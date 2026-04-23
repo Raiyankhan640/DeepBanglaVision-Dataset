@@ -1,0 +1,302 @@
+[
+  {
+    "id": "e078c84b-a129-4cf1-9b3d-5b0dba80c1a9",
+    "images": [
+      "images/57568_0.png"
+    ],
+    "english_question": "<image>\nএকটি চতুর্ভুজ ABCD দেওয়া আছে। এর চারটি বাহুকে এমনভাবে বর্ধিত করা হলো যেন AB = BA', BC = CB', CD = DC', এবং DA = AD' হয় (চিত্রে প্রদর্শিত)। যদি চতুর্ভুজ ABCD-এর ক্ষেত্রফল 1 বর্গ সেন্টিমিটার হয়, তবে চতুর্ভুজ A'B'C'D'-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "66b7f00a-5c77-4782-b18a-dd15243a6058",
+    "images": [
+      "images/27149_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD রম্বসে, P এবং Q যথাক্রমে AD এবং AC-এর মধ্যবিন্দু। যদি PQ = 1 হয়, তবে রম্বস ABCD-এর পরিসীমা কত? ( ) ক. 4 খ. 6 গ. 8 ঘ. 16",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07db70f7-774f-4c04-9dc1-09d24a490589",
+    "images": [
+      "images/4605_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিচের কোন উক্তিটি সঠিক? ( )\nক. যখন ∠1 = ∠2, তখন a ∥ b অবশ্যই হবে।\nখ. যখন a ∥ b, তখন ∠1 = ∠2 অবশ্যই হবে।\nগ. যখন a ∥ b, তখন ∠1 + ∠2 = 90° অবশ্যই হবে।\nঘ. যখন ∠1 + ∠2 = 180°, তখন a ∥ b অবশ্যই হবে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a347ab8c-fd3c-4df4-8eac-b1a53f33334d",
+    "images": [
+      "images/21277_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 3 + sqrt(3) বাহুবিশিষ্ট সমবাহু ত্রিভুজ ABC-কে DE ভাঁজ বরাবর ভাঁজ করা হলো, যেখানে বিন্দু B, বিন্দু F-এর সাথে মিলে যায়। রেখাংশ EF এবং DF, AC-কে যথাক্রমে M এবং N বিন্দুতে ছেদ করে এবং DF, AB-এর ওপর লম্ব, যার পাদবিন্দু D। দেওয়া আছে AD = 1 এবং ত্রিভুজ DBE-এর ক্ষেত্রফল S হলে, উপরিপাতিত অংশের ক্ষেত্রফল S-এর মাধ্যমে নির্ণয় করো।\nOptions:\nD) Given that AD = 1 and the area of triangle DBE is S, find the area of the overlapping region in terms of S.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "509aeb5f-bbed-431e-be41-e31a4b1f9703",
+    "images": [
+      "images/74569_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, কোণ A = 36 ডিগ্রি, AB = AC এবং BD হলো ত্রিভুজ ABC-এর কোণ সমদ্বিখণ্ডক। যদি AB বাহুর ওপর BE = BC নেওয়া হয় এবং DE যোগ করা হয়, তবে চিত্রটিতে মোট কয়টি সমদ্বিবাহু ত্রিভুজ আছে?\nOptions:\nC) If BE = BC is taken on side AB, and DE is connected, how many isosceles triangles are there in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bae800da-de43-4f40-b90c-f7b3ac8ab0b9",
+    "images": [
+      "images/50249_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি সমকোণী ত্রিভুজাকার প্রিজমের পৃষ্ঠতলের বিস্তৃতি প্রদর্শন করছে, যেখানে AD = 10 এবং CD = 2। নিচের কোনটি AB-এর দৈর্ঘ্য হতে পারে?\n\nOptions:\nক) \\(5\\)\nখ) \\(4\\)\nগ) \\(3\\)\nঘ) \\(2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "779f9252-8e3a-42a4-a02a-68c56d9afd52",
+    "images": [
+      "images/72754_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AC = AD, BA = BD হলে, নিচের কোনটি সঠিক? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4aea04c3-210c-4254-94c9-0a4afc880acb",
+    "images": [
+      "images/9720_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-এ, BC=12, E এবং F বিন্দুদ্বয় যথাক্রমে AB এবং AC বাহুর মধ্যবিন্দু। একটি গতিশীল বিন্দু P, EF রশ্মির উপর অবস্থিত এবং BP রেখাংশ CE-কে D বিন্দুতে ছেদ করে। ∠CBP-এর সমদ্বিখণ্ডক CE-কে Q বিন্দুতে ছেদ করে। যখন CQ=1/2 CE হয়, তখন EP+BP-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4cf48936-f190-473d-a16d-495f5b2d7e30",
+    "images": [
+      "images/22753_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজটির ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f23cf08c-adff-4be0-87ca-710cdde8d67c",
+    "images": [
+      "images/63262_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ PAOB হলো বৃত্তকলা OMN-এর ভেতরে অন্তর্লিখিত একটি আয়তক্ষেত্র, যার শীর্ষবিন্দু P বৃত্তচাপ MN-এর ওপর অবস্থিত এবং এটি M বা N বিন্দুর সাথে মিলে যায় না। P বিন্দু বৃত্তচাপ MN বরাবর নড়াচড়া করলে আয়তক্ষেত্র PAOB-এর আকার ও আকৃতি পরিবর্তিত হয়। AB-এর দৈর্ঘ্যের কী পরিবর্তন হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8337f848-6af3-492c-9094-4de3e269dca4",
+    "images": [
+      "images/59457_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি 5টি অভিন্ন বর্গক্ষেত্র নিয়ে গঠিত। ত্রিভুজ A, B এবং C-এর ক্ষেত্রফল তুলনা করো।\n\nOptions (copied from English):\nD. C > B > A",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ff3c495c-042c-47d6-be23-4ec0a925df4c",
+    "images": [
+      "images/37223_0.png"
+    ],
+    "english_question": "<image>\nএকটি আবাসিক এলাকার একটি সিলিন্ডারাকার পানি পাইপ ফেটে গেছে। রক্ষণাবেক্ষণ কর্মীকে পাইপটির বৃত্তাকার প্রস্থচ্ছেদের ব্যাসার্ধ নির্ধারণ করতে হবে। নিচে ফেটে যাওয়া পাইপটির প্রস্থচ্ছেদ দেখানো হয়েছে যা অনুভূমিকভাবে স্থাপন করা হয়েছে এবং এর মধ্যে পানি রয়েছে। যদি পাইপের পানির পৃষ্ঠের প্রস্থ $AB = 16\\,\\mathrm{cm}$ হয় এবং পানির গভীরতম অংশের উচ্চতা 4 সে.মি. হয়, তবে এই বৃত্তাকার প্রস্থচ্ছেদের ব্যাসার্ধ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dfa71888-11cc-4279-b130-783b71e4c92a",
+    "images": [
+      "images/26824_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রগুলোর গ্রুপ সম্পূর্ণভাবে কেন্দ্রিক প্রতিসাম্য (centrally symmetric) চিত্র দ্বারা গঠিত?\n\nOptions:\nক) ①②\nখ) ③④\nগ) ①③\nঘ) ②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3415741c-70ef-4081-a5a5-2f660996a9b4",
+    "images": [
+      "images/31201_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াবৃত অংশটি একটি বর্গক্ষেত্র। আয়তক্ষেত্রটির সর্বোচ্চ পরিসীমা কত সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6c17774c-5b2a-49d0-9a16-2b5265c618c7",
+    "images": [
+      "images/19691_0.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট মুহূর্তে, সূর্যের আলো জানালার মধ্য দিয়ে শ্রেণিকক্ষে প্রবেশ করে এবং মেঝের সাথে 30° কোণ (∠BPC) উৎপন্ন করে। শ্রেণিকক্ষের মেঝেতে সৃষ্ট ছায়া PE এর দৈর্ঘ্য 3.5 মিটার এবং জানালার উচ্চতা AF 2.5 মিটার। সানশেডের বাইরের প্রান্ত D বিন্দু থেকে জানালার ফ্রেমের দূরত্ব AD নির্ণয় করো। (ফলাফল দশমিকের পর 1 ঘর পর্যন্ত সঠিক)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94f4bd59-7950-4e87-b228-ac3177523bf4",
+    "images": [
+      "images/triangle_ext_94f4bd59-7950-4e87-b228-ac3177523bf4.png"
+    ],
+    "english_question": "<image>\nক. BCD-A'B'C' ঘনকটিতে, বিন্দু P, AD' রেখাংশ বরাবর গতিশীল। CP এবং BA' বিষমতলীয় রেখাদ্বয়ের মধ্যবর্তী কোণ θ-এর সীমা কত?\nক. 0 < $\\theta$ < $\\frac{\\pi}{2}$\nখ. 0 < $\\theta$ ≤ $\\frac{\\pi}{2}$\nগ. 0 ≤ $\\theta$ ≤ $\\frac{\\pi}{3}$\nঘ. 0 < $\\theta$ ≤ $\\frac{\\pi}{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b25423b2-b36a-4583-9a1d-558cce36f4ef",
+    "images": [
+      "images/1244_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকার কাঁচের টুকরো ভেঙে তিনটি টুকরো হয়েছে, যেমনটি চিত্রে দেখানো হয়েছে। কোন টুকরোটি নিয়ে কাঁচের দোকানে গেলে হুবহু একই রকম কাঁচ পাওয়া যাবে, যা 'কোণ-বাহু-কোণ' (ASA) সর্বসমতার শর্ত মেনে চলে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c1a4dbca-c992-4c6c-8a81-ca246df17c71",
+    "images": [
+      "images/1167_0.png"
+    ],
+    "english_question": "<image>\nএকটি শিশু আঙুল ব্যবহার করে গণনা করার অনুশীলন করছে, যা চিত্রে দেখানো নিয়ম অনুযায়ী হয়। 2009 পর্যন্ত গণনা করলে, কোন আঙুলটি নির্দেশিত হবে? (আঙুলের নাম লেখো: আঙুলগুলো ক্রমানুসারে বৃদ্ধাঙ্গুলি, তর্জনী, মধ্যমা, অনামিকা, কনিষ্ঠা)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c23e50b3-3735-4a93-84ef-f80cad66674a",
+    "images": [
+      "images/42636_0.png"
+    ],
+    "english_question": "<image>\nস্কুল খেলার মাঠের পতাকাদণ্ডের উচ্চতা পরিমাপ করার জন্য, জিয়াওমিং তার সহপাঠীদের সাহায্য চাইল। সে একই সময়ে তার ছায়ার দৈর্ঘ্য EC এবং পতাকাদণ্ডের ছায়ার দৈর্ঘ্য BC পরিমাপ করল, যা যথাক্রমে 0.6 মি এবং 3.6 মি। যদি জিয়াওমিং-এর উচ্চতা CD 1.5 মি হয়, তবে পতাকাদণ্ডের উচ্চতা AB নির্ণয় কর।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "58368382-f6a2-4a75-9dbe-ff3bfcb929f3",
+    "images": [
+      "images/60081_0.png"
+    ],
+    "english_question": "<image>\nΔABC ত্রিভুজে, যেখানে ∠ACB=90°, F বিন্দুটি AC এর বর্ধিতাংশে অবস্থিত, CF=1/2 AC, এবং DE হলো ΔABC এর মধ্যমা। যদি ∠1=30° এবং DE=2 হয়, তবে চতুর্ভুজ AFED এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

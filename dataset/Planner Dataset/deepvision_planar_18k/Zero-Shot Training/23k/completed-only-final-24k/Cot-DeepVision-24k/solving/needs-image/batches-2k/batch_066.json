@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0365bc17-1a07-4b94-ac30-6b889eea1a0a",
+    "images": [
+      "images/16865_0.png"
+    ],
+    "english_question": "<image>\nশাওমিংয়ের বাড়ির জানালার রেইন কভারটি ফাইবারগ্লাসের তৈরি। এর উপরের অংশটি একটি সিলিন্ডারের পৃষ্ঠের অংশবিশেষ (চিত্র 1-এ দেখানো হয়েছে) এবং এর পাশের প্রান্তে দুটি বৃত্তচাপ রয়েছে (চিত্র 2-এ দেখানো হয়েছে)। উপরের বৃত্তচাপ AB-এর কেন্দ্র O₁ উলম্ব রেখা AD-এর ওপর অবস্থিত এবং অন্য বৃত্তচাপটির কেন্দ্র O₂ অনুভূমিক রেখা DC-এর বর্ধিতাংশের ওপর অবস্থিত, যার কেন্দ্রীয় কোণ 90°। প্রদত্ত পরিমাপ অনুযায়ী (একক: সেমি) AB বৃত্তচাপের দৈর্ঘ্য নির্ণয় করো (ফলাফলে π থাকতে পারে, sin80°≈60/61)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ff2576f-10f6-4a69-8f2b-b56f11fbaae5",
+    "images": [
+      "images/38809_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি সুষম পঞ্চভুজ ABCDE-এর শীর্ষবিন্দুগুলোকে লাল, হলুদ বা সবুজ রঙের যেকোনো একটি দিয়ে এমনভাবে রঙ করতে হবে যেন পাশাপাশি অবস্থিত শীর্ষবিন্দুগুলোর রঙ একই না হয়। কতগুলো ভিন্ন উপায়ে এটি করা সম্ভব?\n\nOptions:\nক) 30 methods\nখ) 27 methods\nগ) 24 methods\nঘ) 21 methods",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "80d60f05-f078-4227-9fea-53763feaab4c",
+    "images": [
+      "images/24008_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি জাহাজ A বিন্দুতে অবস্থিত, যা লাইটহাউস P থেকে উত্তর দিকের 65 ডিগ্রি পূর্বে 80 নটিক্যাল মাইল দূরে। দক্ষিণ দিকে একটি নির্দিষ্ট দূরত্ব অতিক্রম করার পর, এটি B বিন্দুতে পৌঁছায়, যা লাইটহাউস P থেকে দক্ষিণ দিকের 45 ডিগ্রি পূর্বে অবস্থিত। জাহাজটি B বিন্দুতে লাইটহাউস P থেকে কত দূরে অবস্থিত? (ফলাফলটি নন-স্পেশাল অ্যাঙ্গেল ত্রিকোণমিতিক ফাংশন এবং করণী ব্যবহার করে প্রকাশ করতে হবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49a7dc68-c650-4753-b28e-307c2710373b",
+    "images": [
+      "images/70944_0.png"
+    ],
+    "english_question": "<image>\n3×5 একক বর্গক্ষেত্রের একটি আয়তক্ষেত্র ABCD-এর মধ্যে, একটি রেখাংশ MN বিন্দু P (একটি ছোট বর্গের শীর্ষবিন্দু) দিয়ে অতিক্রম করে এবং এর প্রান্তবিন্দুদ্বয় AB ও DC বাহুর ওপর অবস্থিত। MN দ্বারা বিভক্ত আয়তক্ষেত্রের ডানদিকের অংশের ক্ষেত্রফল সর্বোচ্চ কত হতে পারে?\nOptions:\nC) What is the maximum possible area of the right part of the rectangle divided by MN?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "175d208e-9443-44dc-a106-e95cfede8b21",
+    "images": [
+      "images/13175_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, দেওয়া আছে BC = 2, একটি বৃত্ত যার ব্যাস BC, AB এবং AC বাহুকে যথাক্রমে M এবং N বিন্দুতে ছেদ করে। MC এবং NB-এর ছেদবিন্দু হলো G। যদি BM · BC = 2 এবং CN · BC = 1 হয়, তবে ∠BGC-এর মান কত ডিগ্রি?\n\nOptions:\nক) 135\nখ) 120°\nগ) 150\nঘ) 105°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "90abc715-8d7c-408a-a47a-a7d5ec6a89e4",
+    "images": [
+      "images/24408_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি A, B, C, D, E, F, G, H এবং O বিন্দুগুলো একটি 5×7 গ্রিড কাগজের গ্রিড বিন্দু হয়, তবে ত্রিভুজ DME, ত্রিভুজ ABC এর সদৃশ হওয়ার জন্য M বিন্দুটি F, G, H অথবা O এর মধ্যে কোনটি হবে ( )?\n\nOptions:\nক) F\nখ) G\nগ) H\nঘ) O",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "509f4678-057e-42ad-ba88-71b27550ccaa",
+    "images": [
+      "images/34479_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, স্কুলের দেয়ালের বাইরে একটি উল্লম্ব বৈদ্যুতিক খুঁটি AB-এর উচ্চতা পরিমাপ করার জন্য, শিয়াও লিয়াং 3 মিটার লম্বা একটি বাঁশের খুঁটি CD নিয়ে খেলার মাঠের C বিন্দুতে দাঁড়ালেন। এরপর তিনি E বিন্দুতে পিছিয়ে গেলেন, যেখানে তিনি বাঁশের খুঁটির শীর্ষ D এবং বৈদ্যুতিক খুঁটির শীর্ষ B-কে একই সরলরেখায় দেখতে পেলেন। শিয়াও লিয়াং এরপর C1 বিন্দুতে 3 মিটার লম্বা আরেকটি বাঁশের খুঁটি CD1 নিয়ে দাঁড়ালেন এবং E1 বিন্দুতে পিছিয়ে গেলেন, যেখানে তিনি বাঁশের খুঁটির শীর্ষ D1 এবং বৈদ্যুতিক খুঁটির শীর্ষ B-কে একই সরলরেখায় দেখতে পেলেন। শিয়াও লিয়াং-এর চোখের উচ্চতা মাটি থেকে 1.5 মিটার এবং তিনি পরিমাপ করলেন CE = 2 মিটার, EC1 = 6 মিটার এবং C1E1 = 3 মিটার। বৈদ্যুতিক খুঁটি AB-এর উচ্চতা নির্ণয় করো।\nOptions:\nঘ) He then moves back to point E, where he can see the top of the bamboo pole D coinciding with the top of the utility pole খ) Xiao Liang then stands at point C<sub>1</sub> with another 3m tall bamboo pole CD<sub>1</sub> and moves back to point E<sub>1</sub>, where he can see the top of the bamboo pole D<sub>1</sub> coinciding with the top of the utility pole খ) Xiao Liang's eye level is 1.5m above the ground, and he measures CE = 2m, EC<sub>1</sub> = 6m, and C<sub>1</sub>E<sub>1</sub> = 3m. Find the height of the utility pole AB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "48801c34-5256-4d79-aad4-d067b404beb1",
+    "images": [
+      "images/50587_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $l_1$, $l_2$ এবং $l_3$ রেখাগুলো সমান্তরাল। 'সমান্তরাল সরলরেখা ও সমানুপাতিক রেখাংশ উপপাদ্য' অনুযায়ী, নিচের কোন অনুপাতটি সঠিক? \nক. $\\frac{AD}{BC}=\\frac{CE}{DF}$\nখ. $\\frac{AD}{BE}=\\frac{BC}{AF}$\nগ. $\\frac{AB}{CD}=\\frac{CD}{EF}$\nঘ. $\\frac{AD}{BC}=\\frac{DF}{CE}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4325536b-de51-43bf-9500-55c9fc7a6251",
+    "images": [
+      "images/63644_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, AD = DE এবং AE ও BD পরস্পরকে C বিন্দুতে ছেদ করে। চিত্রে কতটি কোণ ∠BCE-এর সমান?\nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "776d70fb-16d1-404f-b0ac-818f1f8a8c2a",
+    "images": [
+      "images/46307_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি ত্রিভুজাকার ভূমির প্রিজমের সম্মুখ দৃশ্য চিত্রে দেখানো হয় এবং এর সকল শীর্ষবিন্দু একটি গোলকের উপর অবস্থিত হয়, তবে সেই গোলকের পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 4π\nখ) 19/12 π\nগ) 19/3 π\nঘ) 4/3 π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "549e8bcc-ba18-47db-95bd-75374c2753b1",
+    "images": [
+      "images/36321_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AB, CD, EF এবং MN সরলরেখা। দেওয়া আছে যে, ∠2 = ∠3 = 70°, ∠GPC = 80° এবং GH রেখাটি ∠MGB কে সমদ্বিখণ্ডিত করে। ∠1 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cd3c13ac-c21c-4353-9935-dd7135b96cfb",
+    "images": [
+      "images/23177_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে AD = 2, E বিন্দুটি AB বাহুর উপর অবস্থিত। ADE ত্রিভুজটিকে DE বরাবর ভাঁজ করে A'DE ত্রিভুজ তৈরি করা হলো, যাতে A' বিন্দুটি EBCD সমতলে CD রেখার উপর প্রক্ষিপ্ত হয় এবং A'D রেখাটি EBCD সমতলের সাথে 45° কোণ উৎপন্ন করে। AE রেখাংশের দৈর্ঘ্য নির্ণয় করো।\nOptions:\nB) Triangle ADE is folded along DE to form triangle A'DE such that A' projects onto line CD in plane EBCD, and line A'D forms a 45° angle with plane EBCD) Find the length of segment AE.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cdfcfe1a-2694-4744-ae03-923edce7d871",
+    "images": [
+      "images/42185_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অভিন্ন ছোট ঘনক দ্বারা তৈরি জ্যামিতিক বস্তুটির বাম দিকের দৃশ্য কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f45d5685-cb97-4e44-90d4-12bd6ea139ea",
+    "images": [
+      "images/39889_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি 4টি অভিন্ন ছোট বর্গক্ষেত্র নিয়ে গঠিত একটি গ্রিড, যেখানে ∠1 + ∠2 এর মান কত ( ) \nক. 150° \nখ. 180° \nগ. 210° \nঘ. 225°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "677228c6-9a04-4e66-a646-77b556e1a5e1",
+    "images": [
+      "images/75112_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে, যেখানে সম্মুখ দৃশ্য (front view) এবং পার্শ্ব দৃশ্য (side view) অর্ধবৃত্ত ও আয়তক্ষেত্র দ্বারা গঠিত। চিত্রে চিহ্নিত পরিমাপ অনুযায়ী (একক: সেমি), এই জ্যামিতিক বস্তুটির আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f62fe44e-9985-41e5-bdcd-61020066abc5",
+    "images": [
+      "images/22354_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D ও E বিন্দুদ্বয় যথাক্রমে AB ও AC রেখার ওপর অবস্থিত। নিচের কোন শর্তটি ত্রিভুজ ADE ও ত্রিভুজ ABC সদৃশ হওয়ার জন্য যথেষ্ট নয়? ( ) \nক) ∠AED=∠B \nখ) AD/AC = AE/AB \nগ) DE/BC = AE/AB \nঘ) DE∥BC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5432c02f-80f3-42ff-935c-a61e213531c4",
+    "images": [
+      "images/31379_0.png"
+    ],
+    "english_question": "<image>\nমিশ্র আকৃতিটির ক্ষেত্রফল নির্ণয় করো। (একক: সেমি) ট্রাপিজিয়ামের নিচের ভূমির দৈর্ঘ্য 14 সেমি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fde04984-793f-4cf1-9534-bdcb0ab53139",
+    "images": [
+      "images/13202_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠AOB-এর বাহুর ওপর 9টি বিন্দু আছে: A₁, A₂, A₃, A₄ এবং B₁, B₂, B₃, B₄, B₅। যদি আমরা AᵢBⱼ (1≤i≤4, 1≤j≤5) রেখাংশগুলো যোগ করি, এবং যদি দুটি রেখাংশ পরস্পরকে ছেদ না করে, তবে তাদের এক জোড়া \"সমন্বিত রেখা\" (harmonious lines) বলা হয়। চিত্রে কত জোড়া \"সমন্বিত রেখা\" আছে?\nক. 60\nখ. 62\nগ. 72\nঘ. 124",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b1dd0e49-c216-4f5f-8b40-78ded9b5b566",
+    "images": [
+      "images/44106_0.png"
+    ],
+    "english_question": "<image>\nএকটি রেখা l এর একই পাশে অবস্থিত দুটি বিন্দু A এবং B দেওয়া আছে। l রেখার উপর এমন একটি বিন্দু P নির্ণয় করো যেন AP + PB এর যোগফল সর্বনিম্ন হয়।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb7141e5-222d-4557-a036-a51f85486f33",
+    "images": [
+      "images/40849_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, a বাহুবিশিষ্ট বর্গক্ষেত্র ABCD-এর কেন্দ্র O। O বিন্দুতে একটি 90° কোণবিশিষ্ট বৃত্তচাপ (যথেষ্ট বড় ব্যাসার্ধের) স্থাপন করে O বিন্দুর চারদিকে ঘোরানো হলো। ঘূর্ণনের সময় বর্গক্ষেত্রের যে অংশটি সবসময় বৃত্তচাপ দ্বারা আবৃত থাকে তার ক্ষেত্রফল নির্ণয় করো।\nOptions:\na. A 90° sector of a circle (with sufficiently large radius) is placed at point O and rotated around O. Find the area of the part of the square that is always covered by the sector during its rotation.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

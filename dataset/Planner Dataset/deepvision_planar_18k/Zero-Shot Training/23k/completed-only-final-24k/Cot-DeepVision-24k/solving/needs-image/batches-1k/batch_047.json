@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ce46cdbc-8f65-45b0-8e14-ef7918976f1a",
+    "images": [
+      "images/41764_0.png"
+    ],
+    "english_question": "<image>\nশিক্ষক চেন '1লা জুন' শিশু দিবস উপলক্ষে স্কুল সাজানোর জন্য বেলুন কেনার পরিকল্পনা করছেন। দুই ধরনের বেলুন রয়েছে: স্মাইলি ফেস এবং হার্ট শেপ। দুই ধরনের বেলুনের দাম ভিন্ন, কিন্তু একই ধরনের বেলুনের দাম একই। সাজসজ্জার প্রয়োজনে বেলুনগুলো 4টি করে গুচ্ছে কেনা হচ্ছে। প্রথম ও দ্বিতীয় গুচ্ছের বেলুনের দাম ছবিতে দেওয়া আছে। তৃতীয় গুচ্ছের বেলুনের দাম কত?\n\nOptions:\nক) 19\nখ) 18\nগ) 16\nঘ) 15",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e4559828-0d02-4444-b333-4ddc6b9aa5e7",
+    "images": [
+      "images/76499_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি বৃত্তের কেন্দ্র P এবং R, এবং তারা O ও Q বিন্দুতে ছেদ করে। যদি সমবাহু ত্রিভুজ PQR-এর একটি বাহু PQ = 3 হয়, তবে ছায়াবৃত অংশের পরিসীমা কত ( ) \nক. 9/2 π \nখ. 9π \nগ. 8π \nঘ. 12π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ef362d2b-a89f-4f4c-b97a-5fc6074c06b4",
+    "images": [
+      "images/42059_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OAB বৃত্তকলাটির শীর্ষবিন্দু O-কে মূলবিন্দু এবং OB ব্যাসার্ধ বরাবর রেখাকে x-অক্ষ ধরে একটি কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করা হলো। বিন্দু B-এর স্থানাঙ্ক (2, 0)। যদি পরাবৃত্ত y = 1/2 x^2 + k সর্বদা OAB বৃত্তকলাটির সীমানাকে দুটি বিন্দুতে ছেদ করে, তবে বাস্তব সংখ্যা k-এর সীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd9afb80-b2f9-496a-af16-60c6aae1af70",
+    "images": [
+      "images/43030_0.png"
+    ],
+    "english_question": "<image>\nএকটি ট্রাপিজিয়াম আকৃতির লনের মধ্যে 10 মিটার লম্বা ও 1 মিটার চওড়া একটি ছোট পথ আছে। লনটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "053905a6-db62-4006-95d5-f2d4aa143008",
+    "images": [
+      "images/3238_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 এবং ∠2 কোণ দুটি অনুরূপ কোণ ( )\n\nOptions:\nক) ①②\nখ) ①③\nগ) ②③\nঘ) ②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "34551fb6-1778-4d36-a10c-bbcbf97ff13b",
+    "images": [
+      "images/14038_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD অংশ দুটি যথাক্রমে ভবন A এবং ভবন B-এর উচ্চতা নির্দেশ করে। AB, BD-এর উপর লম্ব এবং CD, BD-এর উপর লম্ব। ভবন A-এর শীর্ষবিন্দু A থেকে ভবন B-এর শীর্ষবিন্দু C-এর উন্নতি কোণ α = 30° এবং ভবন B-এর পাদবিন্দু D-এর অবনতি কোণ β = 60°। যদি ভবন A-এর উচ্চতা (AB) 24 মিটার হয়, তবে ভবন B-এর উচ্চতা (CD) নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "066026ea-cef2-4823-84eb-07bee4384441",
+    "images": [
+      "images/76834_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্রে সূর্যের আলোতে বিভিন্ন সময়ে দুটি বস্তুর ছায়া দেখানো হয়েছে। সময়ের ক্রম অনুযায়ী সঠিক বিন্যাসটি কোনটি? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35a37066-5581-4bce-ac04-9f4d0bd60a16",
+    "images": [
+      "images/6844_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 2 এবং 1 ব্যাসার্ধবিশিষ্ট দুটি এককেন্দ্রিক বৃত্ত রয়েছে এবং ∠AOB = 120°। ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) 4π\nখ) 2π\nগ) \\textstyle{\\frac{4}{3}}\\pi\nঘ) π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "401d8737-c463-47b3-ac36-f903ead81d91",
+    "images": [
+      "images/45595_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ AEC-এ, EF রেখাংশ BC-এর উপর লম্ব, AB রেখাংশ BC-এর উপর লম্ব এবং AD রেখাংশ DC-এর উপর লম্ব। AE বাহুর সাপেক্ষে উচ্চতা কোনটি?\nOptions:\nC) The height from side AE is ____.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "576ac56f-6cdd-4cee-a029-495b8734cbba",
+    "images": [
+      "images/6503_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্র যথাক্রমে B × C, A × B, C × D এবং D × B নির্দেশ করলে, পঞ্চম চিত্রটি কী নির্দেশ করবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc72fce6-2572-42fe-8c21-1c76c942791d",
+    "images": [
+      "images/9270_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অঞ্চলের অসমতা জোটটি হলো __________।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94e5838b-0619-40cb-afb6-b0b8a076b2d9",
+    "images": [
+      "images/71303_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ভবনের ফ্লোর প্ল্যান দেওয়া আছে, যেখানে আঙিনায় প্রবেশের জন্য দুটি দরজা আছে। পথচারীরা দরজার বাইরে থেকে দেখতে পেলেও আঙিনায় প্রবেশ করতে পারে না। চিত্রে ভবনের পরিমাপগুলো দেওয়া আছে (একক: মিটার) এবং সব কোণ সমকোণ। আঙিনার যে অংশটি পথচারীদের দৃষ্টির আড়ালে থাকে তার ক্ষেত্রফল কত?\n\nOptions:\nক) 250\nখ) 300\nগ) 400\nঘ) 325",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f9500ad-393b-41e4-8151-95b70fb0caea",
+    "images": [
+      "images/8922_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ত্রিভুজাকার স্কেলের সমকোণী শীর্ষবিন্দুটিকে 'a' রেখার উপর স্থাপন করা হলো, যেখানে a সমান্তরাল b। যদি ∠1 = 50° এবং ∠2 = 60° হয়, তবে ∠3 এর মান কত? ( ) \nক. 50° \nখ. 60° \nগ. 70° \nঘ. 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18ac4065-b9fe-4e51-a919-910865c4397b",
+    "images": [
+      "images/4377_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DH সমান্তরাল EG এবং BC, এবং DC সমান্তরাল EF। চিত্রে কোণ 1-এর সমান কতটি কোণ আছে (কোণ 1 নিজে ব্যতীত)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9e8eedcf-1330-4e97-aa9f-49199ea9d25b",
+    "images": [
+      "images/13278_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঘনক ABCD-A₁B₁C₁D₁ এর A₁B₁ এবং A₁D₁ ধারের মধ্যবিন্দু যথাক্রমে M এবং N। চিত্র 1-এ প্রদর্শিত ঘনকটির দুটি কোণ A, M, N এবং D, N, C₁ বিন্দু দিয়ে যাওয়া সমতল দ্বারা কেটে ফেলা হয়েছে। এই জ্যামিতিক আকৃতির সম্মুখ দৃশ্য, পার্শ্ব দৃশ্য (বাম দিক থেকে) এবং শীর্ষ দৃশ্য চিত্র 2-এ দেখানো হয়েছে। সঠিক ক্রমটি চিহ্নিত করুন।\n\nOptions:\nক) ①、②、③\nখ) ②、③、④\nগ) ①、③、④\nঘ) ②、④、③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3927a582-42fc-4b66-8f24-1f43295e7fca",
+    "images": [
+      "images/65620_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি আয়তাকার ঘনবস্তু দেখানো হয়েছে যার দৈর্ঘ্য, প্রস্থ এবং উচ্চতা (একক: সেমি) দেওয়া আছে। এই আয়তাকার ঘনবস্তুর বাম পাশের তলের ক্ষেত্রফল কত বর্গ সেমি?\n\nOptions:\nক) 12\nখ) 15\nগ) 20\nঘ) Cannot determine",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7f187854-7e00-4a40-8c1b-a534689b0da9",
+    "images": [
+      "images/43287_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট একটি সুষম ষড়ভুজ ABCDEF-কে l রেখার সাপেক্ষে 180° ঘোরানো হলো। এই ঘূর্ণনের ফলে উৎপন্ন জ্যামিতিক আকৃতির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "626e95da-ae78-48a1-8aa4-75eda2871a2f",
+    "images": [
+      "images/8565_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AD || BC হয়, তবে ( )\nক. ∠1 = ∠2\nখ. ∠3 = ∠4\nগ. ∠1 = ∠3\nঘ. ∠B + ∠BCD = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2c62a27c-5142-4206-ab74-151bf0e889a8",
+    "images": [
+      "images/25393_0.png"
+    ],
+    "english_question": "<image>\nস্কুলের একটি শিল্প উৎসবের অনুষ্ঠানে 5 জন নর্তকী আছে, যাদের প্রত্যেকের হাতে একই আকার ও আকৃতির পাখা রয়েছে। পুরো খোলা পাখার ব্যাসার্ধ OA হলো 24 cm। তিনটি পুরো খোলা পাখা চিত্র 2 এর মতো একটি বৃত্তাকার ফুল তৈরি করে। অন্য একটি বিন্যাসে পাঁচটি পাখা চিত্র 3 এর মতো একটি তারা (star) আকৃতি গঠন করে। চিত্র 3 এর তারা আকৃতিতে ∠α কোণের মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "346d4798-64bc-408b-9a3a-d2d63235e53e",
+    "images": [
+      "images/29515_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজ ABCD-তে, দেওয়া আছে AB=BC=CD, ∠BAD এবং ∠CDA উভয়ই সূক্ষ্মকোণ। বিন্দু F কর্ণ BD-এর উপর অবস্থিত। EF, AB-এর সমান্তরাল এবং AD-কে E বিন্দুতে ছেদ করে। FG, BC-এর সমান্তরাল এবং DC-কে G বিন্দুতে ছেদ করে। চতুর্ভুজ EFGP একটি সামান্তরিক। নিচের সিদ্ধান্তগুলো দেওয়া হলো:\n① চতুর্ভুজ EFGP একটি রম্বস;\n② ত্রিভুজ PED একটি সমদ্বিবাহু ত্রিভুজ;\n③ যদি ∠ABD = 90 ডিগ্রি হয়, তবে ΔEFP সর্বসম ΔGPD;\n④ যদি চতুর্ভুজ FPDG-ও একটি সামান্তরিক হয়, তবে BC, AD-এর সমান্তরাল এবং ∠CDA = 60 ডিগ্রি।\nসঠিক সিদ্ধান্তের সংখ্যাগুলো হলো ______ (সকল সঠিক সিদ্ধান্তের সংখ্যা লিখ)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "57aace7f-3814-471f-9144-700f0bc3832e",
+    "images": [
+      "images/52613_0.png"
+    ],
+    "english_question": "<image>\nশাও মিংয়ের বাড়ির সামনে একটি খালি জায়গা আছে এবং জায়গার বাইরে 10 মিটার লম্বা একটি দেয়াল আছে। বসবাসের পরিবেশ সুন্দর করার জন্য, শাও মিংয়ের বাবা দেয়ালের বিপরীতে একটি আয়তাকার ফুলের বাগান তৈরি করার পরিকল্পনা করেছেন। তিনি বেড়া হিসেবে ব্যবহারের জন্য 32 মিটার লম্বা একটি স্টেইনলেস স্টিলের পাইপ কিনেছেন (চিত্রে দেখানো হয়েছে)। ফুলের বাগানের ক্ষেত্রফল সর্বোচ্চ করার জন্য AD বাহুর (দেয়ালের লম্ব বাহু) দৈর্ঘ্য কত হওয়া উচিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e336de47-c414-4825-8a90-cfa57d0b7805",
+    "images": [
+      "images/2990_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ∥ CD হওয়ার শর্তটি হলো ( )\n\nOptions (copied from English):\nক. ∠B = ∠D\n∠B + ∠D + ∠E = 180°\nগ. ∠B + ∠D = 180°\n∠B + ∠D = ∠E",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f09356fa-8d5e-4dec-8b19-785d3db8a58a",
+    "images": [
+      "images/9002_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র ABCD এর কতটি খালি ছোট বর্গক্ষেত্রকে অন্তত কালো রঙ করতে হবে যাতে রঙিন চিত্রটি কর্ণ BD এর সাপেক্ষে প্রতিসম হয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d085f0a4-6f42-49eb-a89f-55da69d60260",
+    "images": [
+      "images/76442_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সংখ্যারেখায় A বিন্দু দ্বারা নির্দেশিত সংখ্যাটি হলো a। a-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "75a271bb-a811-4926-8089-c8df4def54b4",
+    "images": [
+      "images/58970_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ∥ CD, AD ∥ BC এবং OE = OF। চিত্রে সর্বসম ত্রিভুজের কত জোড়া আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e56e90b0-7569-40b0-bada-550f8d39ea07",
+    "images": [
+      "images/34474_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠A + ∠ABC = 180° হয়, তবে সঠিক সিদ্ধান্তটি হলো:\n\nOptions:\nক) \\(∠1 = ∠2\\)\nখ) \\(∠2 = ∠3\\)\nগ) \\(∠1 = ∠3\\)\nঘ) \\(∠2 = ∠4\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5079bf6f-4914-4c40-9af9-4d5077fa4b03",
+    "images": [
+      "images/68818_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ⊙O বৃত্তটি AB ও AC বাহুকে স্পর্শ করে। যদি ∠B = 30° এবং PA = 20 সেমি হয়, তবে 305টি হুলার হুপ (hula hoop) তৈরির জন্য মোট কত সেমি স্টিলের তার প্রয়োজন হবে, যেখানে প্রতিটি হুপের ব্যাসার্ধ ⊙O বৃত্তের ব্যাসার্ধের সমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5e7676c3-f806-4722-bc4b-4c3de2a8df26",
+    "images": [
+      "images/8829_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, তল $ \\alpha \\perp $ তল $ \\beta $, এবং $ \\alpha \\cap \\beta = $ রেখা $ l $। A ও C বিন্দু দুইটি তল $ \\alpha $-এর দুইটি ভিন্ন বিন্দু, এবং B ও D বিন্দু দুইটি তল $ \\beta $-এর দুইটি ভিন্ন বিন্দু, যেখানে $ A, B, C, D \\notin $ রেখা $ l $। M ও N যথাক্রমে AB ও CD রেখাংশের মধ্যবিন্দু। নিচের কোন বিবৃতিটি সঠিক?\nক. যখন $|CD|=2|AB|$, তখন M ও N বিন্দু দুইটি একই হতে পারে না।\nখ. M ও N বিন্দু দুইটি একই হতে পারে, কিন্তু এক্ষেত্রে AC রেখা l রেখাকে ছেদ করতে পারে না।\nগ. যখন AB ও CD পরস্পরকে ছেদ করে, যদি AC রেখা l-এর সমান্তরাল হয়, তবে BD রেখা l-কে ছেদ করতে পারে।\nঘ. যখন AB ও CD বিপ্রতীপ রেখা হয়, তখন MN রেখা l-এর সমান্তরাল হতে পারে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69cd4d0e-6e5e-4207-adc4-83ea93a025d4",
+    "images": [
+      "images/37857_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট একটি বর্গাকার কাগজকে ট্যাংগ্রামে কেটে চিত্রে প্রদর্শিত 'ছোট রাজহাঁস'-এর আকৃতিতে সাজানো হয়েছে। মূল বর্গের ক্ষেত্রফলের ভগ্নাংশ হিসেবে ছায়াযুক্ত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) \\( \\frac{1}{2} \\)\nখ) \\( \\frac{3}{8} \\)\nগ) \\( \\frac{7}{16} \\)\nঘ) \\( \\frac{9}{16} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79bd4700-82d8-4edd-9b7c-103de3939d5f",
+    "images": [
+      "images/3625_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিঁচের কোন বক্তব্যটি সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a9e2e02b-bd7c-41d2-b1cf-573d4fa0df32",
+    "images": [
+      "images/33221_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস, AD এবং BC যথাক্রমে A এবং B বিন্দুতে বৃত্ত O-এর স্পর্শক এবং CD রেখা বৃত্ত O-কে E বিন্দুতে স্পর্শ করে। OD এবং OC যোগ করো। নিচের কোন সিদ্ধান্তগুলো সঠিক? ① OD² = DE • CD; ② AD + BC = CD; ③ OD = OC; ④ ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল = (1/2) CD • OA; ⑤ ∠DOC = 90°।\nOptions:\nC) Which of the following conclusions are correct? ① OD² = DE • CD; ② AD + BC = CD; ③ OD = OC; ④ Area of trapezoid ABCD = (1/2) CD • OA; ⑤ ∠DOC = 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "70e39bcb-3b35-4217-b89b-c14fdba0662a",
+    "images": [
+      "images/17255_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপায়ে, মাস্টার ওয়াং একটি ত্রিভুজাকার প্লাইউড থেকে একটি আয়তাকার বোর্ড কাটছেন। কাটা আয়তাকার বোর্ডটির ক্ষেত্রফল কত? (একক: ডেসিমিটার)\nOptions:\nd. What is the area of the cut rectangular board? (Unit: decimeters)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f8812aa3-79bd-40af-b690-061f6358bd9e",
+    "images": [
+      "images/54964_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি ঘনকের উন্মুক্ত রূপ। উন্মুক্ত রূপটিকে ভাঁজ করে একটি ঘনক তৈরি করলে, 'you' (你) চিহ্নিত পৃষ্ঠের বিপরীত পৃষ্ঠের অক্ষরটি হবে ( )\nক. I (我)\nখ. Middle (中)\nCountry (国)\nDream (梦)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca017171-bbf1-4bd9-9bf7-652344208a31",
+    "images": [
+      "images/75673_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2012 বসন্ত, রাওপিং কাউন্টি স্কুল লেভেল মিডটার্ম), দেওয়া আছে যে AD, BD এর উপর লম্ব এবং AC, BC এর উপর লম্ব। যদি ∠1 = 25° হয়, তবে ∠2 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a905a7ce-48fc-413c-b738-f8a953240e28",
+    "images": [
+      "images/20881_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চাঁদায় C এবং D বিন্দু দ্বারা নির্দেশিত পাঠ যথাক্রমে 80° এবং 50°। ∠DBC কোণের পরিমাপ কত?\n\nOptions:\nক) 25°\nখ) 15°\nগ) 30°\nঘ) 50°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79931d06-d76b-43fa-83dd-74170e5c06b0",
+    "images": [
+      "images/17934_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো: (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b60ac5af-1d02-47d1-96cc-2ec770aa2748",
+    "images": [
+      "images/40484_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c2722455-5ea0-42da-8967-03137ada6e6f",
+    "images": [
+      "images/23594_0.png"
+    ],
+    "english_question": "<image>\nজিনলিং মিডল স্কুলের শিক্ষার্থীরা একটি সামাজিক অনুশীলন কার্যক্রমের জন্য লিঙ্গু মন্দিরে গিয়েছিল। তারা লিঙ্গু টাওয়ারের উচ্চতা পরিমাপ এবং গণনা করেছে। C বিন্দুতে তারা টাওয়ারের শীর্ষের (A বিন্দু) উন্নতি কোণ 45° পরিমাপ করেছে। টাওয়ারের দিকে 28 মিটার হেঁটে D বিন্দুতে পৌঁছানোর পর, তারা A বিন্দুর উন্নতি কোণ 60° পরিমাপ করেছে। তুমি কি তাদের লিঙ্গু টাওয়ারের উচ্চতা খুঁজে পেতে সাহায্য করতে পারো? (√3 ≈ 1.7 ধরে ফলাফলটি নিকটতম পূর্ণসংখ্যায় প্রকাশ করো)।\nOptions:\nA) as 45°. After walking 28 meters towards the tower to point D, they measured the angle of elevation to point A as 60°. Can you help them find the height of the Linggu Tower? (\\(\\sqrt{3} \\approx 1.7\\), round the result to the nearest integer).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9c12039-09a1-4bb2-9d1d-cd331459e475",
+    "images": [
+      "images/3492_0.png"
+    ],
+    "english_question": "<image>\nএকটি সবজি ক্ষেতের মধ্য দিয়ে একটি পানির নালা প্রবাহিত হচ্ছে (চিত্রে দেখানো হয়েছে)। এই সবজি ক্ষেতের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "77bf19bd-3bd7-4ac5-a067-b7774d58ee92",
+    "images": [
+      "images/38347_0.png"
+    ],
+    "english_question": "<image>\nগ্রিড কাগজে, ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দু ছোট বর্গক্ষেত্রের শীর্ষবিন্দুতে (গ্রিড পয়েন্ট) অবস্থিত। এই ধরনের ত্রিভুজকে গ্রিড পয়েন্ট ত্রিভুজ বলা হয়। ত্রিভুজ ABC-এর সর্বসম এবং একটি সাধারণ বাহু বিশিষ্ট (ত্রিভুজ ABC বাদে) কতটি গ্রিড পয়েন্ট ত্রিভুজ গঠন করা সম্ভব?\nOptions:\nC), is ___.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

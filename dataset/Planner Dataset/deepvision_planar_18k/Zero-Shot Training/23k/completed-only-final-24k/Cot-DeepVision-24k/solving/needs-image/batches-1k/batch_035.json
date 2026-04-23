@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a5807557-eec0-409f-8c68-7873bbdb2774",
+    "images": [
+      "images/12479_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠C=90°, AB=5, AC=3, বিন্দু D, BC-এর মধ্যবিন্দু থেকে বিন্দু C-এর দিকে অগ্রসর হয় এবং বিন্দু E, AD রেখার উপর অবস্থিত। E কেন্দ্রবিশিষ্ট বৃত্তটি (⊙E) AB এবং BC রেখাকে স্পর্শ করে। ⊙E বৃত্তের ব্যাসার্ধ R-এর মান কত হতে পারে?\n\nOptions:\nক) \\( \\frac{6}{7} \\leq R \\leq \\frac{12}{7} \\)\nখ) \\( \\frac{6}{7} \\leq R \\leq \\frac{4}{3} \\)\nগ) \\( \\frac{5}{6} \\leq R \\leq 2 \\)\nঘ) \\( 1 \\leq R \\leq \\frac{3}{2} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cba4d725-e8d7-4de6-a62d-e01238fb001f",
+    "images": [
+      "images/72310_0.png"
+    ],
+    "english_question": "<image>\n1 মিটার একক দৈর্ঘ্যের একটি কার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, 2 মিটার ব্যাসার্ধ এবং 120 ডিগ্রি কেন্দ্রীয় কোণ বিশিষ্ট একটি বৃত্তচাপ AB কে বারবার যুক্ত করে একটি বক্ররেখা তৈরি করা হয়। একটি বিন্দু P, A (মূলবিন্দু) থেকে যাত্রা শুরু করে এবং প্রতি সেকেন্ডে 2/3π মিটার বেগে বক্ররেখা বরাবর ডানদিকে চলতে থাকে। 2019তম সেকেন্ডে বিন্দু P-এর y-স্থানাঙ্ক কত?\n\nOptions:\nক) -2\nখ) -1\nগ) 0\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d45bbf5e-30db-4fd4-8b5b-517d78ec7dc4",
+    "images": [
+      "images/43693_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু D (0, 3), O (0, 0), C (4, 0) এবং B বিন্দুটি বৃত্ত A-এর ওপর অবস্থিত, BD বৃত্ত A-এর একটি জ্যা। তাহলে, $\\sin \\angle OBD = $ কত?\nOptions:\nA) Then, \\( \\sin \\angle OBD = \\) .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20288372-f143-45d4-bb5a-a841b11097a5",
+    "images": [
+      "images/25732_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা a এবং b কে রেখা c দ্বারা ছেদ করা হয়েছে। ∠1 এর অনুরূপ কোণ কোনটি?\nক. ∠2\nখ. ∠3\nগ. ∠4\nঘ. ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb542bcd-5854-48ec-9359-339ba6c60c51",
+    "images": [
+      "images/56319_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সরলরেখা a ও b-কে সরলরেখা c ছেদ করেছে। নিম্নলিখিত কোন বক্তব্য ভুল? ক. ∠1 ও ∠2 সন্নিহিত পরিপূরক কোণ খ. ∠1 ও ∠3 উল্লম্ব কোণ গ. ∠2 ও ∠4 অনুরূপ কোণ ঘ. ∠3 ও ∠4 বিকল্প অন্তঃস্থ কোণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3d2d5d47-c767-4d5e-bc91-cc610b7acd67",
+    "images": [
+      "images/triangle_ext_3d2d5d47-c767-4d5e-bc91-cc610b7acd67.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠ADE এবং ∠CED হলো ( )\nক. Same-side interior angles\nখ. Alternate interior angles\nগ. Corresponding angles\nঘ. Supplementary angles",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a2165628-f4d6-459a-b711-31f397059246",
+    "images": [
+      "images/68353_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র ABCD-এ AB = 3 সে.মি. এবং AD = 9 সে.মি.। যদি এই আয়তক্ষেত্রকে কর্ণ BD বরাবর ভাঁজ করা হয় যাতে বিন্দু B, বিন্দু D-এ পড়ে এবং ভাঁজ EF হয়, তবে ত্রিভুজ ABE-এর ক্ষেত্রফল কত? ক. 6 সে.মি.² খ. 8 সে.মি.² গ. 10 সে.মি.² ঘ. 12 সে.মি.²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fe6c342-6c28-416c-8a9c-ea0da8e4ef26",
+    "images": [
+      "images/72253_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC কীভাবে ত্রিভুজ DEF-এ রূপান্তরিত হয়?\n\nOptions (copied from English):\nD. Translate triangle ABC 4 units to the left, then 2 units up",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f1e32e75-7a03-4ac7-b1f3-7fdfc9fffddd",
+    "images": [
+      "images/4040_0.png"
+    ],
+    "english_question": "<image>\nriangle ABC-এ, যেখানে AB=AC, BD লম্ব AC (D বিন্দুতে) এবং CE লম্ব AB (E বিন্দুতে)। BD এবং CE রেখাদ্বয় O বিন্দুতে ছেদ করে। AO-এর বর্ধিতাংশ BC-কে F বিন্দুতে ছেদ করে। চিত্রটিতে সর্বসম সমকোণী ত্রিভুজের কত জোড়া বিদ্যমান?\n\nOptions:\nক) \\(3\\) pairs\nখ) \\(4\\) pairs\nগ) \\(5\\) pairs\nঘ) \\(6\\) pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "abbf1a04-08ef-43fd-89ce-71be55b34f42",
+    "images": [
+      "images/54236_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, বিন্দু C, AB-এর বর্ধিতাংশের ওপর অবস্থিত এবং রেখা CD, D বিন্দুতে বৃত্ত O-এর স্পর্শক। যদি ∠C = 20° হয়, তবে ∠CDA = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "722e756a-c10c-4d0a-97e3-50dfa5dfbbd5",
+    "images": [
+      "images/12596_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে থাকা সকল ত্রিভুজের শীর্ষবিন্দুর মোট সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aacc1821-c26f-4cdd-846f-7214ac105264",
+    "images": [
+      "images/61158_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ট্রাপিজিয়াম ABCD-এর কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। যদি △AOD এবং △ACD-এর ক্ষেত্রফলের অনুপাত 1:4 হয়, তবে △AOD এবং △BOC-এর ক্ষেত্রফলের অনুপাত কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "038e5a18-fe0b-4df1-b248-26e7e66963c6",
+    "images": [
+      "images/51609_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $l$ রেখাটি $O$ কেন্দ্রবিশিষ্ট বৃত্তের কেন্দ্র দিয়ে অতিক্রম করে এবং বৃত্তটিকে $A$ ও $B$ বিন্দুতে ছেদ করে। $C$ বিন্দুটি বৃত্তের উপর অবস্থিত এবং $\\angle AOC = 30^\\circ$। $P$ বিন্দুটি $l$ রেখার উপর একটি চলমান বিন্দু (যা $O$ বিন্দুর সাথে মিলে যায় না) এবং $CP$ রেখাটি বৃত্তকে $Q$ বিন্দুতে ছেদ করে। যদি $QP = QO$ হয়, তবে $\\angle OCP = ?$ নির্ণয় কর।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08262422-d88e-457a-b674-9930eb80e2d1",
+    "images": [
+      "images/25049_0.png"
+    ],
+    "english_question": "<image>\nএকজন ছাত্র চিত্রে দেখানো অনুসারে একটি ত্রিভুজাকার রুলার স্থাপন করে। যদি AE সমান্তরাল BC হয়, তবে ∠AFD-এর ডিগ্রি পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "560cd7ca-7d16-4c52-9b6c-c95a2fff51b6",
+    "images": [
+      "images/14418_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজের বাহুগুলোকে সমান অংশে ভাগ করে চিত্র অনুযায়ী সংযোগ করলে, 10ম চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল ও সম্পূর্ণ ত্রিভুজের ক্ষেত্রফলের অনুপাত কত হবে?\nOptions:\nc., as shown in the figure, if we connect these points, then in the 10th figure, the ratio of the area of the shaded part to the area of the entire triangle is ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4b2712ef-ff84-4c76-9722-6ccfe995c09e",
+    "images": [
+      "images/37621_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠ACB=90°, CD⊥AB, এবং BD ব্যাসবিশিষ্ট বৃত্তটি BC বাহুকে E বিন্দুতে ছেদ করে। তবে নিচের কোনটি সঠিক? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a258a8e-d254-474a-8094-481c84ee80cb",
+    "images": [
+      "images/22623_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 1 মিটার ব্যাসবিশিষ্ট একটি বৃত্তাকার টেবিল ক্লথ 1 মিটার কর্ণবিশিষ্ট একটি বর্গাকার টেবিলের ওপর বিছানো আছে। যদি টেবিলের চারপাশের ঝুলে থাকা অংশের সর্বোচ্চ দৈর্ঘ্য সমান হয়, তবে টেবিল ক্লথের ঝুলে থাকা অংশের সর্বোচ্চ দৈর্ঘ্য x কত?\n\nOptions:\nক) $\\sqrt{2}{-}1$\nখ) $\\textstyle{\\frac{\\sqrt{2}-1}{2}}$\nগ) $\\textstyle{\\frac{2-{\\sqrt{2}}}{4}}$\nঘ) 2- $\\sqrt{2}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "23a623f6-6f81-40ea-a87b-cb405ff868f8",
+    "images": [
+      "images/60592_0.png"
+    ],
+    "english_question": "<image>\nস্পিনারটি কোন রঙের ওপর থামার সম্ভাবনা কম?\n\nOptions (copied from English):\n(ক) neither; white and yellow are equally likely\n(খ) yellow\n(গ) white",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a951685-1b5f-413f-8509-270e744f7d8b",
+    "images": [
+      "images/76450_0.png"
+    ],
+    "english_question": "<image>\nলিজিয়াং নদী গুইলিনের একটি প্রধান দর্শনীয় স্থান। চিত্রে দেখানো হয়েছে, A হলো লিজিয়াং নদীর প্রধান প্রবাহ এবং B একটি উপনদী। পানির প্রবাহের দিক তীর চিহ্ন দ্বারা নির্দেশিত। প্রধান নদী ও উপনদীর প্রবাহের গতিবেগ সমান এবং স্থির পানিতে নৌকার গতিবেগও উভয় ক্ষেত্রে সমান। দেওয়া আছে AC = CD। একটি নৌকা C হয়ে A থেকে B তে যেতে 4 ঘণ্টা, C হয়ে B থেকে D তে যেতে 6 ঘণ্টা এবং C হয়ে D থেকে B তে যেতে 3 ঘণ্টা সময় নেয়। নৌকাটির C হয়ে B থেকে A তে এবং তারপর C হয়ে A থেকে D তে যেতে কত সময় লাগবে?\n\nOptions:\nক) 7\nখ) 8\nগ) 9\nঘ) 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1eb417d1-37cc-4800-bff4-26824a4d317c",
+    "images": [
+      "images/77121_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি যন্ত্রাংশের প্রস্থচ্ছেদ প্রদর্শন করছে। ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ ডেসিমিটার? (একক: ডেসিমিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

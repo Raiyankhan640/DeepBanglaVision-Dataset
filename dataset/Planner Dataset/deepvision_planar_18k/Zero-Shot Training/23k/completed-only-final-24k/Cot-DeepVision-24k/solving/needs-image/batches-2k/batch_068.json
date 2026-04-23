@@ -1,0 +1,302 @@
+[
+  {
+    "id": "606044bc-0b3a-4cee-93ca-54195c5ed6bb",
+    "images": [
+      "images/40618_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো (একক: সেমি)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "374ec065-e251-4d23-8d61-cf7a0f394bfc",
+    "images": [
+      "images/70679_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, EF হলো ত্রিভুজ ABC-এর মধ্যমা এবং D হলো BC বাহুর ওপর একটি বিন্দু (যা B বা C বিন্দুর সাথে মিলে যায় না)। AD রেখা EF-কে O বিন্দুতে ছেদ করে। AEDF চতুর্ভুজটিকে সামান্তরিক করার জন্য যে শর্তটি যোগ করতে হবে তা হলো ______। (কেবল একটি শর্ত যোগ করো)\nOptions:\nC). Line AD intersects EF at point O. To make quadrilateral AEDF a parallelogram, the condition that needs to be added is ______. (Only add one condition)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "659699c2-1aa4-4224-a878-2dd285154eca",
+    "images": [
+      "images/33712_0.png"
+    ],
+    "english_question": "<image>\nঅসমতার সিস্টেমটির সমাধান সংখ্যা রেখায় উপস্থাপন করা হলো ( )\n\nOptions:\nক) $\\xrightarrow[{0}]{\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;}$\nখ) $\\xrightarrow[0]{\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;}$\nগ) $\\underbrace{\\phantom{i}}_{0}\\,\\underbrace{\\phantom{i}}_{1}\\,\\underbrace{\\mathcal{W}}_{2}\\,$\nঘ) $\\xrightarrow[0]{\\cdot\\cdot{\\overline{{\\mathcal{W B}}}}_{1}\\quad\\cdot}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cb6f1e90-d622-4ba9-8731-dc1e0a2421da",
+    "images": [
+      "images/2594_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি ত্রিভুজাকার কাঁচ ভেঙে গেছে এবং একজন শিক্ষার্থীকে কাঁচের দোকানে ঠিক একই রকম একটি কাঁচের টুকরো নিয়ে যেতে হবে। তার কোনটি নিয়ে যাওয়া উচিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec1633ef-7558-451a-8117-db104078a6c0",
+    "images": [
+      "images/23388_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কার্তেসীয় স্থানাঙ্ক ব্যবস্থায় ABCD একটি আয়তাকার কাগজ। কাগজটিকে AC বরাবর ভাঁজ করা হলে B বিন্দুটি E বিন্দুতে পৌঁছায়। A বিন্দুর স্থানাঙ্ক (0, a) এবং B বিন্দুর স্থানাঙ্ক (2, a)। যদি ∠BAC = 67.5° এবং |a| > √2 হয়, তবে E বিন্দুটি কোথায় অবস্থিত?\nOptions:\na), and the coordinates of point B are (2, a). Given that ∠BAC = 67.5° and |a| > \\sqrt{2}, where is point E located?\nক) First quadrant\nখ) Second quadrant\nগ) Third quadrant\nঘ) Fourth quadrant",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "61413812-2891-4f26-99db-c57209e75578",
+    "images": [
+      "images/34595_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমকোণী ত্রিভুজ ABC-এর দুই বাহু AB এবং BC-এর অনুপাত 2:1। যদি আমরা AB এবং BC বাহুকে তাদের নিজ নিজ অক্ষের চারদিকে একবার পূর্ণ ঘূর্ণন দিই, তবে উৎপন্ন কোণকদ্বয়ের আয়তনের অনুপাত কত?\n\nOptions:\nক) 1: 2\nখ) 2: 1\nগ) 1: 4\nঘ) 4: 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69ed1ed2-8f5b-4b2f-b4da-001bf4171cea",
+    "images": [
+      "images/30763_0.png"
+    ],
+    "english_question": "<image>\nএকটি নৌকা উত্তর দিক থেকে 30° পূর্ব দিকে যাত্রা করছে। নৌকা থেকে লাইটহাউসটি কোন দিকে অবস্থিত?\n\nOptions:\nক) Southwest $30^{\\circ}$\nখ) Southwest $40^{\\circ}$\nগ) Southwest $60^{\\circ}$\nঘ) Northeast $30^{\\circ}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed1a7755-a34e-4d7a-8656-f06444f89eb2",
+    "images": [
+      "images/21782_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, DE সমান্তরাল FG এবং BC, যার ফলে তিনটি জোড়া সদৃশ ত্রিভুজ উৎপন্ন হয়। এই সদৃশ ত্রিভুজ জোড়ার সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55fe7eed-128c-4e5a-9d9a-2dc2f0f87905",
+    "images": [
+      "images/37555_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। বৃত্তের ব্যাস 8 ডেসিমিটার।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "629a0891-837b-4dbc-a3ef-f214df26fc25",
+    "images": [
+      "images/3138_0.png"
+    ],
+    "english_question": "<image>\nΔABC একটি সমদ্বিবাহু সমকোণী ত্রিভুজ যেখানে AC = BC = a। অতিভুজ AB-এর উপর অবস্থিত O কেন্দ্রবিশিষ্ট একটি বৃত্ত AC ও BC বাহুকে যথাক্রমে E ও F বিন্দুতে স্পর্শ করে। বৃত্তটি AB-কে G ও H বিন্দুতে ছেদ করে। EH রেখাকে বর্ধিত করলে তা CB-এর বর্ধিতাংশকে D বিন্দুতে ছেদ করে। CD-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD) Find the length of CD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0f9c3b6d-b0f5-456e-b6e0-dcacc87abf08",
+    "images": [
+      "images/23072_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রবিশিষ্ট বৃত্তে, দেওয়া আছে DB = DA এবং ∠DOB = 58°, তাহলে ∠C = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "717c95b2-b90c-4c8e-81b0-edabe08762e9",
+    "images": [
+      "images/57060_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, কোণ α = 30° এবং β = 300°। চিত্র অনুযায়ী, যে সকল কোণের প্রান্তিক বাহু ছায়াবৃত অঞ্চলের মধ্যে (সীমানা সহ) অবস্থিত, তাদের সেটটি রেডিয়ানে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "327fda6b-6f0e-4fe7-b32f-b1536a3dc668",
+    "images": [
+      "images/6201_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমস্যাটিতে, দুটি সমতল দর্পণ α এবং β এর মধ্যবর্তী কোণ 60°। আপতিত আলোক রশ্মি AO, β এর সমান্তরাল এবং α দর্পণে আপতিত হয়। দুটি প্রতিফলনের পর, প্রতিফলিত রশ্মি O'B, α এর সমান্তরাল হয়। ∠1 এর মান কত ডিগ্রি?\n\nOptions:\nক) 60°\nখ) 45°\nগ) 30°\nঘ) 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7554f70e-d71c-4950-9cce-818583b3ea3a",
+    "images": [
+      "images/6332_0.png"
+    ],
+    "english_question": "<image>\nবর্গক্ষেত্র OABC-এর চারটি শীর্ষবিন্দু দেওয়া আছে: O(0,0), A(1,0), B(1,1), C(0,1)। ধরি, u=2xy এবং v=x^2-y^2, যা xOy সমতল থেকে uOv সমতলে একটি রূপান্তর। এই রূপান্তরের অধীনে বর্গক্ষেত্র OABC-এর আকৃতি কেমন হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d19e52a-72e5-48ea-aeae-f41593ec6205",
+    "images": [
+      "images/16376_0.png"
+    ],
+    "english_question": "<image>\nABCD-A₁B₁C₁D₁ ঘনকটিতে, P বিন্দুটি AB₁ তলের উপর এমনভাবে চলাচল করে যে এটি AB রেখা এবং B₁C₁ রেখা থেকে সমদূরবর্তী। P বিন্দুর সঞ্চারপথের আকৃতি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6c32bd5b-b4e0-431e-a8aa-5d252839fccc",
+    "images": [
+      "images/59796_0.png"
+    ],
+    "english_question": "<image>\n8 সেমি বাহুবিশিষ্ট একটি বর্গক্ষেত্র থেকে 2 সেমি বাহুবিশিষ্ট চারটি ছোট বর্গক্ষেত্র কেটে নেওয়া হলো। অবশিষ্ট আকৃতির পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aff7f0e1-7594-4923-a041-ae9a4537933f",
+    "images": [
+      "images/35529_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, একটি সোজা জাতীয় সড়কের একই পাশে A এবং C দুটি বিন্দু রয়েছে যারা পরস্পর 120 মিটার দূরে অবস্থিত। সড়ক থেকে A এবং C-এর দূরত্ব যথাক্রমে 119 মিটার এবং 47 মিটার। AC-কে কর্ণ ধরে একটি সামান্তরিক ABCD আকৃতির অস্থায়ী গুদামঘর নির্মাণের পরিকল্পনা করা হয়েছে এবং এর চারপাশের দেয়ালের মোট দৈর্ঘ্য হবে 400 মিটার। মহাসড়ক আইন এবং প্রাদেশিক মহাসড়ক ব্যবস্থাপনা বিধিমালা অনুযায়ী, ভবন থেকে রাস্তার দূরত্ব 20 মিটারের কম হওয়া যাবে না। যদি গুদামঘরটির ক্ষেত্রফল সর্বোচ্চ করতে হয়, তবে এই পরিকল্পনা কি বিধিমালা মেনে চলে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1cb413f1-78ac-4b97-8f88-49efa1c0d4e4",
+    "images": [
+      "images/3645_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তের কেন্দ্র M(0,1) এবং ব্যাসার্ধ 2 সেমি। A ও B বিন্দু দুটি x-অক্ষের উপর অবস্থিত এমনভাবে যে কেন্দ্রীয় কোণ ∠AMB = 120°, এবং C বিন্দুটি বৃত্ত ও y-অক্ষের ছেদবিন্দু (নিচের দিকে)। D বিন্দুটি জ্যা AB-এর বিপরীত দিকের অধিচাপে অবস্থিত একটি চলমান বিন্দু। চতুর্ভুজ ACBD-এর সর্বোচ্চ ক্ষেত্রফল নির্ণয় করো।\nOptions:\nB) Find the maximum area of quadrilateral ACBD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3e3d0ef-6940-46ff-b3a9-09b067f9702a",
+    "images": [
+      "images/46007_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, α-AB-β দ্বিতল কোণটির একটি সূক্ষ্ম সমতল কোণ রয়েছে। C হলো α সমতলের একটি বিন্দু (যা AB রেখায় অবস্থিত নয়), D হলো β সমতলের ওপর C বিন্দুর লম্ব অভিক্ষেপ এবং E হলো AB রেখার ওপর যেকোনো একটি বিন্দু যাতে ∠CEB একটি সূক্ষ্ম কোণ হয়। তবে নিচের কোনটি সঠিক? ( ) \nক. ∠CEB > ∠DEB \nখ. ∠CEB = ∠DEB \nগ. ∠CEB < ∠DEB \nঘ. ∠CEB এবং ∠DEB এর মধ্যে সম্পর্ক নির্ণয় করা সম্ভব নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3eb1dd9b-5c31-4303-a309-442157dd93d9",
+    "images": [
+      "images/69915_0.png"
+    ],
+    "english_question": "<image>\nএকটি ল্যান্ডস্কেপিং কোম্পানি O কেন্দ্র এবং R ব্যাসার্ধবিশিষ্ট একটি অর্ধবৃত্তাকার এলাকায় ফুল, ঘাস এবং গাছ লাগানোর পরিকল্পনা করেছে। বৃত্তচাপ CMD এলাকাটি শোভাবর্ধক নমুনার জন্য, ত্রিভুজ OCD গাছের জন্য এবং অবশিষ্ট এলাকা ঘাসের জন্য নির্ধারিত। শোভাবর্ধক নমুনার খরচ 2 টাকা/বর্গমিটার, গাছ থেকে মুনাফা 8 টাকা/বর্গমিটার এবং ঘাস থেকে মুনাফা 3 টাকা/বর্গমিটার। ধরি ∠COD = θ ∈ (0, π)। মোট মুনাফা সর্বোচ্চ করে এমন θ-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

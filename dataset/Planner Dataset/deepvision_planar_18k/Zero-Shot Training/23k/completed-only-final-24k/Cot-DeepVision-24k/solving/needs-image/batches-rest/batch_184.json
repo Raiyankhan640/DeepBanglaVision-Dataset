@@ -1,0 +1,302 @@
+[
+  {
+    "id": "97979b41-a8c1-480a-b5f1-326af5c4d4ff",
+    "images": [
+      "images/6031_0.png"
+    ],
+    "english_question": "<image>\nযদি চিত্রটি একটি সমীকরণকে যাচাই করে, তবে সমীকরণটি হলো ( )\n\nOptions:\nক) $a^2 - b^2 = (a + b)(a - b)$\nখ) $(a - b)^2 = a^2 - 2ab + b^2$\nগ) $(a + b)^2 = a^2 + 2ab + b^2$\nঘ) $(a + 2b)(a - b) = a^2 + ab - 2b^2$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad57cd5f-59c3-4f2d-853a-a7e1b2446f07",
+    "images": [
+      "images/56131_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য (একক: সেমি) দেওয়া আছে, যেখানে বাম দিকের দৃশ্যটি 2 সেমি বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজ। বস্তুটির আয়তন নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f9469747-3bc0-41c5-b819-977bcb1a86a0",
+    "images": [
+      "images/15064_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, বর্গক্ষেত্রটির ক্ষেত্রফল 8 বর্গ সেন্টিমিটার। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7da54d5-21c7-45d3-bf2c-273c77520c31",
+    "images": [
+      "images/26085_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, তাই'আন গণসরকারের 'জীবনের চেয়ে ছবি গুরুত্বপূর্ণ' আহ্বানে সাড়া দিয়ে, একটি 30 মিটার দৈর্ঘ্যের প্রচারমূলক ব্যানার A ভবন থেকে E বিন্দু পর্যন্ত ঝোলানো হয়েছে। B ভবনের শীর্ষবিন্দু D থেকে ব্যানারের শীর্ষবিন্দু A-এর উন্নতি কোণ 45 ডিগ্রি এবং ব্যানারের নিম্নবিন্দু E-এর অবনতি কোণ 30 ডিগ্রি। ভবন দুটির মধ্যবর্তী অনুভূমিক দূরত্ব BC নির্ণয় করো, যেখানে সরাসরি পৌঁছানো সম্ভব নয়।\nOptions:\nA) At the top point D of building B, the angle of elevation to the top point A of the banner is 45 degrees, and the angle of depression to the bottom point E of the banner is 30 degrees. Find the horizontal distance BC between the two buildings that cannot be directly reached.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37b4c443-d81a-4dba-aba3-72eee4feada2",
+    "images": [
+      "images/5172_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি 4×4 গ্রিডে ধরি ∠ABD=α, ∠DEF=β, ∠CGH=γ হলে নিচের সম্পর্কগুলোর মধ্যে কোনটি সঠিক? ( )\nক. β < α < γ\nখ. β < γ < α\nগ. α < γ < β\nঘ. α < β < γ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4e5e20e0-b19e-441b-9073-86d2fba995e1",
+    "images": [
+      "images/47150_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ △ABC-এ, ∠ACB=60°, ∠BAC=75°, AD লম্ব BC বিন্দু D-তে, BE লম্ব AC বিন্দু E-তে, এবং AD ও BE রেখাদ্বয় H বিন্দুতে ছেদ করে। ∠CHD কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ffeb9b8b-cecb-4911-8524-39e6552f05f4",
+    "images": [
+      "images/69433_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র ABCD-এ AB = 3 সে.মি. এবং AD = 9 সে.মি.। যদি এই আয়তক্ষেত্রকে কর্ণ BD বরাবর ভাঁজ করা হয় যাতে বিন্দু B, বিন্দু D-এ পড়ে এবং ভাঁজ EF হয়, তবে ত্রিভুজ ABE-এর ক্ষেত্রফল কত? ক. 6 সে.মি.² খ. 8 সে.মি.² গ. 10 সে.মি.² ঘ. 12 সে.মি.²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3712e399-d521-45ea-85b5-d18a13717662",
+    "images": [
+      "images/44462_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 2 একক বাহুবিশিষ্ট বর্গক্ষেত্র ABCD-তে, AE রেখাংশ ∠DAC-কে সমদ্বিখণ্ডিত করে। AE রেখাংশ CD-কে F বিন্দুতে ছেদ করে। CE ⊥ AE (যেখানে E পাদবিন্দু) এবং EG ⊥ CD (যেখানে G পাদবিন্দু)। H বিন্দুটি BC বাহুর উপর অবস্থিত এবং BH = DF। AH এবং FH যোগ করি, FH রেখাংশ AC-কে M বিন্দুতে ছেদ করে। নিচের সিদ্ধান্তগুলো দেওয়া হলো: 1. FH = 2BH; 2. AC ⊥ FH; 3. S△ACF = 1; 4. CE = (1 বা 2)AF; 5. EG² = FG • DG। কয়টি সিদ্ধান্ত সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "403336f0-fca0-4bee-9f31-f57511c36b8a",
+    "images": [
+      "images/51565_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এর বিন্যাস প্যাটার্নের ওপর ভিত্তি করে, চিত্র 2 থেকে সেই চিত্রটি নির্বাচন করো যা '?' চিহ্নিত স্থানে গ্রিডটিকে সঠিকভাবে পূর্ণ করে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "298e101f-a415-4d52-bcd7-561919efa209",
+    "images": [
+      "images/72688_0.png"
+    ],
+    "english_question": "<image>\nযদি লোহার তার দিয়ে নিচের মতো একটি সমান্তরিক ঘেরা হয়, তবে সর্বনিম্ন কত দৈর্ঘ্যের তার লাগবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a39da54e-8e8a-4549-888f-69a6666b659f",
+    "images": [
+      "images/64580_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমকোণী ট্রাপিজিয়াম OABC-এর সমকোণটি মূলবিন্দুতে অবস্থিত। OA এবং OC বাহুদ্বয় যথাক্রমে x-অক্ষ ও y-অক্ষের ধনাত্মক দিকে অবস্থিত। OA সমান্তরাল BC, এবং D হলো BC-এর ওপর একটি বিন্দু যেখানে BD = 1/4 OA = √2, AB = 3 এবং ∠OAB = 45°। E এবং F বিন্দু দুটি যথাক্রমে OA এবং AB বাহুর ওপর চলমান বিন্দু এবং তারা সর্বদা ∠DEF = 45° বজায় রাখে। ধরি, OE = x এবং AF = y। y এবং x-এর মধ্যে ফাংশনাল সম্পর্কটি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "03dd4be3-3fc4-4c0c-a4ce-996e853f0dc3",
+    "images": [
+      "images/54998_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত দাবা বোর্ডের গ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য সমান। ঘোড়া (Knight) 'L' আকৃতিতে চলে (এক দিকে দুই ঘর এবং লম্বভাবে এক ঘর)। ঘোড়াটি কোন চিহ্নিত অবস্থানে (①, ②, ③, বা ④) বসলে রুক (Rook), কামান (Cannon) এবং ঘোড়া দ্বারা গঠিত ত্রিভুজটি জেনারেল (General), মিনিস্টার (Minister) এবং সোলজার (Soldier) দ্বারা গঠিত ত্রিভুজের সদৃশ হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f41e983f-344c-4358-a958-3545e58522a7",
+    "images": [
+      "images/67_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি কালো বাক্সের BC বাহুতে একটি ছোট ছিদ্র P খোলা আছে, যার AD এবং DC বাহু দুটি সমতল দর্পণ হিসেবে কাজ করে। যখন একজন পর্যবেক্ষক BC এর সমান্তরালে বাইরে দিয়ে হাঁটেন, তখন তিনি ছোট ছিদ্র P এর মধ্য দিয়ে আলোক উৎস S থেকে নির্গত আলো কতবার দেখতে পাবেন?\n\nOptions:\nক) 1 time\nখ) 2 times\nগ) 3 times\nঘ) 4 times",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc1f81ca-5415-43a0-b38e-8ab0cd9de9df",
+    "images": [
+      "images/15453_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে ট্রাপিজিয়ামের সংখ্যা কত? ( ) \nক. 7 \nখ. 8 \nগ. 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c34cda5f-c8e6-4b30-b9fb-750ed6801230",
+    "images": [
+      "images/23377_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্ত O-এর ব্যাস 2, বিন্দু A ব্যাসের বর্ধিতাংশের ওপর এমনভাবে অবস্থিত যে OA = 2, এবং বিন্দু B অর্ধবৃত্তের ওপর যেকোনো একটি বিন্দু। AB বাহুকে একটি বাহু ধরে একটি সমবাহু ত্রিভুজ ABC অঙ্কন করা হলো। ধরি, ∠AOB = α। α-এর কোন মানের জন্য OACB চতুর্ভুজের ক্ষেত্রফল সর্বোচ্চ হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8bdea8d9-3491-40db-9fc3-0bc345a05dcc",
+    "images": [
+      "images/18200_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-তে, যেখানে ∠ABC = 60° এবং AB = 4, কর্ণ AC এবং BD বিন্দু O-তে ছেদ করে। E হলো BO রেখাংশের উপর একটি চলমান বিন্দু এবং F হলো DC রশ্মির উপর একটি চলমান বিন্দু। যদি ∠AEF = 120° হয়, তবে EF রেখাংশের দৈর্ঘ্যের জন্য কতটি পূর্ণসংখ্যা মান সম্ভব?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ae827a2-0091-4c5f-992a-7f9a4e5983f1",
+    "images": [
+      "images/10523_0.png"
+    ],
+    "english_question": "<image>\nকয়েকটি অভিন্ন ছোট ঘনক দ্বারা গঠিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটি তৈরি করতে মোট কতটি ছোট ঘনক প্রয়োজন? ( )\nক. 3\nখ. 4\nগ. 5\nঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "91eb9a1d-29e7-40cf-8679-94a0528c4298",
+    "images": [
+      "images/30091_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে AB = AC, অতিভুজ BC-র ওপর D এবং E দুটি বিন্দু যেখানে ∠DAE = 45°। ত্রিভুজ ADC-কে A বিন্দুর চারপাশে ঘড়ির কাঁটার দিকে 90° ঘুরিয়ে ত্রিভুজ AFB তৈরি করা হলো। EF যোগ করলে নিচের কতটি সিদ্ধান্ত সঠিক? 1) ∠EAF = 45°; 2) EF = ED; 3) BE + DC = DE; 4) BE² + DC² = DE²।\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d5c796ca-2b12-4d46-a8a8-ea3701de8eca",
+    "images": [
+      "images/9790_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাস। যদি ∠COA = ∠DOB = 60° হয়, তবে AO রেখাংশের সমান দৈর্ঘ্যের কয়টি রেখাংশ আছে?\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ff8e9d2-80b9-452f-8eab-5bafe2319c8b",
+    "images": [
+      "images/43567_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 40 মিটার। ব্যক্তি 'ক' বিন্দু A থেকে যাত্রা শুরু করে A-D-C-B অভিমুখে 30 মি./মি. বেগে চলে এবং ব্যক্তি 'খ' বিন্দু B থেকে যাত্রা শুরু করে B-A-D-C অভিমুখে 50 মি./মি. বেগে চলে। প্রতিবার শীর্ষবিন্দু অতিক্রম করার সময় তারা 6 সেকেন্ড করে বিরতি নেয়। ব্যক্তি 'খ' যাত্রা শুরুর কত সময় পর সে ব্যক্তি 'ক'-কে ধরে ফেলবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

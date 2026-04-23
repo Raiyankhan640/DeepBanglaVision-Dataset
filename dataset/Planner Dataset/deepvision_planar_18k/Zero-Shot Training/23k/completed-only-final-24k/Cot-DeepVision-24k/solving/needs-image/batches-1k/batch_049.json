@@ -1,0 +1,302 @@
+[
+  {
+    "id": "d0c046fd-65d1-49b6-a378-192a0f651e1d",
+    "images": [
+      "images/33090_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের আকৃতিগুলো পর্যবেক্ষণ করো: এগুলো একটি নির্দিষ্ট প্যাটার্ন অনুযায়ী সাজানো আছে। এই প্যাটার্ন অনুযায়ী, n-তম আকৃতিতে কয়টি তারা আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "30aa45c1-e1fd-43f1-a2a3-f60d6f919a9d",
+    "images": [
+      "images/62088_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, শুধুমাত্র স্থানান্তর (translation) প্রক্রিয়ার মাধ্যমে কয়টি আকৃতি পাওয়া সম্ভব?\n\nOptions:\nক) 1 shape\nখ) 2 shapes\nগ) 3 shapes\nঘ) 4 shapes",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ee8c4bf-290c-485d-bf38-3054dd1556c3",
+    "images": [
+      "images/38452_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজটির ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc48d6d3-85e0-4880-832f-890b512f1083",
+    "images": [
+      "images/triangle_ext_dc48d6d3-85e0-4880-832f-890b512f1083.png"
+    ],
+    "english_question": "<image>\n$A B C D - A_{1} B_{1} C_{1} D_{1}$ ঘনকটিতে, বিন্দু $E$ হলো $C C_{1}$ ধারের ওপর একটি চলমান বিন্দু। $B E D_{1}$ তলটি $A A_{1}$ ধারকে $F$ বিন্দুতে ছেদ করে। নিচের কোন বিবৃতিটি মিথ্যা?\nক. এমন একটি বিন্দু $E$ আছে যাতে $A_{1}C_{1} \\parallel$ তল $B E D_{1} F$ হয়\nখ. এমন একটি বিন্দু $E$ আছে যাতে $B_{1}D \\perp$ তল $B E D_{1} F$ হয়\nগ. যেকোনো বিন্দু $E$-এর জন্য, তল $A_{1}C_{1}D \\perp$ তল $B E D_{1} F$ হয়\nঘ. যেকোনো বিন্দু $E$-এর জন্য, চতুস্তলক $B_{1} - B E D_{1} F$-এর আয়তন অপরিবর্তিত থাকে",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f0482bf5-5895-43d7-b18c-9272e203eb16",
+    "images": [
+      "images/58855_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 3×3 বর্গাকার গ্রিডে, দুটি ছোট বর্গ ইতিমধ্যে কালো রঙ করা হয়েছে। যদি আমরা অবশিষ্ট ছোট বর্গগুলোর মধ্যে একটিকে কালো রঙ করি, তবে কত উপায়ে একটি প্রতিসম (symmetric) নকশা তৈরি করা সম্ভব?\n\nOptions:\nক) 3 ways\nখ) 4 ways\nগ) 5 ways\nঘ) 6 ways",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f2e0ca3d-bddd-4910-9da5-64ec85af61b5",
+    "images": [
+      "images/13714_0.png"
+    ],
+    "english_question": "<image>\n13 সেমি², 29 সেমি² এবং 34 সেমি² ক্ষেত্রফলবিশিষ্ট তিনটি বর্গক্ষেত্র এমনভাবে সাজানো হয়েছে যে প্রতিটি ত্রিভুজ ABC এর একটি বাহুর সাথে যুক্ত। ত্রিভুজ ABC এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nC) Find the area of triangle ABC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c606bb3b-60c4-4775-9d64-18215e50cae1",
+    "images": [
+      "images/27549_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমুদ্রপৃষ্ঠে দুটি যুদ্ধজাহাজের অবস্থান A এবং B বিন্দুতে। A বিন্দু থেকে পরিমাপকৃত B-এর দিক কোনটি ( )\n\nOptions:\nক) South East 30°\nখ) South East 60°\nগ) North West 30°\nঘ) North West 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "453e9ca3-44ce-4efa-ad41-aea066dfade7",
+    "images": [
+      "images/71533_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015 শরৎ • পিংটুং কাউন্টি স্কুল লেভেল মিডটার্ম), সেক্টর OAB-এর শীর্ষবিন্দুকে মূলবিন্দু এবং ব্যাসার্ধ OB-কে x-অক্ষ ধরে একটি কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করা হলো। বিন্দু B-এর স্থানাঙ্ক (4, 0)। যদি পরাবৃত্তটি y = 1/4x^2 + k হয় এবং এটি সেক্টর OAB-এর সীমানার সাথে দুটি বিন্দুতে ছেদ করে, তবে বাস্তব সংখ্যা k-এর সীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9896d4fa-72eb-4543-926e-c4b4d5443f61",
+    "images": [
+      "images/67072_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, R ব্যাসার্ধের একটি সিলিন্ডারকে একটি তল দ্বারা ছেদ করা হয়েছে যা ভূমির সাথে θ কোণ (যেখানে 0° < θ < 90°) উৎপন্ন করে। এই ছেদটি একটি উপবৃত্ত। যখন θ = 30°, তখন এই উপবৃত্তের উৎকেন্দ্রিকতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "82266445-d39b-49c5-9887-ff1b577112b3",
+    "images": [
+      "images/40512_0.png"
+    ],
+    "english_question": "<image>\nপ্রদর্শিত চিত্রটি একটি আয়তক্ষেত্রকে ঘড়ির কাঁটার দিকে 90° ঘুরিয়ে তৈরি করা হয়েছে। নিচের কোন বিকল্পটি সঠিক?\nক. (1) (4)\nখ. (2) (3)\nগ. (1) (2)\nঘ. (2) (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1ee0e904-5843-4171-80f1-5b559a968fc8",
+    "images": [
+      "images/15776_0.png"
+    ],
+    "english_question": "<image>\nচারটি অভিন্ন ছোট আয়তাকার কার্ড (চিত্র 1-এ দেখানো হয়েছে) একটি আয়তাকার বাক্সের নিচে (যার দৈর্ঘ্য m সেমি এবং প্রস্থ n সেমি) কোনোটি যেন অন্যটির ওপর না পড়ে সেভাবে রাখা হলো (চিত্র 2-এ দেখানো হয়েছে)। বাক্সের নিচের অনাবৃত অংশটি ছায়াযুক্ত অঞ্চল দ্বারা নির্দেশিত। চিত্র 2-এ প্রদর্শিত দুটি ছায়াযুক্ত অঞ্চলের মোট পরিসীমা কত?\n\nOptions:\nক) 4 m cm\nখ) 4 n cm\nগ) 2 (m+n) cm\nঘ) 4 (m-n) cm",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "40745b07-35b7-4044-8b86-6c100612604a",
+    "images": [
+      "images/12917_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি শঙ্কুর ছিন্নকের অক্ষীয় ছেদ চিত্রে প্রদর্শিত হয়, তবে এর পার্শ্বতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 6\nখ) 6π\nগ) 3\\frac{5}{1}π\nঘ) 6\\frac{5}{1}π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "174e2da0-0625-4110-a195-8ecf66e69b99",
+    "images": [
+      "images/4526_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "179c95de-2cc7-4e22-bf55-3fd95d2915fe",
+    "images": [
+      "images/65581_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনগুলো অক্ষীয় প্রতিসম (axisymmetric) আকৃতি? ( )\n\nOptions:\nক) ①③\nখ) ②③\nগ) ①④\nঘ) ②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "59c11f6f-16c9-412c-92bb-58a3b570f2b8",
+    "images": [
+      "images/36824_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন কোণের সম্পর্কটি দিয়ে a এবং b রেখাদ্বয় সমান্তরাল তা নির্ধারণ করা যায় না? \nA ∠1=∠3 \nB ∠1=∠2 \nC ∠2=∠3 \nD ∠3=∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4556e31e-bc2b-4546-94e9-9361ee797e7f",
+    "images": [
+      "images/76705_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চিত্র অনুযায়ী, দেওয়া আছে ∠4 = 30°। ∠3 এর পরিমাপ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e5ccf56-e247-431f-8430-d3229d59ce0e",
+    "images": [
+      "images/59028_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠E = ∠F = 90°, ∠B = ∠C, AE = AF। নিচের সিদ্ধান্তগুলো দেওয়া হলো: 1) ∠1 = ∠2; 2) BE = CF; 3) △ACN ≌ △ABM; 4) CD = DN। নিচের কোন সিদ্ধান্তগুলো সঠিক ( )?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5d404186-bef7-4ac2-9a5d-016d598dc0bb",
+    "images": [
+      "images/23923_0.png"
+    ],
+    "english_question": "<image>\nযদি l₁, l₂, এবং l₃ রেখাগুলোর ঢাল যথাক্রমে k₁, k₂, এবং k₃ হয়, তবে নিচের কোনটি সঠিক? ( )\n\nOptions:\nক) k<sub>2</sub> < k<sub>1</sub> < k<sub>3</sub>\nখ) k<sub>3</sub> < k<sub>2</sub> < k<sub>1</sub>\nগ) k<sub>2</sub> < k<sub>3</sub> < k<sub>1</sub>\nঘ) k<sub>1</sub> < k<sub>3</sub> < k<sub>2</sub>",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3672782e-dbf8-4506-85ed-beaaf7e22cc0",
+    "images": [
+      "images/9799_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক বস্তুটির তিনটি অভিক্ষেপই হলো 2 ব্যাসার্ধ এবং π/2 কেন্দ্রীয় কোণবিশিষ্ট বৃত্তকলা। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) 4π\nখ) 5π\nগ) 6π\nঘ) 7π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6b1635b-1020-40a2-948c-a0e6c217518c",
+    "images": [
+      "images/triangle_ext_c6b1635b-1020-40a2-948c-a0e6c217518c.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কত?\nক. $\\frac{1}{2}$\nখ. $\\frac{1}{3}$\nগ. $\\frac{1}{4}$\nঘ. $\\frac{1}{6}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "4321986f-ad4c-44eb-b36a-37e7644b5eab",
+    "images": [
+      "images/18188_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমদ্বিবাহু সমকোণী ত্রিভুজ \\( \\triangle ABC \\)-কে অতিভুজ \\( BC \\)-এর বরাবর স্থানান্তর করে \\( \\triangle A_1B_1C_1 \\) পাওয়া গেল। যদি \\( AB = 3 \\) হয় এবং চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল 2 হয়, তবে \\( BB_1 = ______ \\)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eab0c772-cabe-44d5-b03b-19475ec03ce5",
+    "images": [
+      "images/48174_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A বৃত্ত O-এর বাইরের একটি বিন্দু, রেখা OA বৃত্ত O-কে P বিন্দুতে ছেদ করে এবং AB হলো B বিন্দুতে বৃত্ত O-এর একটি স্পর্শক। দেওয়া আছে, AP = 5 সেমি এবং AB = 5√3 সেমি। ক্ষুদ্র চাপ BP এবং রেখা AB ও AP দ্বারা আবদ্ধ অঞ্চলের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nB) Given that AP = 5 cm and AB = 5√3 cm, find the area of the region enclosed by the minor arc BP and lines AB and AP.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f47fa1bd-c753-42fe-add0-ee2ec3cd2d35",
+    "images": [
+      "images/6127_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 এবং ∠2 হলো ( )\n\nOptions (copied from English):\nক. Same-side interior angles\nখ. Alternate interior angles\nCorresponding angles\nঘ. None of the above",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d69b05be-ef54-4321-aa56-018b37d29f92",
+    "images": [
+      "images/17111_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠ADE = 60°, ∠1 = 30° দেওয়া আছে। BE সমান্তরাল DF প্রমাণ করার জন্য \"একান্তর কোণ সমান হলে রেখাদ্বয় সমান্তরাল হয়\" এই শর্তটি ব্যবহার করতে একটি অতিরিক্ত শর্ত যোগ করো। তোমার যোগ করা শর্তটি হলো ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b092bde4-5736-46a5-bac8-ce29e3c1b052",
+    "images": [
+      "images/2903_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপায়ে, যদি AB = CD এবং ∠ABD = ∠CDB হয়, তবে চিত্রে সর্বসম ত্রিভুজের সংখ্যা কতটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f6ed7bf-ca56-40a6-8111-5334cb1ab70a",
+    "images": [
+      "images/38952_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সমান ব্যাসার্ধের দুটি সমকোণী চতুর্থাংশ বৃত্ত আছে, যাদের কেন্দ্র একে অপরের চাপের উপর অবস্থিত। ব্যাসার্ধ AE ও CF বিন্দু G-এ ছেদ করে এবং ব্যাসার্ধ BE ও CD বিন্দু H-এ ছেদ করে। বিন্দু C, চাপ AB-এর মধ্যবিন্দু। যদি চতুর্থাংশ বৃত্তের ব্যাসার্ধ 2 হয়, তবে চিত্রে ছায়াযুক্ত অংশের ক্ষেত্রফল কত?\nOptions:\nB) If the radius of the sectors is 2, what is the area of the shaded part in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2ff2241c-96fa-4b22-a899-1d9f952af750",
+    "images": [
+      "images/6695_0.png"
+    ],
+    "english_question": "<image>\n3×3 বর্গাকার গ্রিডে চিত্রে দেখানো অনুযায়ী দুটি ছোট বর্গক্ষেত্র ইতিমধ্যেই কালো রঙ করা হয়েছে। যদি আমরা অবশিষ্ট ছোট বর্গক্ষেত্রগুলোর মধ্যে থেকে একটিকে দৈবভাবে কালো রঙ করি, তবে পুরো প্যাটার্নটি একটি প্রতিসম চিত্র (symmetric figure) হওয়ার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b185bf35-7726-4719-a3b1-d96cd37d446c",
+    "images": [
+      "images/triangle_ext_b185bf35-7726-4719-a3b1-d96cd37d446c.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি কোণের সম্মুখ দৃশ্য দেওয়া আছে। কোণের পার্শ্বতলের বিস্তৃতির কেন্দ্রীয় কোণের পরিমাপ কত?\nক. 60°\nখ. 90°\nগ. 120°\nঘ. 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd3c7605-488c-486f-8003-0f9a5e626936",
+    "images": [
+      "images/42605_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো নিয়মিত ষড়ভুজাকার পিরামিডের বাম দৃশ্য (একক: সে.মি.) দেওয়া আছে। এই নিয়মিত ষড়ভুজাকার পিরামিডের আয়তন কত ঘন সে.মি.?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4b582184-7a53-4f66-b05f-57a751d55a47",
+    "images": [
+      "images/845_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $y=-x+b$ রেখাটি $y= \\frac{1}{x}$ ($x>0$ এর জন্য) পরাবৃত্তকে A ও B বিন্দুতে ছেদ করে, x-অক্ষ ও y-অক্ষকে যথাক্রমে E ও F বিন্দুতে ছেদ করে। AC, x-অক্ষের উপর লম্ব এবং BD, y-অক্ষের উপর লম্ব। যখন $b=$ কত হলে, ত্রিভুজ ACE, BDF এবং ABO এর ক্ষেত্রফলের সমষ্টি ত্রিভুজ EFO এর ক্ষেত্রফলের $\\frac{3}{4}$ অংশ হবে?\nOptions:\nD) When $b=$, the sum of the areas of triangles ACE, BDF, and ABO equals $\\frac{3}{4}$ of the area of triangle EFO.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d346e074-bb3d-443e-b260-e6753500d3fa",
+    "images": [
+      "images/66511_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রুলার এবং ত্রিভুজাকার রুলারটি লক্ষ্য করো। যদি ∠1 = 45° হয়, তবে ∠2 = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c1d580c0-e8cd-4250-aa4b-50e0eb3c2018",
+    "images": [
+      "images/18616_0.png"
+    ],
+    "english_question": "<image>\nএখানে মোট কয়টি ট্রাপিজিয়াম আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35350e92-843e-4382-a49b-e734dc872b97",
+    "images": [
+      "images/36126_0.png"
+    ],
+    "english_question": "<image>\nশিক্ষার্থী শিয়াও কে তার জ্ঞানকে গভীর করার জন্য হাতে-কলমে কাজ করতে পছন্দ করে। ছেদক এবং সমান্তরাল রেখা সম্পর্কে জানার পর, সে অনুসন্ধান শুরু করল: চিত্রে দেখানো হয়েছে, আয়তাকার কাগজের দুটি সংলগ্ন কোণ ড্যাশ রেখা বরাবর কেটে ফেলার পর, ∠1 = 115° এবং AB ⊥ CB, তাহলে ∠2 এর মান কত? তাকে এটি গণনা করতে সাহায্য করুন।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "094c1cf9-9f26-4eba-8ef6-be73be9d9bf0",
+    "images": [
+      "images/32592_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত: a বাহুবিশিষ্ট একটি বর্গাকার কার্ডবোর্ড থেকে তৈরি একটি ট্যাংগ্রাম ব্যবহার করে একটি সেতু তৈরি করা হয়েছে। সেতুর ছায়াযুক্ত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7cd7971e-5bcb-4df9-9f5d-045f79a2bacc",
+    "images": [
+      "images/70750_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি ত্রিভুজাকার বোর্ডকে এমনভাবে রাখা হয়েছে যেন তাদের সমকোণীয় শীর্ষবিন্দু দুটি একই বিন্দুতে মিলিত হয়। যদি ∠1 = 40° হয়, তবে ∠2 এর মান কত ডিগ্রি?\n\nOptions:\nক) 60°\nখ) 50°\nগ) 40°\nঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f9b7498-0525-45a3-acf7-df2cb2a1f77f",
+    "images": [
+      "images/40375_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, B বিন্দুটি A বিন্দুর সাপেক্ষে দক্ষিণ-পূর্ব ______° দিকে অবস্থিত।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be3d18b0-4415-4f1c-a61d-ae8a26db3bfe",
+    "images": [
+      "images/10814_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে AB = AC, AD = AE এবং ∠1 = ∠2। CE কি BD-এর সমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f04bd0af-cbab-4bed-8fec-315b517313fc",
+    "images": [
+      "images/38750_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি জ্যামিতিক বস্তুর সম্মুখ দৃশ্য (main view), পার্শ্ব দৃশ্য (left view) এবং ওপরের দৃশ্য (top view) যথাক্রমে একটি সমবাহু ত্রিভুজ, একটি সমদ্বিবাহু ত্রিভুজ এবং একটি রম্বস। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) $4 \\sqrt { 3 }$\nখ) 4\nগ) $2 \\sqrt { 3 }$\nঘ) 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "693ef5b4-9aae-4350-af08-b679bbe53d57",
+    "images": [
+      "images/48876_0.png"
+    ],
+    "english_question": "<image>\nচারটি ছোট প্রাণী আসন পরিবর্তন করছে। শুরুতে ইঁদুর, বানর, খরগোশ এবং বিড়াল যথাক্রমে 1, 2, 3 এবং 4 অবস্থানে বসে আছে। প্রথম অদলবদলে সম্মুখ ও পেছনের সারির প্রাণীরা স্থান পরিবর্তন করে এবং দ্বিতীয় অদলবদলে বাম ও ডান কলামের প্রাণীরা স্থান পরিবর্তন করে। এই পর্যায়ক্রমিক প্রক্রিয়া চলতে থাকে। 202-তম অদলবদলের পর খরগোশ কোন অবস্থানে বসবে?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "101368c5-d7a3-4211-a48e-448d4ec355e9",
+    "images": [
+      "images/60342_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্রের মধ্যে কতটি চিত্রে ∠1 এবং ∠2 এক জোড়া বিপ্রতীপ কোণ গঠন করেছে? ( )\nক. 0\nখ. 1\nগ. 2\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

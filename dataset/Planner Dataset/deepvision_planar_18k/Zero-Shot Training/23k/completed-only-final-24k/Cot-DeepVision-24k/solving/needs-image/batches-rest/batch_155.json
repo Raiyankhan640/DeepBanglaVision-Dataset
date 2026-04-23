@@ -1,0 +1,302 @@
+[
+  {
+    "id": "d7372d72-90f8-4620-b5b1-b750d7654796",
+    "images": [
+      "images/57442_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, যদি ∠1 = ∠2 হয়, তবে ∠3 এর সমান কয়টি কোণ আছে?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8a80cab7-0a82-4cce-bd36-cb8b3813b2a2",
+    "images": [
+      "images/72330_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD চতুর্ভুজে, E হলো BC-এর মধ্যবিন্দু এবং ∠AEC = ∠DCE। নিচের কোন সিদ্ধান্তটি ভুল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b14955e3-0624-4379-9271-66c72234d2ad",
+    "images": [
+      "images/60352_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ, E বিন্দুটি আয়তক্ষেত্র ABCD-এর AD বাহুর ওপর অবস্থিত। P এবং Q বিন্দুদ্বয় একই সময়ে B বিন্দু থেকে যাত্রা শুরু করে। P বিন্দুটি BE → ED → DC পথ ধরে C বিন্দুতে থামে এবং Q বিন্দুটি BC পথ ধরে C বিন্দুতে থামে। উভয়ের গতিবেগ 1 সেমি/সেকেন্ড। P এবং Q যাত্রার t সেকেন্ড পর ত্রিভুজ BPQ-এর ক্ষেত্রফল y সেমি²। y এবং t-এর সম্পর্ক চিত্র 2-এ দেখানো হয়েছে (OM অংশটি একটি পরাবৃত্তের অংশ)। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① AD = BE = 5 সেমি; ② যখন 0 < t ≤ 5, y = (2/5)t²; ③ NH রেখার সমীকরণ y = -(5/2)t + 27; ④ যদি ত্রিভুজ ABE সদৃশ ত্রিভুজ QBP হয়, তবে t = 29/4 সেকেন্ড। সঠিক সিদ্ধান্তের সংখ্যা কত?\n\nOptions:\nক) 4\nখ) 3\nগ) 2\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4e0130d1-3c7f-44dd-bccd-a0ca659748bd",
+    "images": [
+      "images/12907_0.png"
+    ],
+    "english_question": "<image>\nনির্মাণাধীন স্থানে একটি সিলিন্ডার আকৃতির পানির ড্রামের জন্য একটি কাঠের কাঠামো রাখা হয়েছে (চিত্র 1-এ দেখানো হয়েছে)। কাঠের তক্তাগুলোর পুরুত্ব উপেক্ষা করলে, এর ওপরের দৃশ্য চিত্র 2-এ দেখানো হয়েছে। দেওয়া আছে যে, AD, BC-এর ওপর লম্ব এবং BC-কে সমদ্বিখণ্ডিত করে, যেখানে AD = BC = 48 সেমি। সিলিন্ডার আকৃতির পানির ড্রামের নিচের তলের ব্যাসার্ধের সর্বোচ্চ মান কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "90113abb-3a0b-4e16-ace5-8a2f5c65b032",
+    "images": [
+      "images/57149_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনটি সঠিক উপস্থাপন? ( ) \nক. ①② \nখ. ②④ \nগ. ③④ \nঘ. ①④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ff0393d8-6394-4b3c-bdf2-35b1e5330dad",
+    "images": [
+      "images/40065_0.png"
+    ],
+    "english_question": "<image>\nমনোরম এলাকা OABC একটি পরাবৃত্তাকার অংশ OAB (y = -1/4x² + 2x, x ∈ [0, 6]) এবং একটি রৈখিক অংশ BC (y = -3/4x + 15/2, x ∈ [6, 10]) দ্বারা গঠিত। নদী OC (x-অক্ষ) এবং মনোরম এলাকার মাঝে একটি আয়তাকার সবুজ বেষ্টনী MNPQ তৈরি করা হলো, যেখানে P বিন্দুটি BC রেখাংশের ওপর অবস্থিত। সবুজ বেষ্টনীটির মোট দৈর্ঘ্য সর্বোচ্চ করার জন্য OM-এর দৈর্ঘ্য কত হওয়া উচিত?\nOptions:\nC) What should be the length of OM to maximize the total length of the green belt?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2fad3232-5c39-4060-900a-d9ba88f5e41b",
+    "images": [
+      "images/11550_0.png"
+    ],
+    "english_question": "<image>\n10 মিটার ব্যাসবিশিষ্ট একটি বেলনাকার তেলের ট্যাংকে কিছু তেল ভরা আছে। যদি তেলের উপরিভাগের প্রস্থ AB = 8 মিটার হয়, তবে তেলের সর্বোচ্চ গভীরতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7e92e2b-d24a-4d90-80c5-fb38a2d17b59",
+    "images": [
+      "images/8293_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর কর্ণদ্বয় AC ও BD পরস্পর O বিন্দুতে ছেদ করে। এটিকে রম্বস बनानের জন্য একটি উপযুক্ত শর্ত লিখ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2ef8cd6e-eefb-470c-8a0f-70e09589d851",
+    "images": [
+      "images/6061_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপায়ে একটি সমকোণী ত্রিভুজাকার রুলার রাখা হয়েছে। AE, BC এর সমান্তরাল হলে ∠AFD এর মান কত degree?\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52761396-da0f-4fcc-b4b3-34bbcf58b772",
+    "images": [
+      "images/40506_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত নদীটির MN এবং PQ তীর দুটি একে অপরের সমান্তরাল। PQ তীরে C, D, E ইত্যাদি বৈদ্যুতিক খুঁটির একটি সারি রয়েছে, যাদের মধ্যবর্তী দূরত্ব 50 মিটার। MN তীরের A বিন্দুতে একজন ব্যক্তি ∠DAN=38° পরিমাপ করলেন, তারপর তীর বরাবর 120 মিটার হেঁটে B বিন্দুতে পৌঁছালেন এবং ∠CBN=70° পরিমাপ করলেন। নদীর প্রস্থ CF নির্ণয় করো (ফলাফল 0.1 মি পর্যন্ত সঠিক)। দেওয়া আছে: sin 38°≈0.62, cos 38°≈0.79, tan 38°≈0.78, sin 70°≈0.94, cos 70°≈0.34, tan 70°≈2.75।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "61fdf103-484b-4add-8a49-dd1bdcd9fa9b",
+    "images": [
+      "images/triangle_ext_61fdf103-484b-4add-8a49-dd1bdcd9fa9b.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কোনটি হওয়া সম্ভব নয়?\nক. 1\nখ. 1.5\nগ. 2\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf2b2d92-9cee-412d-86dc-f01a02fa685e",
+    "images": [
+      "images/25551_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, ∠1 + ∠2 = 180°, ∠3 = 78°, তাহলে ∠4 এর মান কত? __",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5e211b90-5b34-48ee-96b2-e39876c6bd5f",
+    "images": [
+      "images/62425_0.png"
+    ],
+    "english_question": "<image>\nএকটি কুয়ার গভীরতা 9 মিটার। একজন ব্যক্তি 10 মিটার লম্বা একটি বাঁশ ব্যবহার করেন, যার এক প্রান্ত (খ) কুয়ার তলায় স্থাপন করা হয় এবং অন্য প্রান্ত (ক) কুয়ার উপরের কিনারা স্পর্শ করে। বাঁশটি কুয়া থেকে তুলে আনার পর দেখা যায় যে, পানিতে নিমজ্জিত অংশ (CB) 6 মিটার। কুয়ার পানির গভীরতা (DH) কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f9706413-5491-44cb-9172-01d85e23e698",
+    "images": [
+      "images/30836_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি সি-স (seesaw) দেখানো হয়েছে। অবলম্বন OC ভূমির সাথে লম্ব, বিন্দু O হলো অনুভূমিক বোর্ড AB-এর মধ্যবিন্দু, যা O বিন্দুর চারদিকে উপরে ও নিচে ঘুরতে পারে। যখন প্রান্ত A ভূমি স্পর্শ করে, তখন ∠OAC = 20°। সি-সটির ঘূর্ণনের সর্বোচ্চ কোণ (অর্থাৎ ∠A'OA) কত?\n\nOptions:\nক) 80°\nখ) 60°\nগ) 40°\nঘ) 20°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "66d91c00-cbe6-49a1-b98f-612974d6b759",
+    "images": [
+      "images/70035_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি বর্গক্ষেত্র এবং অর্ধবৃত্তের সমন্বয়ে গঠিত, যেখানে P হলো অর্ধবৃত্তের মধ্যবিন্দু এবং Q হলো বর্গক্ষেত্রের BC বাহুর মধ্যবিন্দু। ছায়াযুক্ত অংশের ক্ষেত্রফল কত? (π=3.14)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c50703a6-d0e9-4354-b92e-4060af1828ef",
+    "images": [
+      "images/3515_0.png"
+    ],
+    "english_question": "<image>\nযদি প্রতিটি 'মাছ' আকৃতির নকশা দেশলাই কাঠি দিয়ে তৈরি করা হয় এবং পাশাপাশি যুক্ত প্রতিটি মাছ একটি সাধারণ বাহু শেয়ার করে, এবং প্রথম মাছটি তৈরি করতে 8টি দেশলাই কাঠি লাগে, তবে 20টি যুক্ত মাছ তৈরি করতে কতগুলো দেশলাই কাঠির প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c2445151-0c46-483f-92bd-3059cf4cad6e",
+    "images": [
+      "images/74365_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, AD সমান্তরাল BC, AB = DC এবং P বিন্দুটি AD বাহুর উপর অবস্থিত। যদি AB² = AP · PD হয়, তবে চিত্রে সদৃশ ত্রিভুজের কয়টি জোড়া বিদ্যমান?\nOptions:\nD) If AB² = AP · PD, how many pairs of similar triangles are in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9c6a23ef-22cc-42ca-9975-5c67c4f01b1c",
+    "images": [
+      "images/55277_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, স্কুলের একটি আয়তাকার ফুলের বাগান আছে। কিছু শিক্ষার্থী কোণা এড়িয়ে যাওয়ার জন্য বাগানের ভেতর দিয়ে একটি 'শর্টকাট' রাস্তা ব্যবহার করেছে, যার ফলে তারা 2 মিটার কম পথ হেঁটেছে, কিন্তু তারা ফুল ও ঘাসের ক্ষতি করেছে।\nOptions:\nd. A few students took a 'shortcut' inside the flower bed to avoid the corners, and they only walked 2 meters less, but they damaged the flowers and grass.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4228bd4-0d1c-433a-9dfb-163e0dd71be2",
+    "images": [
+      "images/58277_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD রেখা l এর সাপেক্ষে প্রতিসম। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① AB ∥ CD; ② AC ⊥ BD; ③ AO = CO; ④ AB ⊥ BC। নিচের কোন সিদ্ধান্তগুলো সঠিক? \nক. ①② \nখ. ②③ \nগ. ①④ \nঘ. ②",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1605ac8c-d169-4707-ad91-820e5871462b",
+    "images": [
+      "images/66733_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, একটি পর্যবেক্ষণ বিন্দু A থেকে একটি বাড়ির ছাদ C-এর উন্নতি কোণ 45°, একটি গাছের শীর্ষ D-এর উন্নতি কোণ 60°, ∠CAD = 60°, ∠DCA = 90° এবং বাড়ির উচ্চতা BC = 6 মিটার। গাছটির উচ্চতা DE নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

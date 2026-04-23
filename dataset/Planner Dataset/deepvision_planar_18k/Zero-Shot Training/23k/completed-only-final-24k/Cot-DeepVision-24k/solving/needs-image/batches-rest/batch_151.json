@@ -1,0 +1,302 @@
+[
+  {
+    "id": "971a5586-e9be-4a3e-9625-19b67a1af4f3",
+    "images": [
+      "images/29236_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কয়টি ট্রাপিজয়েড আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "28a36fcd-db04-49a1-97c7-d720bda665aa",
+    "images": [
+      "images/27914_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উইন্ডমিল প্যাটার্নটিকে একটি সমদ্বিবাহু সমকোণী ত্রিভুজের একাধিকবার ঘূর্ণন হিসেবে বিবেচনা করা যেতে পারে। প্রতিটি ঘূর্ণনের মান কত ডিগ্রি হতে পারে?\n\nOptions:\nক) 90°\nখ) 60°\nগ) 45°\nঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "75c18459-4b70-4da0-b79e-116b7441850a",
+    "images": [
+      "images/14280_0.png"
+    ],
+    "english_question": "<image>\nযদি g(x) = \\frac{1-x}{1+x} হয়, তবে g(g(\\frac{1}{2})) = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "63d2cb59-5a39-46ed-9244-6de2ee460172",
+    "images": [
+      "images/13431_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট অর্ধবৃত্তের ব্যাস AB = 2, জ্যা CD, AB-এর সমান্তরাল এবং ∠COD = 90°। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1453a4df-4878-4da6-8102-0292ea636c59",
+    "images": [
+      "images/40899_0.png"
+    ],
+    "english_question": "<image>\nশাও হুয়া, শাও ফাং এবং শাও মিং একটি ডার্ট গেম খেলল, প্রত্যেকে 8 বার করে নিক্ষেপ করল। বিভিন্ন এলাকায় আঘাত করার স্কোর চিত্রে দেখানো হয়েছে। ছোট বৃত্তাকার এলাকাটি হলো এলাকা A, এবং ছোট বৃত্তের বাইরের কিন্তু বড় বৃত্তের ভেতরের এলাকাটি হলো এলাকা B। এলাকা A এবং এলাকা B-তে আঘাত করার স্কোর ভিন্ন। তাদের স্কোর (শাও হুয়া: 77, শাও ফাং: 75) এর ভিত্তিতে, শাও মিং-এর মোট স্কোর নির্ণয় করো।\nOptions:\nB) The scores for hitting Area A and Area B are different. Based on their scores (Xiao Hua: 77, Xiao Fang: 75), find Xiao Ming's total score.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "48b1ceda-a806-4d0d-843a-dd4020ed8f4f",
+    "images": [
+      "images/73643_0.png"
+    ],
+    "english_question": "<image>\nএকটি স্কুলের ইন্টারেস্ট গ্রুপ একটি ভবনের উচ্চতা AB পরিমাপ করতে চায়। চিত্রে দেখানো হয়েছে, ভবনের সামনে একটি ঢাল BC আছে। BC-এর দৈর্ঘ্য 12 মিটার এবং এর ঢাল i = 1 : √3। বিন্দু D থেকে, যা বিন্দু C থেকে 40 মিটার দূরে অবস্থিত, থিওডোলাইট দ্বারা ভবনের চূড়া A-এর উন্নতি কোণ 37° এবং থিওডোলাইটের উচ্চতা DE = 1.5 মিটার। ভবন AB-এর আনুমানিক উচ্চতা কত মিটার? (ফলাফল 0.1 মিটার পর্যন্ত সঠিক) (তথ্য: sin 37° ≈ 0.60, cos 37° ≈ 0.80, tan 37° ≈ 0.75, √3 ≈ 1.73)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "513f753b-7da2-4f36-a654-cbe863e8fa52",
+    "images": [
+      "images/17765_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ভবন A এবং B-এর মধ্যবর্তী দূরত্ব CD = 45 মিটার। আমাদের ভবন B-এর উচ্চতা BC পরিমাপ করতে হবে, যেখানে BC, CD-এর ওপর লম্ব। পর্যবেক্ষণ বিন্দু A ভবন A-এর একটি জানালায় অবস্থিত এবং AD || BC। বিন্দু A থেকে ভবন B-এর চূড়ার (বিন্দু খ) উন্নতি কোণ 45° এবং পাদদেশের (বিন্দু গ) অবনতি কোণ 30°। ভবন B-এর উচ্চতা নির্ণয় কর (ধরি, √3 = 1.7 এবং ফলাফল নিকটতম মিটারে প্রকাশ কর)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c832654f-10b2-4283-9005-410ec91b5d92",
+    "images": [
+      "images/11018_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে অর্ধবৃত্তের ব্যাস AB = 12। P বিন্দুটি AB-এর ওপর অবস্থিত এবং C ও D বিন্দু দুটি এই অর্ধবৃত্তকে সমান তিন ভাগে ভাগ করেছে। ছায়াঘেরা অঞ্চলের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c876e80-5af6-490f-8d65-fc5722b6f49c",
+    "images": [
+      "images/5768_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে AB = CB এবং BO, AC-এর উপর লম্ব। ত্রিভুজ ABC-কে এমনভাবে ভাঁজ করা হলো যেন AB বাহু AC-এর সাথে মিলে যায় এবং বিন্দু B, AC-এর উপর বিন্দু E-তে পতিত হয়। ভাঁজ খোলার পর, ভাঁজের রেখা AD, BO-কে বিন্দু F-এ ছেদ করে। DE এবং EF যোগ করা হলো। নিচের সিদ্ধান্তগুলো নেওয়া হলো: ① tan ∠ADB = 2 ② চিত্রে 4 জোড়া সর্বসম ত্রিভুজ আছে ③ যদি ত্রিভুজ DEF-কে EF বরাবর ভাঁজ করা হয়, তবে বিন্দু D অবশ্যই AC-এর উপর পড়বে না ④ BD = BF ⑤ চতুর্ভুজ DFOE-এর ক্ষেত্রফল ত্রিভুজ AOF-এর ক্ষেত্রফলের সমান। উপরের সিদ্ধান্তগুলোর মধ্যে কয়টি সঠিক? ( ) A 1টি B 2টি C 3টি D 4টি\nOptions:\nC) After unfolding, the crease AD intersects BO at point F. Connect DE and EF. The following conclusions are made: ① \\( \\tan \\angle ADB = 2 \\) ② There are 4 pairs of congruent triangles in the figure ③ If triangle DEF is folded along EF, point D does not necessarily fall on AC ④ \\( BD = BF \\) ⑤ The area of quadrilateral DFOE equals the area of triangle AOF. How many of the above conclusions are correct? ( ) A 1 conclusion B 2 conclusions C 3 conclusions D 4 conclusions\nA 1 conclusion\nB 2 conclusions\nC 3 conclusions\nD 4 conclusions",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9a4a6a07-6357-4bc1-a702-deaca2d3672e",
+    "images": [
+      "images/76170_0.png"
+    ],
+    "english_question": "<image>\nলি আঙ্কেল একটি দেওয়াল ব্যবহার করে একটি আয়তাকার সবজি বাগান ঘেরাও করেন (ছবিতে যেমন দেখানো হয়েছে)। বাগানটি 30 মিটার লম্বা এবং 20 মিটার চওড়া। বাঁশের বেড়ার দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "59b51338-f48b-40ba-8a5d-c2a2ba64f76b",
+    "images": [
+      "images/30160_0.png"
+    ],
+    "english_question": "<image>\nধরি, বর্গক্ষেত্র ABCD-এর বাহুর দৈর্ঘ্য a। বর্গক্ষেত্রটির বাহুগুলোর মধ্যবিন্দুসমূহ যোগ করে একটি নতুন বর্গক্ষেত্র তৈরি করা হলো। এই প্রক্রিয়ায় বর্গক্ষেত্রের একটি ধারা তৈরি হয়। একটি ছোট পোকা বিন্দু A থেকে যাত্রা শুরু করে এবং বর্গক্ষেত্রগুলোর বাহু বরাবর ঘড়ির কাঁটার বিপরীত দিকে চলতে থাকে। প্রতিবার একটি নতুন বর্গক্ষেত্রের শীর্ষবিন্দুতে পৌঁছালে, এটি সেই বর্গক্ষেত্রের বাহু বরাবর ঘড়ির কাঁটার বিপরীত দিকে চলতে থাকে। 10টি অংশ অতিক্রম করার পর, যদি এই 10টি অংশের দৈর্ঘ্যের সমষ্টি S_{10} হয়, তবে (2-\\sqrt{2})S_{10} = কত?\nক. \\frac{31a}{64}\nখ. \\frac{61a}{64}\nগ. \\frac{31a}{32}\nঘ. \\frac{61a}{128}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e3528329-adca-4640-a944-db921907365b",
+    "images": [
+      "images/15281_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015, ইংচেং সিটি দ্বিতীয় মডেল পরীক্ষা), D এবং E বিন্দু দুটি অর্ধবৃত্ত AB-এর ত্রিখণ্ডক বিন্দু। যদি AB = 2 হয়, তবে চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল কত?\nOptions:\nB) If AB = 2, what is the area of the shaded region in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f10509c-1766-42ed-8001-f549ddc5a5f7",
+    "images": [
+      "images/27871_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে A, O, E বিন্দুত্রয় সমরেখ এবং ∠AOC = ∠COE = ∠BOD = 90°, তবে ∠DOC এবং ∠AOB এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "96211288-d3c8-45d4-a14d-50745aab3192",
+    "images": [
+      "images/69375_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1 হলে, চিত্রের দুটি অনাবৃত অংশের ক্ষেত্রফলের পার্থক্য নির্ণয় করো। (π = 3.14 ধরো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1de4c6cf-fe87-4e33-a149-2287f8a0796a",
+    "images": [
+      "images/73297_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB ∥ CD ∥ EF, BC ∥ AD এবং AC হলো ∠BAD এর সমদ্বিখণ্ডক। চিত্রে ∠AOE এর সমান (∠AOE ব্যতীত) কোণের সংখ্যা কত? ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "156d1557-31b1-4650-a366-7165690603af",
+    "images": [
+      "images/7353_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-এর কোণ ∠B = 120° এবং ∠D = 50°। যদি নিচের ডানদিকের কোণটিকে ভেতরের দিকে ভাঁজ করে ত্রিভুজ PCR গঠন করা হয়, যাতে CP, AB-এর সমান্তরাল এবং RC, AD-এর সমান্তরাল হয়, তবে ∠C-এর মান কত?\n\nOptions:\nক) 105°\nখ) 100°\nগ) 95°\nঘ) 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ddbbd54-76cf-4ff2-8c8b-9a93cebd853c",
+    "images": [
+      "images/5506_0.png"
+    ],
+    "english_question": "<image>\nবড় বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 10 সেমি এবং ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 5 সেমি। নিচের চিত্রে ছায়াবৃত অংশগুলোর ক্ষেত্রফল সমান ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "779b06f9-71fe-4124-b9b8-12e27b668c90",
+    "images": [
+      "images/38271_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, MN সমান্তরাল EF, GH সমান্তরাল EF, কোণ CAB হলো 90 ডিগ্রি এবং কোণ 1 হলো 70 ডিগ্রি। কোণ ABF-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4679e0ac-a315-49cd-9fc1-d08eb7b0359f",
+    "images": [
+      "images/76724_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি ত্রিভুজাকৃতির স্কেলের সমকোণদ্বয়কে একটি বিন্দুতে স্থাপন করা হয়েছে। যদি ∠1 = 42° হয়, তবে ∠2 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b274dac6-92d2-45f1-8b61-3abddb81b918",
+    "images": [
+      "images/3534_0.png"
+    ],
+    "english_question": "<image>\n4 সেমি দৈর্ঘ্যের n সংখ্যক দিয়াশলাই কাঠি ব্যবহার করে, চিত্র 1-এ দেখানো অনুযায়ী 4 সেমি বাহুবিশিষ্ট x সংখ্যক সামান্তরিক তৈরি করা যায়। একইভাবে, চিত্র 2-এ দেখানো অনুযায়ী 4 সেমি বাহুবিশিষ্ট 2y সংখ্যক সামান্তরিক তৈরি করা যায়। তাহলে, x এর মাধ্যমে y কে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

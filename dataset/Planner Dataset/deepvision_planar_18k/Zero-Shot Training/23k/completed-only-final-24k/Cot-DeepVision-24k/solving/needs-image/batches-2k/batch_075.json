@@ -1,0 +1,342 @@
+[
+  {
+    "id": "2030734a-a966-4785-bcf0-2bd44158a206",
+    "images": [
+      "images/42295_0.png"
+    ],
+    "english_question": "<image>\nযদি AC, BD এবং EF পরস্পরকে O বিন্দুতে সমদ্বিখণ্ডিত করে, তবে চিত্রে সর্বসম ত্রিভুজের সংখ্যা হলো ___ জোড়া।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1abf1755-e81c-47b8-97e3-1f01afc4c873",
+    "images": [
+      "images/66469_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত ⊙P-এর ব্যাসার্ধ 5 এবং A ও B বৃত্তের উপর দুটি বিন্দু এমন যে AB=6। AB বাহু নিয়ে একটি বর্গক্ষেত্র ABCD অঙ্কন করা হলো (বিন্দু D এবং P রেখা AB-এর বিপরীত পাশে অবস্থিত)। যদি AB বাহু P বিন্দুর চারদিকে এক পূর্ণ আবর্তন সম্পন্ন করে, তবে CD বাহু দ্বারা অতিক্রান্ত ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "073b6bc9-c24a-45fc-9797-1e8d6369159f",
+    "images": [
+      "images/28570_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CE, ∠C = 37°, ∠A = 115°, তাহলে ∠F = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "925626c0-d8a7-446d-8aba-521abeb37c2f",
+    "images": [
+      "images/61218_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, \\(\\triangle ABC\\)-এ \\(∠A=65^{\\circ}\\) এবং \\(∠B=75^{\\circ}\\)। কাগজের একটি কোণ এমনভাবে ভাঁজ করা হয়েছে যেন বিন্দু \\(C\\), \\(\\triangle ABC\\)-এর বাইরে \\(C'\\) বিন্দুতে অবস্থান করে। যদি \\(∠2=25^{\\circ}\\) হয়, তবে \\(∠1\\)-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4dc5b3bc-9dfa-491f-8077-39044aa0048f",
+    "images": [
+      "images/345_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কাঠামোগত প্যাটার্ন অনুযায়ী 20তম চিত্রে ত্রিভুজের সংখ্যা কত? ( )\n\nOptions:\nক) 75\nখ) 77\nগ) 79\nঘ) 81",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60a758d4-176f-4eab-a2ec-453711248ae0",
+    "images": [
+      "images/triangle_ext_60a758d4-176f-4eab-a2ec-453711248ae0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজাকার পিরামিড S-ABC-তে, যেখানে SA=SB=SC=1 এবং ∠ASB=∠ASC=∠BSC=30°, একজন পিঁপড়ে বিন্দু A থেকে যাত্রা শুরু করে পিরামিডের পৃষ্ঠতলের চারপাশ ঘুরে পুনরায় বিন্দু A-তে ফিরে আসে। পিঁপড়েটির অতিক্রান্ত সংক্ষিপ্ততম দূরত্ব কত?\nOptions:\nA) What is the shortest distance the ant crawls?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "401a54da-5028-4156-bcc9-11ac4e3152d6",
+    "images": [
+      "images/66142_0.png"
+    ],
+    "english_question": "<image>\nগ্রীষ্মকালে ভারী বৃষ্টিপাতের কারণে পাহাড়ের ঢালে CD অংশে ভূমিধস হয়েছে। ভূমিধসের ঢাল CD-এর দৈর্ঘ্য পরিমাপের জন্য জরিপকারী দল একটি হট এয়ার বেলুন ব্যবহার করে। বেলুনটি C বিন্দু থেকে 120√3 মিটার দূরে E বিন্দু থেকে পর্যবেক্ষণ করা হয়। বেলুনটি উল্লম্বভাবে B বিন্দুতে উঠলে, ভূমিধসের শেষ বিন্দু C-এর অবনতি কোণ হয় 60°। বেলুনটি আরও 90 মিটার উপরে A বিন্দুতে উঠলে, ভূমিধসের শুরুর বিন্দু D-এর অবনতি কোণ হয় 45°। ভূমিধসের ঢালের কোণ ∠DCH = 30° হলে, CD-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nঘ) To measure the length of the landslide slope CD, the survey team used a hot air balloon to monitor data from point E, which is located 120√3 meters from the bottom point গ) When the hot air balloon ascended vertically to point B, the angle of depression to the endpoint C of the landslide was 60°. When the hot air balloon continued to ascend vertically for 90 meters to point A, the angle of depression to the starting point D of the landslide was 45°. Given that the slope angle of the landslide ∠DCH is 30°, find the length of the landslide slope CD (keep the square root in the calculation).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7070e0cd-e4de-47d5-abc2-c2e03fd3fe38",
+    "images": [
+      "images/59023_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে অনুভূমিক ক্ষেত্র A এবং B বেশ কিছু অভিন্ন কালো ও সাদা সমবাহু ত্রিভুজ দ্বারা গঠিত। শিয়াওমিং দৈবভাবে A এবং B উভয় ক্ষেত্রেই একটি করে বল নিক্ষেপ করল। ধরি P(ক) হলো A ক্ষেত্রে বলটি কালো ত্রিভুজে পড়ার সম্ভাবনা এবং P(খ) হলো B ক্ষেত্রে বলটি কালো ত্রিভুজে পড়ার সম্ভাবনা। নীচের কোনটি সঠিক?\nক. P(ক) > P(খ)\nখ. P(ক) = P(খ)\nগ. P(ক) < P(খ)\nঘ. P(ক) এবং P(খ)-এর মধ্যে সম্পর্ক নির্ণয় করা সম্ভব নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "84124727-1428-4978-83ad-7414cbefa74b",
+    "images": [
+      "images/48454_0.png"
+    ],
+    "english_question": "<image>\nদুটি বর্গক্ষেত্র দ্বারা গঠিত একটি চিত্র দেখানো হয়েছে। যদি চিত্রটির পরিসীমা 52 সেমি এবং DG = 4 সেমি হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf6f2eaa-30c7-4c8b-95c6-3b2eebd5ddfc",
+    "images": [
+      "images/52995_0.png"
+    ],
+    "english_question": "<image>\nদ্বিতল কোণ α - l - β = 120°। বিন্দু A ও B, প্রান্ত l-এর দুটি বিন্দু এবং রেখাংশ AC ও BD যথাক্রমে অর্ধতল α ও β-এ। AC, l-এর উপর লম্ব, BD, l-এর উপর লম্ব এবং AB = AC = BD = 1। CD-এর দৈর্ঘ্য কত? ক. √2 খ. √3 গ. 2 ঘ. √5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b29e83f9-4c87-47a5-a58d-79ef531f8f7c",
+    "images": [
+      "images/42630_0.png"
+    ],
+    "english_question": "<image>\nএকটি লোহার পাত চিত্রে প্রদর্শিত আকৃতির। যদি আমরা এই লোহার পাতের এক পাশ রঙ করতে চাই এবং প্রতি বর্গমিটারে 0.6 কেজি রঙ লাগে, তবে এই লোহার পাতটি রঙ করতে মোট কত কেজি রঙের প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3b21fc02-6ec4-489e-8d37-31f12fb1f30f",
+    "images": [
+      "images/61767_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি নদীর তীর PQ এবং MN পরস্পর সমান্তরাল। PQ তীরে A ও B বিন্দুতে দুটি বড় গাছ আছে, যেখানে AB = 30 মিটার। একজন ব্যক্তি MN তীরে একটি বিন্দু C নির্বাচন করেন, যেখানে AC, MN এর উপর লম্ব। ব্যক্তিটি C বিন্দু থেকে MN রেখা বরাবর D বিন্দুতে যান এবং ∠ADC = 30° ও ∠BDC = 60° পরিমাপ করেন। নদীর প্রস্থ নির্ণয় করো। (√3 ≈ 1.732, ফলাফল তিন সার্থক অংক পর্যন্ত)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "23fb4c5b-fcd0-4d9a-a52e-c565e3bcb9af",
+    "images": [
+      "images/28261_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l₁ এবং l₂ রেখাদ্বয় সমান্তরাল, যেখানে ∠1 = 40° এবং ∠2 = 75°। ∠3 এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1d9150ed-2e9b-4e8f-97eb-fb09c53460de",
+    "images": [
+      "images/22452_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ভবনের ওপর AB একটি পতাকা দণ্ড রয়েছে। C ও D বিন্দুতে দুইজন ব্যক্তি অবস্থান করছে, যাদের মধ্যবর্তী দূরত্ব 6 মিটার। B ও A বিন্দুর উন্নতি কোণ যথাক্রমে 42° ও 65°। C, D ও E বিন্দুত্রয় একই সরলরেখায় অবস্থিত। যদি DE = 15 মিটার হয়, তবে পতাকা দণ্ড AB-এর উচ্চতা কত মিটার? (ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করো) (তথ্য: sin 42° ≈ 0.67, tan 42° ≈ 0.9, sin 65° ≈ 0.91, tan 65° ≈ 2.1)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "93ce7dd3-9a8d-4f93-aaa9-6908529957da",
+    "images": [
+      "images/69308_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, একটি ভেড়াকে একটি সুষম পঞ্চভুজাকৃতির ভবনের একটি শীর্ষবিন্দুতে 7 মিটার লম্বা দড়ি দিয়ে বেঁধে রাখা হয়েছে। ভবনটির বাহুর দৈর্ঘ্য 3 মিটার এবং চারপাশের এলাকা ঘাসযুক্ত। ভেড়াটি কত বর্গমিটার ঘাস খেতে পারবে? (π = 3 ধরুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ec5e55c-8022-4f3b-acda-2d6843d4e8fb",
+    "images": [
+      "images/59994_0.png"
+    ],
+    "english_question": "<image>\nদুটি অভিন্ন সমান্তরাল চতুর্ভুজাকার কাগজের টুকরো চিত্র (1)-এ দেখানো হয়েছে। সমান্তরাল চতুর্ভুজাকার কাগজ ABCD কে উপরের বাহু AD বরাবর ডানদিকে স্থানান্তর করে চিত্র (2) পাওয়া যায়। দেওয়া আছে AD = 4, BC = 8 এবং ছায়াযুক্ত অংশের ক্ষেত্রফল চতুর্ভুজ A'B'CD-এর ক্ষেত্রফলের এক-তৃতীয়াংশ, চিত্র (2)-এ স্থানান্তর দূরত্ব A'A কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aae29a09-3347-424a-8bb1-d272936a7f4a",
+    "images": [
+      "images/43953_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে DB = DC এবং ∠C = 70°। AE BD-র ওপর E বিন্দুতে লম্ব হলে ∠DAE-এর পরিমাপ কত?\nক. 20°\nখ. 25°\nগ. 30°\nঘ. 35°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "39db3935-fb19-47ab-9cf9-ba82321e1c92",
+    "images": [
+      "images/36815_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: A এবং B একটি বর্গক্ষেত্রের বিপরীত শীর্ষবিন্দু। ব্যক্তি A বিন্দু A থেকে এবং ব্যক্তি B বিন্দু B থেকে একে অপরের দিকে যাত্রা শুরু করে। তারা প্রথমে C বিন্দুতে মিলিত হয়, যা A বিন্দু থেকে 80 মিটার দূরে এবং পরে D বিন্দুতে মিলিত হয়, যা B বিন্দু থেকে 60 মিটার দূরে। বর্গক্ষেত্রের বাহুর দৈর্ঘ্য কত মিটার?\nOptions:\nB) What is the length of the side of the square in meters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "47f72d6c-0dbc-4926-9b99-142ec444bdb9",
+    "images": [
+      "images/5794_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02ddc448-a4a9-45e1-a699-05974724171a",
+    "images": [
+      "images/23116_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB দালানের উচ্চতা 21 মিটার। CD অন্য একটি দালানের শীর্ষবিন্দু C থেকে AB দালানের শীর্ষবিন্দু A এর উন্নতি কোণ 45°। দালান AB এর ভূমি থেকে 1 মিটার উপরে অবস্থিত বারান্দা E এর উন্নতি কোণ 30°। দালান CD এর উচ্চতা নির্ণয় করো। (0.1 মিটারের আসন্ন মানে)\nOptions:\nD) (Approximate to 0.1 meters)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

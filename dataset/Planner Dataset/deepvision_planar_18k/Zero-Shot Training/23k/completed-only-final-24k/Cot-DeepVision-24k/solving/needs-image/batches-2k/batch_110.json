@@ -1,0 +1,302 @@
+[
+  {
+    "id": "285a434c-e3dc-4cce-8e9b-46777c6c084a",
+    "images": [
+      "images/68459_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত পরাবৃত্ত \\frac{x^2}{4} - \\frac{y^2}{12} = 1 এর জন্য, ধরি রেখা l পরাবৃত্তটিকে P এবং Q বিন্দুতে ছেদ করে, যেন \\overrightarrow{OP} \\cdot \\overrightarrow{OQ} = 0 হয়। |OP|^2 + |OQ|^2 এর সর্বনিম্ন মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2338b314-8bcc-4b74-ac6f-a8e510c98963",
+    "images": [
+      "images/47686_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি $\\odot O$ বৃত্তের ব্যাসার্ধ $5$ হয়, $\\Delta ABC$ বৃত্তে অন্তর্লিখিত এবং $BD \\perp AC$ বিন্দু $D$ তে, যেখানে $AB = 8$, তবে $\\tan \\angle CBD$ এর মান কত?\n\nOptions:\nক) $\\frac{4}{3}$\nখ) $\\frac{4}{5}$\nগ) $\\frac{3}{5}$\nঘ) $\\frac{3}{4}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8a90eda-adb5-4d98-bb4f-800866a901e2",
+    "images": [
+      "images/71813_0.png"
+    ],
+    "english_question": "<image>\nবাতাসে ঝুলন্ত একটি তারের আকৃতি y= 1/100x^2 পরাবৃত্তের মতো। 1:5 ঢালবিশিষ্ট একটি ঢালু স্থানে, 50 মিটার অনুভূমিক দূরত্বে দুটি টাওয়ার বসানো হয়েছে, যাদের উচ্চতা 20 মিটার। এমতাবস্থায়, তারের সর্বনিম্ন ঝুলে থাকা অংশ এবং ভূমির মধ্যে সর্বনিম্ন উল্লম্ব দূরত্ব কত?\n\nOptions:\nক) \\(12.75\\) meters\nখ) \\(13.75\\) meters\nগ) \\(14.75\\) meters\nঘ) \\(17.75\\) meters",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ddc5d0c-1f0b-4607-a7ba-3894ca334502",
+    "images": [
+      "images/19846_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিম্নলিখিত সিদ্ধান্তগুলো নেওয়া হয়েছে: ①∠A এবং ∠1 অনুরূপ কোণ; ②∠A এবং ∠B একই পার্শ্বস্থ অন্তঃস্থ কোণ; ③∠4 এবং ∠1 একান্তর অন্তঃস্থ কোণ; ④∠1 এবং ∠3 অনুরূপ কোণ। সঠিক বিবৃতির সংখ্যা হলো ( )\n\nOptions:\nক) \\(4\\)\nখ) \\(3\\)\nগ) \\(2\\)\nঘ) \\(1\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d498a020-e1a1-4667-983e-051d662fef35",
+    "images": [
+      "images/8435_0.png"
+    ],
+    "english_question": "<image>\nছায়াযুক্ত অঞ্চলের ক্ষেত্রফল গণনা করো। [একক: সেমি]",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b96352d5-be3d-4a5e-8d22-f816848466fb",
+    "images": [
+      "images/75980_0.png"
+    ],
+    "english_question": "<image>\nজিয়ান ই হাই স্কুলের নতুন ক্যাম্পাস নির্মাণাধীন। চিত্রে প্রদর্শিত, নির্মাণ সাইটের বিন্যাস হলো 120° কেন্দ্রীয় কোণবিশিষ্ট একটি সেক্টর AOB। নির্মাণ সাইটের দুটি প্রবেশপথ A এবং C বিন্দুতে অবস্থিত এবং দুটি সোজা পথ AD ও DC রয়েছে, যাদের দৈর্ঘ্য যথাক্রমে 300 মিটার এবং 500 মিটার, এবং DC, OB-এর সমান্তরাল। সেক্টরটির ব্যাসার্ধ OA নির্ণয় করো (1 মিটার পর্যন্ত সঠিক)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "57192709-3978-4bf7-9dc8-9d6b0f63d406",
+    "images": [
+      "images/10546_0.png"
+    ],
+    "english_question": "<image>\n10 × 10 বর্গাকার গ্রিড কাগজে, AB এবং CD রেখাংশের দৈর্ঘ্য উভয়ই 5। AB এবং CD রেখা থেকে সমদূরবর্তী গ্রিড বিন্দুর সংখ্যা কত? ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "202f0149-edc1-42af-a14f-470e5ce17e32",
+    "images": [
+      "images/26180_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, l রেখার বাইরের বিন্দু P থেকে l রেখার দূরত্ব হলো PC রেখাংশের দৈর্ঘ্য।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9439c7bb-5be5-482a-9d6d-d9bd4c673298",
+    "images": [
+      "images/56294_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিম্নলিখিত শর্তগুলো দেওয়া আছে: ①∠1=∠2; ②∠3=∠4; ③∠3+∠4=180°; ④∠1+∠2=180°; ⑤∠1+∠2=90°; ⑥∠3+∠4=90°; ⑦∠1=∠4। কোন শর্তগুলো দ্বারা l₁ || l₂ নিশ্চিত করা যায়? ( )\n\nOptions:\nক) ②④\nখ) ①②⑦\nগ) ③④\nঘ) ②③⑥",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "90453ad4-5366-4765-b84b-79b39b1d3af0",
+    "images": [
+      "images/8978_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ OAB-এ, ∠AOB = 45°, ∠OAB = 30° এবং OA = 60 সেমি। বিন্দু B থেকে OA বাহুর দূরত্ব নির্ণয় করো। (√3 ≈ 1.7 ধরে নিকটতম পূর্ণসংখ্যায় প্রকাশ করো)\nOptions:\nA) (Use $\\sqrt{3} \\approx 1.7$, round to the nearest integer)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d5a20eb8-9baa-4d58-9f4b-3ae90fc9fdd9",
+    "images": [
+      "images/36510_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, EF রেখাটি কর্ণদ্বয়ের ছেদবিন্দু O দিয়ে যায়। দেওয়া আছে AB = 3, AD = 4 এবং OF = 1.3, তবে চতুর্ভুজ ABEF-এর পরিসীমা কত?\n\nOptions:\nক) 8.3\nখ) 9.6\nগ) 12.6\nঘ) 13.6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c95ec48-688d-4001-909a-4317353f9c21",
+    "images": [
+      "images/69587_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OC, ∠AOD কে সমদ্বিখণ্ডিত করে এবং OD, ∠BOC কে সমদ্বিখণ্ডিত করে। নিচের কোন সিদ্ধান্তটি সঠিক নয়? ( )\nOptions:\nC) Which of the following conclusions is not valid? ( )\n∠AOC=∠BOD\n∠COD= \\frac {1}{2} AOB\n∠AOC= \\frac {1}{2} ∠AOD\n∠BOC=2∠BOD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ffcd0d7d-29bf-40a7-bd5c-323aff457828",
+    "images": [
+      "images/43540_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, ∠1 = 30° এবং ∠2 = 105°। ∠AOB এর মান নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "16ddc05b-10a7-47a3-8e6d-3a9157e959a1",
+    "images": [
+      "images/triangle_ext_16ddc05b-10a7-47a3-8e6d-3a9157e959a1.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, ত্রিভুজ \\(\\triangle ABC\\)-এ \\(AB=AC\\), \\(D\\) বিন্দুতে \\(BD\\perp AC\\), \\(E\\) বিন্দুতে \\(CE\\perp AB\\) এবং রেখা \\(BD\\) ও \\(CE\\), \\(O\\) বিন্দুতে ছেদ করে। \\(AO\\)-এর বর্ধিতাংশ \\(BC\\)-কে \\(F\\) বিন্দুতে ছেদ করে। তাহলে, চিত্রটিতে সর্বসম সমকোণী ত্রিভুজের জোড়ার সংখ্যা কত? ( )\nক. \\(3\\) pairs\nখ. \\(4\\) pairs\nগ. \\(5\\) pairs\nঘ. \\(6\\) pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8463c701-9e54-4a71-ad09-ae3d6475cba6",
+    "images": [
+      "images/75120_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র ABCD-তে, E বিন্দুটি AD-এর মধ্যবিন্দু। ∠EBC-এর সমদ্বিখণ্ডক CD-কে F বিন্দুতে ছেদ করে। যখন ত্রিভুজ DEF-কে EF বরাবর ভাঁজ করা হয়, তখন D বিন্দুটি BE-এর উপর M বিন্দুতে পতিত হয়। BC এবং EF-কে বর্ধিত করলে তারা N বিন্দুতে মিলিত হয়। নিচের কোন সিদ্ধান্তগুলো সঠিক? ① DF = CF; ② BF ⊥ EN; ③ △BEN সমবাহু; ④ S_{△BEF} = 3S_{△DEF}।\nOptions:\nD) The angle bisector of ∠EBC intersects CD at point F. When triangle DEF is folded along EF, point D coincides with point M on BE. Extending BC and EF intersects at point N. Which of the following conclusions are correct? ① DF = CF; ② BF ⊥ EN; ③ △BEN is equilateral; ④ S_{△BEF} = 3S_{△DEF}.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65cd3621-1c83-4f2b-a108-00e0192ffaec",
+    "images": [
+      "images/42026_0.png"
+    ],
+    "english_question": "<image>\nএকটি চতুর্ভুজ প্রিজমের তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই চতুর্ভুজ প্রিজমটির আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e7416fec-226b-44cd-81bd-a5f28352b97d",
+    "images": [
+      "images/54190_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজ ABCD-তে, ∠DAB = 60°, AB = 15 সেমি। বৃত্ত O-এর ব্যাসার্ধ 3 সেমি এবং AB ও AD রেখাংশ যথাক্রমে E ও F বিন্দুতে বৃত্ত O-কে স্পর্শ করে। বৃত্ত O, AB বরাবর গড়িয়ে চলে যতক্ষণ না এটি BC বাহুকে স্পর্শ করে। বৃত্ত O দ্বারা অতিক্রান্ত দূরত্ব কত?\nOptions:\nC) What is the distance traveled by circle O?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6391235-5867-4202-9989-937e67c97598",
+    "images": [
+      "images/32947_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক OABC-তে, যেখানে O (0, 0), A (2, 2), এবং C (4, 0), এমন একটি রেখার সমীকরণ লিখুন যা সামান্তরিকটিকে দুটি সমান ক্ষেত্রফলে বিভক্ত করতে পারে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f612ce8e-ef5c-4245-82d5-2528c482e46f",
+    "images": [
+      "images/68176_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014 জিয়াংগান ডিস্ট্রিক্ট মক পরীক্ষা) একটি স্টিলের পাইপ CD দেয়ালের কোণায় স্থাপন করা হয়েছে। যদি BC = 5 মিটার এবং ∠BCD = 55° হয়, তবে দেয়ালের সাপেক্ষে শীর্ষবিন্দু D-এর উচ্চতা (BD) কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f5a7c94c-11cf-4821-b367-30e1d30050d1",
+    "images": [
+      "images/37652_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 4 × 4 বর্গাকার গ্রিডে, ত্রিভুজ MNP একটি নির্দিষ্ট বিন্দুকে কেন্দ্র করে একটি নির্দিষ্ট কোণে আবর্তিত হয়ে ত্রিভুজ M₁N₁P₁ তৈরি করে। ঘূর্ণনের কেন্দ্রটি হবে ( )\n\nOptions:\nক) Point E\nখ) Point F\nগ) Point G\nঘ) Point H",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

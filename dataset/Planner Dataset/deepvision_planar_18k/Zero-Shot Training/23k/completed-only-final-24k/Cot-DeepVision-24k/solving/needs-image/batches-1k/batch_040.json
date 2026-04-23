@@ -1,0 +1,302 @@
+[
+  {
+    "id": "b77573dc-6a46-4d82-9852-6120f32d6cdb",
+    "images": [
+      "images/50186_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2012 লিয়ানশুই কাউন্টি স্কুল-লেভেল সিমুলেশন), প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। বিন্দু A, B এবং C ছোট বর্গগুলোর শীর্ষবিন্দু। cos ∠ABC এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1351a30f-bc97-433a-9d7f-1b24eb7f490c",
+    "images": [
+      "images/56731_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 3×3 বর্গাকার গ্রিডে চারটি গ্রিড বিন্দু A, B, C এবং D আছে। এই বিন্দুগুলোর যেকোনো একটিকে মূলবিন্দু ধরে এবং গ্রিড রেখাগুলোকে স্থানাঙ্ক অক্ষ হিসেবে ব্যবহার করলে, যদি অবশিষ্ট তিনটি বিন্দুর মধ্যে দুটি কোনো একটি স্থানাঙ্ক অক্ষের সাপেক্ষে প্রতিসম হয়, তবে মূলবিন্দুটি কোথায় অবস্থিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45e2f816-1df5-468b-9ca7-59e31fadbe68",
+    "images": [
+      "images/6502_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে আয়তক্ষেত্রটির ক্ষেত্রফল 50 বর্গ সেন্টিমিটার হলে, ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a1cd11e3-4f67-4783-9613-36c115ba0bfd",
+    "images": [
+      "images/221_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বৃত্তস্থ চতুর্ভুজের বিপরীত বাহুদ্বয়ের বর্ধিতাংশ E ও F বিন্দুতে মিলিত হয়। যদি ∠A = 55° এবং ∠E = 30° হয়, তবে ∠F = ( )\n\nOptions:\nক) 25°\nখ) 30°\nগ) 40°\nঘ) 55°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "99dc614d-522d-4c4c-9095-9129fd86afd0",
+    "images": [
+      "images/13664_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ডানদিকে থাকা চারটি ত্রিভুজের মধ্যে কোনটি ত্রিভুজ ABC-কে ঘূর্ণন বা স্থানান্তরের মাধ্যমে পাওয়া সম্ভব নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7dd3d54-d7ce-43ba-bcac-15cd9932860d",
+    "images": [
+      "images/7489_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 3 × 3 বর্গাকার গ্রিডে, তিনটি ছোট বর্গক্ষেত্র ইতিমধ্যে কালো রঙ করা হয়েছে। অবশিষ্ট সাদা বর্গক্ষেত্রগুলোর মধ্যে একটিকে কালো রঙ করলে, কতগুলো ক্ষেত্রে প্রাপ্ত কালো নকশাটি অক্ষীয় প্রতিসম (axis-symmetric) হবে?\n\nOptions:\nক) \\(6\\) cases\nখ) \\(5\\) cases\nগ) \\(4\\) cases\nঘ) \\(2\\) cases",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0053d511-a374-448e-a080-bf188de62ad7",
+    "images": [
+      "images/58748_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, AD সমান্তরাল BC এবং কোণ B ও C উভয়ই 70°, E হলো DC বাহুর উপর একটি বিন্দু। AE রেখা বরাবর ভাঁজ করলে, D বিন্দুটি D' বিন্দুতে পতিত হয়। কোণ 1 এবং 2 এর সমষ্টি কত?\n\nOptions:\nক) 180°\nখ) 150°\nগ) 135°\nঘ) 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca238915-dbc5-422e-9d94-49c9a492a7fe",
+    "images": [
+      "images/53918_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে: সম্মুখ ও পার্শ্ব দৃশ্য হলো 3 ভূমি ও 4 উচ্চতা বিশিষ্ট সমকোণী ত্রিভুজ; শীর্ষ দৃশ্য হলো 3 বাহু বিশিষ্ট একটি বর্গক্ষেত্র। এই জ্যামিতিক বস্তুটির অন্তলিখিত গোলকের পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ecdd4711-42b4-4378-af30-1d5e1553edd0",
+    "images": [
+      "images/triangle_ext_ecdd4711-42b4-4378-af30-1d5e1553edd0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D, E এবং F বিন্দুগুলো ত্রিভুজ ABC-এর বাহুগুলোর মধ্যবিন্দু। যদি ত্রিভুজ DEF-এর পরিসীমা 10 হয়, তবে ত্রিভুজ ABC-এর পরিসীমা কত? 【 】\nক. 5\nখ. 10\nগ. 20\nঘ. 40",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f7496e2-6f77-4249-b3a3-9ffcecfe920b",
+    "images": [
+      "images/50355_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আকৃতিটিকে ভাঁজ করে একটি ঘনক তৈরি করা হলো। 1 সংখ্যাটি যে তলে অবস্থিত, তার বিপরীত তলে কোন সংখ্যাটি থাকবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "31eda336-392c-4707-b29b-4aad66f31aff",
+    "images": [
+      "images/47451_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি Z-আকৃতির ওয়ার্কপিস দেখানো হয়েছে (ওয়ার্কপিসের পুরুত্ব নগণ্য), যেখানে AB = 20 সেমি, BC = 60 সেমি, ∠ABC = 90° এবং ∠BCD = 50°। ওয়ার্কপিসটিকে চিত্রে প্রদর্শিত অবস্থায় রাখলে এর উচ্চতা (অর্থাৎ A থেকে CD এর দূরত্ব) কত? ফলাফলটি 0.1 সেমি পর্যন্ত নির্ভুল হতে হবে। রেফারেন্স ডেটা: sin 50° ≈ 0.766, cos 50° ≈ 0.643, tan 50° ≈ 1.192।\nOptions:\nD). The result should be accurate to 0.1 m. Reference data: \\(\\sin 50^{\\circ} \\approx 0.766\\), \\(\\cos 50^{\\circ} \\approx 0.643\\), \\(\\tan 50^{\\circ} \\approx 1.192\\).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9fedbc97-e84c-4f82-af57-6581e0652610",
+    "images": [
+      "images/1254_0.png"
+    ],
+    "english_question": "<image>\n2016 সালের বসন্তকালে, ঝংশান সিটিতে মধ্যবর্তী পরীক্ষার সময়, বলা হয়েছে যে শিয়াওগাং-এর বাড়ি স্কুল থেকে 30° কোণে উত্তর-পূর্ব দিকে 2000 মিটার দূরত্বে অবস্থিত। শিয়াওগাং-এর বাড়ির সাপেক্ষে স্কুলের অবস্থান কোথায়?\n\nOptions:\nক) North-east 30°, 2000 meters from Xiaogang's home\nখ) West-south 60°, 2000 meters from Xiaogang's home\nগ) West-south 30°, 2000 meters from Xiaogang's home\nঘ) North-east 60°, 2000 meters from Xiaogang's home",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3d394b39-a76b-46d3-b03e-77857d82ea72",
+    "images": [
+      "images/2936_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখাংশ EF এবং CD-এর সমান্তরাল এবং EG রেখাংশ DB-এর সমান্তরাল। ∠1-এর সমান কতগুলো কোণ আছে (∠1 ব্যতীত)?\n\nOptions:\nক) 6\nখ) 5\nগ) 4\nঘ) 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6c22ea1a-37c8-4906-808a-dc409339edb3",
+    "images": [
+      "images/66777_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-এর তিনটি অন্তঃস্থ কোণ এবং বাহুর দৈর্ঘ্য দেওয়া আছে। ত্রিভুজ A, B এবং C-এর মধ্যে কোনটি ত্রিভুজ ABC-এর সর্বসম? ( )\n\nOptions:\nক) A and B\nখ) B and C\nগ) Only B\nঘ) Only C",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4aa4437b-3f8c-4e83-a73e-1b3bf42cb9ba",
+    "images": [
+      "images/48676_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রশ্মি OA দ্বারা নির্দেশিত দিকটি হলো ( )\n\nOptions:\nক) Southwest 50°\nখ) Southwest 50°\nগ) Southeast 40°\nঘ) Southeast 40°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5044c21c-63ed-438f-9f81-9d4230c55022",
+    "images": [
+      "images/59451_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD রেখার সমান্তরাল এবং EF রেখাটি AB ও CD-কে যথাক্রমে E ও F বিন্দুতে ছেদ করে। যদি কোণ 1 = 55° হয়, তবে কোণ 2-এর মান কত?\n\nOptions:\nক) 125°\nখ) 55°\nগ) 35°\nঘ) 135°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "80bb1fed-8b7c-404c-9119-51aef4420bfc",
+    "images": [
+      "images/69877_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-এর ক্ষেত্রফল 5। ত্রিভুজটিকে BC-এর দিকে সরিয়ে DEF অবস্থানে নেওয়া হলো। সরণের দূরত্ব BC বাহুর দৈর্ঘ্যের দ্বিগুণ। চিত্রে চতুর্ভুজ ACED-এর ক্ষেত্রফল কত?\n\nOptions:\nক) 5\nখ) 10\nগ) 15\nঘ) 20",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c0c07879-1efb-4225-8627-471c800ba3ab",
+    "images": [
+      "images/56752_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং EF রেখাটি AB ও CD কে যথাক্রমে G ও H বিন্দুতে ছেদ করে। যদি ∠AGE = 60° হয়, তবে ∠EHD এর মান কত?\n\nOptions:\nক) 30°\nখ) 60°\nগ) 120°\nঘ) 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f4f292e2-6092-4bb6-9a6f-f0755f9b2823",
+    "images": [
+      "images/22713_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি 3×3 বর্গক্ষেত্র দেখানো হয়েছে। ∠1 + ∠2 + ∠3 + … + ∠9 এর সমষ্টি কত? ( ) \nক. 270° \nখ. 315° \nগ. 360° \nঘ. 405°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d5ee8b3-8097-4c9b-9b02-4dc9e7be77eb",
+    "images": [
+      "images/39731_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দৈর্ঘ্য AB = 52m এবং প্রস্থ AD = 41m বিশিষ্ট একটি আয়তাকার এলাকা রয়েছে। প্রবেশপথ A এবং B থেকে দুটি পথ আছে যাদের প্রতিটির প্রস্থ 1m এবং যেখানে পথ দুটি মিলিত হয়েছে সেখানে প্রস্থ 2m। বাকি অংশে ঘাস লাগানো হয়েছে। ঘাস লাগানো অংশের ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

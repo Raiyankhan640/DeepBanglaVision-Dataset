@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0f390ee4-ec07-4550-b600-d4cae84bcf74",
+    "images": [
+      "images/43991_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সামান্তরিকটির ক্ষেত্রফল নির্ণয় করো, সঠিক সূত্রটি হলো ( ) \nক. 4.8×6 \nখ. 10×8 \nগ. 6×8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2a1c6334-ffa4-45c0-9a86-9394ef90d3b4",
+    "images": [
+      "images/12012_0.png"
+    ],
+    "english_question": "<image>\n(2011 শরৎ • লুইয়াং ডিস্ট্রিক্টের টার্ম সমাপনী পরীক্ষা) চিত্রে প্রদর্শিত দুটি ত্রিভুজ সদৃশ চিত্র এবং এদের সদৃশতার কেন্দ্র হলো ____ বিন্দু।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "93fbefeb-ba91-482e-b017-acfe1d9e19ec",
+    "images": [
+      "images/45424_0.png"
+    ],
+    "english_question": "<image>\nনিচের শর্তগুলো দেওয়া আছে: ①∠1=∠2; ②∠3=∠4; ③AD∥BE এবং ∠D=∠B; ④AD∥BE এবং ∠BAD=∠BCD। কোন শর্তগুলো AB∥DC প্রমাণ করতে পারে?\n\nOptions:\nক) ①\nখ) ②\nগ) ②③\nঘ) ②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7239cff5-5ed8-4133-ba1f-823e250ac180",
+    "images": [
+      "images/52427_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ OAB একটি সমকোণী ত্রিভুজ যেখানে ∠OAB = 90°, ∠AOB = 30° এবং OA = √3। ত্রিভুজ OAB-কে বিন্দু O-কে কেন্দ্র করে ঘড়ির কাঁটার দিকে এমনভাবে ঘোরানো হলো যেন বিন্দু A, O এবং B₁ সমরেখ হয়। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d74635ba-c495-4b9d-85cf-d5b30a64b843",
+    "images": [
+      "images/53496_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, E হলো BC বাহুর মধ্যবিন্দু। DE যোগ করে AB-এর বর্ধিতাংশ পর্যন্ত বর্ধিত করা হলো যা F বিন্দুতে ছেদ করে, যেখানে AB = BF। ABCD চতুর্ভুজটিকে সামান্তরিক করার জন্য একটি শর্ত যোগ করতে হবে। নিচের চারটি শর্তের মধ্যে কোনটি নির্বাচন করা যেতে পারে?\nOptions:\nC) Connect DE and extend it to intersect the extended line of AB at point F, where AB = BF. Add a condition to make quadrilateral ABCD a parallelogram. Which of the following four conditions can be chosen?\nAB = BC\nCD = BF\n∠A = ∠C\n∠F = ∠CDE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51877e54-6428-4a3a-986b-34946fd18afc",
+    "images": [
+      "images/1173_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তক্ষেত্র ABCD-কে একটি 90° কেন্দ্রীয় কোণবিশিষ্ট বৃত্তের বৃত্তকলা (sector) এর সাথে যুক্ত করা হয়েছে। দেওয়া আছে AB=2, BC=AE=1। AB রেখাকে অক্ষ ধরে সম্পূর্ণ চিত্রটিকে ঘোরালে যে জ্যামিতিক বস্তুটি উৎপন্ন হয়, তার পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 7π\nখ) 5π\nগ) 9π\nঘ) 8π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "44c42847-1e01-48f2-9fe3-55b21816f321",
+    "images": [
+      "images/32009_0.png"
+    ],
+    "english_question": "<image>\nবর্গাকার গ্রিড কাগজে ত্রিভুজটির অবস্থান চিত্রে দেখানো হয়েছে। $\\cos \\alpha$-এর মান কত?\n\nOptions:\nক) \\( \\frac{3}{4} \\)\nখ) \\( \\frac{4}{3} \\)\nগ) \\( \\frac{3}{5} \\)\nঘ) \\( \\frac{4}{5} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da606d75-f1c1-432e-bf7a-217ea34ed65f",
+    "images": [
+      "images/61589_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনটি একই সাথে অক্ষ-প্রতিসম এবং কেন্দ্র-প্রতিসম চিত্র? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02716cf5-493b-41bb-b0d0-86a803b66843",
+    "images": [
+      "images/62882_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, রম্বস ABCD-এর চারটি শীর্ষবিন্দু স্থানাঙ্ক অক্ষের উপর অবস্থিত এবং কর্ণ AC ও BD মূলবিন্দু O-তে ছেদ করে। DF ⊥ AB রেখাটি AC-কে G বিন্দুতে ছেদ করে। ব্যস্তানুপাতিক ফাংশনটি হলো y = √3/x (যেখানে x > 0), যা DC রেখাংশের মধ্যবিন্দু E দিয়ে যায়। যদি BD = 4 হয়, তবে AG-এর দৈর্ঘ্য কত?\n\nOptions:\nক) \\( 4 \\cdot \\frac{3}{3} \\)\nখ) \\( 3 \\cdot 2 \\)\nগ) \\( 2 \\cdot \\frac{3}{3} + 1 \\)\nঘ) \\( 3 \\cdot \\frac{3}{3} + 1 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f8d66857-ed4d-4cd7-8812-9c1e496b224a",
+    "images": [
+      "images/6838_0.png"
+    ],
+    "english_question": "<image>\nতিনটি সরু লোহার রড PA, PB এবং PC বিন্দু P-তে মিলিত হয়েছে, যেখানে প্রতিটি জোড়া 60° কোণ উৎপন্ন করে। 1 ব্যাসার্ধের একটি গোলক রডগুলোর উপর রাখা আছে, যা তাদের A, B এবং C বিন্দুতে স্পর্শ করে। গোলকের কেন্দ্র O থেকে বিন্দু P-এর দূরত্ব কত?\n\nOptions (copied from English):\nC. What is the distance from the center O of the sphere to point P?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "502d5e45-6089-4df2-af85-2feb1c59be4a",
+    "images": [
+      "images/49659_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত l_1, l_2 এবং l_3 রেখাগুলোর ঢাল যথাক্রমে k_1, k_2 এবং k_3। নিচের কোনটি সঠিক?\n\nOptions:\nক) k<sub>1</sub> < k<sub>2</sub> < k<sub>3</sub>\nখ) k<sub>3</sub> < k<sub>1</sub> < k<sub>2</sub>\nগ) k<sub>3</sub> < k<sub>2</sub> < k<sub>1</sub>\nঘ) k<sub>1</sub> < k<sub>3</sub> < k<sub>2</sub>",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6b4de74b-7d6c-44f4-abc3-ae5c90ca70aa",
+    "images": [
+      "images/52070_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চিত্রটি 1 একক বাহুবিশিষ্ট 16টি ছোট বর্গক্ষেত্র দ্বারা গঠিত। এই ছোট বর্গক্ষেত্রগুলোর কয়েকটি শীর্ষবিন্দু যোগ করে পাঁচটি রেখাংশ CA, CB, CD, CE এবং CF পাওয়া যায়। এদের মধ্যে কোন রেখাংশগুলোর দৈর্ঘ্য মূলদ সংখ্যা? ( )\nক. 1টি রেখা\nখ. 2টি রেখা\nগ. 3টি রেখা\nঘ. 4টি রেখা",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "04d82aca-3580-4478-ac00-1371d98b4816",
+    "images": [
+      "images/55288_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত OA রশ্মি দ্বারা নির্দেশিত দিকটি হলো ( )\n\nOptions:\nক) Southwest 50°\nখ) Southwest 50°\nগ) Southeast 40°\nঘ) Southeast 40°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "47b922a9-c59f-459e-9995-447e4bfcf16a",
+    "images": [
+      "images/56063_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fdab49c4-a3fd-4363-ad9b-f313be221d80",
+    "images": [
+      "images/47636_0.png"
+    ],
+    "english_question": "<image>\nনরওয়েজিয়ান গণিতবিদ আবেল তার যৌবনে একটি সিঁড়ির আকৃতি ব্যবহার করে একটি গুরুত্বপূর্ণ অভেদ আবিষ্কার করেছিলেন - আবেল সূত্র: নিচের চিত্রে একটি সাধারণ সিঁড়ির আকৃতি দেখানো হয়েছে যা দুটি ভিন্ন উপায়ে দুটি আয়তক্ষেত্রে বিভক্ত করা যেতে পারে। তাদের মধ্যবর্তী ক্ষেত্রফলের সম্পর্ক ব্যবহার করে আমরা পাই: a_1 b_1 + a_2 b_2 = ( )\n\nOptions:\nক) a_1 (b_1 - b_2) + (a_1 + a_2) b_1\nখ) a_2 (b_2 - b_1) + (a_1 + a_2) b_2\nগ) a_1 (b_1 - b_2) + (a_1 + a_2) b_2\nঘ) a_2 (b_1 - b_2) + (a_1 + a_2) b_1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a251a643-0b2d-4a6d-993b-53a0c8c3dfd2",
+    "images": [
+      "images/6048_0.png"
+    ],
+    "english_question": "<image>\nসরলরেখা y=2x, হাইপারবোলা y=k/x (যেখানে x>0) কে বিন্দু A এবং বিন্দু B(2, 0) তে ছেদ করে। রেখাংশ AB হাইপারবোলাকে পুনরায় বিন্দু D তে ছেদ করে এবং দেওয়া আছে যে AD = BD। k এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa58f8e8-d7b6-46c9-bc2f-e50ed7979114",
+    "images": [
+      "images/72333_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB সমান্তরাল CD হয়, তবে আমরা সিদ্ধান্ত নিতে পারি ( )\n\nOptions:\nক) ∠1=∠4\nখ) ∠3=∠5\nগ) ∠4=∠5\nঘ) ∠3=∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c1b6078-f07f-47f0-bed8-f922278611c2",
+    "images": [
+      "images/41300_0.png"
+    ],
+    "english_question": "<image>\nনরওয়েজিয়ান গণিতবিদ অ্যাবেল তাঁর যৌবনে সিঁড়ির আকৃতি ব্যবহার করে একটি গুরুত্বপূর্ণ সত্তা আবিষ্কার করেন—অ্যাবেল সূত্র: নিম্নলিখিত চিত্রে একটি সরল সিঁড়ির আকৃতি দেখানো হয়েছে, যাকে দুটি ভিন্ন উপায়ে দুটি আয়তক্ষেত্রে ভাগ করা যায়। তাদের মধ্যে ক্ষেত্রফলের সম্পর্ক ব্যবহার করে আমরা পাই: a₁b₁ + a₂b₂ = ( ) ক. a₁(b₁ - b₂) + (a₁ + a₂)b₁ খ. a₂(b₂ - b₁) + (a₁ + a₂)b₂ গ. a₁(b₁ - b₂) + (a₁ + a₂)b₂ ঘ. a₂(b₁ - b₂) + (a₁ + a₂)b₁",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1bd231eb-6379-40fa-a139-c38062f38e8a",
+    "images": [
+      "images/2941_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB রেখা O কেন্দ্রবিশিষ্ট বৃত্তকে A ও B বিন্দুতে ছেদ করে, যেখানে O বিন্দুটি AB রেখার উপর অবস্থিত এবং C বিন্দুটি বৃত্তের পরিধির উপর অবস্থিত। দেওয়া আছে ∠AOC = 40°, E বিন্দুটি AB রেখার উপর একটি চলমান বিন্দু (O বিন্দুর সাথে সমপাতিত নয়), এবং EC রেখাটি বৃত্তকে অন্য একটি বিন্দু D তে ছেদ করে। কতটি বিন্দুর জন্য DE = DO শর্তটি সত্য হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8d60438-6111-41b9-9985-dc121c9206ca",
+    "images": [
+      "images/22576_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি উত্তল পঞ্চভুজ ABCDE-এর জন্য, ধরি x = AB⃗ · AC⃗, y = AB⃗ · AD⃗ এবং z = AB⃗ · AE⃗। তাহলে x, y এবং z-এর মানের ক্রম হলো __________।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

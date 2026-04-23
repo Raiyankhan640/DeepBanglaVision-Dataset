@@ -1,0 +1,302 @@
+[
+  {
+    "id": "9c720482-c533-48ce-9d60-9767859d5073",
+    "images": [
+      "images/68403_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ABCDEF একটি সুষম ষড়ভুজ হয় যার বাহুর দৈর্ঘ্য 1, তবে ⃗BA · ⃗CD-এর মান কত?\n\nOptions:\nক) -1\nখ) 2\nগ) -2\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5aa8cc4e-e174-4247-bd7b-1bd0d7fa15bb",
+    "images": [
+      "images/4488_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015•হুয়াংগাং মিডল স্কুল ইন্ডিপেন্ডেন্ট এনরোলমেন্ট), একটি অর্ধবৃত্তের ব্যাস AB এর দৈর্ঘ্য 6। যখন বিন্দু B, বিন্দু A-কে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে 60° কোণে ঘুরে B' বিন্দুতে পৌঁছায়, তখন ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) 3π\nখ) 6π\nগ) 5π\nঘ) 4π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d638a6d2-e861-4b73-85fb-bbdbbf2a4f44",
+    "images": [
+      "images/10883_0.png"
+    ],
+    "english_question": "<image>\nABC একটি সমবাহু ত্রিভুজ, P বিন্দুটি BC বাহুর উপর অবস্থিত এবং APQ-ও একটি সমবাহু ত্রিভুজ। PQ রেখাংশ AC-কে M বিন্দুতে ছেদ করে। নিচের কোন সিদ্ধান্তটি সঠিক? ( )\n1. AB ∥ CQ; 2. ∠ACQ = 60°; 3. AP² = AM • AC; 4. যদি BP = PC হয়, তবে PQ ⊥ AC।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "964fa679-cbd3-41ff-86c1-a34622f7fcb7",
+    "images": [
+      "images/32556_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, সামান্তরিক ABCD কে এমনভাবে ভাঁজ করা হলো যেন D ও C বিন্দুদ্বয় যথাক্রমে F ও E বিন্দুতে পতিত হয় (F ও E বিন্দুদ্বয় AB রেখার ওপর অবস্থিত)। ভাঁজটি হলো MN। যদি ∠AMF = 50° হয়, তবে ∠A = ______°।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6c631a1-0619-4d79-aec0-d7753c855109",
+    "images": [
+      "images/22295_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, △ABC এবং △GAF দুটি সর্বসম সমদ্বিবাহু সমকোণী ত্রিভুজ। চিত্রে সদৃশ ত্রিভুজের সংখ্যা (সর্বসমগুলো বাদে) হলো ( )\n\nOptions:\nক) 1 pair\nখ) 2 pairs\nগ) 3 pairs\nঘ) 4 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7e872c35-a714-4207-b6dc-22eae1b90620",
+    "images": [
+      "images/75563_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB সমান্তরাল CD হয়, তবে α, β এবং γ কোণগুলোর মধ্যে সম্পর্কটি হলো ( )\n\nOptions:\nক) α + β + γ = 360°\nখ) α - β + γ = 180°\nগ) α + β - γ = 180°\nঘ) α + β + γ = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00fb1727-2e88-46c5-a5a5-defc05af4d68",
+    "images": [
+      "images/52668_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-কে B বিন্দুর চারদিকে ঘড়ির কাঁটার বিপরীত দিকে ঘুরিয়ে ত্রিভুজ A'BC' তৈরি করা হলো, যাতে A, B এবং C' বিন্দুত্রয় সমরেখ হয়। দেওয়া আছে, ∠BCA=90°, ∠BAC=30° এবং AB=4 সেমি। ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) (16π-2√3) cm²\nখ) (4π-2√3) cm²\nগ) 4π cm²\nঘ) (4π+2√3) cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f661f9d3-a8e6-4666-a0c7-b7ad3859b9b7",
+    "images": [
+      "images/4311_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: AB রেখাংশ CD-এর লম্ব দ্বিখণ্ডক হলে, চিত্রে সর্বসম ত্রিভুজের জোড়ার সংখ্যা কত? ( )\n\nOptions:\nক) 2 pairs\nখ) 3 pairs\nগ) 4 pairs\nঘ) 5 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "142880cd-b3b4-4da4-88ff-4f354d1435ac",
+    "images": [
+      "images/73641_0.png"
+    ],
+    "english_question": "<image>\n2016 সালের জাতীয় পরীক্ষায়, চিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর ত্রিমাত্রিক অভিক্ষেপ (three-view projection) সমান ব্যাসার্ধের তিনটি বৃত্ত নিয়ে গঠিত, যার প্রতিটিতে দুটি পরস্পর লম্ব ব্যাসার্ধ রয়েছে। যদি জ্যামিতিক বস্তুটির আয়তন (28π)/3 হয়, তবে এর পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 17π\nখ) 18π\nগ) 20π\nঘ) 28π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fbedbe5b-7210-4b8c-a775-30de2dcc36e8",
+    "images": [
+      "images/46643_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন উক্তিটি সঠিক? ( ) যদি AB ∥ DC হয়, তবে ∠1 = ∠2; যদি AD ∥ BC হয়, তবে ∠3 = ∠4; যদি ∠1 = ∠2 হয়, তবে AB ∥ DC; যদি ∠2 + ∠3 + ∠A = 180° হয়, তবে AB ∥ DC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "480f194c-d8e2-452c-aaf9-1df6333952eb",
+    "images": [
+      "images/67704_0.png"
+    ],
+    "english_question": "<image>\nএকটি কুকুর চিত্রে প্রদর্শিত টাইলসযুক্ত মেঝেতে হাঁটছে, কুকুরটি শেষ পর্যন্ত একটি ছায়াযুক্ত টাইলের উপর থামার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "46f9efac-a47f-4d02-9c3e-e17fc2af35d0",
+    "images": [
+      "images/62290_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন জোড়াটি একান্তর অন্তঃস্থ কোণ? ( )\n\nOptions:\nক) ∠1 and ∠2\nখ) ∠2 and ∠3\nগ) ∠1 and ∠4\nঘ) ∠3 and ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7a294cae-140f-46ed-b071-15c36a7d73e3",
+    "images": [
+      "images/27368_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি ঘনকের উন্মুক্ত পৃষ্ঠতল (net) প্রদর্শন করছে। যদি ঘনকের বিপরীত পৃষ্ঠতলগুলোর মান সমান হয় এবং পাশাপাশি পৃষ্ঠতলগুলোর মান ভিন্ন হয়, তবে '★' চিহ্নিত পৃষ্ঠতলের মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "11e27839-a4ac-4dc4-94c3-362025acc302",
+    "images": [
+      "images/58975_0.png"
+    ],
+    "english_question": "<image>\n1×2 বর্গ গ্রিডে চিত্রে দেখানো অবস্থানে ইতিমধ্যে দুটি টুকরো স্থাপন করা হয়েছে। যদি তৃতীয় টুকরোটি অন্য একটি গ্রিড বিন্দুতে এলোমেলোভাবে স্থাপন করা হয়, তবে তিনটি টুকরো দিয়ে গঠিত ত্রিভুজ সমকোণী ত্রিভুজ হওয়ার সম্ভাবনা কত? ক. 1/4 খ. 1/2 গ. 3/4 ঘ. 3/5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a34482ab-33ff-4100-8651-01d9366d39c4",
+    "images": [
+      "images/47799_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, ∠1 এবং ∠2 কোণগুলোর মধ্যে কোনগুলো বিপ্রতীপ কোণ? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7f5cc7ee-52c2-49a4-a6a1-425d58d0627c",
+    "images": [
+      "images/1359_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে (একক দৈর্ঘ্য: সেমি), এই জ্যামিতিক বস্তুটির আয়তন কত? ( )\n\nOptions:\nক) \\( \\frac{224}{3} \\text{ cm}^3 \\)\nখ) 112 cm<sup>3</sup>\nগ) 96 cm<sup>3</sup>\nঘ) 224 cm<sup>3</sup>",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2fa60a6e-4419-4c3d-ba7d-b2f5b3fb4a56",
+    "images": [
+      "images/55429_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত প্রতিটি সামান্তরিকের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "96778b5b-ceb0-4f38-bc8c-5ffdaf96b9f9",
+    "images": [
+      "images/44927_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2010 ডান্ডং সেকেন্ড মক এক্সাম), একটি শহরের শহরতলিতে একটি ছোট পাহাড়ের ওপর একটি টেলিভিশন ট্রান্সমিশন টাওয়ার CD স্থাপন করা হয়েছে। পাহাড়ের উচ্চতা 60 মিটার এবং ভূমিতে অবস্থিত বিন্দু A থেকে বিন্দু C এর দূরত্ব 100 মিটার পরিমাপ করা হয়েছে। বিন্দু A থেকে টেলিভিশন ট্রান্সমিশন টাওয়ারের পর্যবেক্ষণ কোণ হলো 45° (∠CAD = 45°)। টেলিভিশন ট্রান্সমিশন টাওয়ারের উচ্চতা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8c1c1b1-ab16-4a07-93da-03cc5c6b0dcb",
+    "images": [
+      "images/71359_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোনটি একটি সুষম চতুস্তলকের (regular tetrahedron) নেট নয়? ( )\n\nOptions:\nক) ①⑥\nখ) ④⑤\nগ) ③④\nঘ) ④⑥",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a2735de-f769-4eea-8d14-32561407abc2",
+    "images": [
+      "images/54461_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে ∠DAB = ∠CAE। ∆ABC ∽ ∆ADE হওয়ার জন্য অতিরিক্ত একটি পর্যাপ্ত শর্ত উল্লেখ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

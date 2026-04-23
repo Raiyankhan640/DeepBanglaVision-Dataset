@@ -1,0 +1,340 @@
+[
+  {
+    "id": "c794c301-03d0-4092-b80d-6b7cec2f03df",
+    "images": [
+      "images/31755_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 2 একক বাহুবিশিষ্ট তিনটি সমবাহু ত্রিভুজ আছে, যাদের একটি বাহু একই সরলরেখায় অবস্থিত। BC3 রেখাংশের ওপর 10টি ভিন্ন বিন্দু P1, P2, …, P10 অবস্থিত। ধরি, m_i = AB2 • AP_i (i=1, 2, 3, …, 10)। m_1 + m_2 + … + m_10 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73881cd9-0846-4c6e-88a8-7817b7ce06a2",
+    "images": [
+      "images/29658_0.png"
+    ],
+    "english_question": "<image>\nরশ্মি OD, BO রেখার ওপর অবস্থিত, ∠AOE এবং ∠EOC কোণদ্বয় পূরক, এবং ∠DOC = 15°। ∠AOB নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ce3b626-a869-40e1-a385-b24298d32e54",
+    "images": [
+      "images/27803_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তক্ষেত্রটির পরিধি 62.8 সেমি হলে, আয়তক্ষেত্রটির ক্ষেত্রফল কত বর্গ সেমি? (π = 3.14 ধরুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9d94683e-a634-4e69-9251-06e22f4ad8f9",
+    "images": [
+      "images/58761_0.png"
+    ],
+    "english_question": "<image>\n8টি অভিন্ন আয়তক্ষেত্র (দৈর্ঘ্য a, প্রস্থ b) ব্যবহার করে চিত্র A (একটি বর্গক্ষেত্র যার কেন্দ্রে 2 বাহুবিশিষ্ট একটি বর্গক্ষেত্র আছে) এবং চিত্র B (একটি আয়তক্ষেত্র) এর মতো সাজানো হলে, a^2 - 4ab + 4b^2 এর মান নির্ণয় করো।\nOptions:\nb) arranged as shown in Figure A (a square with a central square of side length 2) and Figure B (a rectangle), find the value of $a^2 - 4ab + 4b^2$.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6b0a5efa-3b43-40ab-864b-50bfd543121b",
+    "images": [
+      "images/66456_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, উপাদানের ছায়াযুক্ত অংশটি দিয়ে একটি সিলিন্ডার তৈরি করা যায়। সিলিন্ডারটির আয়তন নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b57731e4-b389-4d9b-a790-bc4788387c20",
+    "images": [
+      "images/41190_0.png"
+    ],
+    "english_question": "<image>\nসরলরেখা y = 1/2x - 2, x-অক্ষ এবং y-অক্ষকে যথাক্রমে A এবং B বিন্দুতে ছেদ করে। বিন্দু P রেখাংশ AB-এর উপর অবস্থিত এবং PC হলো ত্রিভুজ AOB-এর মধ্যমা। PC-এর বর্ধিতাংশ হাইপারবোলিক ফাংশন y = 5/x (x > 0-এর জন্য) কে Q বিন্দুতে ছেদ করে। ত্রিভুজ OQP-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nB) The extension of PC intersects the hyperbolic function $y = \\frac{5}{x}$ (for $x > 0$) at point Q. Find the area of triangle OQP.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "db2f99d1-711c-46f9-a767-33ebb26a6fa7",
+    "images": [
+      "images/48443_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ট্রাপিজিয়াম ABCD দেখানো হয়েছে যেখানে AB = 5 সেমি, CD = 8 সেমি এবং BC = 2 সেমি, এবং AB ও CD সমান্তরাল। যদি ট্রাপিজিয়ামটিকে CD বাহুর চারদিকে একবার পূর্ণ ঘূর্ণন দেওয়া হয়, তবে উৎপন্ন ঘনবস্তুর আয়তন কত ঘন সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec6ebc4e-aa1f-4263-b983-cf984466bc43",
+    "images": [
+      "images/55919_0.png"
+    ],
+    "english_question": "<image>\n3 সেমি এবং 5 সেমি বাহুবিশিষ্ট দুটি পাশাপাশি বর্গক্ষেত্র দ্বারা গঠিত চিত্রে ছায়াবৃত ত্রিভুজটির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e24b1140-092b-4c5e-9563-e9c4cdfb2c46",
+    "images": [
+      "images/5619_0.png"
+    ],
+    "english_question": "<image>\n2011 সালে, আইদিন বে এলাকায়, আমাদের নৌবাহিনীর একটি জাহাজ এসকর্ট মিশন পরিচালনা করছিল এবং পূর্ব থেকে পশ্চিমে যাচ্ছিল। যখন এটি B বিন্দুতে পৌঁছায়, তখন এটি 500 মিটার দূরত্বে জাহাজের ঠিক উত্তরে লাইটহাউস A খুঁজে পায়। জাহাজটি যখন B বিন্দু থেকে সরাসরি পশ্চিমে C বিন্দুতে পৌঁছায়, তখন এটি লাইটহাউস A-কে উত্তরের 60° পূর্বে দেখতে পায়। জাহাজটি কত দূরত্ব অতিক্রম করেছে তা নির্ণয় করো। (গণনার প্রক্রিয়া এবং ফলাফলের কোনো আসন্ন মান ব্যবহার করা যাবে না)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1fac2773-6dad-4b62-81c7-fd34ec2c4957",
+    "images": [
+      "images/62016_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, বিন্দু D এবং C বৃত্ত O-এর ওপর অবস্থিত, AD সমান্তরাল OC এবং ∠DAB = 60°। যদি আমরা AC যোগ করি, তবে ∠DAC-এর মান কত? (ক) 15° (খ) 30° (গ) 45° (ঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79bc0f6a-e5db-41e3-a848-644018f02eb9",
+    "images": [
+      "images/30912_0.png"
+    ],
+    "english_question": "<image>\nএকটি 'a' বাহুবিশিষ্ট বর্গক্ষেত্র থেকে একটি কোণায় 'b' বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র (a > b) কেটে নেওয়া হলো। অবশিষ্ট অংশটিকে পুনরায় সাজিয়ে একটি ট্রাপিজিয়াম তৈরি করা হলো। উভয় চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো এবং অভেদটি যাচাই করো: a^2 - b^2 = (a + b)(a - b)।\nOptions:\nb) removed from one corner. The remaining region is rearranged into a trapezoid. Calculate the area of the shaded region in both figures and verify the identity: a^2 - b^2 = (a + b)(a - b).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5dbaef78-34e4-4513-89c2-663e622d6031",
+    "images": [
+      "images/71162_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি লম্ব দৃশ্য দেওয়া আছে, সর্বোচ্চ পৃষ্ঠতলের ক্ষেত্রফল এবং সর্বনিম্ন পৃষ্ঠতলের ক্ষেত্রফলের অনুপাত নির্ণয় করো।\nOptions:\na.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3619f2aa-a805-4821-99ba-e955c0f19484",
+    "images": [
+      "images/69330_0.png"
+    ],
+    "english_question": "<image>\nএকটি পানির চ্যানেলের প্রস্থচ্ছেদ পরাবৃত্তাকার যার শীর্ষবিন্দু O, প্রস্থ EF = 4 মিটার এবং উচ্চতা 3 মিটার। প্রস্থচ্ছেদটিকে একটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে পরিবর্তন করতে হবে, যার উচ্চতা একই থাকবে এবং সমান্তরাল নয় এমন বাহু AD এবং BC পরাবৃত্তটিকে M এবং N বিন্দুতে স্পর্শ করবে, এবং AB রেখাটি O বিন্দুগামী হবে। মাটি খননের পরিমাণ সর্বনিম্ন করতে নিচের ভূমি AB-এর দৈর্ঘ্য কত হওয়া উচিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3477847d-204d-481a-a30d-8f156e0b4604",
+    "images": [
+      "images/45834_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। যদি আমরা ছায়াযুক্ত অংশটি কেটে একটি বর্গ তৈরি করি, তবে নতুন বর্গের বাহুর দৈর্ঘ্য কত?\n\nOptions:\nক) \\( \\sqrt {3}\\)\nখ) \\(2\\)\nগ) \\( \\sqrt {5}\\)\nঘ) \\( \\sqrt {6}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "11c11da6-d1bb-4686-834d-2787196ebf92",
+    "images": [
+      "images/55792_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PA এবং PB হলো O কেন্দ্রবিশিষ্ট বৃত্তের দুটি স্পর্শক, যেখানে A এবং B হলো স্পর্শবিন্দু। PO রেখাটি বৃত্তটিকে C বিন্দুতে ছেদ করে। যদি ∠APB = 60° এবং PC = 6 হয়, তবে AC এর দৈর্ঘ্য কত?\nOptions:\nC) Given that ∠APB = 60° and PC = 6, what is the length of AC?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f800bf99-6e40-4b6e-866a-50f907a8113d",
+    "images": [
+      "images/12213_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD চতুর্ভুজের AD এবং BC বাহুর মধ্যবিন্দু যথাক্রমে M এবং N। AN এবং BM রেখাংশ P বিন্দুতে এবং CM এবং DN রেখাংশ Q বিন্দুতে ছেদ করে। যদি ABCD চতুর্ভুজের ক্ষেত্রফল 150 এবং MPNQ চতুর্ভুজের ক্ষেত্রফল 50 হয়, তবে ছায়াবৃত অংশগুলোর ক্ষেত্রফলের সমষ্টি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e495a76-2cfc-4393-8d36-89ef5abb314d",
+    "images": [
+      "images/68985_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তাকার এলাকায়, 'হাইবাও' নামক একটি রোবট 'নির্দেশনা অনুযায়ী হাঁটা'র কাজ সম্পাদন করে। বৃত্তের কেন্দ্র O থেকে যাত্রা শুরু করে, এটি প্রথমে উত্তর-পশ্চিম দিকে arcsin(12/13) কোণে 13 মিটার হেঁটে A বিন্দুতে পৌঁছায়, তারপর সরাসরি দক্ষিণে 14 মিটার হেঁটে B বিন্দুতে পৌঁছায় এবং সবশেষে পূর্ব দিকে হেঁটে C বিন্দুতে পৌঁছায়। B এবং C বিন্দু উভয়ই O কেন্দ্রবিশিষ্ট বৃত্তের পরিধির ওপর অবস্থিত। কার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, যেখানে কেন্দ্র O মূলবিন্দু, ধনাত্মক x-অক্ষ পূর্ব দিক এবং ধনাত্মক y-অক্ষ উত্তর দিক নির্দেশ করে, বৃত্তটির সমীকরণ নির্ণয় করো।\nOptions:\nC) Points B and C are both on the circumference of circle O. What is the equation of circle O in a Cartesian coordinate system where the center O is the origin, the positive x-axis points east, and the positive y-axis points north?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "70166797-348e-4cff-ac23-af02d05818a1",
+    "images": [
+      "images/33522_0.png"
+    ],
+    "english_question": "<image>\nএকটি কর্নার ট্রাফের প্রস্থচ্ছেদ চিত্রে দেখানো হয়েছে। চতুর্ভুজ ADEB একটি আয়তক্ষেত্র। যদি α = 50°, β = 70°, AC = 90 মিমি, BC = 150 মিমি হয়, তবে DE এর দৈর্ঘ্য কত মিমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad647127-78a9-4281-9f07-3aae4c1d12bc",
+    "images": [
+      "images/46291_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত EFGH হলো একটি বর্গক্ষেত্র যা O কেন্দ্রবিশিষ্ট 1 ব্যাসার্ধের বৃত্তে অন্তর্লিখিত। একটি মটরশুঁটি দৈবভাবে বৃত্তের ভেতর নিক্ষেপ করা হলো। ধরি, A হলো ঘটনা \"মটরশুঁটিটি বর্গক্ষেত্র EFGH-এর ভেতরে পড়ে\" এবং B হলো ঘটনা \"মটরশুঁটিটি ছায়াযুক্ত সেক্টর OHE-এর ভেতরে পড়ে\"। তাহলে, P(B|A) = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f06aa4c7-faf4-41ab-8b89-306a7c367dd3",
+    "images": [
+      "images/296_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠AOB একটি বর্গাকার গ্রিডে অবস্থিত একটি কোণ। তবে cos ∠AOB এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

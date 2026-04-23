@@ -1,0 +1,302 @@
+[
+  {
+    "id": "13380f54-5552-4f83-be08-5c17dbab3cbf",
+    "images": [
+      "images/61018_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমুদ্রপৃষ্ঠে দুটি যুদ্ধজাহাজের অবস্থান A এবং B বিন্দুতে দেখানো হয়েছে। A থেকে B এর দিক কোনটি হবে ( )?\nক. দক্ষিণ-পূর্ব 30°\nখ. দক্ষিণ-পূর্ব 60°\nগ. উত্তর-পশ্চিম 30°\nঘ. উত্তর-পশ্চিম 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "64780712-ff85-47bd-8fa0-5226729172ac",
+    "images": [
+      "images/73775_0.png"
+    ],
+    "english_question": "<image>\nফ্লোচার্টটি অনুসরণ করো। যদি ইনপুট t ∈ [-1, 3] হয়, তবে আউটপুট s কোন সীমার মধ্যে থাকবে? ( )\n\nOptions:\nক) [-3, 4]\nখ) [-5, 2]\nগ) [-4, 3]\nঘ) [-2, 5]",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8c12f3ae-0ff8-47a9-99be-52fb2415b868",
+    "images": [
+      "images/58003_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের শর্তগুলোর মধ্যে কোনটি l₁ ∥ l₂ রেখাদ্বয়কে নির্দেশ করে: 1) ∠1 = ∠2; 2) ∠3 = ∠4; 3) ∠3 + ∠4 = 180°; 4) ∠1 + ∠2 = 180°; 5) ∠1 + ∠2 = 90°; 6) ∠3 + ∠4 = 90°; 7) ∠1 = ∠4; এই শর্তগুলোর মধ্যে কোনটি l₁ ∥ l₂ নির্দেশ করে?\n\nOptions:\nক) 2 4\nখ) 1 2 7\nগ) 3 4\nঘ) 2 3 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2ab0bb0b-8696-41e3-8256-46310a396670",
+    "images": [
+      "images/12024_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, O মূলবিন্দু, A বিন্দুটি (-4, 0) অবস্থানে এবং △ABO একটি সমদ্বিবাহু সমকোণী ত্রিভুজ যার সমকোণটি দ্বিতীয় চতুর্ভাগে B বিন্দুতে অবস্থিত। C বিন্দুটি y-অক্ষ বরাবর চলাচল করে এবং △BCD একটি সমদ্বিবাহু সমকোণী ত্রিভুজ যার সমকোণটি D বিন্দুতে অবস্থিত। D বিন্দুটি যে রেখা বরাবর চলাচল করে তার সমীকরণ নির্ণয় করো।\nOptions:\nD) Find the equation of the line along which point D moves.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e297e9ed-0739-458c-bef2-f9dce2b7a44a",
+    "images": [
+      "images/64890_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঢাকনাবিহীন বর্গাকার কাগজের বাক্স খোলা হলো (চিত্র 1-এ দেখানো হয়েছে), ড্যাশ রেখা বরাবর কাটা হলো এবং প্রাপ্ত 5টি কাগজের টুকরো (যার মধ্যে 4টি সর্বসম সমকোণী ত্রিভুজ) একটি বর্গক্ষেত্রে সাজানো হলো (চিত্র 2-এ দেখানো হয়েছে)। কাটা সমকোণী ত্রিভুজটির ছোট বাহু ও বড় বাহুর অনুপাত কত? ( )\n\nOptions:\nক) 1: 2\nখ) 3: 3\nগ) 1: 3\nঘ) Cannot determine",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fcd15faa-9b1c-4d0b-b7aa-2340d80fc189",
+    "images": [
+      "images/13796_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে একটি ভেক্টর আঁকা হয়েছে যার অবস্থান চিত্রে দেখানো হয়েছে। যদি \\( \\overrightarrow{c}=\\lambda \\overrightarrow{a}+\\mu \\overrightarrow{b} (\\lambda,\\mu \\in \\mathbb{R})\\) হয়, তবে \\( \\dfrac {\\lambda}{\\mu }=(\\)) এর মান কত?\n\nOptions:\nক) \\(-8\\)\nখ) \\(-4\\)\nগ) \\(4\\)\nঘ) \\(2\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5097d0aa-c39b-415b-95e1-cefbbd9ac0ff",
+    "images": [
+      "images/39884_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, E বিন্দুটি AB রেখার বর্ধিতাংশের উপর অবস্থিত। যদি ∠1 = 60° হয়, তবে কোণ A-এর পরিমাপ কত? \nঅপশন:\n(ক) 120°\n(খ) 60°\n(গ) 45°\n(ঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "12acee67-5475-4385-b955-f8f2173a4aee",
+    "images": [
+      "images/719_0.png"
+    ],
+    "english_question": "<image>\nধরি, O বিন্দুটি সামান্তরিক ABCD-এর কর্ণদ্বয়ের ছেদবিন্দু। চিত্রটিতে O বিন্দুর সাপেক্ষে প্রতিসম ত্রিভুজের সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6b22cae0-3ddd-4fc9-87f5-12c690823830",
+    "images": [
+      "images/61402_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে চারটি অসমান্তরাল রেখা L₁, L₂, L₃ এবং L₄ সাতটি কোণ গঠন করেছে। এই সাতটি কোণের মান সংক্রান্ত নিচের কোন বিবৃতিটি সঠিক?\nক. ∠2 = ∠4 + ∠7\nখ. ∠3 = ∠1 + ∠6\nগ. ∠1 + ∠4 + ∠6 = 180°\nঘ. ∠2 + ∠3 + ∠5 = 360°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f06de03-00a3-43fa-9044-0ee3d6c92e1c",
+    "images": [
+      "images/50668_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, বাহুর দৈর্ঘ্য 2a বিশিষ্ট একটি বর্গক্ষেত্র, যার কেন্দ্র l রেখার উপর A বিন্দুতে অবস্থিত এবং এর এক জোড়া বিপরীত বাহু l-এর উপর লম্ব। l রেখা বরাবর গতিশীল r ব্যাসার্ধবিশিষ্ট একটি O বৃত্ত। বৃত্ত ও বর্গক্ষেত্রের ঠিক 5টি সাধারণ বিন্দু থাকার জন্য r-এর মান (a-এর মাধ্যমে) নির্ণয় করো।\nOptions:\na) such that the circle and square have exactly 5 common points.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "86c62a1f-5aff-46ea-a341-0719eb0ad6be",
+    "images": [
+      "images/48513_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD (AB || CD) এর অন্তর্বৃত্ত এবং এটি E, F, G, H বিন্দুতে বাহুগুলোকে স্পর্শ করে। OB রেখাংশ বৃত্তটিকে পুনরায় P বিন্দুতে ছেদ করে। চতুর্ভুজ OPFG এবং রেখা EG বিবেচনা করি। নিচের কোন উক্তিগুলো সঠিক?\n① EG বৃত্ত O এর ব্যাস;\n② ∠OGF = ∠OCF;\n③ যদি ∠A = 60° হয়, তবে OPFG একটি রম্বস;\n④ রেখা EG, BC কে ব্যাস ধরে অঙ্কিত বৃত্তের স্পর্শক।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c3b08879-c90f-4d6b-a083-276100dc28b5",
+    "images": [
+      "images/37477_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, যেখানে AB = AC = AD এবং ∠CBD = 23°, ∠CAD এর মান কত?\nক. 47°\nখ. 46°\nগ. 45°\nঘ. 44°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "737079b7-c08e-47df-a650-1b2a777dbe26",
+    "images": [
+      "images/28280_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সরলরেখা a ∥ b। একটি 60° কোণবিশিষ্ট (∠ABC = 60°) সমকোণী ত্রিভুজাকার স্কেলকে চিত্রে প্রদর্শিত উপায়ে স্থাপন করা হলো, যেখানে A এবং C বিন্দুদ্বয় যথাক্রমে a এবং b সরলরেখার ওপর অবস্থিত। যদি ∠1 = 15° হয়, তবে ∠2 এর মান কত?\n\nOptions:\nক) 30°\nখ) 60°\nগ) 45°\nঘ) 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ba9534e6-5189-4569-8c79-254e5a120566",
+    "images": [
+      "images/49938_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠A = 15° এবং AB = BC = CD = DE = EF হয়, তবে ∠FEG এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "461925c4-f8c9-46fd-9854-8f2669de3ccb",
+    "images": [
+      "images/1061_0.png"
+    ],
+    "english_question": "<image>\nMN-ABCD বহুভুজটির ভূমি একটি আয়তক্ষেত্র এবং এর সম্মুখ (প্রধান) দৃশ্য ও পার্শ্ব (বাম) দৃশ্য চিত্রে দেখানো হয়েছে। সম্মুখ দৃশ্যটি একটি সমদ্বিবাহু ট্রাপিজিয়াম এবং পার্শ্ব দৃশ্যটি একটি সমদ্বিবাহু ত্রিভুজ। AM-এর দৈর্ঘ্য কত?\n\nOptions:\nক) \\(\\sqrt{3}\\)\nখ) \\(\\sqrt{5}\\)\nগ) \\(\\sqrt{6}\\)\nঘ) \\(2\\sqrt{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08e0fa27-40b7-4fbd-bdf4-1f3323abe8a3",
+    "images": [
+      "images/38248_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-এর AB ও BC বাহুর ওপর যথাক্রমে M ও N বিন্দু অবস্থিত। ত্রিভুজ BMN-কে MN রেখা বরাবর ভাঁজ করে ত্রিভুজ FMN পাওয়া গেল। যদি MF, AD-এর সমান্তরাল হয়, FN, DC-এর সমান্তরাল হয়, ∠A = 100° এবং ∠C = 70° হয়, তবে ∠B = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2b0933c0-5224-48e7-93fe-c868ab84bc61",
+    "images": [
+      "images/22900_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2006•ইচাং), AB = CD এবং AD ও BC রেখাদ্বয় O বিন্দুতে ছেদ করে। ত্রিভুজ ABO এবং ত্রিভুজ DCO-কে সর্বসম করার জন্য যে শর্তটি যোগ করতে হবে তা হলো: । (কেবল একটি শর্ত যোগ করতে হবে)\nOptions:\nd)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92f19294-2ab5-471b-a60b-4d80bf38bf2a",
+    "images": [
+      "images/30210_0.png"
+    ],
+    "english_question": "<image>\nযদি চিত্রটিতে দুটি ত্রিভুজ সদৃশ হয়, তবে $x = $ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b854d499-629a-42b9-b8b3-3a1373b3e3e9",
+    "images": [
+      "images/31522_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, ∠FGD = 120°, ∠FEB = 40° হলে, ∠F = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "83e27593-afe7-4898-bd85-a2d2a5653df6",
+    "images": [
+      "images/12740_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, $AB \\parallel CD$ হলে কোনটির ক্ষেত্রে $\\angle 1 = \\angle 2$ সিদ্ধান্তটি নেওয়া সম্ভব?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

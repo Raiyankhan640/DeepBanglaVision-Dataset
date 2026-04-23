@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0605bc00-5be1-4da5-9351-405cac5f1141",
+    "images": [
+      "images/9486_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, CD ⊥ OA এবং CE ⊥ OB। ∠1 = ∠2 এবং CD = CE-এর মধ্যে সম্পর্ক কী?\nOptions:\nB) What is the relationship between ∠1 = ∠2 and CD = CE?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "12c4ebaf-0573-4391-9f1e-fc4b1778f96c",
+    "images": [
+      "images/25327_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD চতুর্ভুজাকৃতির কাগজটিকে BD বরাবর ভাঁজ করা হলো, ফলে A বিন্দুটি BC বাহুর উপর পতিত হয় (BC > AB)। এরপর ABCD চতুর্ভুজের B বিন্দুটিকে D-এর দিকে এমনভাবে ভাঁজ করা হলো যেন CB বাহু CD বাহুর সাথে মিলে যায়, যার ফলে CE ভাঁজ রেখা তৈরি হয়। E বিন্দুটি AD বাহুর উপর পতিত হয়। নিচের কোন সিদ্ধান্তটি সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5cadcaa6-05a0-4d63-9c3d-980dc7662876",
+    "images": [
+      "images/22680_0.png"
+    ],
+    "english_question": "<image>\nএকটি গণিত ক্লাসে, শিক্ষক শিক্ষার্থীদের একটি নদীর প্রস্থ পরিমাপ করতে বললেন। চিত্র অনুযায়ী, একজন শিক্ষার্থী নদীর বিপরীত তীরে অবস্থিত বিন্দু C কে বিন্দু A থেকে পর্যবেক্ষণ করল। পরিমাপ করে দেখা গেল যে, C বিন্দুটি উত্তর দিক থেকে 59° পূর্ব দিকে অবস্থিত। এরপর শিক্ষার্থী নদীর তীর বরাবর 20 মিটার পূর্ব দিকে হেঁটে বিন্দু B তে পৌঁছাল, যেখান থেকে C বিন্দুর অবস্থান উত্তর দিক থেকে 45° পূর্ব দিকে পাওয়া গেল। উপরের তথ্যের ভিত্তিতে, নদীর প্রস্থ নির্ণয় করো। (সহায়ক মান: tan 59° ≈ 5/3, tan 31° ≈ 3/5, sin 31° ≈ 1/2)\nOptions:\nA) It was measured that C is in the direction of 59° east of north. The student then walked 20 meters east along the riverbank to point B, where C was measured to be in the direction of 45° east of north. Based on the above data, help the student calculate the width of the river. (Reference values: \\( \\tan 59° \\approx \\frac{5}{3} \\), \\( \\tan 31° \\approx \\frac{3}{5} \\), \\( \\sin 31° \\approx \\frac{1}{2} \\))",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c776cc58-6be4-495b-b21c-488aab6156b9",
+    "images": [
+      "images/58613_0.png"
+    ],
+    "english_question": "<image>\nচারটি সর্বসম আয়তাকার টুকরো দিয়ে গঠিত চিত্রটি দেওয়া আছে। চিত্রের ফাঁকা অংশের ক্ষেত্রফলকে বিভিন্নভাবে প্রকাশ করে a এবং b সংবলিত একটি অভেদ লেখো।\nOptions:\nb.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17e7b1d6-9813-4b13-99f5-0b6336cf7875",
+    "images": [
+      "images/8610_0.png"
+    ],
+    "english_question": "<image>\nযেসব নকশা একই সাথে অক্ষীয় প্রতিসম (axis-symmetric) এবং কেন্দ্রিক প্রতিসম (centrally symmetric), তাদের সংখ্যা হলো ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "93dd92df-1997-4a0f-ab78-df23d91ff969",
+    "images": [
+      "images/49860_0.png"
+    ],
+    "english_question": "<image>\nএকটি জানালার নিচের অংশ আয়তাকার এবং উপরের অংশ অর্ধবৃত্তাকার। যদি জানালার পরিসীমা L স্থির থাকে, তবে জানালার ক্ষেত্রফল সর্বোচ্চ করার জন্য অর্ধবৃত্তের ব্যাস এবং আয়তাকার অংশের উচ্চতার অনুপাত কত হওয়া উচিত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7a1cffc6-590d-48bf-9223-8ce592a8c016",
+    "images": [
+      "images/20583_0.png"
+    ],
+    "english_question": "<image>\nশিউলি শিউ মিনকে জিজ্ঞেস করল: \"একটি ত্রিভুজের বাহুর দৈর্ঘ্য 4, 9 এবং 12 হলে, আমরা কীভাবে এই ত্রিভুজের ক্ষেত্রফল নির্ণয় করতে পারি?\" শিউ মিন পরামর্শ দিল: \"তুমি দীর্ঘতম বাহুর ওপর উচ্চতা অঙ্কন করে এটি নির্ণয় করতে পারো।\" শিউ মিনের পরামর্শ অনুযায়ী, শিউলি যে সঠিক চিত্রটি এঁকেছে তা হলো ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7260eb0d-b977-43ac-a8a1-4f4f36687f6b",
+    "images": [
+      "images/32314_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB, EF এর উপর লম্ব, CD, EF এর উপর লম্ব, ∠1 = ∠F = 40° এবং A, C, ও F বিন্দুত্রয় সমরেখ। ∠FCD এর সমান কোণ কয়টি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6051fb39-222b-49b1-9ac5-2d92a1a0f895",
+    "images": [
+      "images/74293_0.png"
+    ],
+    "english_question": "<image>\nনদীর বিপরীত তীরে অবস্থিত প্রাচীন টাওয়ার A ও B-এর মধ্যবর্তী দূরত্ব পরিমাপের জন্য, গণিত ক্লাব নদীর এই পাড়ে দুটি বিন্দু C ও D নিল, যা AB-এর সমান্তরাল সরলরেখা l বরাবর 20 মিটার দূরত্বে অবস্থিত। তারা পরিমাপ করল ∠ACB = 15°, ∠BCD = 120° এবং ∠ADC = 30°। চিত্রে প্রদর্শিত তথ্য অনুযায়ী, প্রাচীন টাওয়ার A ও B-এর মধ্যবর্তী দূরত্ব নির্ণয় করো।\nOptions:\nখ) They measured ∠ACB = 15°, ∠BCD = 120°, and ∠ADC = 30°. As shown in the figure, find the distance between ancient towers A and খ)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e64fd689-5b3e-44b2-b4ab-deeed7f78019",
+    "images": [
+      "images/69211_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে দেওয়া আছে: ∠C=90°, ∠A=60°, AC=3 সেমি। অতিভুজ AB-এর মধ্যবিন্দু P-কে ঘূর্ণন কেন্দ্র ধরে ত্রিভুজটিকে 90° ঘড়ির কাঁটার বিপরীত দিকে ঘুরিয়ে সমকোণী ত্রিভুজ A'B'C' পাওয়া গেল। ঘূর্ণনের আগে ও পরে দুটি সমকোণী ত্রিভুজের সাধারণ অংশের ক্ষেত্রফল কত সেমি²?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d188005a-c968-476f-bb36-87492568318a",
+    "images": [
+      "images/2250_0.png"
+    ],
+    "english_question": "<image>\nবাম পাশের চিত্রটি একাধিক ঘনক দ্বারা গঠিত একটি জ্যামিতিক বস্তুর উপর থেকে দেখা দৃশ্য। চিত্রে প্রদর্শিত সংখ্যাগুলো ছোট ঘনকের সংখ্যা নির্দেশ করে। এই জ্যামিতিক বস্তুটির বাম দিক থেকে দেখা দৃশ্য কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8547b31a-dabf-418d-9d9d-911839739bf1",
+    "images": [
+      "images/18158_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB || EF, ∠C = 90°। α, β, এবং γ-এর মধ্যে সম্পর্ক কী?\nক. β + γ - α = 90°\nখ. α + β + γ = 180°\nগ. α + β - γ = 90°\nঘ. β = α + γ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f0290ff6-f1d4-4f4f-991d-227793937d40",
+    "images": [
+      "images/triangle_ext_f0290ff6-f1d4-4f4f-991d-227793937d40.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, ∠AOB-কে একটি 5×5 বর্গাকার গ্রিডে স্থাপন করলে, sin∠AOB-এর মান কত? ( )\nক. \\( \\frac { 3 } { 2 } \\)\nখ. \\( \\frac { 2 } { 3 } \\)\nগ. \\( \\frac { 2 \\sqrt { 13 } } { 13 } \\)\nঘ. \\( \\frac { 3 \\sqrt { 13 } } { 13 } \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f9af89dc-b91f-4c07-895a-5103b9637bed",
+    "images": [
+      "images/29843_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলো পর্যবেক্ষণ করো, এদের মধ্যে সদৃশ চিত্রগুলো হলো ( )\n\nOptions:\nক) 1 pair\nখ) 2 pairs\nগ) 3 pairs\nঘ) 4 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4279b1ad-a33c-4668-9bfc-18ae9de29b4f",
+    "images": [
+      "images/2471_0.png"
+    ],
+    "english_question": "<image>\nএকটি সামান্তরিক আকৃতির বাক্সের নিচে ছয়টি অভিন্ন ছোট সামান্তরিক কার্ড (চিত্র 1-এর মতো) রাখা হলো। চিত্র 2 এবং 3-এ দুটি বিন্যাস পদ্ধতি দেখানো হয়েছে, যেখানে চিত্র 3-এর উপরিপাতিত অংশটি হলো সামান্তরিক EFGH। যদি EH = 2GH হয় এবং চিত্র 2-এর ছায়াযুক্ত অংশের পরিসীমা চিত্র 3-এর চেয়ে 3 একক বেশি হয়, তবে AB - AD এর মান কত?\nক. 0.5\nখ. 1\nগ. 1.5\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "668bafd7-d4db-45e4-80e6-b8da81a151ae",
+    "images": [
+      "images/28702_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দুটি অভিন্ন চতুর্ভুজ একে অপরের ওপর সমাপতিত হয়েছে। যদি একটি চতুর্ভুজকে DA বরাবর AE দৈর্ঘ্যের সমান স্থানান্তর করা হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল সম্পর্কে নিচের কোনটি সঠিক? ( )\n\nOptions (copied from English):\nক. S_{shaded} = S_{quadrilateral EHGF}\nখ. S_{shaded} = S_{quadrilateral DHGK}\nগ. S_{shaded} = S_{quadrilateral EDKF}\nS_{shaded} = S_{quadrilateral EDKF} - S_{quadrilateral DHGK}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ddfe643e-543c-47c0-b9bd-da6e762f2076",
+    "images": [
+      "images/3395_0.png"
+    ],
+    "english_question": "<image>\nবহুতলক (polyhedron) MN-ABCD এর ভূমি একটি আয়তক্ষেত্র এবং এর সম্মুখ দৃশ্য ও পার্শ্ব দৃশ্য চিত্রে দেখানো হয়েছে। সম্মুখ দৃশ্যটি একটি সমদ্বিবাহু ট্রাপিজিয়াম এবং পার্শ্ব দৃশ্যটি একটি সমদ্বিবাহু ত্রিভুজ। AM এর দৈর্ঘ্য কত ( )?\nক. \\(\\sqrt{3}\\)\nখ. \\(\\sqrt{5}\\)\nগ. \\(\\sqrt{6}\\)\nঘ. \\(2\\sqrt{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3fcd91c-3f14-45c3-ac23-6fbebd3f1ea3",
+    "images": [
+      "images/36392_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। জ্যামিতিক বস্তুটির আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50e8befe-2ad6-4f6b-a0ba-045c1b5e7502",
+    "images": [
+      "images/55354_0.png"
+    ],
+    "english_question": "<image>\nসূর্যালোকে শ্যাও লিয়াং \"ওয়াংয়ুই প্যাভিলিয়ন\"-এর উচ্চতা AB পরিমাপ করেন (চিত্রে দেখানো হয়েছে)। পর্যবেক্ষণ বিন্দু ও \"ওয়াংয়ুই প্যাভিলিয়ন\"-এর ভিত্তির মধ্যে দূরত্ব পরিমাপ করা কঠিন হওয়ায় তিনি প্রথমে সরলরেখা BM-এর বিন্দু C-তে একটি সমতল আয়না সমান করে রেখে চিহ্নিত করেন। শ্যাও লিয়াং আয়নার চিহ্নের দিকে তাকিয়ে আসা-যাওয়া করেন। যখন তিনি বিন্দু D-তে পৌঁছান তখন \"ওয়াংয়ুই প্যাভিলিয়ন\"-এর শীর্ষবিন্দু A-এর প্রতিবিম্ব আয়নার চিহ্নের সাথে মিলে যায়। এ সময় পরিমাপ করা হয় যে শ্যাও লিয়াং-এর চোখের উচ্চতা ED = 1.5 মিটার এবং CD = 2 মিটার। তারপর সূর্যালোকে ছায়া দৈর্ঘ্য পদ্ধতিতে দ্বিতীয় পরিমাপ করা হয়: শ্যাও লিয়াং বিন্দু D থেকে DM দিকে 16 মিটার হেঁটে বিন্দু F-তে পৌঁছান, যা \"ওয়াংয়ুই প্যাভিলিয়ন\"-এর ছায়ার শেষ প্রান্ত। এ সময় শ্যাও লিয়াং-এর ছায়ার দৈর্ঘ্য FH = 2.5 মিটার এবং FG = 1.65 মিটার। দেওয়া আছে AB ⊥ BM, ED ⊥ BM, GF ⊥ BM। ব্যবহৃত সমতল আয়নার পুরুত্ব উপেক্ষা করা হয়েছে। প্রশ্নে দেওয়া তথ্য অনুসারে \"ওয়াংয়ুই প্যাভিলিয়ন\"-এর উচ্চতা AB হিসাব করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74151a60-5f8c-42c9-b03e-8abfb6208a34",
+    "images": [
+      "images/5184_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের কোন আকৃতিটির ক্ষেত্রফল বড়?\nক. আয়তক্ষেত্রটি বড়\nখ. বর্গক্ষেত্রটি বড়\nগ. উভয়ই সমান",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

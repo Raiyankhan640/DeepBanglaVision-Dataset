@@ -1,0 +1,302 @@
+[
+  {
+    "id": "e516443b-58d2-42f0-ba1f-dd42f42bc08d",
+    "images": [
+      "images/9214_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB || CD এবং ∠BEF = 85°। ∠ABE + ∠EFC + ∠FCD-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "83815946-370a-4598-abd3-67775263bbd0",
+    "images": [
+      "images/28347_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছোট রম্বস (◇) স্থানান্তর করে একটি সুন্দর \"চাইনিজ নট\" নকশা তৈরি করা যায়। চিত্রে প্রদর্শিত তিনটি নকশা ছোট রম্বস স্থানান্তর করে প্রাপ্ত অনুরূপ \"চাইনিজ নট\" নকশা। চিত্রের নকশা অনুযায়ী, 10ম নকশায় কতটি রম্বস থাকবে? \n(ক) 62 \n(খ) 162 \n(গ) 184 \n(ঘ) 200",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "47b89d4e-31aa-4590-bb45-7e1e62442513",
+    "images": [
+      "images/43644_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, ∠A=90°, AB=7, AD=4, BD যোগ করা হলো, BD⊥CD, ∠ADB=∠C। যদি P, BC বাহুর উপর একটি চলমান বিন্দু হয়, তবে DP এর সর্বনিম্ন দৈর্ঘ্য কত?\nOptions:\nC) If P is a moving point on side BC, what is the minimum length of DP?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e7c55a6-4c58-481d-80dc-a9dd07fa9429",
+    "images": [
+      "images/21252_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB সমান্তরাল CD হয়, তবে নিচের কোন সিদ্ধান্তটি ভুল? ( )\nক. ∠2 = ∠4\nখ. ∠1 = ∠4\nগ. ∠1 = ∠3\nঘ. ∠2 + ∠3 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95eff33a-867f-424e-ab16-1a7b685a9a19",
+    "images": [
+      "images/37420_0.png"
+    ],
+    "english_question": "<image>\nl রেখার ওপর A ও B দুটি বিন্দু অবস্থিত এবং AB = 2। সমান ব্যাসার্ধের দুটি বৃত্ত যথাক্রমে A ও B বিন্দুতে l রেখাকে স্পর্শ করে এবং C বিন্দুতে পরস্পরকে ছেদ করে। AC ও CB চাপ এবং AB রেখাংশ দ্বারা আবদ্ধ ক্ষেত্রফল S-এর সীমা নির্ণয় করো।\nOptions:\nC) What is the range of the area S enclosed by arcs AC, CB, and line segment AB?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca73256d-838a-4963-9d7c-2c9f36b04e34",
+    "images": [
+      "images/14094_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 7-এ দেখানো হয়েছে, একটি আয়তাকার কাগজকে দুইবার ভাঁজ করা হয়েছে। ভাঁজের সাথে 45° কোণ করে একটি কোণা কেটে ফেলা হলো। কাগজটি খুললে কী আকৃতির সমতল চিত্র পাওয়া যাবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8307ff1e-4185-4446-9693-acd07cb61579",
+    "images": [
+      "images/6461_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB || CD এবং ∠E = ∠G = 30^{\\circ}। নিচের কোন উক্তিটি সঠিক?\n\nOptions (copied from English):\nক. \\(∠D = ∠F = ∠B\\)\n\\(∠B + ∠F + ∠D = 60^{\\circ}\\)\nগ. \\(∠B + ∠F + ∠D = 120^{\\circ}\\)\n\\(GD \\parallel EF\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c4f9db53-22d8-4498-b1ab-c9709225f0ce",
+    "images": [
+      "images/31299_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি সমকোণী ত্রিভুজাকার কাগজের টুকরো ABC কে মধ্যমা DE বরাবর কাটা হলো। এরপর, ত্রিভুজ BDE কে CB এর মধ্যবিন্দু D এর সাপেক্ষে ঘড়ির কাঁটার বিপরীত দিকে 180° ঘোরানো হলো, যার ফলে E বিন্দু E' অবস্থানে গেল। চতুর্ভুজ ACE'E এর আকৃতি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98b6d44c-c430-400e-817b-db739e0d0acf",
+    "images": [
+      "images/8534_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো জ্যামিতিক চিত্রগুলোর মধ্যে কতটি অবশ্যই অক্ষরেখা-প্রতিসম? ( )\nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6af932ab-1e42-4ee1-9795-48d224500597",
+    "images": [
+      "images/62181_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে মোট 12টি কোণ রয়েছে, যার মধ্যে ( ) জোড়া একান্তর অন্তঃস্থ কোণ বিদ্যমান।\nক. 6 জোড়া\nখ. 12 জোড়া\nগ. 4 জোড়া\nঘ. 8 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a7106622-b584-49a2-8494-ca02ce968c28",
+    "images": [
+      "images/45745_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত AD ∥ BC। চতুর্ভুজ ABCD-কে একটি সামান্তরিক করতে হলে, আমাদের আরও যে শর্তটি প্রয়োজন তা হলো (__)\n\nOptions:\nক) AB = DC\nখ) ∠1 = ∠2\nগ) AB = AD\nঘ) ∠D = ∠B",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "36d926f2-f8fe-49c2-ac20-78326bdecbeb",
+    "images": [
+      "images/67339_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রটিতে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "606f4d9f-512e-4ac7-a554-cdbccb606c19",
+    "images": [
+      "images/76765_0.png"
+    ],
+    "english_question": "<image>\n(2005 চেনঝো) অতিরিক্ত প্রশ্ন: নিচের চিত্রটি নয়টি সমবাহু ত্রিভুজ দ্বারা গঠিত একটি ষড়ভুজ। যদি ক্ষুদ্রতম সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য 2 সেমি হয়, তবে এই ষড়ভুজের পরিসীমা কত ( ) সেমি।\nক. 30\nখ. 40\nগ. 50\nঘ. 60",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0f38832a-26b5-447d-b6c2-5c52fb4e197f",
+    "images": [
+      "images/52656_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি রাস্তার মানচিত্র দেওয়া হলো। যদি AB, CD-এর সমান্তরাল হয় এবং ∠ABC = 130° হয়, তবে ∠CDE-এর মান কত ডিগ্রি হবে যাতে BC, DE-এর সমান্তরাল হয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a4223cb5-61c5-44cf-9f63-21f4dfe7cc68",
+    "images": [
+      "images/2433_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত জটিল আকৃতির ক্ষেত্রফল নির্ণয়ের জন্য কতটি ভিন্ন পদ্ধতি ব্যবহার করা যেতে পারে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe57d371-8bed-4964-bc9d-c7b5fd9d17e2",
+    "images": [
+      "images/63850_0.png"
+    ],
+    "english_question": "<image>\nΔABC-এ, I হলো ΔABC-এর অন্তকেন্দ্র, O হলো AB বাহুর উপর একটি বিন্দু এবং O কেন্দ্রবিশিষ্ট বৃত্তটি B বিন্দু দিয়ে যায় এবং I বিন্দুতে AI-এর সাথে স্পর্শক। যদি tan ∠BAC = 24/7 হয়, তবে sin ∠C-এর মান কত? ( )\n\nOptions:\nক) \\( \\frac{5}{6} \\)\nখ) \\( \\frac{4}{5} \\)\nগ) \\( \\frac{3}{5} \\)\nঘ) \\( \\frac{\\sqrt{3}}{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5660bc4b-b479-4d66-864f-6cf55f45c6e9",
+    "images": [
+      "images/17031_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ACB-তে ∠ACB = 90°, O বিন্দুটি AB রেখার ওপর অবস্থিত এবং CA = CO = 6 ও \\(\\cos ∠CAB = \\dfrac {1}{3}\\)। যদি ত্রিভুজ ACB-কে A বিন্দুর সাপেক্ষে ঘড়ির কাঁটার দিকে আবর্তিত করে ত্রিভুজ AC'B' পাওয়া যায় এবং C' বিন্দুটি CO রেখার বর্ধিতাংশের ওপর থাকে, তবে BB' এবং CO-এর বর্ধিতাংশের ছেদবিন্দু F হলে BF = কত? ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d6c5d4bd-45c5-41fa-b825-1d12e76907b9",
+    "images": [
+      "images/51246_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে CE = 2AE, F হল AD-এর মধ্যবিন্দু এবং △ABC-এর ক্ষেত্রফল 1। ছায়াযুক্ত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5cad83f0-0c61-4ad9-bb09-60ff0b701e14",
+    "images": [
+      "images/42177_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DB হল একটি অর্ধবৃত্তের ব্যাস, A হল BD এর বর্ধিত অংশের একটি বিন্দু, AC হল অর্ধবৃত্তের একটি স্পর্শক যা বিন্দু E তে স্পর্শ করে, এবং BC হল AC এর উপর লম্ব যা বিন্দু C তে ছেদ করে এবং অর্ধবৃত্তকে বিন্দু F তে ছেদ করে। যদি BD = 2 হয়, তবে AD = x এবং CF = y হলে, y এর ফাংশন y এর সমীকরণটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dfc99dda-28db-492a-a174-9a7435b90113",
+    "images": [
+      "images/11642_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BD হলো বর্গক্ষেত্র ABCD এর কর্ণ। বৃত্তচাপ BD এর কেন্দ্র A এবং ব্যাসার্ধ AB এর সমান। বর্গক্ষেত্র ABCD কে AB বাহুকে কেন্দ্র করে একবার ঘোরালে যে তিনটি অংশ I, II এবং III পাওয়া যায়, তাদের আয়তনের অনুপাত নির্ণয় করো।\nOptions:\nD) The center of the circle of angle \\( \\widehat{BD} \\) is A, with a radius equal to AB) The square ABCD rotates around AB for one full turn. Find the volume ratio of the three parts I, II, and III obtained from the rotation.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a6e438f1-9c87-4180-bf66-cc351358cb79",
+    "images": [
+      "images/65503_0.png"
+    ],
+    "english_question": "<image>\nকোন যানবাহনটি ধীরগতিতে চলে, মিনিবাস নাকি সেডান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc81b336-44ec-470f-8697-464f5927d5b2",
+    "images": [
+      "images/50215_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC হলো বৃত্ত O-এর একটি অন্তর্লিখিত ত্রিভুজ, যেখানে AB বৃত্ত O-এর ব্যাস। বিন্দু D বৃত্ত O-এর ওপর অবস্থিত এবং ∠BAC = 35°, তাহলে ∠ADC = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "32111f35-8fd2-457c-9ba2-c2c963e691b6",
+    "images": [
+      "images/206_0.png"
+    ],
+    "english_question": "<image>\nএকদিন, টম ক্যাট এবং জেরি মাউস উভয়েই চিত্রের A বিন্দুতে ছিল। জেরি মাউস D বিন্দুতে সুস্বাদু খাবারের একটি প্লেট খুঁজে পায় এবং A→B→D পথ ধরে D-এর দিকে দৌড়াতে শুরু করে। 5 সেকেন্ড পর, টম ক্যাট প্রতিক্রিয়া দেখায় এবং A→C→D পথ ধরে D-এর দিকে দৌড়াতে শুরু করে। জানা আছে যে টম ক্যাটের গতিবেগ 5 মিটার/সেকেন্ড এবং জেরি মাউসের গতিবেগ 4 মিটার/সেকেন্ড। কে আগে D বিন্দুতে পৌঁছাবে?\nOptions:\nD) After 5 seconds, Tom Cat reacted and ran towards D along the path A→C→D) It is known that Tom Cat runs at a speed of 5 meters per second and Jerry Mouse runs at a speed of 4 meters per second. Who arrives at point D first?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c75c0dfd-41e8-40c4-afa8-1838b50583a1",
+    "images": [
+      "images/45141_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DH সমান্তরাল EG, যা BC এর সমান্তরাল এবং EF সমান্তরাল DC। চিত্রে ∠1 এর সমান কতগুলো কোণ আছে (∠1 ব্যতীত)?\n\nOptions:\nক) 2\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d3de1d9f-429f-4335-b7f0-357b2b912265",
+    "images": [
+      "images/3825_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে রেখা AB এবং CD পরস্পর ও বিন্দুতে ছেদ করে। OE ∠BOD-কে এবং OF ∠COE-কে সমদ্বিখণ্ডিত করে। যদি ∠AOD: ∠BOE = 4:1 হয়, তবে ∠AOF-এর মান কত?\nক. 120°\nখ. 125°\nগ. 130°\nঘ. 135°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49f2957e-3282-46a4-a050-5d6663bf5af4",
+    "images": [
+      "images/71565_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, FE কোণ GFD-কে সমদ্বিখণ্ডিত করে, GF রেখা AB-কে H বিন্দুতে ছেদ করে এবং কোণ GHA হলো 40°। কোণ BEF-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4faacf90-2340-4a3b-91de-b3ae18b85572",
+    "images": [
+      "images/40129_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ AB=3, AC=4 এবং BC=5। বিন্দু P বাহু BC বরাবর অবস্থান পরিবর্তন করে। PE বাহু AB-এর ওপর লম্ব পাদবিন্দু E-তে, PF বাহু AC-এর ওপর লম্ব পাদবিন্দু F-তে এবং M হলো EF-এর মধ্যবিন্দু। AM-এর ন্যূনতম মান কত?\nক. \\( \\frac{5}{4} \\)\nখ. \\( \\frac{5}{2} \\)\nগ. \\( \\frac{5}{3} \\)\nঘ. \\( \\frac{6}{5} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8fde143-2d5f-4e40-ae8d-4683e105a0e8",
+    "images": [
+      "images/75518_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 1 একক বাহুবিশিষ্ট একটি ত্রিভুজকে প্রতিটি বাহুর দিকে তিনটি সমান অংশে ভাগ করা হয়েছে। মাঝখানের অংশটিকে বাহু ধরে বাইরের দিকে একটি ত্রিভুজ গঠন করা হয়েছে এবং মাঝখানের অংশটি মুছে ফেলা হয়েছে, যার ফলে চিত্র (2) পাওয়া যায়। এই প্রক্রিয়াটি চিত্র (3) এবং পরবর্তী চিত্রগুলোর জন্য চলতে থাকে। n-তম চিত্রের বাহুর সংখ্যা a_n কে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d345342-9568-4b1b-8475-99e2cb25c3f6",
+    "images": [
+      "images/47358_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে যে, $l_{1} \\parallel l_{2} \\parallel l_{3} \\parallel l_{4}$ এবং দুটি সংলগ্ন সমান্তরাল রেখার মধ্যবর্তী দূরত্ব 1। যদি বর্গক্ষেত্র ABCD-এর চারটি শীর্ষবিন্দু চারটি রেখার ওপর অবস্থিত হয়, তবে $\\sin\\alpha=$ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dec7240a-1876-4d1e-bb03-8dae8cb9c5f0",
+    "images": [
+      "images/2291_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 4×4 গ্রিডে, যেখানে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 একক, ছোট বর্গের শীর্ষবিন্দুগুলোকে গ্রিড বিন্দু বলা হয়। গ্রিড বিন্দু A এবং B দেওয়া আছে, গ্রিডের মধ্যে এমন একটি বিন্দু C (যা অবশ্যই একটি গ্রিড বিন্দু হতে হবে) খুঁজে বের করো যেন ত্রিভুজ ABC একটি সমদ্বিবাহু ত্রিভুজ হয়। এমন কতটি গ্রিড বিন্দু আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8acf9f35-c1dc-427c-b630-1e8e66b1378b",
+    "images": [
+      "images/4282_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কাগজের একটি বর্গাকার টুকরোকে দুইবার অর্ধেক করে ভাঁজ করা হলো এবং তারপর তাতে 3টি ছিদ্র করা হলো। কাগজটি খোলার পর কেমন দেখাবে? ( ▲)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52b72066-23a8-4a74-9392-3d7dac2dd834",
+    "images": [
+      "images/42240_0.png"
+    ],
+    "english_question": "<image>\n(শরৎ 2014 • কিজিয়া সিটি টার্ম পরীক্ষা) একটি আয়তাকার কাগজ থেকে দুটি ছোট আয়তক্ষেত্র কেটে নিয়ে চিত্রে প্রদর্শিত আকৃতিটি পাওয়া গেল। জানা আছে যে তিনটি বাহুর দৈর্ঘ্য x, y এবং z। এই আকৃতির পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ce3a5a49-89b2-40be-910d-068411b75a1c",
+    "images": [
+      "images/38981_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রে, বৃত্তগুলোর (▲) মধ্যে বিভিন্ন অবস্থানের সম্পর্ক রয়েছে।\nক. 2 প্রকার\nখ. 3 প্রকার\nগ. 4 প্রকার\nঘ. 5 প্রকার",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9cae5e92-d949-4835-8b6c-b0100884f823",
+    "images": [
+      "images/31905_0.png"
+    ],
+    "english_question": "<image>\nশিউলি ভুলবশত বাড়িতে গোল কাঁচটি ভেঙে ফেলেছে। চিত্রে দেখানো চারটি টুকরোর মধ্যে, শিউলি কোন টুকরোটি দোকানে নিয়ে গেলে আসল গোল কাঁচের আকার মেলাতে পারবে?\n\nOptions:\nক) Piece 1\nখ) Piece 2\nগ) Piece 3\nঘ) Piece 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8244ee0c-c957-4a3b-8bef-d8207c43b884",
+    "images": [
+      "images/63992_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের বড় ত্রিভুজটিকে 5টি ছোট ত্রিভুজে বিভক্ত করা হয়েছে, যার মধ্যে 4টির ক্ষেত্রফল চিত্রে দেওয়া আছে। ছায়াবৃত ত্রিভুজটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "81a89226-7ed5-49ca-ab82-fea593a1891c",
+    "images": [
+      "images/62725_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি টহল বোট সমুদ্রের B বিন্দুতে পৌঁছানোর পর জানতে পারলো যে C বিন্দুতে একটি মাছ ধরার নৌকায় সমস্যা দেখা দিয়েছে। C বিন্দুটি B বিন্দুর ঠিক 20 নটিক্যাল মাইল উত্তরে অবস্থিত। টহল বোটটি তৎক্ষণাৎ বন্দর A-তে থাকা উদ্ধারকারী নৌকাকে উদ্ধারের জন্য C বিন্দুতে যাওয়ার নির্দেশ দিলো। জানা আছে যে, A বিন্দুর সাপেক্ষে C বিন্দুর দিক উত্তর থেকে 45° পূর্বে এবং B বিন্দুর সাপেক্ষে A বিন্দুর দিক উত্তর থেকে 30° পশ্চিমে। A এবং C বিন্দুর মধ্যবর্তী দূরত্ব নির্ণয় করো। (0.1 নটিক্যাল মাইল পর্যন্ত নির্ভুল। তথ্য: \\(\\sqrt{2} \\approx 1.41\\), \\(\\sqrt{3} \\approx 1.73\\) )\nOptions:\nখ) It immediately instructs the rescue boat at port A to head to point C for rescue. It is known that point C is located at a direction of 45° east of north from point A, and port A is located at a direction of 30° west of north from point খ) Find the distance between points A and গ) (Results accurate to 0.1 nautical miles, reference data: \\(\\sqrt{2} \\approx 1.41\\), \\(\\sqrt{3} \\approx 1.73\\) )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f95dbf7-4e21-44fb-ae33-e4c6b08ce1a4",
+    "images": [
+      "images/30672_0.png"
+    ],
+    "english_question": "<image>\nযদি AC, BD এবং EF রেখাংশগুলো O বিন্দুতে পরস্পরকে সমদ্বিখণ্ডিত করে, তবে চিত্রে সর্বসম ত্রিভুজের কত জোড়া বিদ্যমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06012345-4194-4b2f-9c80-6dbd98cc8d1b",
+    "images": [
+      "images/31620_0.png"
+    ],
+    "english_question": "<image>\nট্যানগ্রামকে পশ্চিমা বিশ্বে 'ইস্টার্ন ম্যাজিক বোর্ড' বলা হয়। নিচের দুটি চিত্র একই ট্যানগ্রামের টুকরোগুলো দিয়ে তৈরি। যদি ট্যানগ্রাম দ্বারা গঠিত বর্গক্ষেত্রের (চিত্র ক-তে দেখানো) বাহুর দৈর্ঘ্য 8 হয়, তবে 'স্মুথ সেলিং'-এর (চিত্র খ-তে দেখানো) ছায়াবৃত অংশের ক্ষেত্রফল কত?\nOptions:\na) is 8, what is the area of the shaded part of 'Smooth Sailing' (as shown in image b)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f9d50785-ec60-441c-88bf-206242d5cc7c",
+    "images": [
+      "images/5042_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক বস্তুটির সম্মুখ দৃশ্য (front view) কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a2c4f6c6-b60e-4837-a3f9-7d0da648f3a0",
+    "images": [
+      "images/55175_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, এই জ্যামিতিক বস্তুর আয়তন কত? ক. 1 খ. 1/2 গ. 1/3 ঘ. 1/6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "919dddc8-0379-49a9-9df0-adf20384822e",
+    "images": [
+      "images/5769_0.png"
+    ],
+    "english_question": "<image>\nএকটি চতুর্ভুজাকার পিরামিডের ভূমি একটি রম্বস এবং এর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই চতুর্ভুজাকার পিরামিডটির আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "61b64723-2a16-42fd-925f-9118e4f4b3db",
+    "images": [
+      "images/61830_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, ∠B = 120° এবং ∠D = 50°। নিচের ডানদিকের কোণটিকে ভেতরের দিকে ভাঁজ করে PCR ত্রিভুজ গঠন করা হলো, যাতে CP, AB-এর সমান্তরাল এবং RC, AD-এর সমান্তরাল হয়। ∠C-এর মান কত?\nOptions:\nD) What is the measure of angle ∠C?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79d33fb1-8169-4242-9e89-93f3aa60de53",
+    "images": [
+      "images/62001_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত O-এর দুটি স্পর্শক PA এবং PB, বৃত্তটিকে যথাক্রমে A ও B বিন্দুতে স্পর্শ করে। C বৃত্তের ওপর অবস্থিত একটি বিন্দু। যদি ∠P = 70° হয়, তবে ∠ACB = কত? (ডিগ্রিতে প্রকাশ করো)\nOptions:\nB) Point C is a point on circle O. If ∠P = 70°, then ∠ACB = ? (expressed in degrees)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "121111aa-e9a1-4291-aa04-0366898de267",
+    "images": [
+      "images/34824_0.png"
+    ],
+    "english_question": "<image>\nট্রাপিজিয়াম ABCD-তে, যেখানে AD সমান্তরাল BC, O হলো কর্ণদ্বয়ের ছেদবিন্দু, F হলো OB-এর উপর একটি বিন্দু এবং E হলো CF-এর উপর একটি বিন্দু। ক্ষেত্রফলগুলো দেওয়া আছে: S_{△AOB}=10, S_{△BFE}=3, S_{△BEC}=9, S_{△OEC}=6, ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca28684a-8ff7-4b0f-97ca-6d54c8d0d7a0",
+    "images": [
+      "images/14545_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে প্রদর্শিত অনুযায়ী, AB = BE, ∠1 = ∠2। তবে চিত্রে সর্বসম ত্রিভুজের সংখ্যা কত? ( ) ক. 2 খ. 3 গ. 4 ঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7e4a854f-946c-4b18-8b57-a8523110a84c",
+    "images": [
+      "images/9915_0.png"
+    ],
+    "english_question": "<image>\nনিচের গাড়িগুলোর লোগোর মধ্যে কোনটি কেন্দ্রিক প্রতিসম (centrally symmetric) চিত্র হিসেবে বিবেচিত হতে পারে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d894b3ad-b5ff-4509-a2a1-7a6ae8c4e61a",
+    "images": [
+      "images/36187_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ও CD রেখা দুইটি O বিন্দুতে ছেদ করে। যদি ∠AOC = 35° এবং ∠COE = 110° হয়, তবে ∠BOE-এর পরিমাপ ডিগ্রিতে কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a4edc3e-4a00-4801-85f9-95e62c5f2f81",
+    "images": [
+      "images/67330_0.png"
+    ],
+    "english_question": "<image>\nMN-ABCD বহুভুজটির ভূমি ABCD একটি আয়তক্ষেত্র। এর সম্মুখ (প্রধান) দৃশ্য এবং পার্শ্ব (বাম) দৃশ্য চিত্রে দেখানো হয়েছে, যেখানে সম্মুখ দৃশ্যটি একটি সমদ্বিবাহু ট্রাপিজিয়াম এবং পার্শ্ব দৃশ্যটি একটি সমদ্বিবাহু ত্রিভুজ। AM এর দৈর্ঘ্য কত?\n\nOptions:\nক) \\( \\sqrt{3} \\)\nখ) \\( \\sqrt{5} \\)\nগ) \\( \\sqrt{6} \\)\nঘ) \\( 2\\sqrt{2} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "beb279eb-8034-43bc-bf6e-77ac398e96c0",
+    "images": [
+      "images/44525_0.png"
+    ],
+    "english_question": "<image>\nচতুস্তলক \\(ABC-D\\)-এর প্রতিটি ধারের দৈর্ঘ্য 1 এবং ধার \\(AB\\), সমতল \\(\\alpha\\)-এর সমান্তরাল। সমতল \\(\\alpha\\)-এর ওপর চতুস্তলকটির সকল বিন্দুর অভিক্ষেপের ক্ষেত্রফলের সীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0497da3b-5c27-45ca-9046-78d974fe3315",
+    "images": [
+      "images/29868_0.png"
+    ],
+    "english_question": "<image>\nএকটি ছোট শূকর তার বাড়ি থেকে যাত্রা শুরু করে দক্ষিণে হরিণের বাড়িতে যায়, তারপর পূর্ব দিকে বানরের বাড়িতে যায়। দ্বিতীয় একটি ছোট শূকর তার বাড়ি থেকে যাত্রা শুরু করে পূর্ব দিকে কুকুরের বাড়িতে যায়, তারপর দক্ষিণে বানরের বাড়িতে যায়। তৃতীয় একটি ছোট শূকর তার বাড়ি থেকে যাত্রা শুরু করে দক্ষিণ-পূর্ব দিকে খরগোশের বাড়িতে যায়, তারপর দক্ষিণ-পূর্ব দিকে বানরের বাড়িতে যায়। এই তিনটি পথের মধ্যে কোনটি সবচেয়ে ছোট?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "581d49bf-f0e3-4657-b578-eec1168b3e94",
+    "images": [
+      "images/74027_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 3 × 3 গ্রিডে, গ্রিড রেখাগুলোর প্রতিটি ছেদবিন্দুকে গ্রিড পয়েন্ট বলা হয়। যদি চিত্রে A এবং B দুটি গ্রিড পয়েন্ট হয়, তবে চিত্রে এমন আরেকটি গ্রিড পয়েন্ট C খুঁজে বের করো যাতে ΔABC একটি সমদ্বিবাহু ত্রিভুজ হয়। এই শর্ত পূরণকারী বিন্দু C-এর সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bccb7638-5c60-4d01-9ece-97929930557f",
+    "images": [
+      "images/8062_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, যেখানে শীর্ষ দৃশ্যটি r ব্যাসার্ধের একটি বৃত্ত। যদি এই জ্যামিতিক বস্তুর আয়তন \\( \\frac{9}{8} \\pi \\) হয়, তবে এর পৃষ্ঠতলের ক্ষেত্রফল কত? \nক. \\( \\frac{9}{2} \\pi \\) \nখ. 9\\( \\pi \\) \nগ. \\( \\frac{45}{4} \\pi \\) \nঘ. \\( \\frac{54}{4} \\pi \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "56ed6a98-c76d-4b00-833f-7b2cd2b3d617",
+    "images": [
+      "images/6725_0.png"
+    ],
+    "english_question": "<image>\nধরি, f(x) হলো R-এর ওপর সংজ্ঞায়িত একটি ক্রমবর্ধমান ফাংশন এবং যেকোনো x-এর জন্য f(-x) + f(x) = 0। যদি বাস্তব সংখ্যা m এবং n অসমতা f(m^2 - 6m + 21) + f(n^2 - 8n) < 0 সিদ্ধ করে, তবে m^2 + n^2-এর মানের সীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "337008f5-15fe-4086-aea5-ad356f69841c",
+    "images": [
+      "images/71099_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে রেখা a ও b-কে রেখা c ছেদ করেছে। নিম্নলিখিত চারটি শর্ত দেওয়া আছে: (1) ∠1 = ∠5; (2) ∠4 = ∠7; (3) ∠2 + ∠3 = 180°; (4) ∠1 = ∠7। নিম্নলিখিত কোন শর্ত a ∥ b নির্ধারণ করতে পারে? ( ) ক. (1), (2) খ. (1), (3) গ. (1), (4) ঘ. (3), (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f35acbe-0ee9-4cf2-953a-c04c88dca217",
+    "images": [
+      "images/8060_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত A, x-অক্ষকে O বিন্দুতে স্পর্শ করে এবং A বিন্দুর স্থানাঙ্ক (0, 1)। P বিন্দুটি বৃত্ত A-এর উপর প্রথম চতুর্ভাগে অবস্থিত এবং ∠PAO=60°। বৃত্ত A, x-অক্ষের ধনাত্মক দিকে গড়িয়ে চলে। যখন P বিন্দুটি n-তম বার x-অক্ষে পতিত হয়, তখন P বিন্দুর x-স্থানাঙ্ক কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5273aa89-6ad9-4bd4-84eb-cbd51baa9824",
+    "images": [
+      "images/56581_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি চাঁদার বাইরের প্রান্তে A এবং B বিন্দু দুটি যথাক্রমে 80° এবং 50° পাঠ নির্দেশ করে। ∠ACB এর পরিমাপ কত?\n\nOptions:\nক) 30°\nখ) 15°\nগ) 20°\nঘ) 40°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "85d5a48f-f3fb-461a-9dfd-c6aaaec12f5e",
+    "images": [
+      "images/2095_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে যে, ∠3 = ∠4। ∠1 = ∠2 করার জন্য কোনটি প্রয়োজন? (AB ∥ CD)\n\nOptions (copied from English):\nক. ∠1 = ∠3\nখ. ∠2 = ∠3\nগ. ∠1 = ∠4\nAB ∥ CD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "389aa549-c00f-44fe-9d38-0a5c37d95684",
+    "images": [
+      "images/30699_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক ঘনবস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক ঘনবস্তুটি কী?\n\nOptions:\nক) Pyramid\nখ) Prism\nগ) Frustum\nঘ) None of the above",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "deedac56-5a93-48d3-a634-1cba32cca57f",
+    "images": [
+      "images/71306_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB ∥ CD ∥ EF হয়, তবে x, y এবং z-এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2d2ab341-ff30-40a6-b5a0-9950e9379d78",
+    "images": [
+      "images/3384_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PG রশ্মি ∠EPF-কে সমদ্বিখণ্ডিত করে, O বিন্দুটি PG রশ্মির উপর অবস্থিত। O কেন্দ্রবিশিষ্ট 10 ব্যাসার্ধের একটি বৃত্ত ∠EPF-এর বাহুদ্বয়কে A, B এবং C, D বিন্দুতে ছেদ করে। OA যোগ করি, যেখানে OA || PE। যদি জ্যা AB = 12 হয়, তবে OP-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD) Connect OA, then OA is parallel to PE. Given that chord AB = 12, find the length of OP.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

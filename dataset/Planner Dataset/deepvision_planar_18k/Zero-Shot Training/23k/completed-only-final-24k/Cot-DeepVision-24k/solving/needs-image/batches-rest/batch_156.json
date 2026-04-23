@@ -1,0 +1,302 @@
+[
+  {
+    "id": "07cab728-ce9f-4565-b4b5-cc8a00b802b6",
+    "images": [
+      "images/49677_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্র 1-এ, G হলো BC-এর মধ্যবিন্দু, H বিন্দুটি AF-এর ওপর অবস্থিত এবং P বিন্দুটি চিত্র 1-এর ধার বরাবর 2 সেমি/সেকেন্ড বেগে G→C→D→E→F→H পথে চলে। ত্রিভুজ ABP-এর ক্ষেত্রফল y (সেমি²), সময় t (সেকেন্ড)-এর একটি ফাংশন যা চিত্র 2-এ দেখানো হয়েছে। যদি AB = 6 সেমি হয়, তবে নিচের চারটি সিদ্ধান্তের মধ্যে কয়টি সঠিক? ( ) 1. চিত্র 1-এ BC-এর দৈর্ঘ্য 8 সেমি; 2. চিত্র 2-এ M বিন্দু নির্দেশ করে যে 4র্থ সেকেন্ডে y-এর মান 24; 3. চিত্র 1-এ CD-এর দৈর্ঘ্য 4 সেমি; 4. চিত্র 1-এ DE-এর দৈর্ঘ্য 3 সেমি; 5. চিত্র 2-এ Q বিন্দু নির্দেশ করে যে 8ম সেকেন্ডে y-এর মান 33; 6. চিত্র 2-এ N বিন্দু নির্দেশ করে যে 12তম সেকেন্ডে y-এর মান 18 সেমি²।\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da175051-e6b7-44ac-94ca-af67d14810e7",
+    "images": [
+      "images/3789_0.png"
+    ],
+    "english_question": "<image>\n1, 2, 3, 4, 5, ... সংখ্যাগুলো ব্যবহার করে পর্যায়ক্রমে সাজানো মাছের আকৃতির নকশাটিতে \"10\" সংখ্যাটি কতবার আসবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "31419000-f756-4004-978f-52b4c51beb40",
+    "images": [
+      "images/66313_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, AB, AC এর উপর লম্ব। যদি AD, BC এর উপর লম্ব হয়, তবে AB² = BD • BC; একইভাবে, A-BCD ত্রিভুজাকার পিরামিডে, যদি AD, ABC তলের উপর লম্ব হয় এবং BCD তলের উপর A বিন্দুর অভিক্ষেপ M হয়, তবে S²△ABC = S△BCM • S△BCD। উপরের উক্তিটি ( ) \nক. সত্য উক্তি\nখ. 'AB⊥AC' শর্ত যোগ করলে এটি একটি সত্য উক্তি হয়\nগ. 'M হলো BCD ত্রিভুজের লম্বকেন্দ্র' শর্ত যোগ করলে এটি একটি সত্য উক্তি হয়\nঘ. 'A-BCD ত্রিভুজাকার পিরামিডটি একটি সুষম ত্রিভুজাকার পিরামিড' শর্ত যোগ করলে এটি একটি সত্য উক্তি হয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "095cd57a-ea85-4905-b3bd-239ccda6bd8b",
+    "images": [
+      "images/13405_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E ও F বিন্দুদ্বয় AC রেখার উপর অবস্থিত, যেখানে AE = CF, DF = BE এবং ∠AFD = ∠CEB। নিচের কোন সিদ্ধান্তটি সঠিক নয়?\n\nOptions (copied from English):\nC. BE = DF\nDF ∥ BE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da4889d1-d37a-4f5f-9835-6880b4b4e188",
+    "images": [
+      "images/53083_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, PCBM একটি সমকোণী ট্রাপিজিয়াম, ∠PCB=90°, PM∥BC, PM=1, BC=2, AC=1, ∠ACB=120°, PC⊥ সমতল ABC, রেখা AM এবং রেখা PC এর মধ্যবর্তী কোণ 60°। M-AC-B দ্বিতল কোণের কোসাইন মান নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "86a636ce-c9fa-412c-9efc-9def9bf58150",
+    "images": [
+      "images/39706_0.png"
+    ],
+    "english_question": "<image>\nAD সমান্তরাল BC, AB সমান্তরাল CD এবং AC ও BD কর্ণদ্বয় O বিন্দুতে ছেদ করে। O বিন্দুগামী একটি রেখা EF, AD-কে E বিন্দুতে এবং BC-কে F বিন্দুতে ছেদ করে, যেখানে BF = DE। চিত্রে সর্বসম ত্রিভুজের কত জোড়া বিদ্যমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "865a4324-a09c-4d4a-b611-3b50451447d9",
+    "images": [
+      "images/71437_0.png"
+    ],
+    "english_question": "<image>\nদুটি অভিন্ন 30-60-90 ত্রিভুজাকৃতির স্কেলকে এমনভাবে রাখা হয়েছে যাতে তাদের দীর্ঘ বাহুর মধ্যবিন্দু M চিহ্নিত থাকে। ত্রিভুজ ABC কে M বিন্দুর চারদিকে এমনভাবে ঘোরানো হলো যেন এর সমকোণী শীর্ষবিন্দু C, ত্রিভুজ A'B'C' এর অতিভুজ A'B' এর উপর পড়ে। দেওয়া আছে ∠A = 30° এবং AC = 10, সমকোণী শীর্ষবিন্দু C এবং C' এর মধ্যবর্তী দূরত্ব নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "82b62c78-8add-447b-a702-c41c5ee783cb",
+    "images": [
+      "images/75145_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে (2010 জিয়াংশি সিমুলেশন), AC = BD এবং AB = CD। চিত্রটিতে কত জোড়া সর্বসম ত্রিভুজ রয়েছে? ( )\nক. 2টি\nখ. 3টি\nগ. 4টি\nঘ. 5টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7e225423-3b27-4c04-baaf-b11608ac737a",
+    "images": [
+      "images/61297_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, বিন্দু A বক্ররেখা y = m/x (x > 0) বরাবর নড়াচড়া করে। A বিন্দুগামী অক্ষদ্বয়ের সমান্তরাল রেখাগুলো y = k/x বক্ররেখাকে B এবং C বিন্দুতে ছেদ করে। A-এর x-স্থানাঙ্ক বাড়লে ত্রিভুজ ABC-এর ক্ষেত্রফলের কী পরিবর্তন হবে?\nOptions:\nC) What happens to the area of triangle ABC as the x-coordinate of A increases?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f1e5e2a-beb3-4cc2-a072-a4227d35f616",
+    "images": [
+      "images/57680_0.png"
+    ],
+    "english_question": "<image>\nআয়তন নির্ণয় করো (একক: মিটার) (জেচিয়াং এডুকেশন এডিশন টোটাল রিভিউ থেকে গৃহীত)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fc439432-4b2d-4b03-a963-757e9fcd7e22",
+    "images": [
+      "images/48821_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সুষম ষড়ভুজ ABCDEF-এর বাহুর দৈর্ঘ্য 2 এবং শীর্ষবিন্দু A ও B যথাক্রমে x-অক্ষ ও y-অক্ষ বরাবর নড়াচড়া করে। মূলবিন্দু O থেকে শীর্ষবিন্দু D-এর সর্বোচ্চ ও সর্বনিম্ন দূরত্বের গুণফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55580209-2f8c-4b28-b0cb-5c9924544962",
+    "images": [
+      "images/51509_0.png"
+    ],
+    "english_question": "<image>\nচিত্র M এবং রেখা l দেওয়া আছে। রেখা l-এর সাপেক্ষে চিত্র M-এর অক্ষীয় প্রতিসাম্য রূপান্তরের ফলে প্রাপ্ত প্রতিচ্ছবি কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8eaf5775-0929-4c38-93c6-2cf7546730b5",
+    "images": [
+      "images/51874_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BE এবং CF হলো ত্রিভুজ ABC এর কোণদ্বয়ের সমদ্বিখণ্ডক এবং ∠BDC = 110°; তবে ∠A এর মান কত? ( )\nক. 50°\nখ. 40°\nগ. 70°\nঘ. 35°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d9baff2-bd97-48f3-8ce4-4dfb1f188a1f",
+    "images": [
+      "images/9503_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (1) একটি আয়তাকার কাগজের ফালি, যেখানে ∠DEF=α। ফালিটিকে EF বরাবর ভাঁজ করে চিত্র (2) তৈরি করা হয় এবং তারপর BF বরাবর ভাঁজ করে চিত্র (3) তৈরি করা হয়। চিত্র (3)-এ ∠CFE-এর মান কত ডিগ্রি?\n\nOptions:\nক) \\(2α\\)\nখ) \\(90^{\\circ}+2α\\)\nগ) \\(180^{\\circ}-2α\\)\nঘ) \\(180^{\\circ}-3α\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a9e5f25-8c87-4f7a-b642-c040157d1647",
+    "images": [
+      "images/10941_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2fdb8424-99eb-499e-a53b-dba4486160dd",
+    "images": [
+      "images/52734_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত তিনটি দৃশ্য থেকে, শঙ্কু আকৃতির বস্তুটির মোট পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ad0973f-162b-48f9-85ee-9340bfd93e15",
+    "images": [
+      "images/18662_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত O-তে অন্তর্লিখিত বৃত্তস্থ চতুর্ভুজ ABCD-এর AB হলো ব্যাস, ∠BCD=120°, D বিন্দুতে অঙ্কিত স্পর্শক PD, AB রেখাকে P বিন্দুতে ছেদ করে, তবে ∠ADP-এর মান কত?\n\nOptions:\nক) 40°\nখ) 35°\nগ) 30°\nঘ) 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9011b1bf-7f35-49cb-b8ff-5a2c02da2ad6",
+    "images": [
+      "images/14710_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, AD সমান্তরাল BC এবং CE সমান AF। চিত্রে সর্বসম ত্রিভুজের কত জোড়া বিদ্যমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a72a1f7-53f7-46e7-b6f7-30356b056f4f",
+    "images": [
+      "images/58614_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে রম্বস ABCD-এর কর্ণ AC ও BD বিন্দু O-এ ছেদ করে এবং OE, AB-এর উপর লম্ব। যদি AC = 8 এবং BD = 6 হয়, তবে OE-এর দৈর্ঘ্য কত?\nOptions:\nB) If AC = 8 and BD = 6, what is the length of OE?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e0be9dd-860d-40e9-a57d-b02cb31ec93f",
+    "images": [
+      "images/5134_0.png"
+    ],
+    "english_question": "<image>\nএকজন শিক্ষার্থী চিত্রে প্রদর্শিত উপায়ে একটি ত্রিভুজাকার রুলার রেখেছে। যদি AE, BC এর সমান্তরাল হয়, তবে ∠AFD এর মান কত degree?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "c418a462-b280-4ad3-a0f6-6cd8553243a3",
+    "images": [
+      "images/52320_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কত? ( ) ক. 200+9π খ. 200+18π গ. 140+9π ঘ. 140+18π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f6098d9-2097-4d76-88e0-dad47619c207",
+    "images": [
+      "images/11762_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত O হলো বর্গক্ষেত্র ABCD-এর অন্তর্বৃত্ত, যা প্রতিটি বাহুকে E, F, G এবং H বিন্দুতে স্পর্শ করে। কোণ 1-এর ট্যানজেন্ট (tangent)-এর মান কত? \nক. √5/5 \nখ. 1/2 \nগ. 1 \nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3818588a-cd4a-421b-89e5-6fb04a39d3f0",
+    "images": [
+      "images/triangle_ext_3818588a-cd4a-421b-89e5-6fb04a39d3f0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, ∠A=90°, AB=AC=2, বিন্দু O হলো BC বাহুর মধ্যবিন্দু এবং অর্ধবৃত্ত O, ত্রিভুজ ABC-কে D এবং E বিন্দুতে স্পর্শ করে। ছায়াবৃত অংশের ক্ষেত্রফল হলো\nক. $1 - \\frac{\\pi}{4}$\nখ. $\\frac{\\pi}{4}$\nগ. $1 - \\frac{\\pi}{8}$\nঘ. $\\frac{\\pi}{8}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1017c931-542b-44cc-8305-c70578c6a73a",
+    "images": [
+      "images/triangle_ext_1017c931-542b-44cc-8305-c70578c6a73a.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রে দেখানো চ্যানেলে একটি ছোট বল \\(A\\) উপর থেকে নিচে এলোমেলোভাবে গড়িয়ে পড়ে এবং শেষ পর্যন্ত নিচের একটি প্রস্থান পথ দিয়ে বেরিয়ে যায়। বলটির 3 নম্বর প্রস্থান পথ দিয়ে বেরিয়ে যাওয়ার সম্ভাবনা কত?\nক. \\( \\dfrac {1}{5}\\)\nখ. \\( \\dfrac {1}{4}\\)\nগ. \\( \\dfrac {3}{16}\\)\nঘ. \\( \\dfrac {3}{8}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6aed3ca5-8963-4c85-a2d3-98e41cb13fff",
+    "images": [
+      "images/36271_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি স্কুলের দেয়াল একটি অবতল খিলানের অংশ নিয়ে গঠিত, যা একটি পরাবৃত্তের অংশ। বেড়া AB-এর মধ্যে, 0.2 মিটার সমান ব্যবধানে 5টি উল্লম্ব খুঁটি বসানো আছে। খিলান OC-এর উচ্চতা 0.36 মিটার। খুঁটি EF-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 0.4 meters\nখ) 0.16 meters\nগ) 0.2 meters\nঘ) 0.24 meters",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c955a1dc-8f91-4a0d-9d13-e1cf928de2f7",
+    "images": [
+      "images/60991_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছায়াবৃত অংশটি 1 ব্যাসার্ধের দুটি বৃত্তকলার সমন্বয়ে গঠিত। যদি α = 120° এবং β = 60° হয়, তবে বড় বৃত্তকলা এবং ছোট বৃত্তকলার ক্ষেত্রফলের পার্থক্য কত?\nক. π/6\nখ. π/6\nগ. 5π/3\nঘ. 5π/6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d8867dd4-adc6-4386-954f-e9a730de36cc",
+    "images": [
+      "images/28976_0.png"
+    ],
+    "english_question": "<image>\nABCD রম্বসে, যেখানে ∠ABC = 60° এবং AB = 4, কর্ণ AC এবং BD বিন্দু O-তে ছেদ করে। E হলো BO রেখাংশের উপর একটি চলমান বিন্দু এবং F হলো DC রশ্মির উপর একটি চলমান বিন্দু। যদি ∠AEF = 120° হয়, তবে EF রেখাংশের দৈর্ঘ্যের কতগুলো পূর্ণসংখ্যা মান সম্ভব?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9ccf4b74-2d9b-458d-b828-c806670a2017",
+    "images": [
+      "images/triangle_ext_9ccf4b74-2d9b-458d-b828-c806670a2017.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমকোণী ত্রিভুজাকার প্রিজম $A B C - A _ { 1 } B _ { 1 } C _ { 1 }$-এর ছয়টি শীর্ষবিন্দুই 1 ব্যাসার্ধবিশিষ্ট একটি অর্ধগোলকের পৃষ্ঠতলে অবস্থিত। দেওয়া আছে যে $A B = A C$ এবং পার্শ্ব $B C C _ { 1 } B _ { 1 }$ হলো অর্ধগোলকের ভূমির বৃত্তে অন্তর্লিখিত একটি বর্গক্ষেত্র, তবে পার্শ্ব $A { B } B _ { 1 } A _ { 1 }$-এর ক্ষেত্রফল কত? ( )\nক. 2\nখ. 1\nগ. \\sqrt { 2 }\nঘ. \\frac { \\sqrt { 2 } } { 2 }",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c7e6b7d-eaa4-422b-8f22-4ef688e9261f",
+    "images": [
+      "images/46294_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC এবং ত্রিভুজ A'B'C সর্বসম। AB এবং A'B' অনুরূপ বাহু, AC এবং A'C অনুরূপ বাহু। বিন্দু B, A'B'-এর ওপর অবস্থিত। AB রেখা A'C-কে D বিন্দুতে ছেদ করে। যদি ∠A = 25°, ∠BCA' = 45° হয়, তবে ∠A'BD-এর মান কত?\n\nOptions:\nক) 30°\nখ) 35°\nগ) 40°\nঘ) 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4df45f11-4ee8-4be6-ab6d-1f742f4b859c",
+    "images": [
+      "images/37109_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-এর ছয়টি উপাদানের সাপেক্ষে, নিচের কোন ত্রিভুজটি ত্রিভুজ ABC-এর সাথে সর্বসম হবে? \nক. ত্রিভুজ 乙 এবং ত্রিভুজ 丙\nখ. ত্রিভুজ 甲 এবং ত্রিভুজ 丙\nগ. শুধুমাত্র ত্রিভুজ 甲\nঘ. শুধুমাত্র ত্রিভুজ 丙",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "10c1bd19-83b7-4091-91a2-97f9079db13b",
+    "images": [
+      "images/45035_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো মতো, AB, CD-এর সমান্তরাল, ∠D = 26°, ∠E = 35°, তাহলে ∠ABE-এর ডিগ্রি পরিমাপ কত? ( )\nক. 61°\nখ. 71°\nগ. 109°\nঘ. 119°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f5c3bd3f-5d9f-4b92-857c-c62b33bf43e6",
+    "images": [
+      "images/43076_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, এবং BC, CD, ও DA হলো বৃত্তের জ্যা, যেখানে BC = CD = DA। তাহলে, ∠BCD-এর মান কত?\n\nOptions:\nক) \\(105^{\\circ}\\)\nখ) \\(120^{\\circ}\\)\nগ) \\(135^{\\circ}\\)\nঘ) \\(150^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ecbde8e-defa-41b9-bcf8-5ff6e56edb18",
+    "images": [
+      "images/71767_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OABC একটি বর্গক্ষেত্র যার বাহুর দৈর্ঘ্য 1। OC এবং ধনাত্মক x-অক্ষের মধ্যবর্তী কোণ 15°। বিন্দু B, y = ax^2 (যেখানে a < 0) পরাবৃত্তের ওপর অবস্থিত। a-এর মান কত? ( )\n\nOptions:\nক) $- \\frac { 2 } { 3 }$\nখ) $^ { - 2 }$\nগ) $- \\frac { \\sqrt { 2 } } { 3 }$\nঘ) $\\mathtt { - } \\, \\frac { 1 } { 2 }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b02ac9c4-4283-4225-a248-51b42687402e",
+    "images": [
+      "images/45034_0.png"
+    ],
+    "english_question": "<image>\n12 পরিসীমা বিশিষ্ট রম্বস ABCD-তে, AE=1 এবং AF=2। যদি P কর্ণ BD-এর উপর একটি চলমান বিন্দু হয়, তবে EP + FP এর সর্বনিম্ন মান কত?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "19982536-e6a0-4320-9362-a7206d83abf2",
+    "images": [
+      "images/9443_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি প্রিজমের ভূমি সমবাহু ত্রিভুজাকৃতির হয় এবং এর পার্শ্বীয় ধারগুলো ভূমির সাথে লম্বভাবে থাকে, তবে প্রিজমটির আয়তন কত?\n\nOptions:\nক) $1 2 \\sqrt { 3 }$\nখ) $3 6 \\sqrt { 3 }$\nগ) $2 7 { \\sqrt { 3 } }$\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "423d412e-742b-454c-83c2-924ee9e6e412",
+    "images": [
+      "images/46927_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-এর ক্ষেত্রফল 6 বর্গ সেমি। ত্রিভুজটিকে BC বরাবর DEF অবস্থানে স্থানান্তর করা হলো এবং স্থানান্তরের দূরত্ব BC-এর দৈর্ঘ্যের দ্বিগুণ। ত্রিভুজ ABC দ্বারা অতিক্রান্ত অঞ্চলের ক্ষেত্রফল কত?\n\nOptions:\nক) 18 cm²\nখ) 21 cm²\nগ) 27 cm²\nঘ) 30 cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7463381d-ebd5-4713-9b75-6f4b5b551a02",
+    "images": [
+      "images/triangle_ext_7463381d-ebd5-4713-9b75-6f4b5b551a02.png"
+    ],
+    "english_question": "<image>\nপ্রশ্ন ৩: চিত্রে, সমবাহু ত্রিভুজ △ABC-এ, D এবং E বিন্দু দুটি যথাক্রমে AB এবং BC বাহুর উপর অবস্থিত। ত্রিভুজ △BDE-কে DE রেখা বরাবর ভাঁজ করা হলো, যার ফলে B বিন্দুটি B' বিন্দুতে পতিত হয়। DB' এবং EB' রেখাদ্বয় AC বাহুকে যথাক্রমে F এবং G বিন্দুতে ছেদ করে। যদি ∠ADF = 80° হয়, তবে ∠CEG-এর পরিমাপ কত ডিগ্রি? ( )\nক. ৩০°\nখ. ৩৫°\nগ. ৪০°\nঘ. ৪৫°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e6ac8ac-f511-41b3-bed6-bea7731b9c72",
+    "images": [
+      "images/13733_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, 10টি অভিন্ন ছোট আয়তাকার টাইলস দিয়ে একটি বড় আয়তক্ষেত্র তৈরি করা হয়েছে। যদি বড় আয়তক্ষেত্রটির প্রস্থ 35 সেমি হয়, তবে একটি ছোট আয়তাকার টাইলের ক্ষেত্রফল কত?\n\nOptions:\nক) 147cm²\nখ) 75cm²\nগ) 35cm²\nঘ) 21cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4528ceb4-eb90-41ee-ba78-ec90968260aa",
+    "images": [
+      "images/31846_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সাপোর্টটি তিনটি পাতলা লোহার রড PA, PB এবং PC দ্বারা গঠিত, যেখানে প্রতিটি জোড়া রড 60^{\\circ} কোণ উৎপন্ন করে। 1 ব্যাসার্ধের একটি গোলক সাপোর্টের ভেতরে রাখা হয়েছে যা রডগুলোকে স্পর্শ করে। গোলকের কেন্দ্র থেকে P বিন্দুর দূরত্ব কত?\n\nOptions:\nক) \\( \\sqrt {3}\\)\nখ) \\( \\sqrt {2}\\)\nগ) \\(2\\)\nঘ) \\( \\dfrac {3}{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b98c7e1b-4208-4353-82f1-9f90dd836fbd",
+    "images": [
+      "images/55006_0.png"
+    ],
+    "english_question": "<image>\nসকাল 9:00 টায়, একটি নৌকা বিন্দু A থেকে যাত্রা শুরু করে, ঘণ্টায় 40 নটিক্যাল মাইল বেগে পূর্ব দিকে গিয়ে 9:30 টায় বিন্দু B তে পৌঁছায়। বিন্দু A এবং B থেকে, দ্বীপ M কে যথাক্রমে পূর্বের উত্তর দিকে 45° এবং 15° কোণে দেখা যায়। বিন্দু B থেকে দ্বীপ M এর দূরত্ব কত?\n\nOptions:\nক) 20 nautical miles\nখ) 20 $ \\sqrt {2} $ nautical miles\nগ) 15 $ \\sqrt {3} $ nautical miles\nঘ) 20 $ \\sqrt {3} $ nautical miles",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

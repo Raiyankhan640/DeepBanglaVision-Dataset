@@ -1,0 +1,302 @@
+[
+  {
+    "id": "3b39f768-f3b7-425e-8788-611c51f03e8e",
+    "images": [
+      "images/66341_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দুটি বর্গক্ষেত্র পাশাপাশি রাখা হয়েছে। চিত্রটিতে ছায়াবৃত সামান্তরিকের ক্ষেত্রফল 24 বর্গ সেন্টিমিটার এবং ডানদিকের বড় বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 6 সেন্টিমিটার। বামদিকের ছোট বর্গক্ষেত্রের ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5ba53eae-b186-4b81-8593-932ad38fdc32",
+    "images": [
+      "images/56161_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্রের ক্ষেত্রফল 120 বর্গমিটার। ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "11dd9684-d3db-47e2-b497-165b64ca2f51",
+    "images": [
+      "images/29354_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত DEFGH একটি সুষম পঞ্চভুজ যার প্রতিটি বাহুর দৈর্ঘ্য 2। বৃত্ত ⊙O হলো সুষম পঞ্চভুজ DEFGH-এর পরিবৃত্ত। D বিন্দুতে বৃত্ত ⊙O-এর একটি স্পর্শক GH এবং FE-এর বর্ধিতাংশকে যথাক্রমে B এবং C বিন্দুতে ছেদ করে। HG এবং EF-এর বর্ধিতাংশ A বিন্দুতে মিলিত হয়। AB রেখাংশের দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d4aff5a3-9cf5-49d7-9256-7130bd6175f5",
+    "images": [
+      "images/71688_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, বর্গক্ষেত্র \\(ABCD\\)-এর বাহুর দৈর্ঘ্য হলো \\(3 সেমি\\)। বাহুর দৈর্ঘ্য \\(1 সেমি\\) বিশিষ্ট একটি ছোট বর্গক্ষেত্র \\(ABCD\\) বর্গক্ষেত্রের ধার বরাবর ধারাবাহিকভাবে \\(AB \\Rightarrow BC \\Rightarrow CD \\Rightarrow DA \\Rightarrow AB\\) এই ক্রমে ওল্টাতে থাকে। ছোট বর্গক্ষেত্রটি প্রথমবার তার শুরুর অবস্থানে কখন ফিরবে এবং তখন তার দিক কী হবে?\nক. \\(\\boxed{\\uparrow}\\)\nখ. \\(\\boxdot\\)\nগ. \\(\\boxed{\\downarrow}\\)\nঘ. \\(\\boxleftarrow\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e8b4009a-7fc2-4491-923d-6cbbd76d133c",
+    "images": [
+      "images/33030_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, যেখানে AD=2AB, F বিন্দুটি AD-এর মধ্যবিন্দু। রেখা CE, AB-এর উপর লম্ব এবং E বিন্দুটি AB রেখাংশের উপর অবস্থিত। যদি আমরা EF এবং CF যোগ করি, তবে নিচের কোন সিদ্ধান্তটি অবশ্যই সত্য হবে? ①∠DCF= 1/2∠BCD; ②EF=CF; ③S_△BEC=2S_△CEF; ④∠DFE=3∠AEF\n\nOptions:\nক) \\(①②\\)\nখ) \\(①③④\\)\nগ) \\(①②③\\)\nঘ) \\(①②④\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "26526a25-5f44-458d-963d-dc3a47a2b7d4",
+    "images": [
+      "images/39698_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তিনটি বর্গক্ষেত্র একটির ওপর আরেকটি রাখা আছে। ∠1 এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0015d331-3994-4ca1-9410-b3d7ec81d7dc",
+    "images": [
+      "images/42788_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে যে AB সমান্তরাল CD, BC সমান্তরাল DE এবং ∠ABC = 40°, তাহলে ∠CDE এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c435f42d-5bfb-484f-9d47-631d12114153",
+    "images": [
+      "images/71641_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC এবং CDA সর্বসম। কোন জোড়া বাহুগুলো অবশ্যই অনুরূপ বাহু হবে?\n\nOptions (copied from English):\nB. AC and CA\nAD and CB\nAD and DC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ff30e2ee-ebfd-4aac-a733-0c991fcded88",
+    "images": [
+      "images/13393_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি বৃত্তে অন্তর্লিখিত, BD একটি জ্যা যা AC-এর সমান্তরাল, AB = AC, A বিন্দুতে অঙ্কিত স্পর্শক DB-এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে এবং AD, BC-কে F বিন্দুতে ছেদ করে। যদি AE = 6 এবং BD = 5 হয়, তবে CF-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45db9aa5-3933-407f-a0bb-1e6d994bcf22",
+    "images": [
+      "images/67241_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বৃত্ত O-এর ব্যাস CD, AB-এর উপর লম্ব, লম্বের পাদবিন্দু E এবং ∠AOE = 50°। ∠BCD-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9e84ae2-c326-473f-94b9-0e94bf1a217c",
+    "images": [
+      "images/61185_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রটি একটি ঘনকের দ্বিমাত্রিক বিস্তার। এই ঘনকে, ① BM এবং ED হলো বিপ্রতিপ রেখা (skew lines); ② CN এবং BE হলো বিপ্রতিপ রেখা; ③ DM এবং BN হলো পরস্পর লম্ব। এই তিনটি উক্তির মধ্যে সঠিক কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6304170e-1c74-4578-b51a-e646db592526",
+    "images": [
+      "images/40294_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক চিত্র অনুযায়ী, নিচের কোন যুক্তি এবং বন্ধনীতে দেওয়া যুক্তিটি ভুল?\n\nOptions:\nক) ∵∠1=∠3, ∴AB∥CD (Alternate interior angles are equal, the two lines are parallel)\nখ) ∵AB∥CD, ∴∠1=∠3 (The two lines are parallel, alternate interior angles are equal)\nগ) ∵AD∥BC, ∴∠BAD+∠ABC=180° (The two lines are parallel, consecutive interior angles are supplementary)\nঘ) ∵∠DAM=∠CBM, ∴AB∥CD (The two lines are parallel, corresponding angles are equal)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a831513-248b-4d84-8ea0-86cab12f8894",
+    "images": [
+      "images/5720_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ঘনক এবং একটি সুষম চতুস্তলকের ভূমি একই সমতল α-তে অবস্থিত এবং AB, CD-এর সমান্তরাল। EF রেখাটি ঘনকের ছয়টি তলের কয়টিকে ছেদ করে?\nOptions:\nD) How many planes does the line EF intersect with the six faces of the cube?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e75e49c9-110f-4c43-93ec-f5ddb79331c7",
+    "images": [
+      "images/36847_0.png"
+    ],
+    "english_question": "<image>\nএকটি শিশু চিত্রে প্রদর্শিত নিয়ম অনুযায়ী তার আঙুল ব্যবহার করে গণনা করছে। 20 09 পর্যন্ত গণনা করলে কোন আঙুলটি নির্দেশিত হবে? (আঙুলের নাম লিখুন: আঙুলগুলো যথাক্রমে বৃদ্ধাঙ্গুলি, তর্জনী, মধ্যমা, অনামিকা, কনিষ্ঠা হিসেবে চিহ্নিত)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e32b3910-6e94-413e-b107-4873831dfb51",
+    "images": [
+      "images/21765_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন শর্তটি দ্বারা এটি নিশ্চিত করা যায় না যে রেখা a, রেখা b-এর সমান্তরাল?\nক. ∠1=∠2\nখ. ∠1=∠3\nগ. ∠1+∠4=180°\nঘ. ∠2+∠4=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5cca2279-f8f9-4dd4-ae36-f446ff33d94c",
+    "images": [
+      "images/76057_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, রোডবেডের মূল প্রস্থচ্ছেদ একটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD যার AD, BC-এর সমান্তরাল। ঢাল DC-এর নতি i₁, এবং এক পাশ DF = 7.75 মিটার প্রশস্ত করা হয়েছে। বিন্দু E এবং F যথাক্রমে BC এবং AD-এর বর্ধিতাংশে অবস্থিত, এবং ঢাল FE-এর নতি i₂ = 1:1.7। রোডবেডের উচ্চতা DM = 3 মিটার হলে, ME-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nC) The slope DC has a gradient of i₁, and one side is widened by DF = 7.75 meters. Points E and F are located on the extensions of BC and AD, respectively, and the slope FE has a gradient of i₂ = 1:1.7. Let the height of the roadbed DM = 3 meters. Find the length of ME.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eaf52ba7-ff33-40ec-b277-e7c1cd3c4cc3",
+    "images": [
+      "images/2977_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্রের গ্রুপের মধ্যে কোনগুলো কেন্দ্রপ্রতিসম? ( )\nক. 1টি গ্রুপ\nখ. 2টি গ্রুপ\nগ. 3টি গ্রুপ\nঘ. 4টি গ্রুপ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4799bdb0-2814-4401-977a-2cae099c71e5",
+    "images": [
+      "images/63213_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ( ) জোড়া সমান্তরাল রেখা রয়েছে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "59c79764-9cd9-4e99-a920-1a91fc2d8881",
+    "images": [
+      "images/34376_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর পরিসীমা 32 এবং কর্ণ AC ও BD পরস্পরকে O বিন্দুতে ছেদ করে। E বিন্দুটি CD-এর মধ্যবিন্দু এবং BD = 10 হলে, ∆DOE-এর পরিসীমা কত?\nক. 21\nখ. 15\nগ. 13\nঘ. 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8690c9a1-eb03-4d41-83a0-d0c7b07140da",
+    "images": [
+      "images/18004_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ট্রাপিজিয়াম ABCD-তে, যেখানে AB = BC = 2, CD = 1, AB ∥ CD, এবং AD ⊥ AB। বিন্দু P ট্রাপিজিয়ামের অভ্যন্তরে যেকোনো একটি বিন্দু। যদি $ \\overrightarrow{PA} \\cdot \\overrightarrow{PB} \\leq 0 $ হয়, তবে বিন্দু P যে অঞ্চলে অবস্থিত তার ক্ষেত্রফল কত?\nOptions:\nB) Point P is any point inside the trapezoid. If $ \\overrightarrow{PA} \\cdot \\overrightarrow{PB} \\leq 0 $, then the area of the region where point P is located is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

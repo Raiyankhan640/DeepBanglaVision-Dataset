@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f588d079-9fdb-41a3-9760-8ecbf6008c20",
+    "images": [
+      "images/41217_0.png"
+    ],
+    "english_question": "<image>\nযখন একজন কর্মী একটি সুষম ষড়ভুজাকার যন্ত্রাংশ (regular hexagonal part) স্থাপন করছেন, তখন তাঁকে ছবিতে দেখানো ছয়টি অবস্থানে স্ক্রু আটকাতে হবে। প্রথম ধাপে, তিনি প্রথমে দৈবভাবে একটি স্ক্রু কোষে দেন, তারপর তার ঠিক বিপরীত কোণার স্ক্রুটি (সবচেয়ে দূরেরটি) কষেন। এরপর তিনি দৈবভাবে তৃতীয় একটি স্ক্রু কষেন, তারপর তার ঠিক বিপরীত কোণার চতুর্থ স্ক্রুটি কষেন এবং একইভাবে পঞ্চম ও ষষ্ঠ স্ক্রুটির ক্ষেত্রেও করেন, তবে কোনো স্ক্রুই পুরোপুরি কষা যাবে না। দ্বিতীয় ধাপে, প্রতিটি স্ক্রুই পুরোপুরি কষতে হবে, তবে পাশাপাশি থাকা কোনো দুটি স্ক্রু ধারাবাহিকভাবে কষা যাবে না। স্ক্রুগুলো আটকানোর জন্য কতগুলো ভিন্ন উপায় রয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "01b49fa2-1b79-4ae3-a8bf-f72c0d002624",
+    "images": [
+      "images/52514_0.png"
+    ],
+    "english_question": "<image>\nস্থানাঙ্ক সমতলে, একটি সমদ্বিবাহু ট্রাপিজিয়াম OABC দেওয়া আছে যার শীর্ষবিন্দুসমূহ A (1, 2), B (3, 2) এবং C (4, 0)। M (0, 5) বিন্দুগামী এবং ট্রাপিজিয়াম OABC-এর ক্ষেত্রফলকে সমদ্বিখণ্ডিত করে এমন সরলরেখার সমীকরণ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f03af725-f1c8-4ce7-953b-5957e7be8127",
+    "images": [
+      "images/176_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গক্ষেত্রের ভেতরে আঁকা বৃহত্তম বৃত্তের ক্ষেত্রফল এবং বর্গক্ষেত্রের ক্ষেত্রফলের অনুপাত শতকরায় নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3d4e21a2-a7da-43c2-92cf-2f8c93581042",
+    "images": [
+      "images/34313_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ∠DOF এর বিপ্রতীপ কোণ কোনটি:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "56f7d5cf-1860-4383-8195-8a185620e947",
+    "images": [
+      "images/6547_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠AOB=30°, n সংখ্যক অর্ধবৃত্ত রয়েছে যা ধারাবাহিকভাবে বহিঃস্থভাবে স্পর্শ করে আছে। তাদের কেন্দ্রগুলো OA রশ্মির ওপর অবস্থিত এবং OB রশ্মিকে স্পর্শ করে। যদি অর্ধবৃত্ত C₁, C₂, C₃, …, Cₙ এর ব্যাসার্ধ যথাক্রমে r₁, r₂, r₃, …, rₙ হয়, তবে r_{2011}/r_{2010} এর মান নির্ণয় করো।\nOptions:\nB) Let the radii of semicircles C₁, C₂, C₃, …, Cₙ be r₁, r₂, r₃, …, rₙ. Find the value of r_{2011}/r_{2010}.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "85f3e5a6-fc51-49d6-8fcf-26a1386b628b",
+    "images": [
+      "images/15628_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, শিউ হুয়ার বাড়ি স্কুলের গেট থেকে উত্তর দিকের 70° পূর্ব দিকে অবস্থিত এবং স্কুলের গেট থেকে এর সরলরৈখিক দূরত্ব 4 কিমি। স্কুলের গেট যে রাস্তায় অবস্থিত, সেই রাস্তা থেকে শিউ হুয়ার বাড়ির দূরত্ব (পূর্ব-পশ্চিম দিকে) NM প্রায় কত ______ কিমি? (একটি সায়েন্টিফিক ক্যালকুলেটর ব্যবহার করো, ফলাফল 0.01 কিমি পর্যন্ত সঠিক হতে হবে)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "202329f9-ea2e-42f2-bb57-fd8d90bb41b7",
+    "images": [
+      "images/43239_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন উক্তিটি ভুল? ( )\nক. ∠4 এবং ∠B অনুরূপ কোণ\nখ. ∠B এবং ∠C একই পার্শ্বস্থ অন্তঃস্থ কোণ\nগ. ∠2 এবং ∠C অনুরূপ কোণ\nঘ. ∠1 এবং ∠3 একান্তর অন্তঃস্থ কোণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07b06e9f-d67f-460b-9c09-b2a7f2a320e9",
+    "images": [
+      "images/40515_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর সম্মুখ দৃশ্য এবং বাম পাশের দৃশ্য চিত্র 1-এ দেখানো হয়েছে। চিত্র 2-এর চারটি চিত্রের মধ্যে কোনটি এই জ্যামিতিক বস্তুর ওপরের দৃশ্য (top view) হতে পারে?\n\nOptions:\nক) (1) (3)\nখ) (2) (4)\nগ) (1) (4)\nঘ) (2) (3)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc2aa937-70c1-4c92-a6ee-24482fd09724",
+    "images": [
+      "images/14345_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-কে AC-এর মধ্যবিন্দু O-এর সাপেক্ষে 180° ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ CDA পাওয়া গেল। চতুর্ভুজ ABCD-কে একটি আয়তক্ষেত্র করার জন্য একটি শর্ত যোগ করো।\nOptions:\nA) Add a condition to make quadrilateral ABCD a rectangle.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e35e533-b334-4c5f-bdcd-e9b8be936d77",
+    "images": [
+      "images/33607_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঘনক থেকে একটি ত্রিভুজাকার পিরামিড O-LMN এমনভাবে কেটে নেওয়া হলো যেন OM, ON এবং OL বাহুগুলো পরস্পর লম্ব হয়। ধরি, তিনটি পার্শ্বতলের ক্ষেত্রফল (প্রতিটি একটি সমকোণী ত্রিভুজ) S₁, S₂, S₃ এবং ছেদক ত্রিভুজ LMN-এর ক্ষেত্রফল S₄। S₁, S₂, S₃ এবং S₄-এর মধ্যে সম্পর্কটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fc5eee8-92ad-47d6-91f9-692a23af6540",
+    "images": [
+      "images/54176_0.png"
+    ],
+    "english_question": "<image>\nএকটি সূক্ষ্মকোণী ত্রিভুজ ABC-এর BC বাহুর উপর AH লম্ব। AB এবং AC বাহুর বাইরের দিকে যথাক্রমে ABDE এবং ACFG বর্গক্ষেত্র অঙ্কন করা হলো। CE, BG এবং EG রেখাগুলো যুক্ত করা হলো এবং EG রেখাটি HA-এর বর্ধিতাংশকে M বিন্দুতে ছেদ করে। নিচের সিদ্ধান্তগুলো বিবেচনা করা হলো: ① BG = CE; ② BG ⊥ CE; ③ AM, ত্রিভুজ AEG-এর মধ্যমা; ④ ∠EAM = ∠ABC। সঠিক সিদ্ধান্তের সংখ্যা কত? ( )\nOptions:\nC) Squares ABDE and ACFG are constructed outward on sides AB and AC, respectively. Lines CE, BG, and EG are connected, and EG intersects the extension of HA at point M. The following conclusions are made: ① BG = CE; ② BG ⊥ CE; ③ AM is the median of triangle AEG; ④ ∠EAM = ∠ABC) The number of correct conclusions is ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "34c2efb7-a4a9-4732-9f7f-227f2aed6f9f",
+    "images": [
+      "images/36987_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট ছোট বর্গক্ষেত্র দিয়ে গঠিত গ্রিডে, A, B এবং C বিন্দুগুলো ছোট বর্গক্ষেত্রগুলোর শীর্ষবিন্দুতে অবস্থিত। tan ∠CAB এর মান কত?\n\nOptions:\nক) \\(1\\)\nখ) \\( \\dfrac {1}{3}\\)\nগ) \\( \\dfrac {1}{2}\\)\nঘ) \\( \\dfrac { \\sqrt {5}}{5}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc971144-4d05-4184-ae45-5c52ab0defb4",
+    "images": [
+      "images/56865_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সুষম পঞ্চভুজ ABCDE একটি বৃত্তে অন্তর্লিখিত। P হলো DE-এর ওপর একটি বিন্দু (P বিন্দু D বা E-এর সাথে সমাপতিত নয়)। PC এবং PD যোগ করা হলো। DG⊥PC, যেখানে G হলো লম্ববিন্দু। তাহলে ∠PDG-এর মান কত? ( )\nক. 72°\nখ. 54°\nগ. 36°\nঘ. 64°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "91a24061-01d2-404f-b1fc-6df840379910",
+    "images": [
+      "images/44079_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, AE: EB = 1: 2। যদি ত্রিভুজ AEF-এর ক্ষেত্রফল 2 সেমি² হয়, তবে ত্রিভুজ CDF-এর ক্ষেত্রফল কত? ( )\n\nOptions:\nক) 16 cm²\nখ) 18 cm²\nগ) 20 cm²\nঘ) 22 cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0bd94678-acec-412d-8682-85da9ff1ca12",
+    "images": [
+      "images/23380_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল EF এবং ∠C = 90°। ∠α, ∠β এবং ∠γ এর মধ্যে সম্পর্কটি কী?\nক. ∠β = ∠α + ∠γ\nখ. ∠α + ∠β + ∠γ = 180°\nগ. ∠α + ∠β - ∠γ = 90°\nঘ. ∠β + ∠γ - ∠α = 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17ed4f06-9e29-4d6a-bd94-d816f9836342",
+    "images": [
+      "images/triangle_ext_17ed4f06-9e29-4d6a-bd94-d816f9836342.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1, ∠2 এবং ∠3 কোণগুলোর মধ্যে সম্পর্ক হলো ( )\nক. ∠2 > ∠1 > ∠3\nখ. ∠1 > ∠3 > ∠2\nগ. ∠3 > ∠2 > ∠1\nঘ. ∠1 > ∠2 > ∠3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc7240d4-ccd1-425c-a412-246265e58c55",
+    "images": [
+      "images/56377_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তিনটি সমকোণী ত্রিভুজ হলো 20 ঘন সেমি আয়তনের একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য। তাহলে, h = ( ) সেমি।\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3a721bd-bc5f-4087-8fcb-79358557965e",
+    "images": [
+      "images/27441_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রটি 1 নং চিত্রকে স্থানান্তর (translation) করে পাওয়া যেতে পারে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "778836a9-0114-4d18-a600-2847b63ad89e",
+    "images": [
+      "images/8834_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক ঘনবস্তুর সম্মুখ দৃশ্য, পার্শ্ব দৃশ্য এবং উপরের দৃশ্য চিত্রে দেখানো হয়েছে। এই ঘনবস্তুটির আয়তন কত? ( )\nক. 2\nখ. π\nগ. 2π\nঘ. 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e2dc479f-7ecb-4b13-b22d-88669b756a6a",
+    "images": [
+      "images/24007_0.png"
+    ],
+    "english_question": "<image>\nগ্রীষ্মের এক দুপুরে সূর্য যখন ঠিক ছাদের ওপরে এবং কিছুটা দক্ষিণে থাকে, তখন সূর্যের আলো ভূমির সাথে 60° কোণ তৈরি করে। দক্ষিণমুখী জানালা AB এর উচ্চতা 1.6 মিটার। এখন জানালার ওপরে একটি আনুভূমিক সানশেড AC স্থাপন করতে হবে (চিত্রে প্রদর্শিত)। ঘরে সরাসরি সূর্যের আলো প্রবেশ রোধ করতে সানশেড AC এর প্রস্থ কমপক্ষে কত মিটার হতে হবে?\nOptions:\nd. The window AB facing south is 1.6 meters high. Now, a horizontal sunshade AC is to be installed above the window (as shown in the figure). To prevent sunlight from directly entering the room, the width of the sunshade AC must be at least ______ meters.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

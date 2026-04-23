@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f0bef810-bc87-44d3-991a-f4cf817fc533",
+    "images": [
+      "images/26587_0.png"
+    ],
+    "english_question": "<image>\nABCD সামান্তরিকের AB, BC, CD এবং DA বাহুর মধ্যবিন্দু যথাক্রমে E, F, G এবং H। চিত্রটিতে মোট কতটি সামান্তরিক আছে? ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "31e21de1-8e32-43de-9428-f756812a8666",
+    "images": [
+      "images/28281_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 4 একক, E বিন্দুটি CD বাহুর মধ্যবিন্দু। AF রেখাটি ∠BAE কে সমদ্বিখণ্ডিত করে এবং BC বাহুকে F বিন্দুতে ছেদ করে। যদি ΔADE কে A বিন্দুর চারদিকে ঘড়ির কাঁটার দিকে 90 ডিগ্রি ঘুরিয়ে ΔABG পাওয়া যায়, তবে CF এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92894e1c-35ed-4aae-80fb-ffc1caae6961",
+    "images": [
+      "images/41138_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি গাড়ি পশ্চিম দিকে যাচ্ছে। একটি মোড়ে পৌঁছালে, এটি বামে, ডানে মোড় নিতে পারে অথবা সোজা যেতে পারে। দ্বিতীয় মোড় পার হওয়ার পর, কোন দিকে যাওয়ার সম্ভাবনা সবচেয়ে বেশি?\nOptions:\nd. When it reaches an intersection, it is free to choose to turn left, right, or go straight. After passing the second intersection, the probability of going (__) is the highest.\n\\frac{}\nOptions:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "96c688dc-3000-425e-a477-89f349c6a064",
+    "images": [
+      "images/48349_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD ট্রাপিজিয়ামের মধ্যরেখা EF এবং ত্রিভুজ AEF-এর ক্ষেত্রফল 6 বর্গ সেমি হলে, ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল কত?\nক. 12 বর্গ সেমি\nখ. 18 বর্গ সেমি\nগ. 24 বর্গ সেমি\nঘ. 30 বর্গ সেমি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "430c2fdc-b814-4ca1-a2e0-52d05ea57de9",
+    "images": [
+      "images/42592_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ত্রিভুজাকার কাগজ ABC-কে DE রেখা বরাবর ভাঁজ করা হলো, যাতে A বিন্দুটি BC বাহুর ওপর F বিন্দুতে পতিত হয় এবং DE || BC হয়। সঠিক সিদ্ধান্তের সংখ্যা কতটি? \n1. ত্রিভুজ BDF একটি সমদ্বিবাহু ত্রিভুজ। \n2. DE = 1/2 BC। \n3. চতুর্ভুজ ADFE একটি রম্বস। \n4. ∠BDF + ∠FEC = 2∠A\nOptions:\nC) The number of conclusions that must be correct is ( ) \n1. Triangle BDF is an isosceles triangle. \n2. DE = \\( \\frac{1}{2} \\) BC) \n3. Quadrilateral ADFE is a rhombus. \n4. \\( \\angle BDF + \\angle FEC = 2 \\angle A \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0a04eac9-1c55-40e4-b1b3-7a0f285d7a43",
+    "images": [
+      "images/44537_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি চাঁদা ∠BAC কোণের উপর বসানো হয়েছে। চাঁদায় চিহ্নিত সমান ভাগগুলোর উপর ভিত্তি করে ∠BAC এর মান নির্ণয় করো ( ) ক. 15° খ. 20° গ. 30° ঘ. 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6cf423a3-58ee-4b23-8f46-7a11b2fe65f5",
+    "images": [
+      "images/30671_0.png"
+    ],
+    "english_question": "<image>\n2 উচ্চতা এবং 1 ব্যাসার্ধের একটি সিলিন্ডারকে অক্ষ বরাবর কেটে এবং এক অর্ধেককে অনুভূমিকভাবে সরিয়ে একটি বদ্ধ বস্তু তৈরি করা হলো। O1, O2, O2' যথাক্রমে AB, BC, DE-এর মধ্যবিন্দু, F হলো চাপ AB-এর মধ্যবিন্দু এবং G হলো চাপ BC-এর মধ্যবিন্দু। AF এবং GO2' রেখাদ্বয়ের মধ্যবর্তী কোণ নির্ণয় করো (বিপরীত ত্রিকোণমিতিক ফাংশন ব্যবহার করে)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d467cd70-bea7-4f01-8529-0fe90b89b459",
+    "images": [
+      "images/1773_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D হলো ত্রিভুজ ABC-এর BC বাহুর উপর একটি বিন্দু, যেখানে AB = 8, AD = 4 এবং ∠DAC = ∠B। যদি ত্রিভুজ ABD-এর ক্ষেত্রফল 15 হয়, তবে ত্রিভুজ ACD-এর ক্ষেত্রফল কত?\n\nOptions (copied from English):\nখ. If the area of triangle ABD is 15, then the area of triangle ACD is ( )\nক. 15\nখ. 10\nগ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06c945ef-f771-4443-a2e9-ffc43d35e6eb",
+    "images": [
+      "images/32030_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, 2 ব্যাসার্ধ এবং 60° কেন্দ্রীয় কোণবিশিষ্ট একটি কাগজের সেক্টর AOB, পিছলে না গিয়ে রেখা l বরাবর ডানদিকে গড়িয়ে A'O'B' অবস্থানে পৌঁছায়। বিন্দু O দ্বারা অতিক্রান্ত পথের মোট দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cd06661e-c6d9-4361-a1c4-6150020a9ad8",
+    "images": [
+      "images/triangle_ext_cd06661e-c6d9-4361-a1c4-6150020a9ad8.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC-এর তিনটি বাহু ও তিনটি কোণ দেওয়া আছে। ত্রিভুজ A, B এবং C-এর মধ্যে কোনটি ত্রিভুজ ABC-এর সর্বসম? ( )\nক. Only B\nখ. Only C\nগ. A and B\nঘ. B and C",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3028b80e-eff9-4840-8dea-85b814bbe4eb",
+    "images": [
+      "images/26854_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত O-এর ব্যাসার্ধ 1 এবং অন্তর্লিখিত কোণ ∠ABC = 30°। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca730841-7947-491a-935a-c5f007917942",
+    "images": [
+      "images/5599_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার প্রিজম থেকে একটি ছোট আয়তাকার প্রিজম সরিয়ে ফেলা হয়েছে। এর সম্মুখ দৃশ্য এবং পার্শ্ব দৃশ্য চিত্রে দেখানো হলো। এই জ্যামিতিক চিত্রটির ওপরের দৃশ্য (top view) কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb1049a4-586f-46f0-849c-19572b8e8cbc",
+    "images": [
+      "images/triangle_ext_fb1049a4-586f-46f0-849c-19572b8e8cbc.png"
+    ],
+    "english_question": "<image>\nএকটি 2 \\times 2 বর্গাকার গ্রিডে, একটি গ্রিড বিন্দু ত্রিভুজ △ABC (ছায়াঘেরা অংশ) রয়েছে। △ABC-এর অক্ষীয় প্রতিসম (axis-symmetric) গ্রিড বিন্দু ত্রিভুজের সংখ্যা হলো ( )\nক. \\(2\\)\nখ. \\(3\\)\nগ. \\(4\\)\nঘ. \\(5\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "30610865-65e7-4372-867e-bd7d73b354a3",
+    "images": [
+      "images/16933_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E এবং F বিন্দু দুটি সামান্তরিক ABCD-এর কর্ণের উপর অবস্থিত। ত্রিভুজ ABE এবং ত্রিভুজ CDF-কে সর্বসম করার জন্য একটি শর্ত ________ যোগ করুন (শুধুমাত্র একটি শর্ত পূরণ করুন)।\nOptions:\nD) Please add a condition ________ to make triangle ABE congruent to triangle CDF (only fill in one condition).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7fdc62c7-f3a9-4751-86ca-5f724ef5befd",
+    "images": [
+      "images/15052_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে ∠AOB = ∠COD = α এবং ∠AOC = β। যদি OE, ∠AOC-কে সমদ্বিখণ্ডিত করে এবং OF, ∠BOD-কে সমদ্বিখণ্ডিত করে, তবে ∠EOF-এর পরিমাপ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0c7659ec-dba3-42a4-aed3-bf91ec3c9090",
+    "images": [
+      "images/23847_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি B বিন্দুতে BD, AE এর ওপর লম্ব হয়, C বিন্দুতে DC, AF এর ওপর লম্ব হয় এবং DB = DC, ∠BAC = 40°, ∠ADG = 130° হয়, তবে ∠DGF = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "deab7ec1-14cc-4107-8dc2-cfac8a7beaba",
+    "images": [
+      "images/626_0.png"
+    ],
+    "english_question": "<image>\nআমরা জানি যে \"দুটি বিন্দুর মধ্যে ক্ষুদ্রতম দূরত্ব হলো সরলরেখা\" এবং \"একটি রেখার বাইরের কোনো বিন্দু থেকে রেখার ওপর অঙ্কিত সকল রেখাংশের মধ্যে লম্ব রেখাংশটিই ক্ষুদ্রতম\"। এর ওপর ভিত্তি করে, মানুষ একটি বিন্দু থেকে বিন্দুর দূরত্ব এবং একটি বিন্দু থেকে রেখার দূরত্ব সংজ্ঞায়িত করেছে। একইভাবে, যদি বিন্দু P বৃত্ত O-এর বাইরের একটি বিন্দু হয় (চিত্রে প্রদর্শিত), তবে বিন্দু P থেকে বৃত্ত O-এর দূরত্বকে সংজ্ঞায়িত করা উচিত ( ) হিসেবে। ক. PO রেখাংশের দৈর্ঘ্য, খ. PA রেখাংশের দৈর্ঘ্য, গ. PB রেখাংশের দৈর্ঘ্য, ঘ. PC রেখাংশের দৈর্ঘ্য",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "db5fa0ed-e263-4f14-8c3f-88f77e7d9c5f",
+    "images": [
+      "images/45436_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনটি কেন্দ্রিক প্রতিসম চিত্র নয়? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73a9d44b-968c-4a6a-b95f-6e39275aca6f",
+    "images": [
+      "images/52535_0.png"
+    ],
+    "english_question": "<image>\n3 সেমি বাহুর 8টি বর্গ মিলে একটি আয়তক্ষেত্র গঠন করে। ছায়াযুক্ত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af3a9874-a350-4bfa-bcf8-2da32a956b1d",
+    "images": [
+      "images/2919_0.png"
+    ],
+    "english_question": "<image>\nশহর A এবং B এর মধ্যবর্তী দূরত্ব 100 কিমি। একটি বন সংরক্ষণ কেন্দ্র P, শহর A থেকে 30° উত্তর-পূর্ব দিকে এবং শহর B থেকে 45° উত্তর-পশ্চিম দিকে অবস্থিত। সংরক্ষিত এলাকাটি P কেন্দ্রবিশিষ্ট 50 কিমি ব্যাসার্ধের একটি বৃত্তাকার অঞ্চল। পরিকল্পিত মহাসড়কটি (রেখাংশ AB) কি সংরক্ষিত এলাকাটিকে অতিক্রম করবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "8e42139c-e9dc-4382-a021-59f46a99f165",
+    "images": [
+      "images/49710_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। A, B এবং C হলো ছোট বর্গগুলোর শীর্ষবিন্দু। ∠ABC কোণের মান কত ডিগ্রি?\nক. 30°\nখ. 45°\nগ. 60°\nঘ. 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d047b645-6b0c-4f5f-ba63-c6034ec15303",
+    "images": [
+      "images/29320_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখাটি CD এবং EF এর সমান্তরাল। চিত্রে নিচের কোন সম্পর্কটি অবশ্যই সত্য?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe50b2aa-0656-4bb6-a34b-032ddd98ab21",
+    "images": [
+      "images/50232_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC, O বৃত্তের অন্তর্লিখিত, বিন্দু D, OC-এর বর্ধিতাংশের উপর অবস্থিত, ∠B = ∠CAD = 30°, এবং OD ⟂ AB। যদি BC = 5 হয়, তাহলে O বৃত্তের ব্যাসার্ধ নির্ণয় করো।\nOptions:\nB) If BC = 5, find the radius of circle O.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d03d3442-67bd-4915-8107-8cf67b056701",
+    "images": [
+      "images/54565_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ∠AOB = 90°, AB এবং CD বৃত্তচাপ দুটির কেন্দ্র O এবং বৃত্তচাপ CD রেখা AB-কে স্পর্শ করে। S₁ এবং S₂ অংশের ক্ষেত্রফলের মধ্যে সম্পর্ক কোনটি? ( )\nক. S₁ > S₂\nখ. S₁ = S₂\nগ. S₁ < S₂\nঘ. অনিশ্চিত",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21af1fa8-b114-404a-869e-685786402b37",
+    "images": [
+      "images/60371_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, কোন আকৃতিগুলো একই সাথে অক্ষ-প্রতিসম এবং কেন্দ্র-প্রতিসম? ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52047e8d-1806-4c34-8b86-8d5b7d083cbd",
+    "images": [
+      "images/13002_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত O-তে, জ্যা AB এবং CD পরস্পর P বিন্দুতে ছেদ করে। যদি ∠A = 40° এবং ∠APD = 75° হয়, তবে ∠B = কত?\n\nOptions:\nক) 15°\nখ) 40°\nগ) 35°\nঘ) 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e0c6910b-8a7a-42b4-ad42-cc0a76b704a2",
+    "images": [
+      "images/28067_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্তে অন্তর্লিখিত আয়তক্ষেত্রের বাহুগুলোর মধ্যবিন্দু পর্যায়ক্রমে যুক্ত করে রম্বস ABCD গঠন করা হয়েছে। যদি BD = 10 এবং DF = 4 হয়, তবে রম্বস ABCD-এর বাহুর দৈর্ঘ্য কত?\n\nOptions:\nক) 4 $\\sqrt{2}$\nখ) 5 $\\sqrt{2}$\nগ) 6\nঘ) 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e20dffe1-e05d-462f-9231-316835333394",
+    "images": [
+      "images/50343_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিড কাগজে চিত্রানুযায়ী কোণ $\\alpha$ স্থাপন করা হলো, তবে $\\tan \\alpha$ এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d5123734-5e52-4224-b636-ad72b0967b47",
+    "images": [
+      "images/1819_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, AB || EF || DC এবং EG || DB। চিত্রটিতে ∠1 এর সমান কতগুলো কোণ আছে (∠1 ব্যতীত)?\nক. 6\nখ. 5\nগ. 4\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd1c5c6f-62f5-4cdc-86c5-df66479bbcfc",
+    "images": [
+      "images/69753_0.png"
+    ],
+    "english_question": "<image>\nএকটি ভবনের সিঁড়ির নকশা চিত্রে দেখানো হয়েছে। পরিমাপ অনুযায়ী AB=3 ডেসিমিটার, BC=4 ডেসিমিটার, ∠B=90°, CD=1 ডেসিমিটার, DE=1.5 ডেসিমিটার, EF=DE এবং AC=2AG। এই তথ্যের ভিত্তিতে, পলিলাইন AC (অর্থাৎ সিঁড়ির উপরিভাগ AJIHGFEDC) এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "258dc5ab-fcf7-48a2-89fa-a65f137f31ea",
+    "images": [
+      "images/2348_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, BF, ∠ABC কে সমদ্বিখণ্ডিত করে AD কে F বিন্দুতে ছেদ করে এবং CE, ∠BCD কে সমদ্বিখণ্ডিত করে AD কে E বিন্দুতে ছেদ করে। যদি AB = 6 এবং EF = 2 হয়, তবে BC এর দৈর্ঘ্য কত?\n\nOptions:\nক) 8\nখ) 10\nগ) 12\nঘ) 14",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ee437c09-6fbe-4f75-8245-f19dcfa50639",
+    "images": [
+      "images/14594_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ⊙A এবং ⊙B বৃত্ত দুটি D বিন্দুতে স্পর্শ করেছে। PC, PD এবং PE রেখাগুলো বৃত্তগুলোর স্পর্শক, যেখানে C, D এবং E স্পর্শবিন্দু। যদি ∠CDE = x° এবং ∠ECD = y° হয়, এবং ⊙B বৃত্তের ব্যাসার্ধ R হয়, তবে DE চাপের দৈর্ঘ্য কত?\n\nOptions:\nক) \\( \\dfrac{π(90-x)R}{90} \\)\nখ) \\( \\dfrac{π(90-y)R}{90} .\\)\nগ) \\( \\dfrac{π(180-x)R}{180} \\)\nঘ) \\( \\dfrac{π(180-y)R}{180} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c688371b-6200-49e6-849b-f3073a3f49ae",
+    "images": [
+      "images/61459_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-তে, AB = AC, BD = CE, BE = CF, এবং যদি ∠A = 50° হয়, তবে ∠DEF-এর মান কত ডিগ্রি?\n\nOptions:\nক) 75°\nখ) 70°\nগ) 65°\nঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "869261c6-8098-4caa-872d-5ce980d4d98d",
+    "images": [
+      "images/71664_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, ABCD চতুর্ভুজে, BE রেখাংশ AC এবং CD-কে যথাক্রমে G ও F বিন্দুতে ছেদ করে এবং AD-এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে। চিত্রে কত জোড়া সদৃশ ত্রিভুজ বিদ্যমান?\n\nOptions:\nক) 3 pairs\nখ) 4 pairs\nগ) 5 pairs\nঘ) 6 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d7a5608f-01cc-48db-a4db-13b0d243e15a",
+    "images": [
+      "images/53087_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, P বিন্দুটি ABCD বর্গক্ষেত্রের সমতলের বাইরে অবস্থিত। PA, ABCD সমতলের উপর লম্ব এবং PA = AB। PB এবং AC এর মধ্যবর্তী কোণ কত? ( ) \nক. 90° \nখ. 60° \nগ. 45° \nঘ. 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5c95ffbe-9141-47bb-bc02-4f6dc091ee27",
+    "images": [
+      "images/29236_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে মোট কয়টি ট্রাপিজিয়াম আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e908f66-8196-4e4f-a685-c59707c39187",
+    "images": [
+      "images/7681_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন উক্তিটি সঠিক? ক) যদি AB ∥ DC হয়, তবে ∠1 = ∠2; খ) যদি AD ∥ BC হয়, তবে ∠3 = ∠4; গ) যদি ∠1 = ∠2 হয়, তবে AB ∥ DC; ঘ) যদি ∠2 + ∠3 + ∠A = 180° হয়, তবে AB ∥ DC।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "15ab81fe-38b4-4ab7-96b1-7ac07ec22c7d",
+    "images": [
+      "images/55785_0.png"
+    ],
+    "english_question": "<image>\nদুটি কাগজের ফিতা আছে, ফিতা A এবং ফিতা B। ফিতা A-এর প্রস্থ ফিতা B-এর প্রস্থের দ্বিগুণ। যখন এই দুটি ফিতাকে একে অপরের ওপর রাখা হয়, তখন উপরিপাতিত অংশটি একটি চতুর্ভুজ ABCD গঠন করে। AB এবং BC-এর মধ্যে সম্পর্ক কী?\nOptions:\nখ) The width of strip A is twice that of strip খ) When these two strips are placed on top of each other, the overlapping part forms a quadrilateral $A B C D$. What is the relationship between $A \\mathcal{B}$ and $\\mathcal{B} \\bar{C}$?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35b2899e-5119-48f1-9249-8b1a02ebf374",
+    "images": [
+      "images/29898_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, ∠ABC এবং ∠DCB এর সমদ্বিখণ্ডকদ্বয় ট্রাপিজিয়ামের মধ্যরেখা EF এর ওপর P বিন্দুতে মিলিত হয়। যদি EF = 3 হয়, তবে ট্রাপিজিয়াম ABCD এর পরিসীমা কত?\n\nOptions:\nক) 9\nখ) 10.5\nগ) 12\nঘ) 15",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0e89416-5dcb-4274-a69e-dc9404444b83",
+    "images": [
+      "images/5457_0.png"
+    ],
+    "english_question": "<image>\nএটি 0 থেকে শুরু হওয়া একটি সংখ্যা রেখা। একজন শিক্ষার্থী এটিকে চিত্রে প্রদর্শিত উপায়ে বাঁকিয়েছে। উদাহরণস্বরূপ: প্রথম লাইনে 0, দ্বিতীয় লাইনে 6, তৃতীয় লাইনে 21... ড্যাশ লাইনের 10ম লাইনের সংখ্যাটি কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

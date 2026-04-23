@@ -1,0 +1,302 @@
+[
+  {
+    "id": "502b4461-b289-42b8-9c17-056d5fa4e2f9",
+    "images": [
+      "images/40205_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, শিক্ষক ওয়াং দুটি কোণক তৈরির জন্য একটি সমদ্বিবাহু ট্রাপিজয়েড কার্ডবোর্ড ABCD থেকে দুটি সেক্টর কেটে নিতে চান। দেওয়া আছে AB = AD = 30 সেমি এবং BC = 60 সেমি, তবে কাটার পর অবশিষ্ট কার্ডবোর্ডের পরিসীমা কত সেমি? (ফলাফল π-এর মাধ্যমে প্রকাশ করো)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c5ce65f-01fe-4ce8-9749-f574d9479698",
+    "images": [
+      "images/10494_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রগুলো অক্ষীয় প্রতিসম (axisymmetric) চিত্র?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2c7ffcc9-9238-4fe3-8b13-616bed8378cb",
+    "images": [
+      "images/21383_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয়ের সঠিক পদ্ধতিটি হলো (__)\n\nOptions (copied from English):\n(ক) 15×4\n(খ) 15×4÷2\n(গ) 15×6÷2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b9558e37-3c7a-4116-9189-446d5b94b110",
+    "images": [
+      "images/2087_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, যখন একটি সমতলীয় চতুর্ভুজ ABCD-কে ভাঁজ করে একটি স্থানিক চতুর্ভুজে রূপান্তর করা হয়, তখন নির্দিষ্ট শর্ত সাপেক্ষে স্থানিক চতুর্ভুজের কর্ণদ্বয় একে অপরের ওপর লম্ব হয় (তোমাকে কেবল একটি সঠিক উত্তর লিখতে হবে, সব সম্ভাব্য পরিস্থিতি বিবেচনা করার প্রয়োজন নেই)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "106f103c-57c0-45b7-9804-b5be92abc33c",
+    "images": [
+      "images/44051_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DH, EG এবং BC-এর সমান্তরাল এবং EF, DC-এর সমান্তরাল। চিত্রে ∠1-এর সমান কতগুলো কোণ আছে (∠1 ব্যতীত)?\n\nOptions:\nক) 2\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29d9cd22-19df-4bd6-83b5-b4db5c57af43",
+    "images": [
+      "images/8991_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু A, B এবং C বৃত্ত O-এর ওপর অবস্থিত। AC রেখাংশ BO-এর ওপর D বিন্দুতে লম্ব এবং কোণ B = 50°। কোণ BOC-এর মান কত ডিগ্রি?\nক. 80°\nখ. 60°\nগ. 50°\nঘ. 40°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33fbb19c-9604-4e9a-9a62-95f48b6b7833",
+    "images": [
+      "images/67853_0.png"
+    ],
+    "english_question": "<image>\nঅনুমান শূন্যস্থান পূরণ: চিত্রে প্রদর্শিত, যদি ∠1 = ∠2 এবং ∠B = ∠C হয়, তবে সিদ্ধান্ত নেওয়া যায় যে AB ∥ CD। যুক্তিটি নিম্নরূপ: যেহেতু ∠1 = ∠2 (দেওয়া আছে), এবং ∠1 = ∠4 (যুক্তি 1: বিপ্রতীপ কোণগুলো সমান), সুতরাং ∠2 = ∠4 (প্রতিস্থাপন), সুতরাং CE ∥ BF (যুক্তি 2: অনুরূপ কোণ সমান হলে, রেখাদ্বয় সমান্তরাল), সুতরাং ∠C = ∠3 (যুক্তি 3: রেখাদ্বয় সমান্তরাল হলে, অনুরূপ কোণ সমান)। এছাড়াও, যেহেতু ∠B = ∠C (দেওয়া আছে), সুতরাং ∠3 = ∠B (প্রতিস্থাপন), সুতরাং AB ∥ CD (যুক্তি 4: একান্তর কোণ সমান হলে, রেখাদ্বয় সমান্তরাল)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b960aea4-82f9-4337-ab3c-93146229e323",
+    "images": [
+      "images/3613_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, চতুর্ভুজ ABCD রেখা l এর সাপেক্ষে প্রতিসম। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① AB || CD; ② AC ⊥ BD; ③ AO = CO; ④ AB ⊥ BC। কোন সিদ্ধান্তগুলো সঠিক?\n\nOptions:\nক) \\(①②\\)\nখ) \\(②③\\)\nগ) \\(①④\\)\nঘ) \\(②\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be807c3c-1761-45df-8665-26802c41130c",
+    "images": [
+      "images/31839_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, দুটি সর্বসম বর্গ ABCD এবং CDEF এর সাধারণ বাহু CD। কতগুলো ভিন্ন বিন্দু ঘূর্ণনের কেন্দ্র হতে পারে যাতে বর্গ ABCD কে ঘূর্ণন করলে তা হুবহু বর্গ CDEF এর ওপর পতিত হয়?\nOptions:\nD) How many distinct points can serve as the center of rotation such that rotating square ABCD maps exactly onto square CDEF?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fc6adb9f-3c30-45f9-a2de-da5797542a00",
+    "images": [
+      "images/20574_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, EF হলো ট্রাপিজিয়াম ABCD-এর মধ্যরেখা, AGFE একটি আয়তক্ষেত্র এবং EF ও FG-এর দৈর্ঘ্যের অনুপাত 2:1। EF-এর দৈর্ঘ্য a সেন্টিমিটার হলে, ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "109d608e-1e76-4bf0-840f-82c799542a09",
+    "images": [
+      "images/6930_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল, ∠1 = 55°, ∠2 = 40° হলে, ∠3 এর মান কত?\nক. 85°\nখ. 95°\nগ. 105°\nঘ. 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "40946d55-383c-47f5-a8d7-2d67325721b3",
+    "images": [
+      "images/14447_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, R ব্যাসার্ধের একটি সিলিন্ডারকে একটি তল দ্বারা ছেদ করা হয়েছে যা এর ভূমির সাথে θ কোণ উৎপন্ন করে, যেখানে 0° < θ < 90°। ছেদকটি একটি উপবৃত্ত। যখন θ = 30° হয়, তখন এই উপবৃত্তের উৎকেন্দ্রিকতা কত?\n\nOptions:\nক) $\\frac{1}{2}$\nখ) $\\frac{\\sqrt{3}}{2}$\nগ) $\\frac{\\sqrt{3}}{3}$\nঘ) $\\frac{2}{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e9650ea7-c7b4-40e4-ab77-e92dbfbd3399",
+    "images": [
+      "images/triangle_ext_e9650ea7-c7b4-40e4-ab77-e92dbfbd3399.png"
+    ],
+    "english_question": "<image>\nক. ার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, ধরা যাক পরাবৃত্তটি y² = 2px (p > 0) যার উপকেন্দ্র F(p/2, 0)। একটি রেখা l, F বিন্দুগামী এবং পরাবৃত্তটিকে A ও B বিন্দুতে ছেদ করে। বিন্দু C, x = -p রেখার উপর অবস্থিত এবং ত্রিভুজ ABC একটি সমবাহু ত্রিভুজ যার বাহুর দৈর্ঘ্য 2p + 3। পরাবৃত্তটির সমীকরণ নির্ণয় করুন।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e85fd777-0eb4-49d2-ad37-8cf3674936d1",
+    "images": [
+      "images/57477_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি লক্ষ্য করো এবং একটি সমীকরণ গঠন করো। বেইবেই বাড়ি থেকে যাত্রা শুরু করে লাইব্রেরিতে বই কিনতে গেল, তারপর স্কুলে গেল এবং সবশেষে বাড়ি ফিরে এল। সে সর্বনিম্ন কত মিটার পথ হেঁটেছে? সমীকরণ: __________________________",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "988680a3-2774-458e-8f97-1a4f1d72a276",
+    "images": [
+      "images/5134_0.png"
+    ],
+    "english_question": "<image>\nএকজন শিক্ষার্থী চিত্রে প্রদর্শিত উপায়ে একটি ত্রিভুজাকার রুলার রেখেছে। যদি AE, BC এর সমান্তরাল হয়, তবে ∠AFD এর মান কত degree?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa433deb-3ccb-48fd-9459-e40d7c12ce8f",
+    "images": [
+      "images/52442_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্রের মধ্যে কোনটি 6টি অভিন্ন বর্গক্ষেত্র দ্বারা গঠিত একটি ঘনকের নেট (net)?\n\nOptions:\nক) ①②③\nখ) ②③④\nগ) ①③④\nঘ) ①②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc45647e-d304-4300-8a22-dc61c681a462",
+    "images": [
+      "images/65020_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি জ্যামিতিক কঠিন বস্তুর তিনটি দৃশ্য প্রদর্শন করছে। এই জ্যামিতিক কঠিন বস্তুটি কী? ( )\nক. পিরামিড\nখ. প্রিজম\nগ. ফ্রাস্টাম\nঘ. উপরের কোনটিই নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "09c2ed24-aec2-457a-bd62-6b3058b259e9",
+    "images": [
+      "images/67473_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো O কেন্দ্রবিশিষ্ট অর্ধবৃত্তের ব্যাস, জ্যা AD এবং BC পরস্পর P বিন্দুতে ছেদ করে। CD এবং AB-এর দৈর্ঘ্য x^2 - 7x + 12 = 0 দ্বিঘাত সমীকরণের দুটি মূল। tan θ-এর মান নির্ণয় করো, যেখানে θ = ∠DPB।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7f184f79-c7d8-4fdc-bc51-3f690a877534",
+    "images": [
+      "images/28537_0.png"
+    ],
+    "english_question": "<image>\nশিক্ষার্থীরা একটি ক্যালাইডোস্কোপ নিয়ে খেলেছে, যা সমান প্রস্থ ও দৈর্ঘ্যের তিনটি কাঁচের টুকরো দিয়ে গঠিত। চিত্রটি ক্যালাইডোস্কোপে দেখা একটি প্যাটার্ন প্রদর্শন করে, যেখানে সব ছোট ত্রিভুজগুলো সর্বসম সমবাহু ত্রিভুজ। রম্বস AEFG-কে রম্বস ABCD-এর A বিন্দুর সাপেক্ষে ঘূর্ণন হিসেবে বিবেচনা করা যায়। সঠিক ঘূর্ণন কোনটি?\nক. ঘড়ির কাঁটার দিকে 60° ঘূর্ণন\nখ. ঘড়ির কাঁটার দিকে 120° ঘূর্ণন\nগ. ঘড়ির কাঁটার বিপরীত দিকে 60° ঘূর্ণন\nঘ. ঘড়ির কাঁটার বিপরীত দিকে 120° ঘূর্ণন",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e6c3f95-17e9-4396-ace0-ab691b0c75ea",
+    "images": [
+      "images/16603_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত O-তে, জ্যা BC ব্যাসার্ধ OA-এর সমান্তরাল এবং AC, OB-কে M বিন্দুতে ছেদ করে। যদি ∠C = 20° হয়, তবে ∠AMB-এর মান কত?\n\nOptions:\nক) 30°\nখ) 60°\nগ) 50°\nঘ) 40°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

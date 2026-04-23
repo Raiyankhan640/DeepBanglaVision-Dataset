@@ -1,0 +1,302 @@
+[
+  {
+    "id": "50c9ec4e-cb9f-4cd3-8cb2-9a74b7577293",
+    "images": [
+      "images/71595_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বর্গ ABCD-এর বাহুর দৈর্ঘ্য একটি ধনাত্মক পূর্ণসংখ্যা, যা চারটি ছোট আয়তক্ষেত্রে বিভক্ত এবং বিন্দু E, F, G, H একই রেখায় (বিন্দু F সেগমেন্ট EG-এর উপর)। বিন্দু E, N, H, M বর্গ ABCD-এর প্রান্তে। আয়তক্ষেত্র AEFM ও GNCH-এর পরিসীমা যথাক্রমে 6 ও 10। বর্গ ABCD-এর বাহুর দৈর্ঘ্যের সর্বনিম্ন মান কত? ক. 3 খ. 4 গ. 5 ঘ. নির্ধারণ করা যায় না",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2a4693c5-5827-4a27-96f6-19fde7edffed",
+    "images": [
+      "images/76586_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "260ab068-819b-4377-8c96-65d3b8a51f74",
+    "images": [
+      "images/18290_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল DE, AC = 4, BD = 9 এবং CD = 6। CE এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a11fcdc0-d4aa-4b68-8f53-a4857426233f",
+    "images": [
+      "images/37328_0.png"
+    ],
+    "english_question": "<image>\nশাও মিং এবং শাও গ্যাং দুটি স্পিনার ব্যবহার করে একটি খেলা খেলছে: স্পিনার 1-এ 1 এবং 2 সংখ্যা আছে; স্পিনার 2-এ 1, 2 এবং 3 সংখ্যা আছে। গুণফল বিজোড় হলে শাও মিং 2 পয়েন্ট পায়; জোড় হলে শাও গ্যাং 1 পয়েন্ট পায়। প্রতিটি খেলোয়াড়ের প্রত্যাশিত পয়েন্ট গণনা করে খেলাটি নিরপেক্ষ কি না তা নির্ধারণ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c93318d7-c863-432a-bc13-73274c957e0e",
+    "images": [
+      "images/10687_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঘনক ABCD-A₁B₁C₁D₁ এর A₁B₁ এবং A₁D₁ বাহুর মধ্যবিন্দু যথাক্রমে M এবং N। ঘনকটির দুটি কোণ A, M, N এবং D, N, C₁ বিন্দু দিয়ে ছেদ করে কেটে নেওয়া জ্যামিতিক চিত্রটি 1 নং চিত্রে দেখানো হয়েছে। এই জ্যামিতিক চিত্রটির সম্মুখ দৃশ্য (front view), পার্শ্ব দৃশ্য (side view) এবং উপর থেকে দৃশ্য (top view) 2 নং চিত্রে কীভাবে উপস্থাপিত হয়েছে?\n\nOptions:\nক) (i), (ii), (iii)\nখ) (ii), (iii), (iv)\nগ) (i), (iii), (iv)\nঘ) (ii), (iv), (iii)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9893a922-03d5-45f6-aee5-8557d6f8c373",
+    "images": [
+      "images/40384_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB = 90°, AC = 1, এবং ∠ABC = 30°, ত্রিভুজটিকে বিন্দু A-কে কেন্দ্র করে 30° ঘড়ির কাঁটার বিপরীত দিকে ঘোরালে ত্রিভুজ ADE উৎপন্ন হয়। বিন্দু B যে পথ অতিক্রম করে তা হলো বৃত্তচাপ BD। ছায়াবৃত অংশের ক্ষেত্রফল কত (ফলাফলে π বজায় রাখো)?\nOptions:\nd. The path point B takes is arc BD) What is the area of the shaded region in square units (keep π in the result)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cb7ee7f2-602f-4cae-938a-203828b4b88c",
+    "images": [
+      "images/25553_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যখন একটি সাধারণ ত্রিভুজাকার রুলার দেখানো অনুযায়ী বসানো হয়, তখন ∠ABF-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "228329ee-f2d5-4c72-8e5e-1c5ce6f7a766",
+    "images": [
+      "images/18613_0.png"
+    ],
+    "english_question": "<image>\nদুটি সর্বসম স্পিনার A এবং B দেওয়া আছে। স্পিনার A-কে 12টি সমান ভাগে ভাগ করা হয়েছে যেখানে লাল, সবুজ এবং নীল রঙের পর্যায়ক্রমিক বিন্যাস রয়েছে। স্পিনার B-কে 3টি সমান ভাগে ভাগ করা হয়েছে যেখানে লাল, সবুজ এবং নীল রঙ রয়েছে। স্পিনার A থামলে লাল রঙে নির্দেশ করার সম্ভাবনা এবং স্পিনার B থামলে লাল রঙে নির্দেশ করার সম্ভাবনার তুলনা করো। (শূন্যস্থানে \">\", \"<\" বা \"=\" বসাও)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c1bc4cf1-b5e0-4807-acf9-95402a0cd9c4",
+    "images": [
+      "images/11922_0.png"
+    ],
+    "english_question": "<image>\nমালয়েশিয়া এয়ারলাইন্স দুর্ঘটনার ঘটনাটি আমাদের সরকারের দৃষ্টি আকর্ষণ করেছে, যারা দ্রুত অনুসন্ধান অভিযানের জন্য সংশ্লিষ্ট সমুদ্র এলাকায় জাহাজ ও বিমান পাঠিয়েছে। আকাশপথে অনুসন্ধানের সময়, একটি অনুভূমিকভাবে উড়ন্ত বিমান বিন্দু A থেকে 30° অবনতি কোণে একটি সম্ভাব্য বিমানের ধ্বংসাবশেষ বিন্দু F এ পর্যবেক্ষণ করে (এই বস্তুটি স্থির বলে গণ্য করা হয়)। পর্যবেক্ষণের সুবিধার্থে, বিমানটি 800 মিটার সামনে উড়ে বিন্দু B তে পৌঁছায়, যেখানে এটি পরিমাপ করে যে বিন্দু F, বিন্দু B থেকে 45° অবনতি কোণে অবস্থিত। বিমানটি যখন বিন্দু F এর ঠিক উপরে বিন্দু C তে থাকে, তখন উল্লম্ব উচ্চতা CF নির্ণয় করো (বিন্দু A, B এবং C একই সরলরেখায় অবস্থিত)। CF এর উচ্চতা মিটারে কত? (নিকটতম পূর্ণসংখ্যায় প্রকাশ করো, রেফারেন্স মান: √3 ≈ 1.7)।\nOptions:\nB) Please calculate the vertical height CF when the aircraft is directly above point F at point C (points A, B, and C are on the same straight line). What is the approximate height of CF in meters? (Round to the nearest integer, reference value: $\\sqrt{3}$ ≈ 1.7).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1aab6ae6-e348-401d-98ee-b9f5d4cd2175",
+    "images": [
+      "images/19166_0.png"
+    ],
+    "english_question": "<image>\nশাও মিং একটি পণ্যের জন্য একটি প্যাকেজিং বক্স ডিজাইন করেছে, কিন্তু অসাবধানতাবশত সে একটি অংশ ডিজাইন করতে ভুলে গেছে। উভয় পাশে ঢাকনাযুক্ত একটি ঘনক বক্স তৈরি করতে এটিকে সম্পূর্ণ করো। এটি পূরণ করার কতগুলো উপায় আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c6a4f8d-0896-473f-a8e6-38d58f00dd38",
+    "images": [
+      "images/9641_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, শিয়াওমিংয়ের জানালার বাইরে একটি দেয়াল AB আছে। দেয়ালের বাধার কারণে, সকালে জানালার সর্বোচ্চ বিন্দু C থেকে সূর্যের আলো মেঝেতে F বিন্দুতে পড়ে। দুপুরে, জানালার সর্বনিম্ন বিন্দু D থেকে সূর্যের আলো মেঝেতে E বিন্দুতে পড়ে। শিয়াওমিং মাটি থেকে জানালার উচ্চতা OD = 0.8 মি, জানালার উচ্চতা CD = 1.2 মি এবং OE = 0.8 মি ও OF = 3 মি পরিমাপ করল। দেয়াল AB এর উচ্চতা নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ca236bf-efdb-4406-969f-0c9bd9306ec3",
+    "images": [
+      "images/51956_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি ঘনকের নেট। মূল ঘনকে রেখা AB ও CD-এর মধ্যে কোণের মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "32b5d4d4-47e0-4962-85f3-45fd656c9d97",
+    "images": [
+      "images/52314_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, সরলকোণের চেয়ে ছোট কোণগুলোর সংখ্যা কত? ( )\n\nOptions:\nক) 5\nখ) 6\nগ) 7\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9fca7733-3845-460d-a099-f9afd9c4fd30",
+    "images": [
+      "images/24133_0.png"
+    ],
+    "english_question": "<image>\n(ঐচ্ছিক প্রশ্ন) নিচের চিত্রটির আয়তন নির্ণয় কর। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d93b54bc-dc3c-4601-a993-96f9bbd8e37a",
+    "images": [
+      "images/32642_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর পরিসীমা 36। কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে এবং E হলো CD বাহুর মধ্যবিন্দু। যদি BD = 12 হয়, তবে ত্রিভুজ DOE-এর পরিসীমা কত?\nক. 12\nখ. 15\nগ. 18\nঘ. 21",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "09ccab1a-6606-44e7-9381-bde43d3e0173",
+    "images": [
+      "images/10916_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AC হলো বৃত্ত O-এর ব্যাস, OB, AC-এর উপর লম্ব এবং জ্যা BN, AC-কে M বিন্দুতে ছেদ করে। যদি OC = √3 এবং OM = 1 হয়, তবে MN-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "01ce5d3e-16f4-4e5f-aba6-9016c92f3672",
+    "images": [
+      "images/triangle_ext_01ce5d3e-16f4-4e5f-aba6-9016c92f3672.png"
+    ],
+    "english_question": "<image>\nছয়টি ম্যাচস্টিক ব্যবহার করে চারটি সমবাহু ত্রিভুজ গঠন করা হয়েছে (চিত্রে যেমনটি দেখানো হয়েছে), একটি পোকা A বিন্দু থেকে শুরু করে 5টি ভিন্ন ম্যাচস্টিক বরাবর爬ে গিয়ে C বিন্দুতে পৌঁছায়।爬ার পথ কয়টি হতে পারে?\nক. 4 paths\nখ. 5 paths\nগ. 6 paths\nঘ. 7 paths",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b9e7dc55-545f-4cad-bdcf-f132f1b20086",
+    "images": [
+      "images/39464_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ইউটিলিটি পোল CD এর C বিন্দুতে CE ও CF তার দুটি যুক্ত আছে। CE তার ও ভূমির মধ্যবর্তী কোণ ∠CED = 60 ডিগ্রি। 1.5 মিটার উঁচু একটি থিওডোলাইট AB পোল থেকে 6 মিটার দূরে B বিন্দুতে স্থাপন করা হয়েছে। A বিন্দু থেকে পোলের C বিন্দুর উন্নতি কোণ 30 ডিগ্রি। CE তারের দৈর্ঘ্য নির্ণয় করো। (ফলাফল এক দশমিক স্থান পর্যন্ত; দেওয়া আছে: √2 ≈ 1.41, √3 ≈ 1.73)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c694909-1858-476a-9e76-c7e33dc236cd",
+    "images": [
+      "images/49586_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, B, C এবং D বিন্দুগুলো একই সরলরেখায় অবস্থিত। দেওয়া আছে যে, ∠EAD = ∠FAD এবং ∠EDA = ∠FDA। চিত্রে সর্বসম ত্রিভুজের কত জোড়া রয়েছে?\nক. 3 জোড়া\nখ. 4 জোড়া\nগ. 5 জোড়া\nঘ. 6 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "332a7a74-dd59-49bc-ab40-d49ecdca4623",
+    "images": [
+      "images/30344_0.png"
+    ],
+    "english_question": "<image>\nএকটি সুষম পঞ্চভুজ এবং একটি বর্গক্ষেত্রের বাহুর দৈর্ঘ্য সমান। এদের একটি বাহু বরাবর যুক্ত করে একটি 'আপেল' আকৃতি তৈরি করা হলো। বর্গক্ষেত্রটি পঞ্চভুজের চারপাশে ঘুরলে, পুনরায় 'আপেল' আকৃতি ফিরে পেতে এটিকে কতবার ঘুরতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

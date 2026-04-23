@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a008e2c7-f50e-4712-a74e-93f951d45bff",
+    "images": [
+      "images/70790_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2011 শরৎ, চাওইয়াং ডিস্ট্রিক্ট স্কুল-লেভেল মিডটার্ম), সমবাহু ত্রিভুজ MNP-এর বাহুর দৈর্ঘ্য 1, রেখাংশ AB-এর দৈর্ঘ্য 4, বিন্দু M বিন্দু A-এর সাথে মিলে যায় এবং বিন্দু N রেখাংশ AB-এর উপর অবস্থিত। ত্রিভুজ MNP বিন্দু A থেকে বিন্দু B পর্যন্ত রেখাংশ AB বরাবর গড়িয়ে চলে যতক্ষণ না ত্রিভুজ MNP-এর একটি বিন্দু বিন্দু B-এর সাথে মিলে যায়। বিন্দু P দ্বারা অতিক্রান্ত দূরত্ব কত?\nOptions:\nখ) Triangle MNP rolls along segment AB from point A to point B until one point of triangle MNP coincides with point খ) What is the distance traveled by point P?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bfbc32ae-380b-4cb8-9920-33fd2acc6ae7",
+    "images": [
+      "images/61254_0.png"
+    ],
+    "english_question": "<image>\nবর্গাকার গ্রিডে, যদি ত্রিভুজ ABC, ত্রিভুজ PBD এর সদৃশ হয়, তবে বিন্দু P নিচের কোন বিন্দুতে অবস্থিত হওয়া উচিত? ক. P₁ খ. P₂ গ. P₃ ঘ. P₄",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2d9b5ba6-77ce-42fb-b61f-2eebb869a2e6",
+    "images": [
+      "images/triangle_ext_2d9b5ba6-77ce-42fb-b61f-2eebb869a2e6.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোতে, a, b এবং c হলো ত্রিভুজগুলোর বাহুর দৈর্ঘ্য। 甲, 乙 এবং 丙 ত্রিভুজগুলোর মধ্যে কোনটি বাম পাশের ত্রিভুজ ΔABC এর সাথে সর্বসম? ( )\nক. 甲和乙\nখ. 乙和丙\nগ. 甲和丙\nঘ. 只有丙",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0e582463-1836-4f50-a32c-e1daec10ead9",
+    "images": [
+      "images/60861_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB, CD এবং EF রেখাগুলো O বিন্দুতে ছেদ করে। দেওয়া আছে ∠AOG=90°, ∠FOG=32° এবং ∠COE=38°। ∠BOD এর পরিমাপ নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8071eac3-9e3a-447f-a1c9-74f563068a5f",
+    "images": [
+      "images/13902_0.png"
+    ],
+    "english_question": "<image>\nট্রাপিজিয়াম ABCD-তে, AD সমান্তরাল BC এবং ∠ABC = 90°, যেখানে AD = 2, AB = 1, এবং BC = 3। যদি শীর্ষবিন্দু A এবং B বৃত্ত O-এর ব্যাস MN-এর ওপর অবস্থিত হয় এবং C ও D বিন্দুদ্বয় বৃত্ত O-এর পরিধির ওপর থাকে, তবে বৃত্ত O-এর ব্যাস কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "577f86ee-8412-4b27-b4d4-fa477fbea0fe",
+    "images": [
+      "images/16886_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড কাগজের ছোট বর্গগুলোর বাহুর দৈর্ঘ্য 1। মোটা রেখাগুলো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য নির্দেশ করে। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) \\(12\\)\nখ) \\(18\\)\nগ) \\(24\\)\nঘ) \\(30\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f671b1b-c709-4df2-a94e-c28d7c87b43c",
+    "images": [
+      "images/36417_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD হলো l রেখার সাপেক্ষে একটি অক্ষীয় প্রতিসম চিত্র। নিচের কোন সিদ্ধান্তটি ভুল? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b4eb284-4c91-4504-a38d-85ae254b42ef",
+    "images": [
+      "images/53164_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। যদি এর সামনের দৃশ্য একটি সমদ্বিবাহু ট্রাপিজিয়াম এবং পাশের দৃশ্য একটি সমবাহু ত্রিভুজ হয়, তবে এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 2\\(\\frac{3}{2}\\)+2\nখ) 6\nগ) 4\\(\\frac{3}{2}\\)+2\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "493990be-cbdb-4b9c-9480-8884733a8f05",
+    "images": [
+      "images/20306_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আকৃতিটির পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "86c1f969-f6dc-4cc3-8b32-5113dc55705e",
+    "images": [
+      "images/73515_0.png"
+    ],
+    "english_question": "<image>\nলি চাচা একটি দেয়ালের সাথে 32 মিটার লম্বা বেড়া ব্যবহার করে একটি সবজির বাগান তৈরি করেছেন (চিত্রে দেখানো হয়েছে)। এই সবজির বাগানটির ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9368e87a-e0a4-4a47-8465-99bc5779f170",
+    "images": [
+      "images/41698_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DE সমান্তরাল BC এবং DF সমান্তরাল AC। নিচের কোন সমানুপাতিক সম্পর্কটি সঠিক?\nOptions:\nC) Which of the following proportional relationships holds?\nAD / DB = DE / BC\nAE / EC = BF / FC\nDF / AC = DE / BC\nAD / AB = AE / AC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "943dce6c-5052-4f60-8a29-c32a843fa6a4",
+    "images": [
+      "images/347_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপায়ে একটি বর্গাকার কাগজ ভাঁজ করা হলো এবং সবশেষে ভাঁজ করা কাগজ থেকে শীর্ষবিন্দু O বিশিষ্ট একটি সমদ্বিবাহু ত্রিভুজ কেটে নেওয়া হলো। কাগজটি পুরোপুরি খোলার পর প্রাপ্ত জ্যামিতিক চিত্রটি নিশ্চিতভাবে কী হবে? ( )\n\nOptions:\nক) Regular quadrilateral\nখ) Regular hexagon\nগ) Regular octagon\nঘ) Regular decagon",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54af1d12-d45e-462a-b1e9-0bf476829243",
+    "images": [
+      "images/70516_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অবস্থায়, AB ∥ CD হওয়ার শর্তটি হলো ( )\n\nOptions:\nক) \\(∠1=∠2\\)\nখ) \\(∠3=∠4\\)\nগ) \\(∠1=∠3\\)\nঘ) \\(∠2=∠4\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f815a76-3aa9-47a4-8ba1-b7effd52fca6",
+    "images": [
+      "images/47297_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন শর্তগুলো থেকে এটি সিদ্ধান্ত নেওয়া যায় না যে c এবং d রেখাদ্বয় সমান্তরাল? ( )\n\nOptions:\nক) ∠2=∠3\nখ) ∠1+∠2=180°\nগ) ∠2+∠4=180°\nঘ) ∠2=∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52d68047-bef3-4bbf-8711-16718b189e81",
+    "images": [
+      "images/21592_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি আয়তাকার জমির প্রস্থ 35 মিটার বৃদ্ধি করা হয়েছে কিন্তু দৈর্ঘ্য অপরিবর্তিত রয়েছে। বর্ধিত আয়তক্ষেত্রটির ক্ষেত্রফল কত?\nOptions:\nd. What is the area of the enlarged rectangle?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5c4f3907-9ae2-4709-b1a5-43017ae8adb8",
+    "images": [
+      "images/10751_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে, কোণ $\\alpha$-এর অবস্থান চিত্রে দেখানো হয়েছে। $\\tan \\alpha$-এর মান কত?\n\nOptions:\nক) $\\frac { \\sqrt { 5 } } { 3 }$\nখ) $\\frac { \\sqrt { 5 } } { 3 }$\nগ) $\\frac { 1 } { 2 }$\nঘ) 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "635ed756-2f83-48e4-8f28-8932c13b8001",
+    "images": [
+      "images/37359_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি ধানের পরীক্ষামূলক জমি দেখানো হয়েছে। বর্গমিটারে এই পরীক্ষামূলক জমির ক্ষেত্রফল কত?\nOptions:\nd. What is the area of this experimental field in square meters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f781188e-c3fe-4106-aaea-09ef239eff62",
+    "images": [
+      "images/25484_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ OAB-কে বিন্দু O-এর সাপেক্ষে 180° ঘুরালে ত্রিভুজ OCD পাওয়া যায়। AD এবং BC যোগ করলে চতুর্ভুজ ABCD গঠিত হয়। এখানে AB, CD-এর সমান্তরাল; ত্রিভুজ AOD-এর কেন্দ্রীয় প্রতিসম ত্রিভুজটি হলো ___, যা থেকে আমরা সিদ্ধান্ত নিতে পারি যে AD, BC-এর সমান্তরাল।\nOptions:\nD) Connecting AD and BC forms quadrilateral ABCD) Then, AB is parallel to CD; the triangle that is centrally symmetric to triangle AOD is ___, from which we can conclude that AD is parallel to BC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bbd5855b-3cd7-4587-afb0-58a9fdaf89ff",
+    "images": [
+      "images/61325_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি জ্যামিতিক আকৃতির উন্মুক্ত রূপ। এই চিত্রে, ABCD একটি বর্গক্ষেত্র যার বাহুর দৈর্ঘ্য 6, SD = PD = 6, CR = SC, AQ = AP এবং বিন্দু S, D, A, Q এবং বিন্দু P, D, C, R সমরেখ। চিত্রে প্রদর্শিত ড্যাশ রেখা বরাবর ভাঁজ করলে, P, Q, R এবং S বিন্দুগুলো মিলে যাবে। 6 একক বাহুবিশিষ্ট একটি ঘনক তৈরি করতে এই ধরনের কয়টি জ্যামিতিক আকৃতির প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "40117c73-6730-4302-b18e-98dbddf00742",
+    "images": [
+      "images/12276_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 এর অনুরূপ কোণ কোনটি? ( ) ক. ∠2 খ. ∠3 গ. ∠4 ঘ. ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

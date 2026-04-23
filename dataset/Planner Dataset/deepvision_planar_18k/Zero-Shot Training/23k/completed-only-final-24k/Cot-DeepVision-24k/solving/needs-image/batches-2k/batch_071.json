@@ -1,0 +1,302 @@
+[
+  {
+    "id": "b82bdb8f-849d-4b10-8815-04ead659bd7a",
+    "images": [
+      "images/65059_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চারটি অসমান্তরাল রেখা l₁, l₂, l₃ এবং l₄ সাতটি কোণ তৈরি করেছে। এই সাতটি কোণের ডিগ্রি সম্পর্কের বিষয়ে নীচের কোনটি সঠিক? ( ) ক. ∠2 = ∠4 + ∠7 খ. ∠3 = ∠1 + ∠7 গ. ∠1 + ∠4 + ∠6 = 180° ঘ. ∠2 + ∠3 + ∠5 = 360°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0944856b-eb0e-473d-abbb-fd6a0e7ae0ba",
+    "images": [
+      "images/7994_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, M এবং N বিন্দুদ্বয় যথাক্রমে CD এবং BC বাহুর মধ্যবিন্দু। দেওয়া আছে যে, AM, CD-এর ওপর লম্ব এবং AN, BC-এর ওপর লম্ব। যদি ∠MAN = 74° এবং ∠DBC = 41° হয়, তবে ∠ADC-এর মান কত?\n\nOptions:\nক) 45°\nখ) 47°\nগ) 49°\nঘ) 51°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5df2f761-4cff-4345-bc30-4641cc04d6de",
+    "images": [
+      "images/3829_0.png"
+    ],
+    "english_question": "<image>\nএকটি হেক্সাহেড্রন যার প্রতিটি তল সামান্তরিক তাকে প্যারালালিপিপেড বলা হয়। দেওয়া আছে যে, সামান্তরিক ABCD-তে (চিত্র 1 অনুযায়ী), AC² + BD² = 2(AB² + AD²) সম্পর্কটি সত্য। তাহলে, প্যারালালিপিপেড ABCD-A₁B₁C₁D₁-এ (চিত্র 2 অনুযায়ী), AC₁² + BD₁² + CA₁² + DB₁² এর মান কত?\n\nOptions (copied from English):\nC. 4 (AB^2 + AD^2 + AA₁^2)\n4 (AB^2 + AD^2)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4525aced-6589-4cad-b899-aa72c64d0aba",
+    "images": [
+      "images/7547_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত 4a প্রস্থ এবং 4b উচ্চতা বিশিষ্ট আয়তাকার গ্রিডে, চতুর্ভুজ ABCD-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2db001a6-3071-45f0-8166-5f4b1d9fe8d5",
+    "images": [
+      "images/triangle_ext_2db001a6-3071-45f0-8166-5f4b1d9fe8d5.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, দেওয়া আছে ∠B = 40°, বহিঃস্থ কোণ ∠DAC এবং ∠ACF-এর সমদ্বিখণ্ডকদ্বয় E বিন্দুতে ছেদ করে। ∠AEC-এর মান কত ডিগ্রি?\nক. 40°\nখ. 50°\nগ. 60°\nঘ. 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "74b0ccc8-511e-497c-8de6-17fe266039cf",
+    "images": [
+      "images/69983_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2011 তিয়ানমেন থার্ড মক), O হলো আয়তক্ষেত্র ABCD-এর কেন্দ্র, M হলো BC বাহুর ওপর যেকোনো একটি বিন্দু, ON লম্ব OM এবং এটি CD বাহুকে N বিন্দুতে ছেদ করে। দেওয়া আছে AB = 6 এবং AD = 4, ধরি OM = x এবং ON = y, তবে y এবং x-এর মধ্যে ফাংশনাল সম্পর্কটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43b342d7-c373-48dd-ac0c-89a7a8fd4f5a",
+    "images": [
+      "images/27971_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু C বৃত্ত O-এর উপর অবস্থিত, CD ব্যাসার্ধ OA-এর উপর D বিন্দুতে লম্ব, CE ব্যাসার্ধ OB-এর উপর E বিন্দুতে লম্ব এবং CD = CE। AC এবং BC চাপের দৈর্ঘ্যের মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "437fe249-4edf-4588-a39b-8cd7e1ac6a65",
+    "images": [
+      "images/28076_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রম্বস ABCD-এর কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। যদি ∠ABC = 60° হয়, তবে AC: BD এর অনুপাত কত?\n\nOptions:\nক) $\\sqrt { 3 }$ : 1\nখ) 1: 2\nগ) $\\sqrt { 3 }$ : 3\nঘ) 1: 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "59b254d4-710b-4383-a513-a2ea49c6e8f3",
+    "images": [
+      "images/66415_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজ ABCD-কে EF রেখা বরাবর ভাঁজ করে চিত্র ② পাওয়া গেল। ভাঁজ করার পর রেখা DE রেখা BF-কে P বিন্দুতে ছেদ করে। যদি ∠BPE = 130° হয়, তবে ∠PEF-এর পরিমাপ কত? ( )\nক. 60°\nখ. 65°\nগ. 70°\nঘ. 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3efde0f-71e0-4db2-9f76-447b30b5dfb1",
+    "images": [
+      "images/69288_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার কাগজ একটি কর্ণ বরাবর ভাঁজ করে একটি সমদ্বিবাহু সমকোণী ত্রিভুজ গঠন করা হয়। তারপর ভিত্তি থেকে উচ্চতা বরাবর ভাঁজ করা হয় এবং ফলে আকৃতি (চিত্রে দেখানো) ড্যাশড রেখা বরাবর কাটা হয়। ছায়াযুক্ত অংশ খোলা ও সমতল করলে এই আকৃতির কয়টি প্রতিসাম্য রেখা আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "009efadb-743a-48a5-873c-76ff94956498",
+    "images": [
+      "images/21863_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 = 50°। যদি AB∥DE হয়, তবে ∠D = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8093a6cc-e6c7-4a6f-8708-0295c349085b",
+    "images": [
+      "images/6103_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী আয়তাকার প্রিজম ABCD-A_{1}B_{1}C_{1}D_{1}-এ, যদি A_{1}(a,0,c) এবং C(0,b,0) হয়, তবে B_{1} বিন্দুর স্থানাঙ্ক কত?\nOptions:\nc)\\) and \\(C(0,b,0)\\), what are the coordinates of point \\(B_{1}\\)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe305355-534f-463b-9308-12d0f635ad6e",
+    "images": [
+      "images/16029_0.png"
+    ],
+    "english_question": "<image>\nশৈশবে আমরা আঙুল দিয়ে গণনা প্র্যাকটিস করতাম। ছবিতে দেখানো নিয়ম অনুযায়ী 2009 পর্যন্ত গণনা করলে কোন আঙুলের সাথে তা মিলবে?\nক. বৃদ্ধাঙ্গুলি\nখ. তর্জনী\nগ. মধ্যমা\nঘ. অনামিকা",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bd097765-0dbd-45fb-949c-a97696fc7d0d",
+    "images": [
+      "images/76488_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কোণগুলোর মধ্যে, ∠1-এর সাথে একই পাশে অবস্থিত কোণটি হলো ( )\n\nOptions:\nক) \\(∠2\\)\nখ) \\(∠3\\)\nগ) \\(∠4\\)\nঘ) \\(∠5\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5e92ef6f-c826-48ab-beb4-5d6fd0b02a62",
+    "images": [
+      "images/25600_0.png"
+    ],
+    "english_question": "<image>\nছোট সমবাহু ত্রিভুজ দ্বারা গঠিত একটি ড্যাশড গ্রিডে, tan ∠AOB-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6533a09f-ffd7-4dd5-9626-739f6d61b958",
+    "images": [
+      "images/38935_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, BC = BE, ∠C = ∠E, ∠CBE = ∠ABD হলে, নিচের কোনটি ভুল? ( ) \nক) ∠A = ∠D \nখ) BF = BG \nগ) AC = DE \nঘ) BA = BD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50283242-c779-4354-82f3-5c22058b5cb0",
+    "images": [
+      "images/21821_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, বিন্দু A (3, 0) এবং B (0, 4) দেওয়া আছে। ত্রিভুজ BOA-কে বিন্দু A-এর সাপেক্ষে ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ CDA তৈরি করা হলো। যখন ∠DOA = ∠OBA হয়, তখন রেখা CD-এর সমীকরণ কী?\nOptions:\nA) When ∠DOA = ∠OBA, what is the equation of line CD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "baae288a-b98b-4ae6-a7e2-9c8671857f14",
+    "images": [
+      "images/3217_0.png"
+    ],
+    "english_question": "<image>\nr ব্যাসার্ধের তিনটি বৃত্ত পরস্পর বহিঃস্পর্শী এবং ত্রিভুজ ABC-এর বাহুতে স্পর্শ করে। ত্রিভুজ ABC-এর প্রতিটি বাহুর দৈর্ঘ্য কত?\nক. 2r   খ. (2 + √3)r   গ. 3r   ঘ. 2(1 + √3)r",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "660f5f2b-8706-4a19-8836-3285dcb67169",
+    "images": [
+      "images/15507_0.png"
+    ],
+    "english_question": "<image>\nএকটি অর্ধবৃত্তকে তার প্রতিসাম্য অক্ষ বরাবর ভাঁজ করার পর পুনরায় এমনভাবে ভাঁজ করা হলো যাতে বৃত্তচাপটি চারটি সমান ভাগে বিভক্ত হয়, তবে ভাঁজ রেখা OA এবং OB-এর মধ্যবর্তী কোণ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d991b84a-ebae-42d6-9711-2649182ddce1",
+    "images": [
+      "images/triangle_ext_d991b84a-ebae-42d6-9711-2649182ddce1.png"
+    ],
+    "english_question": "<image>\nচিত্রে, F_{1} এবং F_{2} হলো পরাবৃত্ত গ: \\frac{x^{2}}{a^{2}} - \\frac{y^{2}}{b^{2}} = 1 (a > 0, b > 0)-এর বাম ও ডান ফোকাস। F_{1} বিন্দুগামী একটি রেখা l, C-এর বাম ও ডান শাখাকে যথাক্রমে A ও B বিন্দুতে ছেদ করে। যদি ΔABF_{2} একটি সমবাহু ত্রিভুজ হয়, তবে পরাবৃত্তটির উৎকেন্দ্রিকতা কত?\nক. $\\frac{\\sqrt{6}}{2}$\nখ. $\\sqrt{3}$\nগ. $\\frac{{\\sqrt{5}}+1}{2}$\nঘ. $\\sqrt{7}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

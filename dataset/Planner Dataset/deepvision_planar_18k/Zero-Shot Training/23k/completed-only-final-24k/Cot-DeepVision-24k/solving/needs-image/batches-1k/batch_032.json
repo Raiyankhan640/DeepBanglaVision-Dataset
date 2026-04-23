@@ -1,0 +1,302 @@
+[
+  {
+    "id": "8b22bcfc-f805-441c-a839-d46490a1c871",
+    "images": [
+      "images/41198_0.png"
+    ],
+    "english_question": "<image>\nতিনটি বড় ত্রিভুজের প্রতিটিতে তিনটি করে ছোট ত্রিভুজ রয়েছে। প্রতিটি বড় ত্রিভুজের কেন্দ্রে থাকা সংখ্যাটি তার তিনটি শীর্ষবিন্দুতে থাকা সংখ্যাগুলোর যোগফলের সমান। বাম ও ডানদিকের ত্রিভুজগুলো দেখে মাঝের ত্রিভুজের কেন্দ্রে থাকা সংখ্যাটি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a0f2e30a-7964-4f28-8b6f-382f6545cff8",
+    "images": [
+      "images/70262_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB এবং CD পরস্পরকে O বিন্দুতে সমদ্বিখণ্ডিত করে, তবে নীচের কোন সিদ্ধান্তটি ভুল? ( )\nক. ∠C=∠D\nখ. AD=BC\nগ. AD//BC\nঘ. AB=CD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "10a0bf74-e4ed-41f0-b677-caa9f706ae20",
+    "images": [
+      "images/39614_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1=∠2 এবং ∠B=∠D। নিচের চারটি সিদ্ধান্তের মধ্যে কোনটি ভুল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ba68f6a0-4d36-47a9-9fc2-084395029e0b",
+    "images": [
+      "images/15809_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি রাস্তা (মোটা রেখা) আছে যার উভয় পাশে 7টি কারখানা (O1…O7) আছে, যা রাস্তার A, B, C, D, E, এবং F বিন্দুগুলোর সাথে সংযোগকারী পথ (সরু রেখা) দ্বারা যুক্ত। এখন, রাস্তার পরিচিত বিন্দুগুলোর মধ্যে একটিতে একটি স্টেশন তৈরি করতে হবে যাতে সমস্ত কারখানা থেকে মোট দূরত্ব (পথ এবং রাস্তার মাধ্যমে) সর্বনিম্ন হয়। স্টেশনটি কোথায় তৈরি করা উচিত?\nOptions:\nd) is minimized. Where should the station be built?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e26b6aa5-ce27-4928-8891-f347271c80e0",
+    "images": [
+      "images/17503_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি বর্গক্ষেত্র যার বাহুর দৈর্ঘ্য l, O হলো AD এর মধ্যবিন্দু, পরাবৃত্তটির শীর্ষবিন্দু O এবং এটি C বিন্দু দিয়ে অতিক্রম করে। ছায়াবৃত অংশের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) $\\frac { 1 } { 4 }$\nখ) $\\frac { 1 } { 2 }$\nগ) $\\frac 1 3$\nঘ) $\\frac 3 4$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6224965-a421-4cea-847d-cd06366b1b8d",
+    "images": [
+      "images/32972_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AE, AB এর উপর লম্ব এবং AE = AB, BC, CD এর উপর লম্ব এবং BC = CD। চিত্রে চিহ্নিত তথ্য অনুযায়ী, কঠিন রেখা দ্বারা আবদ্ধ আকৃতির ক্ষেত্রফল S নির্ণয় করো।\nOptions:\nD) Please calculate the area S of the shape enclosed by the solid lines according to the data marked in the figure.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1fbcff28-2fe5-4324-9c02-49922573ec0a",
+    "images": [
+      "images/10168_0.png"
+    ],
+    "english_question": "<image>\nB(m, 4), C(n, -6) এবং A(5, 0) তিনটি বিন্দু দেওয়া আছে। রেখা BC মূলবিন্দু দিয়ে যায় এবং AD BC-র ওপর লম্ব যেখানে পাদবিন্দু D। AD · BC এর মান নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b423b94a-b151-4068-924e-8fdbc09afb8a",
+    "images": [
+      "images/31405_0.png"
+    ],
+    "english_question": "<image>\nট্রাপিজিয়াম ABCD-তে, AD || BC, AD = 6, BC = 16 এবং E হলো BC-এর মধ্যবিন্দু। P বিন্দু A থেকে D-এর দিকে 1 একক/সেকেন্ড বেগে এবং Q বিন্দু C থেকে B-এর দিকে 2 একক/সেকেন্ড বেগে যাত্রা শুরু করে। P বিন্দু D-তে পৌঁছালে তারা থেমে যায়। কত সময় t (সেকেন্ডে) পর PQED একটি সামান্তরিক হবে?\nOptions:\nগ) Point P starts at A and moves toward D along AD at 1 unit per second. Point Q starts at C and moves toward B along CB at 2 units per second. Both stop when P reaches ঘ) Find the time t (in seconds) when quadrilateral PQED is a parallelogram.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7102a58b-f3d5-497a-9dcf-9a49a01a51c9",
+    "images": [
+      "images/5402_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি ∠1 = 60°, ∠2 = 120°, ∠3 = 70° হয়, তবে ∠4 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6e6bf02-9990-4656-9aeb-f20e38b5045a",
+    "images": [
+      "images/7997_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l হলো সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর প্রতিসাম্য অক্ষ। বিন্দু P রেখা l-এর উপর অবস্থিত এবং PC + PB-এর মান সর্বনিম্ন। সুতরাং, বিন্দু P-এর অবস্থান হওয়া উচিত ( ) \nক. বিন্দু P1 \nখ. বিন্দু P2 \nগ. বিন্দু P3 \nঘ. বিন্দু P4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8bf146ab-b621-425d-9ba4-b1956ee4aecf",
+    "images": [
+      "images/4302_0.png"
+    ],
+    "english_question": "<image>\nধরা যাক একটি বিড়াল চিত্রে প্রদর্শিত মেঝেতে হাঁটছে, তাহলে এটি শেষ পর্যন্ত একটি কালো মেঝেতে থামার সম্ভাবনা কত (__) \\frac{}।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4dac6c4-195d-40d7-a467-43de6c995d40",
+    "images": [
+      "images/32277_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠1 = ∠2 হয়, তবে AB ∥ CD হওয়ার ভিত্তি হলো ( )\n\nOptions:\nক) Alternate interior angles are equal, the two lines are parallel\nখ) Corresponding angles are equal, the two lines are parallel\nগ) Same-side interior angles are equal, the two lines are parallel\nঘ) The two lines are parallel, corresponding angles are equal",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2a420cd7-15bf-46b1-80a3-5d6af254aa37",
+    "images": [
+      "images/65141_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের ট্রাপিজিয়ামটির পরিসীমা 29 সেমি। বর্গ সেন্টিমিটারে এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "76341e35-5442-41f2-be3b-f86574c3d0a9",
+    "images": [
+      "images/13602_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠C=90°, ∠CAB-এর সমদ্বিখণ্ডক AD, BC-কে D বিন্দুতে ছেদ করে। যদি DE, AB-এর লম্ব সমদ্বিখণ্ডক হয়, তবে নিচের কোনটি ভুল?\n\nOptions (copied from English):\nঘ. If DE is the perpendicular bisector of AB, which of the following conclusions is incorrect?\nAB=2AE\nখ. AC=2CD\nDB=2CD\nAD=2DE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "57322e7b-ca27-474c-8ab2-b4e55f6c86dc",
+    "images": [
+      "images/46616_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, যেখানে AD = 2, BC = 4 এবং ∠C = 60°, কর্ণ BD-এর উপর একটি বিন্দু P অবস্থিত (যা B বা D বিন্দুর সাথে মিলে যায় না)। PE রেখাটি BC-এর সমান্তরাল এবং CD-কে E বিন্দুতে ছেদ করে, আবার PF রেখাটি CD-এর সমান্তরাল এবং AD-কে F বিন্দুতে ছেদ করে। ছায়াবৃত অঞ্চলের ক্ষেত্রফল কত? ক. 3 খ. 2√3 গ. 3 + 2√3 ঘ. 3 + 4√3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c3aab2d5-389d-4b99-854a-876f1ffecc45",
+    "images": [
+      "images/1405_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত O-এর ব্যাসার্ধ R, জ্যা AB = a এবং জ্যা BC, OA-এর সমান্তরাল। AC-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nA) Find the length of AC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d63dd5f4-eb1a-483c-b203-084e93914d9b",
+    "images": [
+      "images/6197_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত ত্রিভুজাকৃতি অংশের ক্ষেত্রফল 12 বর্গ সেন্টিমিটার। ত্রিভুজটির উচ্চতা 3 সেন্টিমিটার এবং এটি একটি আয়তক্ষেত্রের ভেতরে অবস্থিত, যার উপরে একটি অর্ধবৃত্ত রয়েছে। অর্ধবৃত্তের ব্যাস আয়তক্ষেত্রের প্রস্থের সমান। অছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7e280cdf-4e81-41e1-8731-0bd18c88952a",
+    "images": [
+      "images/37668_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, AD সমান্তরাল BC, ∠ABC = 90°, AD = 4, AB = 3, BC = 8 এবং M হলো BC বাহুর মধ্যবিন্দু। একটি বিন্দু P, C বিন্দু থেকে C → D → A → B পথ বরাবর চলে B বিন্দুতে থামে। P বিন্দুর কতগুলো অবস্থানের জন্য ত্রিভুজ PMC একটি সমদ্বিবাহু ত্রিভুজ হবে?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a849e145-0955-42d4-afd5-e8eb30778c97",
+    "images": [
+      "images/57854_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, AB ∥ CD দেওয়া থাকলে, কোন বিকল্পটি আমাদের ∠1 = ∠2 সিদ্ধান্তে উপনীত হতে সাহায্য করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b83c7ce-458d-4415-a683-cee54752d07c",
+    "images": [
+      "images/25122_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 50 সেমি প্রস্থের একটি আয়তাকার প্যাটার্ন 10টি অভিন্ন ছোট আয়তক্ষেত্র দ্বারা গঠিত। একটি ছোট আয়তক্ষেত্রের ক্ষেত্রফল কত? ( ) ক. 400 সেমি² খ. 500 সেমি² গ. 600 সেমি² ঘ. 4000 সেমি²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

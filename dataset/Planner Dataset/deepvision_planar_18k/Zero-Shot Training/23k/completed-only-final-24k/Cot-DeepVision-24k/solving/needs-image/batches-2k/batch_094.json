@@ -1,0 +1,362 @@
+[
+  {
+    "id": "aed70f76-de35-4f68-aded-ae9e1fecc209",
+    "images": [
+      "images/55141_0.png"
+    ],
+    "english_question": "<image>\nছোট রম্বস দিয়ে তৈরি একটি আলংকারিক চেইনের কিছু অংশ কেটে ফেলা হয়েছে এবং অবশিষ্ট অংশটি চিত্রে দেখানো হয়েছে। কেটে ফেলা ছোট রম্বসের সংখ্যা কত হতে পারে ( )\n\nOptions:\nক) \\(2016\\) pieces\nখ) \\(2015\\) pieces\nগ) \\(2014\\) pieces\nঘ) \\(2013\\) pieces",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4da1c2fb-3523-4f24-b9ad-6c074e56e4f7",
+    "images": [
+      "images/30690_0.png"
+    ],
+    "english_question": "<image>\nABCD রম্বসে, দেওয়া আছে ∠ADC = 110°। AB বাহুর লম্ব দ্বিখণ্ডক কর্ণ AC-কে F বিন্দুতে ছেদ করে এবং লম্বের পাদবিন্দু E। তাহলে, ∠CFD = কত?\n\nOptions:\nক) 50°\nখ) 60°\nগ) 70°\nঘ) 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41aea31d-813f-44c2-920e-0d81369334b6",
+    "images": [
+      "images/triangle_ext_41aea31d-813f-44c2-920e-0d81369334b6.png"
+    ],
+    "english_question": "<image>\n2008 বেইজিং অলিম্পিক গেমসের উদ্বোধনী অনুষ্ঠানে পতাকা উত্তোলনের আয়োজন করা হয়েছিল। 15° ঢালু একটি স্ট্যান্ডের ওপর, একই সারিতে প্রথম সারি এবং শেষ সারি থেকে পতাকাদণ্ডের চূড়ার উন্নতি কোণ যথাক্রমে 60° এবং 30° পরিমাপ করা হলো। প্রথম সারি এবং শেষ সারির মধ্যবর্তী দূরত্ব 10√6 মিটার (চিত্রে প্রদর্শিত)। পতাকাদণ্ডের উচ্চতা কত?\nক. 10 meters\nখ. 30 meters\nগ. 10√3 meters\nঘ. 10√6 meters",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7474dcc5-520c-4945-ae0e-29138e2f2d87",
+    "images": [
+      "images/34731_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্রের চারটি শীর্ষবিন্দু চারটি সমান্তরাল রেখা l₁, l₂, l₃ এবং l₄ এর উপর অবস্থিত। পাশাপাশি রেখাগুলোর মধ্যবর্তী দূরত্ব যথাক্রমে h₁, h₂ এবং h₃। যদি h₁ = 2 এবং h₂ = 1 হয়, তবে ABCD বর্গক্ষেত্রের ক্ষেত্রফল কত?\n\nOptions:\nক) \\(9\\)\nখ) \\(10\\)\nগ) \\(13\\)\nঘ) \\(25\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad650493-edee-4588-91f0-d811637f5eaa",
+    "images": [
+      "images/74020_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A(3,0), C(0,2), আয়তক্ষেত্র OABC-এর কর্ণ OB এবং AC বিন্দু D-তে ছেদ করে এবং BE ⊥ AC, AE ⊥ OB। অধিবৃত্ত y= k/x বিন্দু E দিয়ে যায়। k-এর মান কত?\nক. 3\nখ. 6\nগ. 4.5\nঘ. 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dfef8828-4ec2-4e48-b5c5-f8852cac8214",
+    "images": [
+      "images/49283_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু C এবং D হলো AB ব্যাসবিশিষ্ট অর্ধবৃত্তের ত্রিখণ্ডক বিন্দু। চাপ CD-এর দৈর্ঘ্য 1/3 π। চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) \\( \\frac{1}{6} \\pi \\)\nখ) \\( \\frac{3}{1 6} \\pi \\)\nগ) \\( \\frac{1}{2 4} \\pi \\)\nঘ) \\( \\frac{1}{1 2} \\pi + \\frac{1}{4} \\sqrt{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dbdbb66c-e6bc-42ab-9627-55fcfb66ae16",
+    "images": [
+      "images/55897_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $AB$ হলো $O$ কেন্দ্রবিশিষ্ট অর্ধবৃত্তের ব্যাস এবং $OC$ ব্যাসার্ধ $AB$-এর ওপর লম্ব। $AC$ যোগ করি এবং $\\triangle CAB$-এর কোণ সমদ্বিখণ্ডক $AD$, $OC$-কে $E$ বিন্দুতে এবং $BC$-কে $D$ বিন্দুতে ছেদ করে। $CD$ এবং $OD$ যোগ করি। নিচের তিনটি সিদ্ধান্ত নেওয়া হলো: ① $AC \\parallel OD$; ② $AC = 2CD$; ③ $CD$ রেখাংশটি $CE$ এবং $CO$-এর জ্যামিতিক গড়। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( )\n\nOptions:\nক) ①②\nখ) ②③\nগ) ①③\nঘ) ①②③",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "28a4e172-5b73-4add-bd2e-cf5ef45ad588",
+    "images": [
+      "images/triangle_ext_28a4e172-5b73-4add-bd2e-cf5ef45ad588.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত রেখা m-এর ওপর তিনটি সমবাহু ত্রিভুজ △ABC, △HFG এবং △DCE অবস্থিত। দেওয়া আছে যে, BC = GE এবং F ও G যথাক্রমে BC ও CE-এর মধ্যবিন্দু। FM, AC-এর সমান্তরাল এবং GN, DC-এর সমান্তরাল। যদি তিনটি সামান্তরিকের ক্ষেত্রফল যথাক্রমে S₁, S₂ এবং S₃ হয় এবং S₁ + S₃ = 20 হয়, তবে S₂-এর মান কত? ( )\nক. 7\nখ. 8\nগ. 9\nঘ. 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dbca1a0f-a235-48d6-ac8b-fd55dcaf03c7",
+    "images": [
+      "images/53961_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD সামান্তরিকের BC বাহুর বর্ধিতাংশের উপর E একটি বিন্দু। AE রেখাংশ CD কে F বিন্দুতে এবং BD কে M বিন্দুতে ছেদ করে। চিত্রে কত জোড়া সদৃশ ত্রিভুজ বিদ্যমান?\n\nOptions:\nক) \\(4\\) pairs\nখ) \\(5\\) pairs\nগ) \\(6\\) pairs\nঘ) \\(7\\) pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "234357a6-1d55-4e03-ba6b-8f14c2d9752e",
+    "images": [
+      "images/6710_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি স্কুলের দেয়াল একটি অবতল খিলানের অংশবিশেষ, যা একটি পরাবৃত্তের অংশ। বেড়ার বিস্তার AB কে 0.2 মিটার সমান ব্যবধানে 5টি উল্লম্ব খুঁটি দ্বারা শক্তিশালী করা হয়েছে। খিলানের উচ্চতা OC হলো 0.36 মিটার। খুঁটি EF এর দৈর্ঘ্য কত?\n\nOptions:\nক) 0.4 meters\nখ) 0.16 meters\nগ) 0.2 meters\nঘ) 0.24 meters",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a2b9cc80-b41f-4c1d-9cf0-6649bf277541",
+    "images": [
+      "images/triangle_ext_a2b9cc80-b41f-4c1d-9cf0-6649bf277541.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ AOB-তে, ∠B = 20°, ∠A = 30°। ত্রিভুজ AOB-কে O বিন্দুর চারপাশে ঘড়ির কাঁটার দিকে 60° ঘোরানো হলে ত্রিভুজ A'OB' পাওয়া যায়। বাহু A'B', বাহু OB-কে C বিন্দুতে ছেদ করে (A' বিন্দুটি OB-এর ওপর নেই)। ∠A'CO-এর মান কত ডিগ্রি?\nক. 70°\nখ. 80°\nগ. 90°\nঘ. 100°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9d8fcbc-997f-4539-a9c2-4e022c70a2f6",
+    "images": [
+      "images/49303_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায় বর্গক্ষেত্র ABCD-এর অবস্থান চিত্রে দেখানো হয়েছে। A বিন্দুর স্থানাঙ্ক (1, 0) এবং D বিন্দুর স্থানাঙ্ক (0, 2)। CB-কে বর্ধিত করে x-অক্ষকে A₁ বিন্দুতে ছেদ করা হলো এবং বর্গক্ষেত্র A₁B₁C₁C অঙ্কন করা হলো। এরপর C₁B₁-কে বর্ধিত করে x-অক্ষকে A₂ বিন্দুতে ছেদ করা হলো এবং বর্গক্ষেত্র A₂B₂C₂C₁ অঙ্কন করা হলো। এই প্যাটার্ন অনুসরণ করলে, বর্গক্ষেত্র A₂₀₁₃B₂₀₁₃C₂₀₁₃C₂₀₁₂ এর ক্ষেত্রফল কত হবে?\nক. 5×(3/2)²⁰¹²\nখ. 5×(3/2)²⁰¹³\nগ. 5×(9/4)²⁰¹²\nঘ. 5×(9/4)²⁰¹³",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d769e698-1ee7-4fdc-b691-588b1ec6a596",
+    "images": [
+      "images/triangle_ext_d769e698-1ee7-4fdc-b691-588b1ec6a596.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সরল কোণের চেয়ে ছোট কোণের সংখ্যা কত? ( )\nক. 9\nখ. 10\nগ. 11\nঘ. 12",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fa64d05c-7b03-46c1-b7d6-3fa4e1e3fad7",
+    "images": [
+      "images/16001_0.png"
+    ],
+    "english_question": "<image>\nসংখ্যা রেখায়, 0 থেকে 3 পর্যন্ত একটি রেখাংশ AB নেওয়া হলো। চিত্র 1-এ দেখানো অনুযায়ী, AB রেখাংশের উপর M বিন্দুটি একটি বাস্তব সংখ্যা m নির্দেশ করে। AB রেখাংশটিকে ভাঁজ করে একটি সমবাহু ত্রিভুজ তৈরি করা হলো, যেখানে A ও B বিন্দু দুটি P বিন্দুতে মিলিত হয়, যা চিত্র 2-এ দেখানো হয়েছে। একটি কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করা হলো এবং এই ত্রিভুজটিকে এমনভাবে স্থানান্তর করা হলো যেন এটি y-অক্ষের সাপেক্ষে প্রতিসম হয়, যেখানে P বিন্দুর স্থানাঙ্ক (0, 2)। PM রেখার বর্ধিতাংশ x-অক্ষকে N(n, 0) বিন্দুতে ছেদ করে, যা চিত্র 3-এ দেখানো হয়েছে। যখন m = √3 হয়, তখন n-এর মান কত?\n\nOptions:\nক) \\(4-2 \\sqrt {3}\\)\nখ) \\(2 \\sqrt {3}-4\\)\nগ) \\(- \\dfrac {2}{3} \\sqrt {3}\\)\nঘ) \\( \\dfrac {2}{3} \\sqrt {3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6cdf5199-d5b0-4d59-9b9f-2e205c8d5686",
+    "images": [
+      "images/38070_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, দেওয়া আছে ∠A = 40°, এবং BD ও CE হলো কোণদ্বয়ের সমদ্বিখণ্ডক। ∠BEC + ∠BDC-এর সমষ্টি নির্ণয় করো।\n\nOptions:\nক) 130°\nখ) 140°\nগ) 150°\nঘ) 160°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b5749a7-d892-4714-bd24-60650dbdd151",
+    "images": [
+      "images/triangle_ext_8b5749a7-d892-4714-bd24-60650dbdd151.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। ক্ষুদ্রতম তলের ক্ষেত্রফল এবং ভূমির তলের ক্ষেত্রফলের অনুপাত কত?\nক. \\( \\textstyle { \\frac { 1 } { 3 } } \\)\nখ. \\( \\textstyle { \\frac { 2 } { 3 } } \\)\nগ. \\( \\frac { 2 } { 5 } \\)\nঘ. \\( \\frac { 4 } { 5 } \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "295eff7b-b926-4862-89a6-552cebb3265c",
+    "images": [
+      "images/33289_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির আয়তন কত? ( )\nক. 10\nখ. 20\nগ. 40\nঘ. 60",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d8be8adc-dc0e-480b-9e7e-702e85acd816",
+    "images": [
+      "images/36777_0.png"
+    ],
+    "english_question": "<image>\nএকটি সুষম চতুষ্কোণ পিরামিডের তিন দৃশ্য চিত্রে প্রদত্ত আছে। এর পরিস্থিত বৃত্তের পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\nক. $25\\pi$\nখ. $\\dfrac{25}{2}\\pi$\nগ. $\\dfrac{25}{3}\\pi$\nঘ. $\\dfrac{25}{4}\\pi$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3fab7857-d312-4668-b665-c16df34ce371",
+    "images": [
+      "images/57463_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, ত্রিভুজ ABC-এর শীর্ষবিন্দুগুলো একটি বর্গাকার গ্রিডের ওপর অবস্থিত। $\\sin A$-এর মান কত?\nক. $1/2$\nখ. $\\sqrt{5}/5$\nগ. $\\sqrt{10}/10$\nঘ. $2\\sqrt{5}/5$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c4194fc0-bb51-4d9d-97ed-c9a87f794ff8",
+    "images": [
+      "images/65876_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে, যার শীর্ষ দৃশ্যটি একটি সমদ্বিবাহু সমকোণী ত্রিভুজ এবং একটি অর্ধবৃত্ত। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) \\(\\dfrac{2}{3}+\\pi \\)\nখ) \\(\\dfrac{1}{2}+\\pi \\)\nগ) \\(2+\\dfrac{\\pi }{6}\\)\nঘ) \\(2+\\dfrac{\\pi }{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

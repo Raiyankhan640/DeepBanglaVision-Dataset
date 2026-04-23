@@ -1,0 +1,302 @@
+[
+  {
+    "id": "4eff02bd-4b2c-468c-9a15-1cd31c488292",
+    "images": [
+      "images/33373_0.png"
+    ],
+    "english_question": "<image>\nপুরানো শহর সংস্কারের সময়, একটি চিমনি AB ভেঙে ফেলতে হবে। চিত্রে প্রদর্শিত অনুযায়ী, B বিন্দুকে কেন্দ্র করে AB দৈর্ঘ্যের সমান ব্যাসার্ধ নিয়ে একটি বৃত্তাকার এলাকাকে বিপদজনক অঞ্চল হিসেবে চিহ্নিত করা হয়েছে। BD = 21 মিটার। CD ভবনের শীর্ষবিন্দু C থেকে A বিন্দুর উন্নতি কোণ 45° এবং B বিন্দুর অবনতি কোণ 30°। B বিন্দু থেকে 35 মিটার দূরে অবস্থিত সংরক্ষিত প্রত্নতাত্ত্বিক নিদর্শনটি কি বিপদজনক অঞ্চলের মধ্যে পড়ে?\nOptions:\nd. As shown in the figure, a circular area with point B as the center and a radius equal to the length of AB is marked as a danger zone. BD = 21 meters. At the top point C of building CD, the angle of elevation to point A is 45°, and the angle of depression to point B is 30°. Is the protected cultural relic located 35 meters away from point B within the danger zone?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cf2b6c6b-081e-4c75-8379-ea8c1e2d6a3a",
+    "images": [
+      "images/36583_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। সামনের দৃশ্যটি একটি সমবাহু ত্রিভুজ, এবং পার্শ্বীয় ও উপরের দৃশ্যগুলো সমকোণী ত্রিভুজ। এই জ্যামিতিক বস্তুটির পরিবৃত্ত গোলকের পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) \\( \\dfrac {20π}{3}\\)\nখ) \\(8π\\)\nগ) \\(9π\\)\nঘ) \\( \\dfrac {19π}{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "46e5bd2d-8779-4919-b6a2-d5082f6d16e8",
+    "images": [
+      "images/31990_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তক্ষেত্র ABCD-তে, AB=3, BC=1 এবং AE=2EB। বিন্দু G হলো BC-এর মধ্যবিন্দু এবং বিন্দু K হলো ত্রিভুজ ADF-এর পরিবৃত্তের কেন্দ্র। আয়তক্ষেত্রটিকে EF বরাবর ভাঁজ করে A-E-F-B তলে 120^{\\circ} ডাইহেড্রাল কোণ তৈরি করা হলো। এই অবস্থায় KG-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "327a6f3d-602f-47d2-9683-b8a51dcf5948",
+    "images": [
+      "images/40000_0.png"
+    ],
+    "english_question": "<image>\nএকটি অর্ধবৃত্তাকার অংশ (কেন্দ্রীয় কোণ ∠AED = 52°) কার্তেসীয় স্থানাঙ্ক ব্যবস্থায় চিত্রে প্রদর্শিত উপায়ে স্থাপন করা হলো। যদি বিন্দু A ধনাত্মক y-অক্ষ বরাবর উপরে-নিচে চলাচল করতে পারে এবং বিন্দু B অনুরূপভাবে ধনাত্মক x-অক্ষ বরাবর চলাচল করে, তবে ∠OAB = n° অবস্থানে পৌঁছালে অর্ধবৃত্তের বিন্দু D থেকে মূলবিন্দু O-এর দূরত্ব সর্বোচ্চ হয়। n-এর মান কত (ডিগ্রিতে)?\n\nOptions:\nক) 64\nখ) 52\nগ) 38\nঘ) 26",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "521d65fd-c677-459d-8ae6-b7141e3b85cd",
+    "images": [
+      "images/60425_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: AC ⊥ BC, AC = BC, CD ⊥ AB, DE ⊥ BC হলে, চিত্রে কতটি সমদ্বিবাহু ত্রিভুজ আছে?\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3b0f0a61-2065-4650-9b66-9948892c08e4",
+    "images": [
+      "images/32407_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিকটির ক্ষেত্রফল 24.5 বর্গমিটার। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eeda5ce4-a700-4840-bcb7-80f1527a4480",
+    "images": [
+      "images/triangle_ext_eeda5ce4-a700-4840-bcb7-80f1527a4480.png"
+    ],
+    "english_question": "<image>\nছবিটি একটি ঘনকের নেট (net) দেখাচ্ছে। এই ঘনকে,\n1. AN, BG-এর সমান্তরাল;\n2. AN, EF-এর সাথে একই সমতলে নেই;\n3. AN, DM-এর সাথে 60° কোণ তৈরি করে;\n4. DM, EF-এর সমান্তরাল।\nউপরে উল্লিখিত চারটি বিবৃতির মধ্যে কোনটি সঠিক? ( )\nক. 1, 3, 4\nখ. 1, 3\nগ. 1, 2, 4\nঘ. 3, 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "64801ef1-1b1f-4a22-9f44-ffbd15b56d40",
+    "images": [
+      "images/40001_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বেড়ার দৈর্ঘ্য (ড্যাশ অংশ) 16 মি হলে, আয়তক্ষেত্র ABCD-এর সর্বোচ্চ ক্ষেত্রফল কত?\n\nOptions:\nক) 60m^{2}\nখ) 63m^{2}\nগ) 64m^{2}\nঘ) 66m^{2}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "463fbfe3-8ff3-4bf6-a803-4af26644c21a",
+    "images": [
+      "images/1314_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি অনুভূমিক তলে OAB একটি ধূসর সেক্টর যার ক্ষেত্রফল 30π বর্গ সেমি। OA এর দৈর্ঘ্য 6 সেমি এবং OA ভূমির সাথে লম্ব। যদি চিত্র (ক)-এর সেক্টরটি ডানদিকে গড়িয়ে যায় যতক্ষণ না বিন্দু A পুনরায় ভূমি স্পর্শ করে, যেমনটি চিত্র (খ)-তে দেখানো হয়েছে, তবে বিন্দু O কতটুকু দূরত্ব অতিক্রম করবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ea46256e-d240-4e27-84fc-39d554c22d5c",
+    "images": [
+      "images/38153_0.png"
+    ],
+    "english_question": "<image>\nনিম্নলিখিত চারটি চিত্রের মধ্যে ∠α = 50° হয় এমন চিত্রের সংখ্যা কত ( ) ক. 1 খ. 2 গ. 3 ঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "402950ef-3ae3-44d5-b0ba-353207c2c608",
+    "images": [
+      "images/33389_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন জোড়া কোণগুলো বিপ্রতীপ কোণ? ( )\nক. ∠1 এবং ∠2\nখ. ∠3 এবং ∠5\nগ. ∠3 এবং ∠4\nঘ. ∠1 এবং ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d5c734ff-0c17-40f3-896d-fc08b18bef77",
+    "images": [
+      "images/triangle_ext_d5c734ff-0c17-40f3-896d-fc08b18bef77.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, চিত্রে চিহ্নিত পরিমাপের ভিত্তিতে (একক: cm), এই জ্যামিতিক বস্তুর আয়তন হলো ( )\nক. \\( \\frac{1}{3} \\text{cm}^3 \\)\nখ. \\( \\frac{2}{3} \\text{cm}^3 \\)\nগ. \\( \\frac{4}{3} \\text{cm}^3 \\)\nঘ. \\( \\frac{8}{3} \\text{cm}^3 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2395c013-2295-4f43-8ecc-46e0085eed86",
+    "images": [
+      "images/57570_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O, M, A, B এবং C বিন্দুগুলো একই সমতলে অবস্থিত। যদি বিন্দু A-এর অবস্থান (50, 20°) এবং বিন্দু B-এর অবস্থান (30, 60°) দ্বারা সংজ্ঞায়িত হয়, তবে চিত্রে বিন্দু C-এর অবস্থান কীভাবে লিপিবদ্ধ করা উচিত? \nক. (60°, 30) \nখ. (110°, 34) \nগ. (34, 4°) \nঘ. (34, 110°)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "63ab87e6-29d0-490f-8a0e-83c9420ae5b9",
+    "images": [
+      "images/70248_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC বৃত্তে অন্তর্লিখিত একটি ত্রিভুজ, BD বৃত্তের একটি জ্যা এবং BD, AC-এর সমান্তরাল। বিন্দু A থেকে অঙ্কিত একটি স্পর্শক রেখা DB-এর বর্ধিতাংশকে বিন্দু E-তে ছেদ করে এবং রেখা AD, রেখা BC-কে বিন্দু F-এ ছেদ করে। যদি AB = AC, AE = 3√5 এবং BD = 4 হয়, তবে রেখাংশ AF-এর দৈর্ঘ্য কত?\nOptions:\nC) A tangent line from point A intersects the extension of line DB at point E, and line AD intersects line BC at point F. If AB = AC, AE = 3 \\sqrt{5}, and BD = 4, then the length of segment AF is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "19494748-1ea9-4e6e-b918-32cf9e3f2f06",
+    "images": [
+      "images/18319_0.png"
+    ],
+    "english_question": "<image>\nআমরা যখন খুব ছোট ছিলাম, তখন আঙুল দিয়ে গণনা করতাম। একটি শিশু চিত্রে দেখানো নিয়ম অনুযায়ী গণনা অনুশীলন করছে। 2000 সংখ্যাটি কোন আঙুলে পড়বে? ( ) (প্রতিটি আঙুলের নাম ক্রমানুসারে: বৃদ্ধাঙ্গুলি, তর্জনী, মধ্যমা, অনামিকা, কনিষ্ঠা)\n\nOptions:\nক) Index Finger\nখ) Middle Finger\nগ) Little Finger\nঘ) Thumb",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b72745c5-e12f-4c3b-b23a-069f0fe11358",
+    "images": [
+      "images/63959_0.png"
+    ],
+    "english_question": "<image>\nএকটি অর্ধবৃত্তাকার ট্র্যাকে প্রতিটি লেন 1 মিটার চওড়া এবং সবচেয়ে ভেতরের লেনের সোজা অংশের ব্যাস 64 মিটার। পরবর্তী বাইরের লেনের একজন দৌড়বিদকে ভেতরের লেনের দৌড়বিদের তুলনায় কতটুকু বেশি পথ দৌড়াতে হবে? পরবর্তী প্রতিটি লেনের জন্য স্টার্টিং লাইন কতটুকু সামনে এগিয়ে দিতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6b0b8920-82fd-44b6-a8cd-5aa3f1e83868",
+    "images": [
+      "images/28329_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 2-এ প্রদর্শিত, A-কে শীর্ষবিন্দু এবং AB-কে বাহু ধরে, ত্রিভুজ ABC-এর বাইরে একটি কোণ ∠BAM = 60° অঙ্কন করা হলো। যদি ∠ABC = 30°, ত্রিভুজ ACD একটি সমবাহু ত্রিভুজ, AB = 3 এবং BC = 4 হয়, তবে BD-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nC) If ∠ABC = 30°, triangle ACD is an equilateral triangle, AB = 3, and BC = 4, find the length of BD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1b299a9d-9727-47f5-84fc-c97848402186",
+    "images": [
+      "images/52440_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, f_{3}(n) = \\frac{1}{2} (n + 1)(n + 2) এবং f_{4}(n) = (n + 1)^2। চিত্র (4)-এ প্রদর্শিত পুনরাবৃত্তিমূলক বিভাজন পর্যবেক্ষণ করে, n বাহুবিশিষ্ট একটি সুষম k-ভুজ (k \\geq 3, k \\in \\mathbb{N})-এর বিন্দুসমূহের সংখ্যা f_{k}(n)-এর একটি সাধারণ সূত্র নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb4df526-7f9e-4720-a668-8335f1f7ea59",
+    "images": [
+      "images/70000_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজ \\(\\triangle OAB\\)-এ, যেখানে \\(\\angle OAB=90^\\circ\\), এবং \\(OA=AB=1\\)। \\(OB\\)-কে সমকোণ সংলগ্ন বাহু ধরে বাইরের দিকে একটি সমদ্বিবাহু সমকোণী ত্রিভুজ \\(OBB_{1}\\) অঙ্কন করা হলো, এরপর \\(OB_{1}\\)-কে সমকোণ সংলগ্ন বাহু ধরে আরেকটি সমদ্বিবাহু সমকোণী ত্রিভুজ \\(OB_{1}B_{2}\\) অঙ্কন করা হলো এবং এই প্রক্রিয়া চলতে থাকল। ত্রিভুজগুলোর ক্ষেত্রফল নিম্নরূপ: \\(\\triangle ABC_{1}\\)-এর ক্ষেত্রফল \\(S_{1}\\), \\(\\triangle BB_{1}C_{2}\\)-এর ক্ষেত্রফল \\(S_{2}\\), \\(\\triangle B_{1}B_{2}C_{3}\\)-এর ক্ষেত্রফল \\(S_{3}\\) ইত্যাদি। তাহলে, \\(S_{2018}=(\\quad)\\)\n\nOptions:\nক) \\(\\dfrac{1}{3}\\times {{2}^{2015}}\\)\nখ) \\(\\dfrac{1}{3}\\times {{2}^{2016}}\\)\nগ) \\(\\dfrac{1}{3}\\times {{2}^{2017}}\\)\nঘ) \\(\\dfrac{1}{3}\\times {{2}^{2018}}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52de3ea9-c2e8-40e0-8a04-44c689827108",
+    "images": [
+      "images/51077_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তক্ষেত্রে, BE এবং CF যথাক্রমে কোণ ABC এবং DCB-কে সমদ্বিখণ্ডিত করে এবং E ও F বিন্দুদ্বয় AD বাহুর উপর অবস্থিত। নিচের কোন সিদ্ধান্তটি ভুল?\nOptions:\nD) Which of the following conclusions is incorrect?\n△ABE ≌ △DCF\n△ABE and △DCF are both isosceles right triangles\nQuadrilateral BCFE is an isosceles trapezoid\nE and F are the trisection points of AD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

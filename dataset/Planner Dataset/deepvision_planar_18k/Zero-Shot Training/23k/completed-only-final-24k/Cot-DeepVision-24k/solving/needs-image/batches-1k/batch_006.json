@@ -1,0 +1,302 @@
+[
+  {
+    "id": "5605c503-4892-44d2-afa9-efa5ac8bd6fc",
+    "images": [
+      "images/65641_0.png"
+    ],
+    "english_question": "<image>\nযখন সূর্যালোক ভূমির সাথে 60° কোণ তৈরি করে, তখন 1:2 ঢালবিশিষ্ট একটি ঢালের ওপর একটি গাছ AB-এর ছায়া AC-এর দৈর্ঘ্য 5 মিটার এবং অনুভূমিক রেখায় ছায়া CD-এর দৈর্ঘ্য 3 মিটার। গাছটির উচ্চতা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "544cf100-c4da-4d61-a653-fa7e4cbd4ccc",
+    "images": [
+      "images/40159_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, নিচের কোন উক্তিটি ভুল? ( ) \nক. ∠GBD এবং ∠HCE অনুরূপ কোণ \nখ. ∠ABD এবং ∠ACH অনুরূপ কোণ \nগ. ∠FBC এবং ∠ACE একান্তর অন্তঃস্থ কোণ \nঘ. ∠GBC এবং ∠BCE একই পার্শ্বস্থ অন্তঃস্থ কোণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae0ac0ba-df2b-40a4-8a5e-9b7cd727f42a",
+    "images": [
+      "images/30182_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-তে AB = AC। AB ব্যাসবিশিষ্ট O কেন্দ্রিক বৃত্তটি AC-কে E বিন্দুতে এবং BC-কে D বিন্দুতে ছেদ করে। নিচে পাঁচটি সিদ্ধান্ত দেওয়া হলো:\n1. BD = DC;\n2. CB = 2ED;\n3. AE ~ DE;\n4. ∠A = ∠EDC;\n5. ত্রিভুজ ABC সদৃশ ত্রিভুজ DCE।\nসঠিক সিদ্ধান্তগুলোর নম্বর হলো ______।\nOptions:\nগ) Circle O, with diameter AB, intersects AC at E and BC at ঘ) The following five conclusions are given: \n1. BD = DC; \n2. CB = 2ED; \n3. \\( AE \\sim DE \\); \n4. \\( \\angle A = \\angle EDC \\); \n5. Triangle ABC is similar to triangle DCE. \nThe correct conclusion numbers are ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e006dccc-bb6c-4e7b-b9a1-99d05cca1e70",
+    "images": [
+      "images/46590_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, দুটি ত্রিভুজাকার স্কেল এমনভাবে রাখা হয়েছে যেন একটির বাহু অন্যটির ভূমির সমান্তরাল হয়। চিত্র অনুযায়ী 45° এবং 30° কোণ দুটি দেওয়া থাকলে, ∠α এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1797f17b-398f-4f90-b739-a535a72cf184",
+    "images": [
+      "images/5213_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E বিন্দুটি রম্বস ABCD-এর BC বাহুর উপর অবস্থিত এবং দেওয়া আছে ∠DAE = ∠B = 80°। ∠CDE-এর মান কত?\nক. 20°\nখ. 25°\nগ. 30°\nঘ. 35°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7853e4b-ecc2-4e02-9fba-93c928930f20",
+    "images": [
+      "images/triangle_ext_f7853e4b-ecc2-4e02-9fba-93c928930f20.png"
+    ],
+    "english_question": "<image>\nত্রিভুজাকার কাগজ ABC-তে, ∠A=60°, ∠B=80°। এখন, কাগজের একটি কোণ এমনভাবে ভাঁজ করা হলো যে বিন্দু C, ত্রিভুজ ABC-এর ভেতরে পড়ে। যদি ∠1=30° হয়, তবে ∠2-এর পরিমাপ কত ডিগ্রি ( )\nক. 40°\nখ. 50°\nগ. 60°\nঘ. 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "700f56ab-587a-4fbb-a87c-3a70eed001ea",
+    "images": [
+      "images/11129_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, ∠1 = ∠2। নিচের কোন সিদ্ধান্তটি সঠিক?\n\nOptions:\nক) ∠4 = ∠3\nখ) ∠2 = ∠4\nগ) ∠3 + ∠4 = 180°\nঘ) c // d",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52b436a3-ce84-4804-9a5e-4d39d8e0c27e",
+    "images": [
+      "images/75285_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, একটি বর্গাকার কাগজ দুবার ভাঁজ করা হয়েছে এবং তারপর একটি ছোট বৃত্তাকার ছিদ্র কাটা হয়েছে। খোলার পর আকৃতিটি কেমন হবে? সঠিক বিকল্প নির্বাচন করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5feb167c-b601-46d5-b2b1-9c196ce460a1",
+    "images": [
+      "images/59000_0.png"
+    ],
+    "english_question": "<image>\nবর্গ গ্রিডে কোণ α-এর অবস্থান চিত্রে দেখানো হয়েছে। tan α-এর মান কত? ( ) ক. √5/3 খ. √5/3 গ. 1/2 ঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "46a4e0f5-314e-461a-8320-b9851185fab0",
+    "images": [
+      "images/59213_0.png"
+    ],
+    "english_question": "<image>\nঝাও মিং-এর জন্ম তারিখ 1 আগস্ট, 1986। তার জাতীয় পরিচয়পত্রের নম্বরটি হলো 22010219??????0511। পরিচয়পত্রের অনুপস্থিত সংখ্যাগুলো পূরণ করো, যেখানে অনুপস্থিত সংখ্যাগুলো জন্ম তারিখকে YYYYMMDD ফরম্যাটে নির্দেশ করে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be1b3ce4-f901-4fce-914d-bc8cf36cfdc7",
+    "images": [
+      "images/11359_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c এবং d রেখা ছেদ করেছে। যদি a ∥ b, ∠1 = 130°, ∠2 = 30° হয়, তবে ∠3-এর মান কত ডিগ্রি?\nOptions:\nd. If a ∥ b, ∠1 = 130°, ∠2 = 30°, then the degree measure of ∠3 is ______ degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d5066b28-1e74-4395-b4fd-85c748b19111",
+    "images": [
+      "images/27768_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক বস্তুটির সামনের দৃশ্য (front view) কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f574ecf5-941c-477a-bc82-15e3d2455c9a",
+    "images": [
+      "images/48111_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD ছোট বর্গক্ষেত্রগুলো নিয়ে একটি 3 × 3 বর্গাকার গ্রিড তৈরি করা হয়েছে। যদি দুটি ছোট বর্গক্ষেত্রকে কালো রঙ করা হয় যাতে ABCD-এর সম্পূর্ণ নকশাটি (ছায়াযুক্ত অংশসহ) একটি অক্ষ-প্রতিসম চিত্র হয়, এবং শর্ত থাকে যে ABCD বর্গক্ষেত্রের প্রতিসাম্য অক্ষ বরাবর ভাঁজ করলে যে নকশাগুলো মিলে যায় তাদের একই ধরা হবে (যেমন, চিত্র ②-এর চারটি চিত্রকে একই ধরা হয়েছে), তবে প্রাপ্ত ভিন্ন ভিন্ন নকশার সংখ্যা কত?\nOptions:\nD) If two of the small squares are painted black such that the entire pattern of ABCD (including the shaded area) is an axis-symmetric figure, and it is stipulated that patterns that can coincide when folded along the symmetry axis of square ABCD are considered the same, for example, the four figures in figure ② are regarded as the same, then the number of different patterns obtained is:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cbab4ebb-18ae-48eb-9ece-2a4c1f822657",
+    "images": [
+      "images/55625_0.png"
+    ],
+    "english_question": "<image>\nদুটি গাড়ি A ও B একই বেগে শহর A থেকে শহর B-এর দিকে যাত্রা করে। যাত্রাপথে গাড়ি A একটি ফোন কল পেয়ে তাৎক্ষণিকভাবে একই বেগে শহর A-তে ফিরে আসে, তারপর বেগ বাড়িয়ে শহর B-এর দিকে যায় এবং গাড়ি B-এর চেয়ে 1 ঘণ্টা আগে পৌঁছায়। উভয় গাড়ির শহর A থেকে যাত্রা শুরুর সময় t (ঘণ্টা) এবং শহর A থেকে দূরত্ব y কি.মি.। শহর A ও শহর B-এর মধ্যে দূরত্ব কত?\nOptions:\nd. During the journey, Car A receives a phone call and immediately returns to City A at the same speed, then increases its speed to head towards City B, arriving 1 hour earlier than Car B) Let the time both cars depart from City A be t (hours) and the distance from City A be y km. What is the distance between City A and City B?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9655970-73ba-457d-9af6-b02fabec9040",
+    "images": [
+      "images/73522_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে AD: DB = 5: 2 এবং AC: CE = 4: 3, তবে BF: FC কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50543177-a46d-48e5-b191-d1a9759d810d",
+    "images": [
+      "images/73294_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিচের কোন শর্তগুলো a∥b নিশ্চিত করতে পারে? ①∠1=∠2; ②∠3=∠6; ③∠4+∠7=180°; ④∠5+∠8=180°।\nOptions:\nc. Which of the following conditions can determine that a∥b? ①∠1=∠2; ②∠3=∠6; ③∠4+∠7=180°; ④∠5+∠8=180°.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18ed1beb-686c-4507-a2bc-42d74bfb69be",
+    "images": [
+      "images/34630_0.png"
+    ],
+    "english_question": "<image>\nকোণটি পরিমাপ করো, নিচের ∠1 কোণটির মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc5fe0b1-3417-4f8e-abd4-41328b6259b8",
+    "images": [
+      "images/58979_0.png"
+    ],
+    "english_question": "<image>\nসমান্তরিক ABCD-এ E, DC প্রান্তের মধ্যবিন্দু এবং AE, BD-কে Q বিন্দুতে ছেদ করে। যদি ত্রিভুজ DQE-এর ক্ষেত্রফল 9 হয়, তবে ত্রিভুজ AQB-এর ক্ষেত্রফল কত? ( ) ক. 18 খ. 27 গ. 36 ঘ. 45",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ab20e064-6265-4452-a7f2-288fadebc216",
+    "images": [
+      "images/77067_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন শর্তটি থেকে বলা যায় যে a এবং b রেখাদ্বয় সমান্তরাল?\n\nOptions:\nক) ∠2 = ∠3\nখ) ∠1 = ∠3\nগ) ∠4 + ∠5 = 180°\nঘ) ∠2 = ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7198da00-5d63-4a15-b94b-4c7949b235b4",
+    "images": [
+      "images/69564_0.png"
+    ],
+    "english_question": "<image>\nবায়ু কখন শীতল হয়?\n\nOptions:\nক) After hot air rises\nখ) After hot air sinks\nগ) After cold air sinks\nঘ) After cold air replaces hot air",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

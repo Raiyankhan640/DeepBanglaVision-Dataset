@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c97771f2-ccc4-4de8-b42d-1bc05510da4b",
+    "images": [
+      "images/52188_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে পরাবৃত্ত $E: y^2 = x$ এবং বৃত্ত $M: (x - 4)^2 + y^2 = r^2$, যেখানে $\\frac{\\sqrt{15}}{2} < r < 4$। ধরি, A, B, C, D চারটি ছেদবিন্দু। চতুর্ভুজ ABCD-এর ক্ষেত্রফল সর্বোচ্চ হলে, কর্ণ AC এবং BD-এর ছেদবিন্দু P-এর স্থানাঙ্ক নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3382020-aaf5-4604-9c5a-ff1f674b75b1",
+    "images": [
+      "images/41324_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC একটি সমকোণী ত্রিভুজ যেখানে ∠ACB = 90°। AC, BC ও AB বাহুর উপর AB-এর একই পাশে বর্গক্ষেত্র অঙ্কিত করা হয়েছে, যা তিনটি ছায়াযুক্ত অঞ্চল গঠন করে। ছায়াযুক্ত অঞ্চল AIHJ-এর ক্ষেত্রফল S₁, ছায়াযুক্ত অঞ্চল DKGBE-এর ক্ষেত্রফল S₂ এবং ছায়াযুক্ত অঞ্চল FJCK-এর ক্ষেত্রফল S₃। যদি S₁ = 8, S₂ = 9 এবং S₃ = 7 হয়, তবে S△ABC = ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8c7fec1-b142-4128-b1c9-9eac31397fde",
+    "images": [
+      "images/2968_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রম্বস ABCD-তে, AE, BC বাহুর উপর লম্ব এবং E বিন্দুতে ছেদ করে। EC = 4 এবং sin B = 4/5 হলে, রম্বসটির পরিসীমা কত? ( ) ক. 10 খ. 20 গ. 40 ঘ. 28",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2b21a49-5a8c-4379-b5d7-f141653a1326",
+    "images": [
+      "images/10743_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর মধ্যরেখা EF হলো 15 সেমি। সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর পরিসীমা কত?\n\nOptions:\nক) 15 cm\nখ) 20 cm\nগ) 30 cm\nঘ) 60 cm",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ab2b685-dcf5-4944-99cd-a73fcb62a65a",
+    "images": [
+      "images/791_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী ফ্লোচার্টটি সম্পাদন করো। যদি ইনপুট a=\\pi^{-1}, b=\\ln \\dfrac {1}{3}, c=2^{0.1} হয়, তবে আউটপুট a এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0bd8203d-b13c-4ef7-a6a8-3fed4d673b27",
+    "images": [
+      "images/67043_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি চতুর্ভুজাকার ফুলের বাগান ABCD-কে দুটি রেখাংশ MN এবং EF দ্বারা চারটি অংশে ভাগ করা হয়েছে, যেখানে লাল, হলুদ, বেগুনি এবং সাদা ফুল লাগানো হয়েছে। এদের ক্ষেত্রফল যথাক্রমে S1, S2, S3 এবং S4। যদি MN ∥ AB ∥ DC এবং EF ∥ DA ∥ CB হয়, তবে নিচের কোনটি সঠিক?\n\nOptions:\nক) \\(S_{1}=S_{4}\\)\nখ) \\(S_{1}+S_{4}=S_{2}+S_{3}\\)\nগ) \\(S_{1}S_{4}=S_{2}S_{3}\\)\nঘ) None of the above",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d781dca3-ed74-4ca6-b046-9c2655897865",
+    "images": [
+      "images/28362_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, ∠1 = 100°, ∠2 = 120° হলে, ∠a এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f019a8e1-a7b9-4bd5-9126-e2cbc4a38506",
+    "images": [
+      "images/5845_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপবৃত্ত \\(c_{1}, c_{2}\\) এবং অধিবৃত্ত \\(c_{3}, c_{4}\\)-এর ক্ষেত্রে, যেখানে \\(c_{1}, c_{3}\\) অবিচ্ছিন্ন রেখা এবং \\(c_{2}, c_{4}\\) ড্যাশযুক্ত রেখা, তাদের উৎকেন্দ্রিকতা যথাক্রমে \\(e_{1}, e_{2}, e_{3}, e_{4}\\) হলে, নিচের কোনটি সঠিক?\n\nOptions:\nক) \\(e_{1} < e_{2} < e_{3} < e_{4}\\)\nখ) \\(e_{2} < e_{1} < e_{3} < e_{4}\\)\nগ) \\(e_{1} < e_{2} < e_{4} < e_{3}\\)\nঘ) \\(e_{2} < e_{1} < e_{4} < e_{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "53b2fed9-502d-41bb-8d2d-cc24911e5300",
+    "images": [
+      "images/62509_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, গ্রিডের প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। A, B এবং C বিন্দুগুলো ছোট বর্গের শীর্ষবিন্দু। ∠ABC-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "36b959b2-b42c-436c-908c-a3926fe603b3",
+    "images": [
+      "images/57553_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজটিকে অক্ষের চারদিকে একবার পূর্ণ ঘূর্ণন দিলে যে কঠিন বস্তুটি পাওয়া যায়, তার আয়তন কত ঘন সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "802c273f-026c-4919-a2f5-125be7e9b86e",
+    "images": [
+      "images/76050_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয় O বিন্দুতে ছেদ করে এবং EO, CD রেখার ওপর লম্ব। ∠AOE এবং ∠DOB এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa914893-d4ec-4c8f-8596-1953e4f531cd",
+    "images": [
+      "images/58613_0.png"
+    ],
+    "english_question": "<image>\nচারটি সর্বসম আয়তাকার টুকরো দিয়ে গঠিত চিত্রটি দেওয়া আছে। চিত্রের ফাঁকা অংশের ক্ষেত্রফলকে বিভিন্নভাবে প্রকাশ করে a এবং b এর মাধ্যমে একটি অভেদ তৈরি করো।\nOptions:\nb.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "719ed4ef-8491-4986-bbbd-783c5a8785ab",
+    "images": [
+      "images/36368_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AD || BF হওয়ার জন্য, যে শর্তটি যোগ করা প্রয়োজন তা হলো ____________ (কেবল একটি লিখুন)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "039a17f9-1941-4083-9a4d-e0cc3fd4fbf3",
+    "images": [
+      "images/39758_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বক্ররেখাটি মূলবিন্দুতে কেন্দ্রবিশিষ্ট 1 ব্যাসার্ধের একটি বৃত্তের অংশ হলে, এই বক্ররেখার সমীকরণটি কী?\n\nOptions:\nক) \\((x + \\sqrt{1 - y^2})(y + \\sqrt{1 - x^2}) = 0\\)\nখ) \\((x - \\sqrt{1 - y^2})(y - \\sqrt{1 - x^2}) = 0\\)\nগ) \\((x + \\sqrt{1 - y^2})(y - \\sqrt{1 - x^2}) = 0\\)\nঘ) \\((x - \\sqrt{1 - y^2})(y + \\sqrt{1 - x^2}) = 0\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad0be289-957a-4b31-9019-98eb5a3473e0",
+    "images": [
+      "images/53896_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনটি অক্ষীয় প্রতিসম (axisymmetric) চিত্র? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb807acb-cbf4-4b86-9e78-31117ebee747",
+    "images": [
+      "images/1857_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ∥ CD এবং CE ⊥ BD। ∠1-এর পূরক কোণ কয়টি?\nOptions:\nD) How many angles are complementary to ∠1?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd6c8b0c-a057-462a-bdf9-c257db9eff21",
+    "images": [
+      "images/6809_0.png"
+    ],
+    "english_question": "<image>\n2009 সালে, হেনান প্রদেশে, চিত্রে প্রদর্শিত অনুযায়ী, ইলেকট্রিশিয়ান মাস্টার লি 2.90 মিটার উচ্চতায় একটি সিলিং ল্যাম্প লাগানোর জন্য একটি মই ব্যবহার করছেন। মইটি দুটি অভিন্ন আয়তাকার পৃষ্ঠ নিয়ে গঠিত, প্রতিটি পৃষ্ঠ ছয়টি ধাপ দ্বারা সাতটি সমান ভাগে বিভক্ত। মইয়ের পাদদেশের স্থির বিস্তার 1 মিটার। মইয়ের পৃষ্ঠ এবং ভূমির মধ্যবর্তী কোণ α = 78 ডিগ্রি। মাস্টার লি-এর উচ্চতা 1.78 মিটার এবং তিনি যখন এমন অবস্থানে ওঠেন যে তার মাথা সিলিং থেকে 0.05 থেকে 0.20 মিটার নিচে থাকে, তখন তার জন্য কাজ করা সুবিধাজনক। তিনি বর্তমানে মইয়ের তৃতীয় ধাপে দাঁড়িয়ে আছেন। গণনা করে নির্ধারণ করো যে তার জন্য কাজ করা সুবিধাজনক কি না।\nOptions:\nd. It is known that the ladder consists of two identical rectangular surfaces, each rectangular surface is divided into seven equal parts by six rungs. The fixed span of the ladder's feet is 1m. The angle α between the rectangular surface and the ground is 78 degrees. Master Li's height is 1.78m, and when he climbs to a position where his head is 0.05 to 0.20m from the ceiling, it is more convenient for him to install. He is currently standing vertically on the third rung of the ladder. Please calculate and determine whether it is convenient for him to install.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41b6d1b9-15f9-47b5-ba81-884329ad025e",
+    "images": [
+      "images/50666_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বেলুন A থেকে নদীর তীর B ও C এর অবনতি কোণ যথাক্রমে 75° এবং 30°। বেলুনটির উচ্চতা 60 মিটার হলে, নদীর প্রস্থ BC কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4ff6830-e93f-4385-b4e5-d29c7ca1392e",
+    "images": [
+      "images/40517_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, একটি 4 × 4 বর্গাকার গ্রিডে, ত্রিভুজ ΔMNP-কে একটি নির্দিষ্ট বিন্দুর চারদিকে 90° ঘোরানো হয়েছে, যার ফলে ত্রিভুজ ΔM₁N₁P₁ পাওয়া যায়। ঘূর্ণনের কেন্দ্র কোনটি হতে পারে? ( ▲ )\nক. বিন্দু E\nখ. বিন্দু F\nগ. বিন্দু G\nঘ. বিন্দু H",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "917aba40-2b95-4c33-8a32-8762325fa914",
+    "images": [
+      "images/12573_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে মোট 12টি অভিন্ন ছোট বর্গক্ষেত্র আছে, যার মধ্যে ছায়াবৃত অংশটি 5টি ছোট বর্গক্ষেত্র নিয়ে গঠিত যা একটি ঘনকের পৃষ্ঠতলের বিস্তৃতির অংশ। এখন, যদি অবশিষ্ট বর্গক্ষেত্রগুলো থেকে দৈবচয়ন পদ্ধতিতে একটি বর্গক্ষেত্র নির্বাচন করে ছায়াবৃত করা হয়, তবে এর দ্বারা ঘনকের পৃষ্ঠতলের বিস্তৃতি গঠনের সম্ভাবনা কত?\n\nOptions:\nক) \\(\\dfrac{4}{7}\\)\nখ) \\(\\dfrac{3}{4}\\)\nগ) \\(\\dfrac{2}{7}\\)\nঘ) \\(\\dfrac{1}{7}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

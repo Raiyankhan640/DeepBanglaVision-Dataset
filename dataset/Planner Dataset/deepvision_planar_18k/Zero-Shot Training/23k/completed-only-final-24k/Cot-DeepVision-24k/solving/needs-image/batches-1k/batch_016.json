@@ -1,0 +1,302 @@
+[
+  {
+    "id": "6ba87bad-5f78-4bcb-8728-afb8926dbbf6",
+    "images": [
+      "images/32631_0.png"
+    ],
+    "english_question": "<image>\n2 সেমি বাহু বিশিষ্ট দুটি বর্গক্ষেত্র যার একটির শীর্ষ অন্যটির কেন্দ্রে অবস্থিত (চিত্রে যেমন দেখানো হয়েছে), বর্গক্ষেত্র দুটির উপরিপাতিত নয় এমন অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5c975472-e80b-485f-a8a4-90d9cb628760",
+    "images": [
+      "images/62882_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, রম্বস ABCD-এর চারটি শীর্ষবিন্দু স্থানাঙ্ক অক্ষের ওপর অবস্থিত এবং কর্ণ AC ও BD মূলবিন্দু O-তে ছেদ করে। DF ⊥ AB, AC-কে G বিন্দুতে ছেদ করে। ব্যস্তানুপাতিক ফাংশনটি হলো y = √3/x (যেখানে x > 0), যা DC রেখাংশের মধ্যবিন্দু E দিয়ে যায়। যদি BD = 4 হয়, তবে AG-এর দৈর্ঘ্য কত?\n\nOptions:\nক) \\( 4 \\cdot \\frac{3}{3} \\)\nখ) \\( 3 \\cdot 2 \\)\nগ) \\( 2 \\cdot \\frac{3}{3} + 1 \\)\nঘ) \\( 3 \\cdot \\frac{3}{3} + 1 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5acb7f37-e3f4-4338-ab44-5f78cc1ce6a6",
+    "images": [
+      "images/7686_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014 স্প্রিং ইয়ানতাই ফাইনাল), হেক্সগ্রামের ছয়টি শীর্ষ কোণ হলো ∠A, ∠B, ∠C, ∠D, ∠E এবং ∠F। এদের সমষ্টি কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d1e0c099-d33b-483c-b629-2e8e20747157",
+    "images": [
+      "images/4517_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত △ABC কে △A′B′C′ অবস্থানে স্থানান্তর করা হয়েছে (বিন্দু B′, AC বাহুর উপর অবস্থিত)। যদি ∠B = 55° এবং ∠A = 25° হয়, তবে ∠AB′C′ এর মান কত?\nOptions:\nC). If ∠B = 55° and ∠A = 25°, then the degree measure of ∠AB′C′ is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4965929c-e9cd-476b-90b8-f41e86bd1f95",
+    "images": [
+      "images/50988_0.png"
+    ],
+    "english_question": "<image>\nABCD সামান্তরিকটিতে, AF রেখাটি DC-কে E বিন্দুতে ছেদ করে এবং BC-এর বর্ধিতাংশকে F বিন্দুতে ছেদ করে। চিত্রটিতে কত জোড়া সদৃশ ত্রিভুজ রয়েছে?\n\nOptions:\nক) 2 pairs\nখ) 3 pairs\nগ) 4 pairs\nঘ) 5 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "815b8272-e523-4069-8798-f7dbb169ceda",
+    "images": [
+      "images/61357_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তথ্যের ভিত্তিতে, নিচের কোন উক্তিটি সঠিক? (ক) শিয়াওহং-এর বাড়ি থেকে বর্গাকার মাঠটি 300 মিটার উত্তর-পূর্ব দিকে 60° কোণে অবস্থিত। (খ) বর্গাকার মাঠটি স্কুল থেকে 200 মিটার দক্ষিণ-পূর্ব দিকে 35° কোণে অবস্থিত। (গ) বর্গাকার মাঠটি শিয়াওহং-এর বাড়ি থেকে 300 মিটার উত্তর-পূর্ব দিকে 30° কোণে অবস্থিত।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0a3fecaf-78db-4f24-acdf-7196227f76f2",
+    "images": [
+      "images/57446_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি ∠1 + ∠2 = 180° এবং ∠3 = 75° হয়, তবে ∠4 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65adc622-be93-4fbe-ad99-61e095607560",
+    "images": [
+      "images/58399_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি বর্গাকার কাগজকে কর্ণের বরাবর একবার ভাঁজ করা হলো এবং উৎপন্ন ত্রিভুজের তিনটি কোণা থেকে তিনটি বৃত্তাকার ছিদ্র করা হলো। সবশেষে, কাগজটি খুলে ফেললে যে নকশাটি পাওয়া যাবে তা হলো ( )\n\nOptions:\nক) $\\bigcirc_{\\bigcirc}\\bigcirc_{\\bigcirc}$\nখ) $\\begin{array}{c c c}{\\emptyset}&{\\emptyset}\\\\ {\\emptyset}&{\\emptyset}\\\\ {\\emptyset}&{\\emptyset}\\end{array}$\nগ) $\\bigcirc_{\\scriptscriptstyle\\bigcirc}\\bigcirc_{\\scriptscriptstyle\\bigcirc}$\nঘ) $\\bigcirc_{\\bigcirc}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0112fcff-2e07-4405-8fda-026813c74daa",
+    "images": [
+      "images/62887_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয় O বিন্দুতে ছেদ করে এবং AD = CB। ত্রিভুজ AOD এবং ত্রিভুজ COB-কে সর্বসম করার জন্য একটি অতিরিক্ত শর্ত উল্লেখ করো।\nOptions:\nB) Provide one additional condition that would make triangle AOD congruent to triangle COB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "72ccd151-1cbc-4612-ab54-8c80f63d9225",
+    "images": [
+      "images/14307_0.png"
+    ],
+    "english_question": "<image>\nএকটি ছোট পাহাড়ের উপর অবস্থিত টিভি টাওয়ার BC-এর উচ্চতা পরিমাপের জন্য, পাহাড়ের পাদদেশ A বিন্দু থেকে, দূরত্ব AC = 500 মিটার, টাওয়ারের শীর্ষ B-এর উন্নতি কোণ α = 45° এবং টাওয়ারের পাদদেশ C-এর উন্নতি কোণ β = 30°। টিভি টাওয়ার BC-এর উচ্চতা নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a69dfad8-98a2-478b-9da6-86a5a8cfbae8",
+    "images": [
+      "images/69711_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে ABCD একটি সমকোণী ট্রাপিজিয়াম। যদি ট্রাপিজিয়ামটিকে AB অক্ষের চারদিকে একবার পূর্ণ ঘূর্ণন দেওয়া হয়, তবে উৎপন্ন ঘনবস্তুর আয়তন কত ঘন সেন্টিমিটার?\nOptions:\nd. If the trapezoid is rotated around the axis AB for one full turn, what is the volume of the resulting solid in cubic centimeters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "86b41eee-d38c-47cf-9522-05b1ef942e1a",
+    "images": [
+      "images/38906_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2014 বসন্ত • কোরলা সিটি স্কুল লেভেল মাসিক পরীক্ষা) অনুযায়ী, A বিন্দুতে থাকা একটি মাছ ধরার নৌকা C বাতিঘরটিকে উত্তর দিকের 60 ডিগ্রি পূর্ব দিকে দেখতে পায়। নৌকাটি 12 নটিক্যাল মাইল পূর্বে B বিন্দুতে পৌঁছালে, সেখান থেকে C বাতিঘরটিকে সরাসরি উত্তরে দেখা যায়। এই অবস্থায় মাছ ধরার নৌকা থেকে C বাতিঘরের দূরত্ব কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a67ced4d-accb-476c-b44a-4f39cd11652f",
+    "images": [
+      "images/15338_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC এবং DEC পরস্পর সমাপতিত, যেখানে বিন্দু E, BC বাহুর উপর অবস্থিত, রেখা AC, DE কে F বিন্দুতে ছেদ করে এবং AB, DE এর সমান্তরাল। যদি ত্রিভুজ ABC এবং DEC এর ক্ষেত্রফল সমান হয় এবং EF = 9, AB = 12 হয়, তবে DF = কত?\n\nOptions:\nক) 3\nখ) 7\nগ) 12\nঘ) 15",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73b6d4a2-f7a1-48f7-a902-8229a1992d5d",
+    "images": [
+      "images/6770_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2009 জিয়াংডং ডিস্ট্রিক্ট সিমুলেশন), তিনটি অর্ধবৃত্ত C₁, C₂, এবং C₃ এর প্রত্যেকের ব্যাসার্ধ R, তাদের কেন্দ্রগুলো সমরেখ এবং একটি অর্ধবৃত্তের পরিধির উপর অবস্থিত। বৃত্ত C₄ উপরের তিনটি বৃত্তের সাথে স্পর্শক এবং এর ব্যাসার্ধ r। R : r এর অনুপাত কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da721529-d63b-4c99-ba7a-021b1276c755",
+    "images": [
+      "images/297_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি ভবনের উচ্চতা দেওয়া আছে AB = CD = 30 মিটার এবং ভবন দুটির মধ্যবর্তী দূরত্ব AC = 24 মিটার। সূর্যের আলোর সাথে অনুভূমিক রেখার কোণ 30° হলে, ভবন 'ক' (AB) এর ছায়া ভবন 'খ' (CD) এর উপর পড়লে তার উচ্চতা নির্ণয় করো। (ফলাফল 0.01 পর্যন্ত সঠিক, √3 ≈ 1.732, √2 ≈ 1.414)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45ba51bc-86ff-40a6-a970-c1c6307e4407",
+    "images": [
+      "images/15340_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমবাহু ত্রিভুজ যার বাহুর দৈর্ঘ্য 6, AD=2, AE সমান্তরাল BC, এবং রেখা BD, AE-কে E বিন্দুতে ছেদ করে। BE-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 3 \\sqrt{7}\nখ) 4 \\sqrt{3}\nগ) 3 \\sqrt{3}\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "552f0672-e8de-40ad-8fb6-56afd7abe11c",
+    "images": [
+      "images/43268_0.png"
+    ],
+    "english_question": "<image>\nপ্রতিটি মুরগির খামার 5 মিটার লম্বা এবং 3 মিটার চওড়া একটি আয়তক্ষেত্র। যখন n সংখ্যক খামার পাশাপাশি যুক্ত করা হয়, তখন দেয়ালের মোট দৈর্ঘ্য কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6b5d23b-dabe-436c-bccf-3107c7a479c3",
+    "images": [
+      "images/19467_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে কয়টি ট্রাপিজিয়াম আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "77e243d5-ed03-4faf-8552-5ffc55db03b2",
+    "images": [
+      "images/47894_0.png"
+    ],
+    "english_question": "<image>\nএখানে সর্বোচ্চ মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ca301cd8-98ef-4ff7-a31a-395243c017ac",
+    "images": [
+      "images/43798_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলো লক্ষ্য করো:\nএগুলোর মধ্যে কতটি চিত্র কেন্দ্রিক প্রতিসম (centrally symmetric) হিসেবে গণ্য করা যেতে পারে? (__)\nবিকল্পসমূহ:\n(ক) 1\n(খ) 2\n(গ) 3\n(ঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

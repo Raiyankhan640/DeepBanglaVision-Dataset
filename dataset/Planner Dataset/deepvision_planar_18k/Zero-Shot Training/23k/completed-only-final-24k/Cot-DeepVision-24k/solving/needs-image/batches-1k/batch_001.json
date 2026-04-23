@@ -1,0 +1,302 @@
+[
+  {
+    "id": "31959f3a-8c8b-4298-b8c2-860e517f3e70",
+    "images": [
+      "images/55385_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, D বিন্দুটি BC রেখার ওপর এমনভাবে অবস্থিত যে AD = AC, E হলো AD এর মধ্যবিন্দু এবং ∠BAD = ∠ACE। যদি ত্রিভুজ BDE এর ক্ষেত্রফল 1 হয়, তবে ত্রিভুজ ABC এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b44cf2f8-bcde-4109-977b-ef52bbc1a9e8",
+    "images": [
+      "images/71008_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা a এবং রেখা b সমান্তরাল। ত্রিভুজ ABC-এর সমকোণী শীর্ষবিন্দু C রেখা a-এর উপর অবস্থিত এবং ত্রিভুজটিতে একটি 30° কোণ রয়েছে। যদি ∠1 = 65° হয়, তবে ∠2-এর মান কত ডিগ্রি?\n\nOptions:\nক) \\(25^{\\circ}\\)\nখ) \\(30^{\\circ}\\)\nগ) \\(35^{\\circ}\\)\nঘ) \\(40^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bec8a4ff-d8f4-4edf-82eb-e7475eb8cb14",
+    "images": [
+      "images/43307_0.png"
+    ],
+    "english_question": "<image>\nএকটি ষড়ভুজাকৃতির সিমেন্টের টাইল তিনটি সমান ক্ষেত্রফলবিশিষ্ট সামান্তরিক দ্বারা গঠিত। 315 বর্গমিটার জায়গা ঢেকে ফেলার জন্য আনুমানিক কতটি টাইল প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35052c2b-dbbe-40da-aa28-aa41f4ec7594",
+    "images": [
+      "images/10836_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো অনুযায়ী, রাস্তার পাশে স্ট্রিট লাইট স্থাপন করা হয়েছে। ল্যাম্প পোস্ট BC এর উচ্চতা 15 মিটার এবং ল্যাম্প পোস্ট AB এর মধ্যবর্তী কোণ ABC 120°। স্ট্রিট লাইটটি একটি কোণাকৃতির ল্যাম্পশেড ব্যবহার করে এবং আলোক পরিসীমা DE 18.9 মিটার। D এবং E বিন্দু থেকে ল্যাম্প A এর পরিমাপকৃত কোণ যথাক্রমে ∠ADE=80.5° এবং ∠AED=45°। ল্যাম্প পোস্ট AB এর দৈর্ঘ্য নির্ণয় করো। (রেফারেন্স ডেটা: cos80.5°≈0.2, tan80.5°≈6.0)\nOptions:\nB) (Reference data: cos80.5°≈0.2, tan80.5°≈6.0)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf600f66-afec-47f7-9022-d21451cfd9a3",
+    "images": [
+      "images/46035_0.png"
+    ],
+    "english_question": "<image>\nট্রাপিজিয়াম ABCD-তে, যেখানে AB সমান্তরাল DC এবং E হলো AD-এর মধ্যবিন্দু, নিচের চারটি প্রস্তাব দেওয়া হলো: 1. যদি AB + DC = BC হয়, তবে ∠BEC = 90°; 2. যদি ∠BEC = 90° হয়, তবে AB + DC = BC; 3. যদি BE, ∠ABC-এর সমদ্বিখণ্ডক হয়, তবে ∠BEC = 90°; 4. যদি AB + DC = BC হয়, তবে CE, ∠DCB-এর সমদ্বিখণ্ডক। এই প্রস্তাবগুলোর মধ্যে কয়টি সত্য?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "44b7ea54-5743-4e4b-95c6-12f1054375fe",
+    "images": [
+      "images/56417_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC বৃত্ত O-তে অন্তর্লিখিত এবং ∠A = 50°। বিন্দু P রেখাংশ BC বরাবর চলাচল করে (বিন্দু P, B বা C বিন্দুর সাথে মিলে যায় না), তবে α-এর পরিবর্তনের সীমা কত?\n\nOptions:\nক) 0° < α < 100°\nখ) 0° < α < 75°\nগ) 0° < α < 50°\nঘ) 0° < α < 25°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "945a20f1-8a60-464f-9e43-23c04977a9f9",
+    "images": [
+      "images/1029_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত পদ্ধতিতে অঙ্কিত n-তম বর্গের বাহুর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e9f92237-d1ce-4667-b1eb-1978aa2b7b20",
+    "images": [
+      "images/51289_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া আছে, যেখানে শীর্ষ দৃশ্যের বক্ররেখাটি একটি অর্ধবৃত্তাকার চাপের অংশ। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 12-π\nখ) 12+π\nগ) 14-π\nঘ) 14+π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fa6d175-4596-48dd-988b-153ff8592716",
+    "images": [
+      "images/67700_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, যেখানে AB = AD, BC = DC এবং ∠A = 60°, E হলো AD বাহুর ওপর একটি বিন্দু। BD এবং CE যোগ করি, যা F বিন্দুতে ছেদ করে এবং CE, AB-এর সমান্তরাল। যদি AB = 8 এবং CE = 6 হয়, তবে BC-এর দৈর্ঘ্য কত?\nOptions:\nD) Connect BD and CE, which intersect at point F, and CE is parallel to AB) If AB = 8 and CE = 6, what is the length of BC?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "653ed2b4-3cc3-4ddc-a2f6-9858433d8bd1",
+    "images": [
+      "images/57496_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি আয়তাকার কাগজ $ABCD$ রয়েছে। ত্রিভুজ $BCD$-কে কর্ণের সাপেক্ষে ভাঁজ করা হলো এবং $C$-এর প্রতিরূপ বিন্দুকে $C^{\\prime}$ দ্বারা চিহ্নিত করা হয়েছে। যদি $\\triangle ADC^{\\prime} = 20°$ হয়, তবে $\\triangle BDC = ?$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "56c19a3b-c576-41b2-822f-86d551724176",
+    "images": [
+      "images/4089_0.png"
+    ],
+    "english_question": "<image>\n1 একক ক্ষেত্রফলবিশিষ্ট একটি বর্গক্ষেত্র একটি 'বৃদ্ধি' প্রক্রিয়ার মধ্য দিয়ে যায়, যার ফলে এর বাহুগুলোতে দুটি ছোট বর্গক্ষেত্র তৈরি হয়। এই তিনটি বর্গক্ষেত্র একটি সমকোণী ত্রিভুজ গঠন করে। আরও একটি 'বৃদ্ধি' প্রক্রিয়ার পর, চিত্রে থাকা সকল বর্গক্ষেত্রের মোট ক্ষেত্রফল নির্ণয় করো।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4b14ff5-b1f7-4060-8678-94bb043de460",
+    "images": [
+      "images/60187_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি অরিয়েন্টিয়ারিং কার্যক্রম চলাকালীন, একটি দল A বিন্দু থেকে 2 কিমি দূরে অবস্থিত B বিন্দুতে যাওয়ার প্রস্তুতি নিচ্ছে। A বিন্দুর সাপেক্ষে B বিন্দুর অবস্থান কোনটি?\nক. দক্ষিণ-পশ্চিম 50°, 2 কিমি\nখ. দক্ষিণ-পূর্ব 50°, 2 কিমি\nগ. উত্তর-পশ্চিম 40°, 2 কিমি\nঘ. উত্তর-পূর্ব 40°, 2 কিমি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "881c3d4a-cb88-4d74-b807-35ba9d0ba7a3",
+    "images": [
+      "images/6800_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-এর কর্ণদ্বয় O বিন্দুতে ছেদ করে এবং P বিন্দুটি ΔCOD-এর অভ্যন্তরে অবস্থিত (সীমানা ব্যতীত)। যদি ⇀AP=x ⇀AB+y ⇀AD হয়, তবে বাস্তব সংখ্যাদ্বয় (x,y) এর মান কোনটি হতে পারে?\n\nOptions:\nক) \\((\\dfrac{1}{2},\\dfrac{\\sqrt{3}}{2})\\)\nখ) \\((\\dfrac{\\sqrt{3}}{2},\\dfrac{1}{2})\\)\nগ) \\((\\dfrac{1}{5},\\dfrac{3}{5})\\)\nঘ) \\((\\dfrac{5}{7},\\dfrac{3}{7})\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "82edd6d1-4e57-40eb-9cab-3cd863c0e2ba",
+    "images": [
+      "images/30584_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, DC ∥ EF ∥ AB এবং EC ∥ AF। চারটি ত্রিভুজের ক্ষেত্রফল যথাক্রমে S1, S2, S3 এবং S4। যদি S2 = 1 এবং S4 = 4 হয়, তবে S1 + S3 এর মান কত?\nক. 2\nখ. 2.5\nগ. 3\nঘ. 3.5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7073bebe-20ae-4e34-93f8-e8052da37dfd",
+    "images": [
+      "images/54979_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, হট এয়ার বেলুন A থেকে নদী পারাপারের সেতু BC দেখা যাচ্ছে। বিন্দু B এবং C-এর অবনতি কোণ যথাক্রমে 60° এবং 45°। হট এয়ার বেলুনটি মাটি থেকে 120 মিটার উচ্চতায় অবস্থিত এবং সেতুটি মাটির সমান্তরাল তলে থাকলে, সেতু BC-এর দৈর্ঘ্য নির্ণয় করো (ফলাফল নিকটতম পূর্ণসংখ্যায়, √3 ≈ 1.72)।\nOptions:\nA) The angles of depression to points B and C are measured to be 60° and 45°, respectively. Given that the height of the hot air balloon above the ground is 120 m and the bridge is on the same horizontal plane as the ground, find the length of bridge BC (result rounded to the nearest integer, $ \\sqrt{3} \\approx 1.72$).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "368dabca-15c8-495d-ae14-22b772f41223",
+    "images": [
+      "images/72325_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ, 3 দৈর্ঘ্য ও 3 প্রস্থ এবং 8 উচ্চতা বিশিষ্ট একটি আয়তাকার পাত্র একটি অনুভূমিক টেবিলের ওপর রাখা আছে। এটি 6 উচ্চতা পর্যন্ত পানি দ্বারা পূর্ণ। পাত্রটিকে এর ভূমির একটি ধারের সাপেক্ষে কাত করার পর, পানির উপরিভাগ পাত্রের কিনারাকে স্পর্শ করে। চিত্র 2-এ এই পরিস্থিতির একটি নকশা দেখানো হয়েছে। চিত্র 2-এ পানির উপরিভাগের উচ্চতা কত?\n\nOptions:\nক) $ \\frac {24}{5}$\nখ) $ \\frac {32}{5}$\nগ) $ \\frac {12 \\sqrt {34}}{17}$\nঘ) $ \\frac {20 \\sqrt {34}}{17}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "42cd2b3e-8c87-4460-aa32-8d602d8bc56a",
+    "images": [
+      "images/28750_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-এর ক্ষেত্রফল 60 বর্গ সেন্টিমিটার। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেন্টিমিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "237648de-ebdf-4132-ac7c-34e89caa3a6c",
+    "images": [
+      "images/56924_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, EF হলো ত্রিভুজ ABC-এর মধ্যমা। ত্রিভুজ AEF-কে মধ্যমা AD বরাবর ত্রিভুজ A1E1F1-এর অবস্থানে স্থানান্তর করা হলো, যাতে E1F1 বাহু BC-এর সাথে মিলে যায়। যদি ত্রিভুজ AEF-এর ক্ষেত্রফল 7 হয়, তবে চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল কত?\nক. 7\nখ. 14\nগ. 21\nঘ. 28",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55b6f32b-f21e-41f9-a927-7c73344289af",
+    "images": [
+      "images/9795_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গক্ষেত্র ABCD এর অভ্যন্তরে E, F, G এবং H বিন্দুগুলো অবস্থিত এবং DE = EF = FG = GH = HB = 4। কোণগুলো ∠E = ∠F = ∠G = ∠H = 60°। বর্গক্ষেত্র ABCD এর বাহুর দৈর্ঘ্য কত?\n\nOptions:\nক) \\(\\sqrt{14}\\)\nখ) \\(3\\sqrt{2}\\)\nগ) \\(3\\sqrt{5}\\)\nঘ) \\(2\\sqrt{14}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a9549ffc-9e27-4a34-9c0c-b23f584ad188",
+    "images": [
+      "images/38500_0.png"
+    ],
+    "english_question": "<image>\nছায়াঘেরা অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

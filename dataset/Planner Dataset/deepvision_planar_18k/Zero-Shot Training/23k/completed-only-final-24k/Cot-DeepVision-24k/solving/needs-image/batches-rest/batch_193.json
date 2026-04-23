@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1f65b4e2-e6b1-4106-9847-fd68fc5974f9",
+    "images": [
+      "images/54550_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ BEF হলো ত্রিভুজ ABC-এর একটি প্রতিচ্ছবি (translation)। বিন্দু A, B এবং E একই সরলরেখায় অবস্থিত। যদি ∠C = 20° এবং ∠ABC = 68° হয়, তবে ∠CBF = কত ডিগ্রি?\nOptions:\nC) Points A, B, and E are on the same straight line. If ∠C = 20° and ∠ABC = 68°, then ∠CBF = ______ degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69849a4f-b7f7-46d7-989b-6776e09c36dc",
+    "images": [
+      "images/61322_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি বোমারু বিমানের স্কোয়াড্রন দেখানো হয়েছে। যদি বোমারু বিমান A এবং B এর স্থানাঙ্ক যথাক্রমে A(-2,1) এবং B(-2,-3) হয়, তবে বোমারু বিমান C এর স্থানাঙ্ক কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "adb09885-6517-48b0-ab1a-564adfe4e781",
+    "images": [
+      "images/73027_0.png"
+    ],
+    "english_question": "<image>\nAB || CD, ∠A = 60°, ∠C = 25°। ∠1 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "777a9024-221b-4420-8f81-e8db51d77c40",
+    "images": [
+      "images/33829_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপায়ে একটি শক্ত কাগজের ওপর সমান্তরাল রেখার মাঝে একটি সমকোণী ত্রিভুজাকার স্কেল স্থাপন করা হলো। নিচের সিদ্ধান্তগুলো নেওয়া হলো: (1) ∠1 = ∠2; (2) ∠3 = ∠4; (3) ∠2 + ∠4 = 90°; (4) ∠4 + ∠5 = 180°। এই সিদ্ধান্তগুলোর মধ্যে কয়টি ভুল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e0438c1a-6890-4a8e-8a4c-cef9dc48a1d5",
+    "images": [
+      "images/63102_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সামান্তরিক \\(ABCD\\)-তে, দেওয়া আছে \\(AC=3cm\\)। যদি \\(\\triangle ABC\\)-এর পরিসীমা \\(8cm\\) হয়, তবে সামান্তরিকটির পরিসীমা কত?\nক. \\(5cm\\)\nখ. \\(10cm\\)\nগ. \\(16cm\\)\nঘ. \\(11cm\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94bd028b-924a-423e-8b53-835ab2e74905",
+    "images": [
+      "images/37539_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, যদি ∠AON = ∠BOM হয় এবং OC, ∠MON কে সমদ্বিখণ্ডিত করে, তবে ∠AON = ∠BOM ছাড়াও চিত্রটিতে সমান কোণের সংখ্যা কত জোড়া? ( ) \nক. 1 জোড়া \nখ. 2 জোড়া \nগ. 3 জোড়া \nঘ. 4 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "108228e4-e4b4-4a9e-9060-cb8e1f604350",
+    "images": [
+      "images/12470_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঘনকের ছয়টি তলে 'careful', 'standard' এবং 'diligent' শব্দগুলো লেখা আছে। ঘনকটির উন্মুক্ত চিত্র (net) থেকে বলো, 'careful' শব্দের বিপরীত দিকে কোন শব্দটি আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73218dde-4d2e-4021-b87e-74004feaee3f",
+    "images": [
+      "images/76654_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি আয়তাকার এলাকায় সবুজায়ন প্রকল্পের অংশ হিসেবে 18 মিটার দৈর্ঘ্য ও 12 মিটার প্রস্থের একটি জমিতে ঘাস লাগানো হবে। ব্যবস্থাপনার সুবিধার্থে জমির মাঝখানে সমান প্রস্থের তিনটি রাস্তা তৈরি করা হবে, যার মধ্যে একটি অনুভূমিক এবং দুটি উলম্ব রাস্তা রয়েছে। যদি ঘাস লাগানোর মোট ক্ষেত্রফল 196 বর্গমিটার হয় এবং রাস্তার প্রস্থ x মিটার হয়, তবে x এর মান কোন সমীকরণকে সিদ্ধ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dae04c38-7a1c-41b6-b566-ae62727c9983",
+    "images": [
+      "images/12405_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমবাহু ত্রিভুজ ব্লক △ABC দেওয়া আছে যার বাহুর দৈর্ঘ্য 1 এবং এটি একটি অনুভূমিক তলের ওপর অবস্থিত। বিন্দু P হলো BC এর মধ্যবিন্দু। ত্রিভুজ △ABC নিম্নোক্ত অনুভূমিক গতি সম্পন্ন করে: \n (1) বিন্দু B থেকে শুরু করে, যা মূলবিন্দু (0) এবং ঘূর্ণন বিন্দু, এটি ডানদিকে ঘুরতে শুরু করে;\n (2) যখন ত্রিভুজের একটি বাহু ভূমির সাথে মিলে যায়, তখন এটি ত্রিভুজের ডানদিকের শীর্ষবিন্দুকে ঘূর্ণন বিন্দু হিসেবে নিয়ে ডানদিকে ঘুরতে থাকে। যখন বিন্দু A গতির শুরুতে প্রথমবার ভূমি স্পর্শ করে, তখন $\\overrightarrow { O C } \\cdot \\overrightarrow { O P }$ এর মান কত?\nOptions:\nC) The triangle △ABC undergoes the following horizontal motion: \n (1) Starting from point B, which is the origin (0) and the rotation point, it begins to rotate to the right; \n (2) When one side of the triangle is aligned with the ground, it continues to rotate to the right with the vertex on the right side of the triangle as the rotation point. When point A first touches the ground after the motion begins, what is the value of $\\overrightarrow { O C } \\cdot \\overrightarrow { O P }$?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a49a9fe0-ca6e-49d8-bdfb-f67550a405d7",
+    "images": [
+      "images/18554_0.png"
+    ],
+    "english_question": "<image>\nট্রাপিজিয়াম ABCD-তে, AD || BC, AD = 6, BC = 16 এবং E হলো BC-এর মধ্যবিন্দু। বিন্দু P, A থেকে D-এর দিকে AD বরাবর 1 একক/সেকেন্ড গতিতে যাত্রা শুরু করে; বিন্দু Q, C থেকে B-এর দিকে CB বরাবর 2 একক/সেকেন্ড গতিতে যাত্রা শুরু করে। যখন P-এর গতি থেমে যায়, তখন Q-এর গতিও থেমে যায়। t সেকেন্ড সময় নির্ণয় করো যখন P, Q, E এবং D বিন্দুগুলো দ্বারা গঠিত চতুর্ভুজটি একটি সামান্তরিক হয়।\nOptions:\nd. When point $P$ stops moving, point $Q$ also stops moving. Find the time $t$ in seconds when the quadrilateral formed by points $P$, $Q$, $E$, and $D$ is a parallelogram.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35161a82-c710-402e-ae68-c29d3f664c24",
+    "images": [
+      "images/49108_0.png"
+    ],
+    "english_question": "<image>\nএকজন কর্মী একটি লোহার বলের আকার পরীক্ষা করার জন্য একটি খাঁজ তৈরি করেছেন। খাঁজটির দুটি নিচের কোণই 90°, যার পরিমাপ চিত্রে দেওয়া হয়েছে (একক: সেমি)। যখন একটি সুষম লোহার বল খাঁজে রাখা হয়, তখন এটি A, B এবং E বিন্দুতে স্পর্শ করে। চিত্র 2 হলো বলের কেন্দ্র O এবং স্পর্শবিন্দু A, B, E এর একটি লম্বচ্ছেদ। জানা আছে যে, বৃত্ত O এর ব্যাস হলো লোহার বলের ব্যাস, AB হলো বৃত্তের একটি জ্যা, CD রেখা E বিন্দুতে বৃত্তের স্পর্শক, AC রেখা CD এর উপর লম্ব এবং BD রেখা CD এর উপর লম্ব। চিত্র 1 এর তথ্য ব্যবহার করে লোহার বলের ব্যাস নির্ণয় করো।\nOptions:\nD) Please use the data from Figure 1 to calculate the diameter of this iron ball.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8aad054e-8928-4611-add6-b288c74a6c0b",
+    "images": [
+      "images/8119_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, কোন আকৃতিটি কেন্দ্র প্রতিসম কিন্তু অক্ষীয় প্রতিসম নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b74ae0d5-f705-4e25-9ac7-92dd665942f7",
+    "images": [
+      "images/triangle_ext_b74ae0d5-f705-4e25-9ac7-92dd665942f7.png"
+    ],
+    "english_question": "<image>\nক. BC ত্রিভুজে, D এবং E বিন্দুগুলো যথাক্রমে AB এবং AC বাহুর মধ্যবিন্দু। F এবং G বিন্দুগুলো BC বাহুর ওপর অবস্থিত এবং দেওয়া আছে যে BC = 4BF = 4CG। রেখাংশ EF এবং DG, O বিন্দুতে ছেদ করে। যদি ∠DFE = 40° এবং ∠DGE = 80° হয়, তবে ∠DOE কোণের পরিমাপ কত?\nক. 100°\nখ. 120°\nগ. 140°\nঘ. 160°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21862e73-abcc-4582-83a0-e7dee9a0b040",
+    "images": [
+      "images/43449_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-এর অন্তর্বৃত্ত হলো ⊙I, যেখানে AB=9, BC=8, CA=10। D এবং E বিন্দু যথাক্রমে AB এবং AC বাহুর উপর অবস্থিত এবং DE রেখাটি ⊙I-এর একটি স্পর্শক। ত্রিভুজ ADE-এর পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ddf7b7d6-6344-4d6d-b663-a7fc21074c50",
+    "images": [
+      "images/24161_0.png"
+    ],
+    "english_question": "<image>\nযৌগিক আকৃতিটির ক্ষেত্রফল নির্ণয় করো (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "34c354fd-3aab-4f00-9c70-00b2b0ba4d61",
+    "images": [
+      "images/34960_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OA লম্ব OC, OB লম্ব OD এবং ∠DOC = 25°। ∠AOB এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45b37f5a-f799-48e3-93bb-64b42ea33e25",
+    "images": [
+      "images/25326_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, সদৃশ ত্রিভুজের একটি জোড়া খুঁজে বের করো: ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d8f3f8b-bfaa-4ff3-8341-bec1b6361b8c",
+    "images": [
+      "images/19758_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, $\\sqrt{2}$ বাহুবিশিষ্ট একটি বর্গক্ষেত্র ABCD-কে কর্ণ AC বরাবর এমনভাবে স্থানান্তর করা হলো যেন বিন্দু A, কর্ণ AC-এর মধ্যবিন্দু A'-তে সরে আসে। নতুন বর্গক্ষেত্র A'B'C'D' এবং মূল বর্গক্ষেত্রের সাধারণ অংশের (চিত্রে ছায়াবৃত অংশ) ক্ষেত্রফল কত? ( )\nক. $\\sqrt{2}$\nখ. $\\frac{1}{2}$\nগ. 1\nঘ. $\\frac{1}{4}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c7d8982-85f3-466d-973b-7c68712761f5",
+    "images": [
+      "images/62835_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ত্রিভুজাকার স্কেল রাখা আছে। যদি OB = 2√3 হয়, তবে OD = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65dd1d02-4d05-478a-8376-78c5c76cc83c",
+    "images": [
+      "images/27620_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রে অবস্থিত বৃত্তে, যদি ∠A = 35° এবং ∠E = 40° হয়, তবে ∠BOD-এর মান কত? \nক. 75° \nখ. 80° \nগ. 135° \nঘ. 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

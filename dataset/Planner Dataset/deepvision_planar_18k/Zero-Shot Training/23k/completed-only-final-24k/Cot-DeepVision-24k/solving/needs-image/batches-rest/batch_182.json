@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ce85c30e-10bb-42fc-aaae-d8594785e659",
+    "images": [
+      "images/40495_0.png"
+    ],
+    "english_question": "<image>\nবর্গাকার গ্রিডে, ত্রিভুজ ABC-কে স্থানান্তর (translation) করে ত্রিভুজ DEF পাওয়া গেছে। C বিন্দুটি কত একক সরেছে?\nOptions:\nC) How many units did point C move?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7be35b0-7d06-4796-b4b6-f78e33b159a3",
+    "images": [
+      "images/41158_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, চতুর্ভুজ ABCD একটি বর্গাকার কাগজ যার বাহুর দৈর্ঘ্য 9। এটিকে MN রেখা বরাবর এমনভাবে ভাঁজ করা হলো যেন বিন্দু A, বাহু BC-এর ওপর A' বিন্দুতে পতিত হয়। D বিন্দুর অনুরূপ বিন্দু হলো D'। যদি A'B = 3 হয়, তবে DM এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54c4e7d3-e7ad-4565-bd09-c951b23e26f6",
+    "images": [
+      "images/13231_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: একটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD, যেখানে AD সমান্তরাল BC এবং কর্ণ AC ও BD পরস্পর লম্বভাবে O বিন্দুতে ছেদ করে। যদি AD = 3 সেমি এবং BC = 7 সেমি হয়, তবে ট্রাপিজিয়ামটির ক্ষেত্রফল S নির্ণয় করো।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1b99dc1b-6f02-4c87-b148-72ffbffd41d4",
+    "images": [
+      "images/49808_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, জানা আছে রম্বস ABCD ও রম্বস EFGH, BD রেখার উপর একটি নির্দিষ্ট বিন্দুর সাপেক্ষে কেন্দ্রীয় প্রতিসম। B বিন্দুর প্রতিসম বিন্দু কোনটি?\nক. বিন্দু E\nখ. বিন্দু F\nগ. বিন্দু G\nঘ. বিন্দু H",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49516a38-4bb1-462d-8519-5ccec978597a",
+    "images": [
+      "images/69401_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) \\(\\dfrac{2\\pi }{3}+4\\)\nখ) \\(2\\pi +\\dfrac{4}{3}\\)\nগ) \\(\\dfrac{\\pi }{3}+4\\)\nঘ) \\(\\pi +\\dfrac{4}{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "25f86fcc-6f1b-4c56-8a3c-fd6b12dcfbe8",
+    "images": [
+      "images/72349_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দুটি রেখাকে একটি তৃতীয় রেখা ছেদ করেছে। ∠1 এবং ∠2 হলো ( ) \nক. একই পার্শ্বস্থ অন্তঃস্থ কোণ \nখ. একান্তর অন্তঃস্থ কোণ \nগ. অনুরূপ কোণ \nঘ. উপরের কোনটিই নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f1d7214-5014-422c-b02d-4b448fee746a",
+    "images": [
+      "images/triangle_ext_8f1d7214-5014-422c-b02d-4b448fee746a.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, AB এবং AC রেখাংশের উপর E এবং D বিন্দু নেওয়া হলো, যাতে AE = AD হয়। O বিন্দুতে ছেদ করার জন্য BD এবং CE সংযোগ করো, এবং তারপর AO এবং BC সংযোগ করো। যদি ∠1 = ∠2 হয়, তবে চিত্রে সর্বসম ত্রিভুজের কত জোড়া আছে?\nক. 5 pairs\nখ. 6 pairs\nগ. 7 pairs\nঘ. 8 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fbc9ce5b-0a67-4761-84bc-d7869da97e38",
+    "images": [
+      "images/19618_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস এবং AD = DC। যদি ∠CAB = 20° হয়, তবে ∠ACD-এর মান কত? ( )\n\nOptions:\nক) 60°\nখ) 35°\nগ) 45°\nঘ) 55°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9ceb519f-ade3-4c74-8bdb-5ea2c526e120",
+    "images": [
+      "images/24736_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমদ্বিবাহু ট্রাপিজিয়াম ABCD একটি অর্ধবৃত্তে অন্তর্লিখিত এবং AB = 1, BC = 2। তবে OA = কত? ( )\n\nOptions:\nক) \\( \\frac { 1 \\! + \\! { \\sqrt { 3 } } } { 2 } \\)\nখ) \\( \\sqrt { 2 } \\)\nগ) \\( \\frac { 3 + { \\sqrt { 2 } } } { 3 } \\)\nঘ) \\( \\frac { 1 \\! + \\! { \\sqrt { 5 } } } { 2 } \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2ea1fda-ebf4-4189-a5a4-533faf48fe6f",
+    "images": [
+      "images/19016_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে, ∠BAD এর সমদ্বিখণ্ডক AG, BC বাহুকে E বিন্দুতে ছেদ করে। যদি BF = 6 এবং AB = 5 হয়, তবে AE এর দৈর্ঘ্য কত?\n\nOptions:\nক) 4\nখ) 6\nগ) 8\nঘ) 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1a7f659a-50e8-458c-b017-7adde95c0d60",
+    "images": [
+      "images/71627_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট এবং 1 ব্যাসার্ধের একটি বৃত্তের চাপ স্থানাঙ্ক অক্ষদ্বয়কে A ও B বিন্দুতে ছেদ করে। P বিন্দুটি AB চাপের উপর অবস্থিত (A বা B বিন্দুর সাথে সমাপতিত নয়)। OP যোগ করি এবং ধরি ∠POB = α। তাহলে P বিন্দুর স্থানাঙ্ক হবে ( )\n\nOptions:\nক) \\((\\sin α,\\sin α)\\)\nখ) \\((\\cos α,\\cos α)\\)\nগ) \\((\\cos α,\\sin α)\\)\nঘ) \\((\\sin α,\\cos α)\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "32a7bd63-5341-4d0b-b14e-5ed515820374",
+    "images": [
+      "images/51517_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চতুর্ভুজ ABCD-তে কর্ণ BD, যেখানে ∠1 এবং ∠4 শীর্ষবিন্দু B-তে এবং ∠2 এবং ∠3 শীর্ষবিন্দু D-তে অবস্থিত। নিচের কোন উক্তিটি সঠিক?\n\nOptions:\nক) If AB ∥ DC, then ∠1 = ∠2.\nখ) If AD ∥ BC, then ∠3 = ∠4.\nগ) If ∠1 = ∠2, then AB ∥ DC.\nঘ) If ∠2 + ∠3 + ∠A = 180°, then AB ∥ DC.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c81561e5-8892-4a36-959c-2d87a3021d75",
+    "images": [
+      "images/65777_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে চিত্রটির ক্ষেত্রফল 24। চিত্রের শর্তানুসারে, x এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "966793bc-4782-44cd-9c0a-3915a020ba5d",
+    "images": [
+      "images/68796_0.png"
+    ],
+    "english_question": "<image>\nপ্রথমে ফলাফল অনুমান করো, তারপর উল্লম্ব পদ্ধতিতে গণনা করো।\nOptions:\nd.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2b753509-75a7-4f49-a8d6-b41c8432fce4",
+    "images": [
+      "images/46611_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, দেওয়া আছে AB = 2 এবং AC = √2। A বিন্দুকে কেন্দ্র করে 1 ব্যাসার্ধের একটি বৃত্ত BC বাহুকে স্পর্শ করে। ∠BAC কোণের মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c879bbbf-68db-44fe-a7f9-3735b4152d19",
+    "images": [
+      "images/8886_0.png"
+    ],
+    "english_question": "<image>\nছায়াযুক্ত অংশের ক্ষেত্রফল কত বর্গ সেন্টিমিটার? (π = 3.14 ধরুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dda147c0-39bf-4a14-8de4-d10160f73b52",
+    "images": [
+      "images/29649_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OAB সেক্টরের কেন্দ্রীয় কোণ 90^{\\circ} এবং ব্যাসার্ধ 2 সেমি। O_{1} এবং O_{2} অর্ধবৃত্তের ব্যাস যথাক্রমে OA এবং OB। চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল কত? ______ সেমি^{2}।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cbff767a-e798-46ee-bb9d-8ac95b66d6f3",
+    "images": [
+      "images/52826_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত O-এর ব্যাস MN = 10। বর্গক্ষেত্র ABCD-এর চারটি শীর্ষবিন্দু যথাক্রমে ব্যাসার্ধ OM, OP এবং বৃত্ত O-এর উপর অবস্থিত। যদি ∠POM = 45° হয়, তবে AB-এর দৈর্ঘ্য কত? ( )\n\nOptions:\nক) 5\nখ) 4\nগ) 3\nঘ) \\sqrt{5}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "231c56b5-2f50-4a38-af08-b91f1e37ec93",
+    "images": [
+      "images/2340_0.png"
+    ],
+    "english_question": "<image>\nO বৃত্তে, AB এবং CD জ্যা দুটি যথাক্রমে ∠AOB এবং ∠COD কেন্দ্রস্থ কোণের সাথে সম্পর্কিত। যদি ∠AOB এবং ∠COD পূরক কোণ হয় এবং AB = 2, CD = 4 হয়, তবে বৃত্ত O-এর ব্যাসার্ধ কত?\n\nOptions:\nক) √{3}\nখ) 2\nগ) √{5}\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f9fa0514-0e4f-421f-a56a-223357b3b455",
+    "images": [
+      "images/22896_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, AB এবং AC রেখাদ্বয় O কেন্দ্রবিশিষ্ট বৃত্তের B ও C বিন্দুতে স্পর্শক এবং ∠A = 50°। DE রেখাটি BC রেখার ওপর অবস্থিত P বিন্দু থেকে অঙ্কিত একটি স্পর্শক যা AB ও AC কে যথাক্রমে D ও E বিন্দুতে ছেদ করে। ∠DOE এর পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

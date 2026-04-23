@@ -1,0 +1,302 @@
+[
+  {
+    "id": "49760dc2-bdb2-4e6e-9f89-8cf209da428c",
+    "images": [
+      "images/661_0.png"
+    ],
+    "english_question": "<image>\n1 একক উচ্চতাবিশিষ্ট সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, যেখানে AM = CD = 1/3 AB = 1 এবং M হলো AB-এর ত্রিখণ্ডক বিন্দু। ত্রিভুজ AMD-কে MD বরাবর এমনভাবে ভাঁজ করা হলো যেন তল AMD, তল MBCD-এর ওপর লম্ব হয়। যদি P বিন্দুটি AB বাহুর মধ্যবিন্দু হয়, তবে B বিন্দু থেকে তল MPC-এর দূরত্ব নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aee5f33e-94e4-4c8a-b513-29fb3243d7d5",
+    "images": [
+      "images/65963_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ট্রাপিজিয়ামের উপরের ভূমি 5 সেমি, নিচের ভূমি 8 সেমি এবং উচ্চতা 4 সেমি (চিত্রে প্রদর্শিত)। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51429272-03d6-44fa-8106-65ddc21f3a1c",
+    "images": [
+      "images/51221_0.png"
+    ],
+    "english_question": "<image>\nপ্যারাবোলাটি A(2,0) এবং B(t,0) বিন্দুগামী। এটি y-অক্ষকে C বিন্দুতে ছেদ করে এবং রেখা l: y=x+2t C হয়ে যায়। প্যারাবোলার সমীকরণটি নির্ণয় করো।\nOptions:\nD) Line AE intersects the parabola at E, and ∠CAE=∠CDO. Construct CF perpendicular to AE at F. When S_{△COD} - S_{四边形COAF} = 7, find the equation of the parabola.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "09c68998-1d7f-478a-8552-67a1cd3989a1",
+    "images": [
+      "images/33064_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি ট্রাপিজিয়াম আকৃতির স্টোরেজ এলাকা ABCD একটি সমকোণী দেয়ালের কোণায় তৈরি করা হয়েছে, যেখানে ∠C=120°। যদি নতুন দেয়াল BC এবং CD-এর মোট দৈর্ঘ্য 12 মি. হয়, তবে ট্রাপিজিয়াম আকৃতির স্টোরেজ এলাকা ABCD-এর সর্বোচ্চ ক্ষেত্রফল কত?\n\nOptions:\nক) 18 m²\nখ) 18 \\sqrt{3} m²\nগ) 24 \\sqrt{3} m²\nঘ) \\frac{45 \\sqrt{3}}{2} m²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "401b655d-be8c-461c-b4c1-c79ed6715075",
+    "images": [
+      "images/47543_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং EF, এবং BC সমান্তরাল AD। AC কোণ BAD-কে সমদ্বিখণ্ডিত করে। তাহলে, চিত্রে কোণ AGE-এর সমান কোণগুলো হলো ( )\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "03c95c5b-08b3-4e8c-868f-bdf839c15d3c",
+    "images": [
+      "images/37458_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াযুক্ত অংশের ক্ষেত্রফল আয়তক্ষেত্রের ক্ষেত্রফলের কত অংশের সমান? \nক. 1/3 \nখ. 1/2 \nগ. 3/8 \nঘ. অনিশ্চিত",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8e02037-4243-41d7-af61-4692aec50e80",
+    "images": [
+      "images/76347_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা DF এর সমান্তরাল, AC রেখা BC এর উপর C বিন্দুতে লম্ব এবং CB এর বর্ধিতাংশ DF কে E বিন্দুতে ছেদ করে। যদি ∠A = 20° হয়, তবে ∠CEF এর পরিমাপ কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7184c9d-6452-4bef-9a49-3aa71675a919",
+    "images": [
+      "images/74502_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তাকার ঘনবস্তুর ভূমির দৈর্ঘ্য 2 সেমি এবং 4 সেমি এবং উচ্চতা 5 সেমি। একটি পিঁপড়া P বিন্দু থেকে যাত্রা শুরু করে চারটি পার্শ্বতল ঘুরে Q বিন্দুতে পৌঁছালে, পিঁপড়াটির অতিক্রান্ত ক্ষুদ্রতম পথের দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b52a5c2-9e81-4834-a280-490a6668f56a",
+    "images": [
+      "images/40735_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চারটি চিত্রের মধ্যে কোন চিত্র দুটি সর্বসম? (____)\nবিকল্পসমূহ:\n(ক) (1) ও (3)\n(খ) (2) ও (3)\n(গ) (2) ও (4)\n(ঘ) (3) ও (4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0f1e720a-80f3-4518-8944-2bab19c9eacc",
+    "images": [
+      "images/59789_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD চতুর্ভুজের কর্ণদ্বয় O বিন্দুতে ছেদ করে। ঘূর্ণন এবং স্থানান্তরের পর, চিত্রে কত জোড়া ত্রিভুজ একে অপরের সাথে মিলে যেতে পারে?\n\nOptions:\nক) 2 pairs\nখ) 3 pairs\nগ) 4 pairs\nঘ) 5 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e482b88e-19bf-43d0-bb21-f9544dcdcd03",
+    "images": [
+      "images/43389_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, ABCD আয়তক্ষেত্রের ভেতরে একটি সামান্তরিক EFGH অঙ্কন করা হয়েছে, যার বাহুগুলো আয়তক্ষেত্রের কর্ণদ্বয়ের সমান্তরাল। যদি আয়তক্ষেত্রের কর্ণের দৈর্ঘ্য 12 সেমি হয়, তবে সামান্তরিক EFGH-এর পরিসীমা কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dd99decb-d988-40af-8190-6e4266b10f8b",
+    "images": [
+      "images/10_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, ∠1 = 83°, ∠2 = 97°, ∠3 = 78° হলে, ∠4 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2489029f-9982-4869-9d2c-d328bd68a323",
+    "images": [
+      "images/11107_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, জাহাজ A এবং B একই সময়ে বন্দর থেকে যাত্রা শুরু করে। জাহাজ A দক্ষিণ-পূর্ব দিকে 58° কোণে 16.1 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে এবং জাহাজ B দক্ষিণ-পশ্চিম দিকে 32° কোণে যাত্রা করে। 2 ঘণ্টা পর, জাহাজ A বিন্দু A-তে পৌঁছায় এবং লক্ষ্য করে যে জাহাজ B সরাসরি তার পশ্চিমে অবস্থিত। জাহাজ B-এর গতিবেগ নটিক্যাল মাইল প্রতি ঘণ্টায় কত? (ফলাফল দশমিকের পর 1 ঘর পর্যন্ত আসন্ন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8881e03e-498f-446c-b83e-78e3f1dd12c2",
+    "images": [
+      "images/61674_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি CA=CD এবং ∠ACD=30° হয়, তবে ∠COD-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "77c53b12-8d5d-4dfc-bef3-f4365a2e664b",
+    "images": [
+      "images/11540_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, ∠FGD = 120°, ∠FEB = 40° হলে, ∠F = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e245c302-98d2-4aea-8408-b01d8eda9088",
+    "images": [
+      "images/34415_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2013 বসন্ত, লাইশুই কাউন্টি স্কুল লেভেল মাসিক পরীক্ষা) তিনটি পরিবার ক, খ এবং গ-কে একটি বৈদ্যুতিক মিটারের সাথে সংযুক্ত করতে হবে। যদি প্রতিটি সংলগ্ন জোড়া পরিবারের জন্য তারগুলো সমান দূরত্বে সাজানো থাকে, তবে তিনটি পরিবারের ব্যবহৃত তারের দৈর্ঘ্য ( )\n\nOptions:\nক) Household A is the longest\nখ) Household B is the longest\nগ) Household C is the longest\nঘ) All three households are the same length",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0eed44bf-a57a-49ce-a89d-bb9f90f47c90",
+    "images": [
+      "images/26447_0.png"
+    ],
+    "english_question": "<image>\n6 সেমি ব্যাসবিশিষ্ট একটি বৃত্তের ভেতরে একটি বর্গক্ষেত্র অন্তর্লিখিত আছে। ছায়াবৃত অংশের (বৃত্তের যে অংশ বর্গক্ষেত্রের বাইরে) ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b65fb9f0-26a4-4a94-810e-92aa261e8495",
+    "images": [
+      "images/49457_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত কোট র‍্যাকটি একটি জনপ্রিয় নতুন ধরনের চলমান ডায়মন্ড আকৃতির কোট র‍্যাক। যদি দেয়ালের পেরেক থেকে AB = BC = 16 সেমি হয় এবং ∠AMB = ∠BNC = 60° হয়, তবে এই ধরনের কোট র‍্যাক তৈরির জন্য প্রয়োজনীয় উপাদানের সর্বনিম্ন দৈর্ঘ্য কত সেমি? (উৎপাদন প্রক্রিয়ার অপচয় উপেক্ষা করা হয়েছে)\nOptions:\nd)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ac779cc3-3a4d-4230-8a1f-5fef81b2481a",
+    "images": [
+      "images/51153_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সুষম পঞ্চভুজ ABCDE একটি বৃত্ত ⊙O-তে অন্তর্লিখিত। তাহলে ∠ABD = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "222b53f0-53a1-4d17-beb8-bf77d32b6b5f",
+    "images": [
+      "images/19079_0.png"
+    ],
+    "english_question": "<image>\nশিউলি একটি আয়তাকার কার্ডবোর্ড ব্যবহার করে চিত্রে প্রদর্শিত একটি সিলিন্ডার তৈরি করেছে। এই সিলিন্ডারের পার্শ্বতলের ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

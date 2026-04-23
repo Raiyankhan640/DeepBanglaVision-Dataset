@@ -1,0 +1,302 @@
+[
+  {
+    "id": "d888523c-e4bd-4932-9229-5c4896ef1ad1",
+    "images": [
+      "images/15331_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কতটি সরলরেখায় প্রতিসম (line-symmetric)?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e1850503-fde6-4410-9573-2179cc1baf81",
+    "images": [
+      "images/73752_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, যেখানে AD সমান্তরাল BC, কর্ণ AC এবং BD বিন্দু O-তে ছেদ করে। নিচের কোন সিদ্ধান্তটি সর্বদা সঠিক নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "84500bc4-85ce-4a4e-9974-2ee17261970a",
+    "images": [
+      "images/26469_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E বিন্দুটি বর্গক্ষেত্র ABCD-এর কর্ণ AC-এর উপর অবস্থিত এবং EC = 2AE। সমকোণী ত্রিভুজ FEG-এর দুটি বাহু EF এবং EG যথাক্রমে BC এবং DC-কে M এবং N বিন্দুতে ছেদ করে। যদি বর্গক্ষেত্র ABCD-এর বাহুর দৈর্ঘ্য 2 হয়, তবে ছায়াযুক্ত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) 2\nখ) \\frac{4}{3}\nগ) \\textstyle{\\frac{1}{6}{9}}\nঘ) \\textstyle{\\frac{20}{9}}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1b85f718-5cf6-4ae9-93c4-0a8e1660ecab",
+    "images": [
+      "images/47453_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, M এবং N যথাক্রমে CD এবং BC এর মধ্যবিন্দু এবং AM ⊥ CD, AN ⊥ BC। যদি ∠MAN = 74° এবং ∠DBC = 41° হয়, তবে ∠ADC এর মান কত?\n\nOptions:\nক) 45°\nখ) 47°\nগ) 49°\nঘ) 51°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0b938324-3983-4c04-b95a-303f22365d97",
+    "images": [
+      "images/56395_0.png"
+    ],
+    "english_question": "<image>\n2 সেমি প্রস্থের একটি আয়তাকার কাগজকে ভাঁজ করে 60° সূক্ষ্মকোণ বিশিষ্ট একটি 'V' আকৃতি তৈরি করা হলো। ভাঁজ AQ এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f2afa1bf-39b2-4437-883d-d67b1894ae55",
+    "images": [
+      "images/3659_0.png"
+    ],
+    "english_question": "<image>\nABCD চতুর্ভুজে, AD সমান্তরাল BC, BC বৃহত্তর AD এবং কোণ B ও কোণ C পরস্পর পূরক। যখন AB এবং CD রেখাংশদ্বয়কে যথাক্রমে EF এবং EG অবস্থানে স্থানান্তর করা হয়, তখন ত্রিভুজ EFG একটি সমকোণী ত্রিভুজ হয়।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a541fba1-b98a-4179-bb5c-214b740d14d8",
+    "images": [
+      "images/triangle_ext_a541fba1-b98a-4179-bb5c-214b740d14d8.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, সমবাহু ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দু 12 সেমি ব্যাস বিশিষ্ট একটি বৃত্তের উপর অবস্থিত। ছোট বৃত্তটি ত্রিভুজের প্রতিটি বাহুকে স্পর্শ করে এবং AD, BE, ও CF হলো বড় বৃত্তের ব্যাস। চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল কত? ( )\nক. 3π cm²\nখ. 6π cm²\nগ. 12π cm²\nঘ. 24π cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ebb4765c-0a43-43fb-a5b0-61bd171e16fe",
+    "images": [
+      "images/71344_0.png"
+    ],
+    "english_question": "<image>\nএকটি অনুভূমিক তলের ওপর 4 ব্যাসার্ধের একটি বাস্কেটবল (কেন্দ্র O') রাখা আছে। তির্যক সমান্তরাল আলোর নিচে এর ছায়া একটি উপবৃত্ত গঠন করে (চিত্রে প্রদর্শিত)। কার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, O মূলবিন্দু এবং AB রেখাটি x-অক্ষের ওপর অবস্থিত। উপবৃত্তের সমীকরণটি হলো x²/a² + y²/b² = 1 (যেখানে a > b > 0)। বাস্কেটবলের সাথে ভূমির স্পর্শবিন্দু H এবং OH = 3। উপবৃত্তটির উৎকেন্দ্রিকতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dd68ce72-8da0-4af3-9d81-cb9d95486b9a",
+    "images": [
+      "images/19928_0.png"
+    ],
+    "english_question": "<image>\nএকটি সোজা রুলার EF ত্রিভুজের ∠BAC এর 30° কোণে চেপে রাখা হলো, যা AC এবং AB বাহুকে M এবং N বিন্দুতে ছেদ করে। ∠CME + ∠BNF এর মান কত?\nক. 150°\nখ. 180°\nগ. 135°\nঘ. নির্ণয় করা সম্ভব নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9c9f468d-3943-4979-8a1f-8da95e94113a",
+    "images": [
+      "images/73252_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E এবং F বিন্দুদ্বয় যথাক্রমে AB এবং CD রেখার উপর অবস্থিত, G বিন্দুটি BC রেখার বর্ধিতাংশের উপর একটি বিন্দু এবং দেওয়া আছে যে ∠B = ∠DCG = ∠D। নিচের কোন উক্তিটি ভুল? ( )\n\nOptions (copied from English):\nঘ. Which of the following statements is incorrect? ( )\n∠ADF = ∠DCG\n∠A = ∠BCF\n∠AEF = ∠EBC\nঘ. ∠BEF + ∠EFC = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bdb60354-5812-4f5c-8525-2284d521d505",
+    "images": [
+      "images/53492_0.png"
+    ],
+    "english_question": "<image>\n(2008•অর্ডোস) ছোটবেলায় আমরা আঙুল দিয়ে গণনা করা শিখতাম। একজন শিশু চিত্রে প্রদর্শিত নিয়ম অনুযায়ী গণনা করছে। 20009 পর্যন্ত গণনা করলে, তা কোন আঙুলে গিয়ে শেষ হবে? ( )\nক. বৃদ্ধাঙ্গুলি\nখ. তর্জনী\nগ. মধ্যমা\nঘ. অনামিকা",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6aa537e-b08f-4c04-8864-c99ab05183cf",
+    "images": [
+      "images/47755_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, দেওয়া আছে ∠1=∠2 এবং ∠B=∠C, আমরা সিদ্ধান্ত নিতে পারি যে AB, CD-এর সমান্তরাল। যুক্তিটি সম্পন্ন করো: যেহেতু CE, BF-এর সমান্তরাল, তাই ∠____ = ∠3 (অনুরূপ কোণ)।\nOptions:\nD) Complete the reasoning: Since CE is parallel to BF, therefore ∠____ = ∠3 (corresponding angles).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3a7e7902-b42a-444a-8688-7bba6ff5904c",
+    "images": [
+      "images/58068_0.png"
+    ],
+    "english_question": "<image>\n3 একক বাহুবিশিষ্ট সমবাহু ত্রিভুজ ABC-তে, E, F, P বিন্দুগুলো যথাক্রমে AB, AC, BC বাহুর উপর অবস্থিত, যেখানে AE/EB = CF/FA = CP/PB = 1/2। ত্রিভুজ AEF কে EF রেখা বরাবর A1EF অবস্থানে ভাঁজ করা হলো, যাতে দ্বিতল কোণ A1-EF-B একটি সমকোণ হয়। A1B, A1P বিন্দুগুলো যুক্ত করা হলো (চিত্রে প্রদর্শিত)। নিচের কোন সিদ্ধান্তটি ভুল?\n\nOptions (copied from English):\nগ. \\({A}_{1}E⊥ \\) plane \\(BEP\\)\nঘ. The cosine value of the angle formed by the skew line \\(BP\\) and line \\({A}_{1}F\\) is \\( \\dfrac{3}{4} \\",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e9d17a21-15c8-409a-aa73-e23379c28950",
+    "images": [
+      "images/27376_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 25-এ দেখানো হয়েছে যে, দুটি সমান দৈর্ঘ্যের মই রয়েছে। বাম পাশের মইয়ের উচ্চতা AC ডান পাশের মইয়ের অনুভূমিক দৈর্ঘ্য DF-এর সমান। মই দুটির নতি কোণ ∠ABC এবং ∠DFE-এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "352af30d-c95b-4eb9-bb99-6713bc349e2a",
+    "images": [
+      "images/56695_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয় O বিন্দুতে ছেদ করে এবং ∠1 = 50°। তাহলে ∠2 = ______ ডিগ্রি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "14cad48a-b762-4958-b22b-cad1d4a56d40",
+    "images": [
+      "images/63647_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্তের ব্যাস AB এর দৈর্ঘ্য 12। বিন্দু P, AB এর উপর অবস্থিত এবং বিন্দু C ও D অর্ধবৃত্তের সমত্রিখণ্ডক বিন্দু। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "81c69b63-2f61-41ae-8d5e-d8911961c5d3",
+    "images": [
+      "images/34932_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্তকলা AOB-এর ব্যাসার্ধ 12, OA এবং OB পরস্পর লম্ব, C বিন্দুটি OB-এর ওপর অবস্থিত। OA ব্যাস বিশিষ্ট অর্ধবৃত্ত O₁ এবং BC ব্যাস বিশিষ্ট অর্ধবৃত্ত O₂ পরস্পরকে D বিন্দুতে স্পর্শ করে। চিত্রের ছায়াবৃত অঞ্চলের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD) Find the area of the shaded region in the figure.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "757a3bbb-0fa9-4764-bca9-5af2f2cbdd65",
+    "images": [
+      "images/60892_0.png"
+    ],
+    "english_question": "<image>\n∠1 কোণটির সাথে অনুরূপ কোণ হিসেবে কতটি কোণ গঠিত হয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "14259afe-a997-405d-be9c-069d5e187f8d",
+    "images": [
+      "images/9463_0.png"
+    ],
+    "english_question": "<image>\nকয়েকটি একই আকারের ছোট ঘনক দিয়ে তৈরি একটি জ্যামিতিক বস্তুর উপর থেকে দেখা দৃশ্য চিত্রে দেখানো হয়েছে, যেখানে বর্গক্ষেত্রগুলোর ভেতরের সংখ্যাগুলো ওই অবস্থানে থাকা ছোট ঘনকের সংখ্যা নির্দেশ করে। এই জ্যামিতিক বস্তুটির বাম দিক থেকে দেখা দৃশ্য কোনটি? 【 】",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5e32f577-b8d9-4107-a25b-0135736c80ca",
+    "images": [
+      "images/32039_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোতে ছোট বর্গক্ষেত্রের সংখ্যা পর্যবেক্ষণ করো এবং n-তম চিত্রে কতগুলো ছোট বর্গক্ষেত্র আছে তা অনুমান করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

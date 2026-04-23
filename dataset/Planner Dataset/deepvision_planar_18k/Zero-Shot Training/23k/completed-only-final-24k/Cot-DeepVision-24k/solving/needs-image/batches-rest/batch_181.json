@@ -1,0 +1,302 @@
+[
+  {
+    "id": "14831996-c788-4ee4-94e4-bc956bd5de14",
+    "images": [
+      "images/triangle_ext_14831996-c788-4ee4-94e4-bc956bd5de14.png"
+    ],
+    "english_question": "<image>\nচিত্রে জ্যামিতিক বস্তু A-BCDE-এর তিনটি ভিউ দেওয়া আছে। শীর্ষ দৃশ্য (top view) এবং পার্শ্ব দৃশ্য (side view) উভয়ই সমদ্বিবাহু সমকোণী ত্রিভুজ যার বাহুর দৈর্ঘ্য 4 এবং সম্মুখ দৃশ্য (front view) একটি সমকোণী ট্রাপিজয়েড। এই জ্যামিতিক বস্তুটির আয়তন V কত? ( )\nক. 10\nখ. 16\nগ. 40\nঘ. \\frac { 40 } { 3 }",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d1c6fbc6-5e9d-4bd7-a28f-78d53eba4104",
+    "images": [
+      "images/53756_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখাংশ CD এবং তীর AB-এর মধ্যে সম্পর্ক নির্ণয় করো যাতে বিন্দু D থেকে AB-এর ওপর বিন্দু C পর্যন্ত পরিখাটি সবচেয়ে ছোট হয়।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af502d61-4d0b-4886-aeef-4ffd65d1fee6",
+    "images": [
+      "images/1039_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা AB, রেখা CD-এর সমান্তরাল, ∠A = 100°, ∠C = 75°, তাহলে ∠E-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ce658d03-f2bc-4a11-b689-6ee81863243c",
+    "images": [
+      "images/32027_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি সমতল চিত্রের মধ্যে কোনটি ভাঁজ করে একটি খোলা আয়তাকার বাক্স তৈরি করা সম্ভব নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c21c0f18-90e6-491d-86ee-4044144f3680",
+    "images": [
+      "images/58425_0.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট এলাকায় 5টি উত্তর-দক্ষিণ রাস্তা এবং 7টি পূর্ব-পশ্চিম রাস্তা আছে। একজন ডাকবাহক উত্তর-পূর্ব কোণের ডাকঘর A থেকে শুরু করে দক্ষিণ-পশ্চিম কোণের স্থান B-তে চিঠি পৌঁছে দিতে চান, যেখানে স্থান C-এর মধ্য দিয়ে যাবেন। তিনি কতগুলো ভিন্ন সংক্ষিপ্ততম পথ নিতে পারেন? (সংখ্যা দিয়ে উত্তর দাও)\nOptions:\nC) What is the total number of different shortest paths he can take? (Answer with a number)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a29f066b-2067-4d07-b69a-894a7a0a701a",
+    "images": [
+      "images/68048_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-এর কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে। DE, AC-এর সমান্তরাল এবং CE, BD-এর সমান্তরাল। চতুর্ভুজ OCED একটি আয়তক্ষেত্র হওয়ার জন্য সামান্তরিক ABCD-কে অতিরিক্ত কোন শর্ত পূরণ করতে হবে?\nOptions:\nD) What additional condition must parallelogram ABCD satisfy so that quadrilateral OCED is a rectangle?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ee6acf1-66c2-4ca4-a553-5a297d14b540",
+    "images": [
+      "images/25741_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, l_{1} ও l_{2} রেখাদ্বয় সমান্তরাল। যদি ∠1 = 140^{\\circ} এবং ∠2 = 70^{\\circ} হয়, তবে ∠3 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cfedf5fb-1353-4c38-9832-25ff0edcf888",
+    "images": [
+      "images/51899_0.png"
+    ],
+    "english_question": "<image>\nএকটি \"জাতীয় সভ্য শহর\" তৈরির প্রক্রিয়ায়, গার্ডেন সাইন ব্যুরো লিবারেশন পার্কে একটি বড় ফুলের প্রদর্শনীর আয়োজন করে। একটি উদ্যানপালন কোম্পানি \"টিউলিপ\" ফুলগুলোকে একটি হীরকাকৃতি বা ডায়মন্ড প্যাটার্নে সাজিয়েছে (প্রতিটি ছোট কালো বিন্দু একটি টিউলিপের টব নির্দেশ করে)। পঞ্চম প্যাটার্নে কতগুলো টিউলিপের টব সাজানো হয়েছিল?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2e047e9e-1eae-4a61-ae49-62aa4235e37f",
+    "images": [
+      "images/19499_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2006•সুঝৌ), চতুর্ভুজ ABCD চারটি সর্বসম সমদ্বিবাহু ট্রাপিজিয়াম দ্বারা গঠিত। ডিগ্রি এককে কোণ A-এর পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d810299a-4c23-4cff-a415-8c6710f10d7b",
+    "images": [
+      "images/25325_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, কোণ C একটি সমকোণ, CA = 4, CB = 3। ত্রিভুজ ABC-এর অন্তর্বৃত্ত CA এবং CB বাহুকে যথাক্রমে D এবং E বিন্দুতে ছেদ করে। P বিন্দুটি ছায়াবৃত অঞ্চলের (সীমানা ব্যতীত) অভ্যন্তরে একটি বিন্দু। যদি \\( \\overrightarrow{CP} = x \\overrightarrow{CD} + y \\overrightarrow{CE} \\) হয়, তবে \\( x + y \\)-এর মান কত হতে পারে? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 4\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1feffba8-fd76-4014-977d-02bc991d1b7d",
+    "images": [
+      "images/21961_0.png"
+    ],
+    "english_question": "<image>\nবিদ্যালয়ের একটি লন আছে, যা চিত্রে দেখানো হয়েছে। বর্গমিটারে এই লনটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "acb31d90-a443-452c-b4de-76fa782c8850",
+    "images": [
+      "images/114_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি আয়তাকার কাগজ, যেখানে AB = 10 এবং AD = 6। কাগজটিকে এমনভাবে ভাঁজ করা হলো যেন AD বাহু AB বাহুর উপর পড়ে এবং একটি ভাঁজ AE তৈরি হয়। এরপর ত্রিভুজ AED-কে DE বরাবর ডানদিকে ভাঁজ করা হলো এবং AE, BC-কে F বিন্দুতে ছেদ করে। ত্রিভুজ CEF-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fbcef015-1399-4049-9aaf-1e726d0143c7",
+    "images": [
+      "images/72647_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-তে, BC সমান্তরাল AD, AB = CD, BE = DF। চিত্রে সর্বসম ত্রিভুজের সংখ্যা কত? ( )\n\nOptions:\nক) 5\nখ) 6\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60480d13-423a-44a8-b666-280938f4176a",
+    "images": [
+      "images/41253_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি 12টি সমান ত্রিভুজ দ্বারা গঠিত। এই চিত্রটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f20b19cd-585e-4bfc-9597-ed4bf931114b",
+    "images": [
+      "images/38429_0.png"
+    ],
+    "english_question": "<image>\nএকটি দেয়াল ব্যবহার করে একটি ট্রাপিজিয়াম আকৃতির সবজির বাগান বেড়া দিয়ে ঘেরা হয়েছে (চিত্রে দেখানো হয়েছে) এবং বেড়ার মোট দৈর্ঘ্য 60 মিটার। এই সবজির বাগানের ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08cb9852-3669-4dc9-88ce-18f1b7c70aff",
+    "images": [
+      "images/15110_0.png"
+    ],
+    "english_question": "<image>\nএকটি বড় সামান্তরিককে চিত্রে প্রদর্শিত উপায়ে নয়টি ছোট সামান্তরিকে বিভক্ত করা হয়েছে এবং শুধুমাত্র ① চিহ্নিত ছোট সামান্তরিকটি একটি রম্বস। শর্ত পূরণকারী সকল বিভাজনের ক্ষেত্রে, যদি নয়টি ছোট সামান্তরিকের মধ্যে n সংখ্যক সামান্তরিকের পরিসীমা জানা থাকে, তবে তা নিশ্চিতভাবে বড় সামান্তরিকটির পরিসীমা নির্ণয়ে ব্যবহার করা যায়। n-এর সর্বনিম্ন মান কত?\nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79b5556f-3005-4048-ad37-56509038827d",
+    "images": [
+      "images/53170_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ⊙I বৃত্তটি ত্রিভুজ ABC এর অন্তর্বৃত্ত, যা AB, BC, এবং CA বাহুকে যথাক্রমে D, E, এবং F বিন্দুতে স্পর্শ করে। বিন্দু G, চাপ DE এর উপর অবস্থিত। রেখা MN, AB এবং AC কে যথাক্রমে P এবং H বিন্দুতে ছেদ করে, যেখানে ∠BPN=60° এবং ∠AHM=140°। ∠DGF এর মান নির্ণয় করো।\n\nOptions:\nক) 50°\nখ) 60°\nগ) 40°\nঘ) 80°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ebe7be8a-4e14-4ba7-8b65-2b6d20400ada",
+    "images": [
+      "images/66577_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রবিশিষ্ট BAC অর্ধবৃত্তে, OD ⊥ AB এবং OE ⊥ AC। দেওয়া আছে, DE = AB = 2। π এর মাধ্যমে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b9176a24-fcd6-4594-a874-675acec02661",
+    "images": [
+      "images/64340_0.png"
+    ],
+    "english_question": "<image>\nএকটি ভবনের চূড়ায় একটি বিলবোর্ড CD আছে। A এবং B দুইজন ব্যক্তি 8 মিটার দূরত্বে অবস্থান করছে। তারা D এবং C বিন্দুর উন্নতি কোণ যথাক্রমে 45° এবং 60° পরিমাপ করল। A, B এবং E বিন্দুগুলো একই সরলরেখায় অবস্থিত এবং BE দূরত্ব 15 মিটার। বিলবোর্ডের উচ্চতা নির্ণয় করো। (√3 ≈ 1.73 ব্যবহার করো, ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করো)\nOptions:\nd. (Use $\\sqrt{3} \\approx 1.73$, round the result to the nearest integer)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17f9530b-d57a-4778-8ee2-86e67e474a5c",
+    "images": [
+      "images/52858_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজের সংখ্যা হলো ( )\n\nOptions:\nক) 16\nখ) l9\nগ) 20\nঘ) 22",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

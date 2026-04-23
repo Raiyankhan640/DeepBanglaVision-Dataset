@@ -1,0 +1,302 @@
+[
+  {
+    "id": "dbd3a7aa-816b-4b18-b9c5-4191d89913b2",
+    "images": [
+      "images/46309_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন বিবৃতিটি ভুল?\nক. OA-এর দিক উত্তর-পূর্ব।\nখ. OB-এর দিক উত্তর থেকে 60° পশ্চিমে।\nগ. OC-এর দিক দক্ষিণ থেকে 60° পশ্চিমে।\nঘ. OD-এর দিক দক্ষিণ থেকে 60° পূর্বে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc2fb774-539b-4c9d-a917-24b6ef0083b2",
+    "images": [
+      "images/11996_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন যুক্তিটি সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c333c1bf-03c8-4489-be61-0f310d478059",
+    "images": [
+      "images/48972_0.png"
+    ],
+    "english_question": "<image>\n2004 সালে চাকরি হারানোর পর তাইজৌয়ের লি জিয়াওটং নামের এক ব্যক্তি গ্রিনহাউসে সবজি চাষের ব্যবসা শুরু করতে চাইলেন। তাকে চিত্রে প্রদর্শিত একটি চারাগাছের গ্রিনহাউস তৈরি করতে হবে, যার প্রস্থ a = 3 মিটার, গ্রিনহাউসের ছাদ ও ভূমির মধ্যবর্তী কোণ প্রায় 25° এবং দৈর্ঘ্য b = 9 মিটার। ছাদটি ঢেকে রাখার জন্য প্রয়োজনীয় প্লাস্টিক ফিল্মের সর্বনিম্ন ক্ষেত্রফল কত বর্গমিটার? (ক্যালকুলেটর ব্যবহার করে ফলাফল 1 বর্গমিটার পর্যন্ত সঠিক করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e73de9b-f337-4c86-aa07-785a787ee18f",
+    "images": [
+      "images/13557_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015 বসন্ত • বিনহু ডিস্ট্রিক্ট স্কুল-লেভেল মাসিক পরীক্ষা), চতুর্ভুজ ABCD একটি আয়তক্ষেত্র, বিন্দু E রেখাংশ CB-এর বর্ধিতাংশের ওপর অবস্থিত, DE রেখাংশ AB-কে F বিন্দুতে ছেদ করে এবং ∠AED = 2∠ADE। বিন্দু G হলো DF-এর মধ্যবিন্দু। দেওয়া আছে BE = 1 এবং AG = 3, তবে AB-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73657578-c867-430b-9479-8e78e0d7efa5",
+    "images": [
+      "images/27136_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর মধ্যে কোনটি অক্ষীয় প্রতিসম (axisymmetric) চিত্র? ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0239987d-0092-4360-b0cc-b57b2ff2e64b",
+    "images": [
+      "images/11118_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস, যেখানে O হলো AB-এর মধ্যবিন্দু। C এবং D বিন্দু দুটি AB চাপের উপর অবস্থিত এবং AD ∥ OC। BC এবং BD যোগ করি। যদি কোণ CD-এর পরিমাপ 63° হয়, তবে কোণ AD-এর পরিমাপ নির্ণয় করো।\nOptions:\nB) Points C and D are on arc AB, and AD is parallel to OC) Connect BC and BD) If the angle CD measures 63°, find the measure of angle AD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dda32495-7c67-4bc9-acb5-52a8a1d1fe82",
+    "images": [
+      "images/58693_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, P বিন্দুটি ∠AOB এর সমদ্বিখণ্ডকের ওপর অবস্থিত। CD রেখাটি OP এর ওপর F বিন্দুতে লম্ব এবং OA ও OB কে যথাক্রমে C ও D বিন্দুতে ছেদ করে। তাহলে, CD ( ) ∠AOB এর দুই বাহু থেকে P বিন্দুর দূরত্বের সমষ্টি।\n\nOptions:\nক) Less than\nখ) Greater than\nগ) Equal to\nঘ) Cannot be determined",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "830dbaeb-c958-43e5-af80-9ee14720aa1f",
+    "images": [
+      "images/42855_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় c এবং d রেখাদ্বয়ের সাথে ছেদ করেছে। যদি ∠1 = ∠2 এবং ∠3 = 70° হয়, তবে ∠4 এর মান কত?\n\nOptions:\nক) 35°\nখ) 70°\nগ) 90°\nঘ) 110°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d28e624c-17e6-4a82-918a-8e30dfaa7ee0",
+    "images": [
+      "images/52469_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, E, F, G এবং H বিন্দুগুলো সামান্তরিক ABCD-এর বাহুগুলোর মধ্যবিন্দু। চিত্রে কোন ভেক্টরগুলো GH ভেক্টরের সমান?\n\nOptions:\nক) 6\nখ) 5\nগ) 4\nঘ) 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7de7b090-1385-44a3-a795-3d7794ae1545",
+    "images": [
+      "images/36603_0.png"
+    ],
+    "english_question": "<image>\nএকটি ঘনকের দুটি কোণা কেটে ফেলার পর প্রাপ্ত জ্যামিতিক আকৃতির সম্মুখ দৃশ্য এবং পার্শ্ব দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক আকৃতির ওপরের দৃশ্য (top view) কেমন হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "255160f6-b05b-432c-ae8b-60a8bac21b13",
+    "images": [
+      "images/21571_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের প্রোগ্রাম ফ্লোচার্ট অনুযায়ী, আউটপুট ফলাফল [-1, 0] ব্যবধিতে থাকার জন্য ইনপুট x-এর সীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a60402f4-be11-425c-ac14-52af990b3919",
+    "images": [
+      "images/28820_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত 4x4 গ্রিডে, গ্রিড বিন্দুগুলোকে শীর্ষবিন্দু হিসেবে ব্যবহার করে কতগুলো বর্গক্ষেত্র গঠন করা সম্ভব?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6b15891-ff2e-4119-8310-a30b5d365c78",
+    "images": [
+      "images/31311_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ABCD একটি সামান্তরিক। CD ভূমি হলে সামান্তরিকটির উচ্চতা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3d1fccf2-cd41-45d1-a21c-8ec7e9b6e259",
+    "images": [
+      "images/58018_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে ত্রিভুজের সংখ্যা হলো ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "171d70f0-4b03-4c00-bc5f-42c70e57da73",
+    "images": [
+      "images/66006_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB ∥ EF ∥ CD, ∠ABC = 90°, AB = DC হলে, চিত্রে সর্বসম ত্রিভুজের সংখ্যা কত? ( ) \nক. 4 জোড়া \nখ. 3 জোড়া \nগ. 2 জোড়া \nঘ. 1 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1873df2a-7544-4edb-b639-6a9e65973bc7",
+    "images": [
+      "images/28486_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্রের বাহুর দৈর্ঘ্য √2a হলে, ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d74bcd07-1e32-4948-aa4d-942217d4e2f1",
+    "images": [
+      "images/38427_0.png"
+    ],
+    "english_question": "<image>\nগ্রিডে, AB বাহু বিশিষ্ট একটি সমকোণী ত্রিভুজ ABC গঠন করো, যেখানে বিন্দু C-কেও একটি গ্রিড বিন্দু হতে হবে। কতগুলো এমন সমকোণী ত্রিভুজ গঠন করা সম্ভব? ( )\n\nOptions:\nক) 3\nখ) 4\nগ) 5\nঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5dbc5245-90e5-45bf-a912-ac57cb74dafd",
+    "images": [
+      "images/12741_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তে ABCD একটি বৃত্তস্থ চতুর্ভুজ, যেখানে BC = DC এবং ∠BOC = 130°। ∠BAD এর মান কত ডিগ্রি?\n\nOptions:\nক) 120°\nখ) 130°\nগ) 140°\nঘ) 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71ad7d88-669d-4e4e-9234-6ea188bb7f58",
+    "images": [
+      "images/66481_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল। যদি ∠1 = 30° এবং ∠2 = 45° হয়, তবে ∠3-এর মান কত?\n\nOptions:\nক) \\(75^{\\circ}\\)\nখ) \\(80^{\\circ}\\)\nগ) \\(85^{\\circ}\\)\nঘ) \\(105^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b5708a4d-3638-41fa-a4b8-5d41ecf08ac3",
+    "images": [
+      "images/49813_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O বিন্দুটি ABCD বর্গক্ষেত্রের কেন্দ্র। BE রেখাটি DBC কোণকে সমদ্বিখণ্ডিত করে এবং DC রেখাকে E বিন্দুতে ছেদ করে। BC রেখাকে F বিন্দু পর্যন্ত এমনভাবে বর্ধিত করা হলো যেন FC = EC হয়। DF যোগ করা হলো, যা BE-এর বর্ধিতাংশকে H বিন্দুতে ছেদ করে। OH যোগ করা হলো, যা DC-কে G বিন্দুতে ছেদ করে এবং HC যোগ করা হলো। নিচের চারটি সিদ্ধান্তের মধ্যে সঠিক সিদ্ধান্তের সংখ্যা কত ( ) \n① OH = \\( \\frac{1}{2} \\) BF; ② \\( \\angle CHF = 45^\\circ \\); ③ GH = \\( \\frac{1}{4} \\) BC; ④ DH = HE \\cdot HB\n\nOptions:\nক) 1 correct\nখ) 2 correct\nগ) 3 correct\nঘ) 4 correct",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

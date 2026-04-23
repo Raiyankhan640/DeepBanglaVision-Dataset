@@ -1,0 +1,302 @@
+[
+  {
+    "id": "99471f87-0e23-4956-835a-c63c54a0401e",
+    "images": [
+      "images/69969_0.png"
+    ],
+    "english_question": "<image>\n2008 সালে, জিলিন গোল লিগে, চিত্রে দেখানো অনুযায়ী একটি ভবনের উপরে একটি বিলবোর্ড CD রয়েছে। A এবং B নামক দুইজন ব্যক্তি 8 মিটার দূরত্বে অবস্থান করে যথাক্রমে D এবং C বিন্দুর উন্নতি কোণ পরিমাপ করেন, যা 45° এবং 60°। A, B এবং E বিন্দুগুলো সমরেখ এবং BE = 15 মিটার। বিলবোর্ডের উচ্চতা নির্ণয় করো। (ধরি, √3 ≈ 1.73 এবং ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করো)।\nOptions:\nd. (Take \\( \\sqrt{3} \\approx 1.73 \\) and round the result to the nearest integer).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4cd876b8-96d1-4545-b339-d3cbbeccc514",
+    "images": [
+      "images/2808_0.png"
+    ],
+    "english_question": "<image>\nনিচে প্রদর্শিত চিত্রগুলোতে কিছু কাগজের বাক্স দেখানো হয়েছে যা একটি ঘনক খুলে তৈরি করা হয়েছে (সংযুক্ত বর্গক্ষেত্রগুলো কাটা হয়নি)। কোন আকৃতিটি একটি ঘনক খুলে তৈরি করা সম্ভব নয়? অনুগ্রহ করে উপরের সংশ্লিষ্ট সংখ্যাটি লিখুন।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da5905ea-d32f-42ca-aefa-7ad7e1689f80",
+    "images": [
+      "images/14287_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজ ABCD-তে কর্ণ AC-র সাপেক্ষে AB বাহু AD বাহুর প্রতিসম। কোন সিদ্ধান্তটি অবশ্যই সঠিক? (ক) AB = CD (খ) ∠ABC = ∠ADC (গ) AC ⊥ BD (ঘ) AC হলো BD-র লম্ব সমদ্বিখণ্ডক।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b2a11d41-b80e-4287-8ed5-58e4a11cb50e",
+    "images": [
+      "images/23507_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে ত্রিভুজের সংখ্যা হলো (__)\n\nOptions:\nক) 16\nখ) 19\nগ) 20\nঘ) 22",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fca1ecb2-2ad2-411b-bb2f-f57ffe51af35",
+    "images": [
+      "images/11086_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: সামান্তরিকটির ক্ষেত্রফল 25 বর্গ সেন্টিমিটার হলে, ডানদিকের ত্রিভুজটির ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c46845b7-77ec-4b4c-a055-b31d2be8e93b",
+    "images": [
+      "images/48198_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দুটি বৃত্তের জ্যা যথাক্রমে AB এবং CD এবং AC ও BD হলো সাধারণ স্পর্শক যা P বিন্দুতে ছেদ করে। যদি PC = 2, CD = 3 এবং DB = 6 হয়, তবে ত্রিভুজ PAB-এর পরিসীমা কত?\n\nOptions:\nক) 6\nখ) 9\nগ) 12\nঘ) 14",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0a4b31cb-25a8-4382-8ae9-060ef9888bba",
+    "images": [
+      "images/65926_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমান বাহুবিশিষ্ট ছোট বর্গক্ষেত্রের গ্রিডে, A, B, C এবং D বিন্দুগুলো এই ছোট বর্গক্ষেত্রগুলোর শীর্ষবিন্দুতে অবস্থিত। AB এবং CD রেখাংশদ্বয় P বিন্দুতে ছেদ করে। তাহলে, AP/PB = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5ac1f425-f609-4b57-98a8-615ab068113b",
+    "images": [
+      "images/61714_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে ∠α এর অবস্থান চিত্রে দেখানো হয়েছে। tan α এর মান কত?\nক. 3\nখ. 5\nগ. 1/2\nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4e0814f4-c7dd-460e-8bbe-eeed6c266c3c",
+    "images": [
+      "images/19173_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তক্ষেত্রের বাহু AB = 3 এবং BC = 4। E এবং F বিন্দু দুটি যথাক্রমে AB এবং BC বাহুর ওপর চলমান বিন্দু। যখন ত্রিভুজ BEF-কে EF রেখা বরাবর ভাঁজ করে ত্রিভুজ B'EF তৈরি করা হয়, তখন AB' রেখাংশের সর্বনিম্ন মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41e9294e-3ffd-41d5-b3fb-c9b0a22e56c1",
+    "images": [
+      "images/37174_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, P বিন্দুটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর উপরের ভূমি AD-এর উপর অবস্থিত একটি বিন্দু। যদি ∠A = ∠BPC হয়, তবে চিত্রে △ABP-এর সদৃশ ত্রিভুজগুলো হলো ( )\n\nOptions (copied from English):\nক. △PCB and △DPC\n△PCB\n△DPC\nঘ. None",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "568a0d2c-989d-458b-95c1-7498db20c3eb",
+    "images": [
+      "images/66810_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1) একটি অর্ধেক খোলা অফিসের দরজার ছবি, যেখানে দরজার ফ্রেমটি দেয়ালের মাঝখানে বসানো এবং দরজাটি ভেতরের দিকে খোলে। চিত্র (2) এর একটি প্রস্থচ্ছেদ প্রদর্শন করে। ড্যাশ লাইনগুলো দুটি পরিস্থিতি নির্দেশ করে: যখন দরজাটি সম্পূর্ণ বন্ধ থাকে এবং যখন এটি সর্বোচ্চ খোলা থাকে (দেয়ালের কোণায় বাধা পাওয়ার কারণে এটি আর খোলা যায় না), সেই বিন্দুতে দুটির মধ্যবর্তী কোণ 120°। ভেতর থেকে, দরজার ফ্রেমের উন্মুক্ত প্রস্থ 4 সেমি। উন্মুক্ত দেয়ালের পুরুত্ব $a$ নির্ণয় করো। (ধরি, দরজাটি যেকোনো কোণে দরজার ফ্রেমের সাথে মিশে থাকে। 0.1 সেমি পর্যন্ত সঠিক, $\\sqrt{3} \\approx 1.73$)।\nOptions:\nd. Figure (2) depicts a cross-section of it. The dashed lines represent two situations: when the door is completely closed and when it is opened to the maximum extent (due to being obstructed by the corner of the wall, it cannot open further), at which point the angle between the two is 120°. From the inside, the exposed width of the door frame is 4 cm. Find the thickness of the exposed wall a. (Assuming that the door is seamless with the door frame at any angle. Accurate to 0.1 cm, $\\sqrt{3}$ ≈ 1.73).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "717c7173-d815-4973-94df-6bc0235353c2",
+    "images": [
+      "images/16901_0.png"
+    ],
+    "english_question": "<image>\nx-অক্ষের ওপর A ও B বিন্দু দেওয়া আছে। M এমন একটি বিন্দু যেন ∠AMB = 90°, |MA| = 6, |MB| = 8। ABCD ক্ষেত্রে |BC| = 3 এবং |AD| ≤ |BC| হলে, সেই সীমানা রেখার সমীকরণ নির্ণয় করো যেখানে বিন্দুগুলো MA ও MB পথের মাধ্যমে M থেকে সমদূরবর্তী (অর্থাৎ |PA| + |MA| = |PB| + |MB|)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79c48825-578f-42dc-8dfe-79a86e9bd5ef",
+    "images": [
+      "images/50986_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আকৃতির ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b648478e-ad4a-4122-aedd-31d1837298e5",
+    "images": [
+      "images/63345_0.png"
+    ],
+    "english_question": "<image>\nনীচের চিত্রটির ক্ষেত্রফল গণনা করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d2ad029-dafc-4ff3-9de2-7da23ddef6af",
+    "images": [
+      "images/31742_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1)-এ, চতুর্ভুজ ABCD একটি সমদ্বিবাহু ট্রাপিজিয়াম, যেখানে AB, CD-এর সমান্তরাল। চিত্র (2)-এ দেখানো সামান্তরিকটি গঠন করতে এই রকম চারটি সমদ্বিবাহু ট্রাপিজিয়াম একত্রিত করা যায়। সুতরাং, ট্রাপিজিয়াম ABCD-তে, ∠A = ডিগ্রি।\nOptions:\nD) Four such isosceles trapezoids can be combined to form the parallelogram shown in figure (2). Therefore, in trapezoid ABCD, ∠A = degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a55d11c3-8834-42a5-8b75-638553c9f9cd",
+    "images": [
+      "images/44694_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত O-তে ABCD একটি অন্তর্লিখিত চতুর্ভুজ। BC বাহুকে E পর্যন্ত বর্ধিত করা হলো। যদি ∠BCD : ∠ECD = 3 : 2 হয়, তবে ∠BOD এর মান কত?\n\nOptions:\nক) 120°\nখ) 136°\nগ) 144°\nঘ) 150°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "58441d24-737d-4f78-a93b-5cb99c1d187f",
+    "images": [
+      "images/11863_0.png"
+    ],
+    "english_question": "<image>\nযদি কোণ AOB-এর পরিমাপ 100 ডিগ্রি হয়, তবে কোণ AOC-এর পরিমাপ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe805680-dbb1-4974-9441-87749e4d3903",
+    "images": [
+      "images/18236_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে AB = CB এবং BO ⊥ AC, ত্রিভুজ ABC-কে এমনভাবে ভাঁজ করা হলো যেন AB, AC-এর সাথে মিলে যায় এবং B বিন্দু AC-এর E বিন্দুতে পতিত হয়। খোলার পর, ভাঁজের রেখা AD, BO-কে F বিন্দুতে ছেদ করে এবং DE ও EF যুক্ত করা হলো। নিচের সিদ্ধান্তগুলো নেওয়া হলো: ① চিত্রে 4 জোড়া সর্বসম ত্রিভুজ আছে; ② যদি ত্রিভুজ DEF-কে EF বরাবর ভাঁজ করা হয়, তবে D বিন্দু অবশ্যই AC-এর উপর পড়বে না; ③ BD = BF; ④ চতুর্ভুজ DFOE-এর ক্ষেত্রফল ত্রিভুজ AOF-এর ক্ষেত্রফলের সমান। উপরের সঠিক সিদ্ধান্তের সংখ্যা হলো ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c526da50-a331-41b3-a05d-2d4c446ed485",
+    "images": [
+      "images/13963_0.png"
+    ],
+    "english_question": "<image>\nএকটি ব্যবহারিক ক্লাসে, শিয়াও কং-এর দলকে একটি নদীর প্রস্থ পরিমাপ করতে হবে। চিত্র অনুযায়ী, নদীর তীর হলো EF এবং MN। শিয়াও কং নদীর তীর MN-এর A বিন্দুতে একটি থিওডোলাইট ব্যবহার করে দেখলেন যে বিপরীত তীরের ছোট গাছ C উত্তর-পূর্ব দিকে অবস্থিত। এরপর, তিনি নদীর তীর বরাবর 30 মিটার হেঁটে B বিন্দুতে পৌঁছালেন এবং পরিমাপ করে দেখলেন যে বিপরীত তীরের বৈদ্যুতিক খুঁটি D উত্তর-পূর্ব 30 ডিগ্রি কোণে অবস্থিত। এসময়, অন্য সহপাঠীরা পরিমাপ করল CD = 10 মিটার। এই তথ্যের ভিত্তিতে, নদীর প্রস্থ কত মিটার তা নির্ণয় করো। (ফলাফল বর্গমূল আকারে রাখতে হবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5ecc4734-2fb6-4096-910f-34a50e0d1eea",
+    "images": [
+      "images/22468_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, নিচের কোন শর্তটি রেখা a এবং b এর মধ্যে সম্পর্ক নির্ণয় করতে পারে না?\nক. ∠2=∠3\nখ. ∠1=∠3\nগ. ∠4=∠5\nঘ. ∠2+∠4=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

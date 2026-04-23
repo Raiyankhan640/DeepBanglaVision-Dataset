@@ -1,0 +1,342 @@
+[
+  {
+    "id": "61bcf23b-e413-4c91-bb05-bcc4c2066ae7",
+    "images": [
+      "images/62768_0.png"
+    ],
+    "english_question": "<image>\nনিচের বর্গক্ষেত্রগুলোতে একই নিয়ম অনুসরণ করে চারটি সংখ্যা বসানো হয়েছে। m এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec2f987d-21a0-422b-8180-990a4e8e93f4",
+    "images": [
+      "images/72019_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, বর্গক্ষেত্র ABCD-এর অবস্থান চিত্রে দেখানো হয়েছে। বিন্দু A-এর স্থানাঙ্ক (1, 0) এবং বিন্দু D-এর স্থানাঙ্ক (0, 2)। রেখা CB-কে বর্ধিত করলে তা x-অক্ষকে বিন্দু A_1-এ ছেদ করে। বর্গক্ষেত্র A_1B_1C_1C গঠন করা হলো এবং রেখা C_1B_1-কে বর্ধিত করলে তা x-অক্ষকে বিন্দু A_2-এ ছেদ করে। বর্গক্ষেত্র A_2B_2C_2C_1 গঠন করা হলো এবং এই ধারা অব্যাহত থাকলে, 2012-তম বর্গক্ষেত্রের ক্ষেত্রফল কত?\n\nOptions:\nক) $5\\bullet(\\frac32)^{2010}$\nখ) $5{\\bullet}(\\frac94)^{2010}$\nগ) $5{\\bullet}(\\frac94)^{2012}$\nঘ) $5^{\\bullet}(\\frac32)^{4022}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "46ddc148-17f7-4fc5-8dd8-14852874815a",
+    "images": [
+      "images/54084_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস, এবং C ও D বিন্দু দুটি অর্ধবৃত্তটিকে তিন সমান ভাগে বিভক্ত করে। যদি জ্যা CD = 2 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c593a9dd-a8cf-4270-a9d8-09799db3250b",
+    "images": [
+      "images/28485_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 5 × 5 গ্রিডের গ্রিড পয়েন্টগুলোতে (যেখানে প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 একক) ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দু অবস্থিত। যখন ত্রিভুজ ABC-কে C বিন্দুর সাপেক্ষে ঘড়ির কাঁটার দিকে ঘুরিয়ে ত্রিভুজ A'B'C অবস্থানে আনা হয় এবং A' ও B' বিন্দুগুলো গ্রিড পয়েন্টেই থাকে, তখন AC রেখাংশ দ্বারা সৃষ্ট সেক্টরের ভূমির ব্যাসার্ধ কত একক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "96060611-b4d6-47dc-9af1-c576fe6b570c",
+    "images": [
+      "images/41507_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির আয়তন কত? ( ) \nক. \\( \\frac{1}{3} + \\pi \\) \nখ. \\( \\frac{2}{3} + \\pi \\) \nগ. \\( \\frac{1}{3} + 2\\pi \\) \nঘ. \\( \\frac{2}{3} + 2\\pi \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd9de0a0-c796-439c-b276-725f2272484e",
+    "images": [
+      "images/16449_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, রম্বস ABCD-কে কর্ণ AC বরাবর A'B'C'D' অবস্থানে সরালে, উপরিপাতিত অংশের (ছায়াবৃত অংশ) ক্ষেত্রফল রম্বস ABCD-এর ক্ষেত্রফলের অর্ধেক হয়। যদি AC = √2 হয়, তবে AA'-এর দূরত্ব কত?\n\nOptions:\nক) 1\nখ) \\(\\sqrt{2} - 1\\)\nগ) \\(\\frac{\\sqrt{2}}{2}\\)\nঘ) \\(\\frac{1}{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "38c38c8d-a3bb-47bc-b239-a16fb4cd0a52",
+    "images": [
+      "images/15034_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 2 একক ব্যাসার্ধবিশিষ্ট একটি বৃত্তকে চারটি চাপে বিভক্ত করা হয়েছে এবং এই চারটি চাপকে সাজিয়ে একটি তারার আকৃতি তৈরি করা হয়েছে। মূল বৃত্তের ক্ষেত্রফলের সাথে এই আকৃতির ক্ষেত্রফলের অনুপাত কত?\n\nOptions:\nক) $ \\frac {4-\\pi}{\\pi }$\nখ) $ \\frac { \\sqrt {2}}{\\pi }$\nগ) $ \\frac {\\pi-1}{\\pi }$\nঘ) $ \\frac {3}{\\pi }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fc1192d9-196b-4793-a5c1-7fa0b0df2974",
+    "images": [
+      "images/33231_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রটির ক্ষেত্রফল নির্ণয় করো:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ed45dd1a-92f1-47dc-98fd-15d50bc4ba57",
+    "images": [
+      "images/13402_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজ ABC-তে, কোণ C হলো 90°, AB = 5 সেমি, BC = 3 সেমি। একটি বিন্দু P, বিন্দু C থেকে যাত্রা শুরু করে C → A → B → C পথে 1 সেমি/সেকেন্ড বেগে চলে। যদি বিন্দু P কোণ BAC-এর সমদ্বিখণ্ডকের উপর অবস্থিত হয়, তবে t-এর মান নির্ণয় করো।\nOptions:\nd. If point P is exactly on the angle bisector of angle BAC, find the value of t.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "01c75759-ff58-46da-ad29-ee1c5c30e5d5",
+    "images": [
+      "images/55502_0.png"
+    ],
+    "english_question": "<image>\nO বৃত্তে, P হলো AB জ্যা-এর মধ্যবিন্দু এবং CD হলো একটি ব্যাস যা P বিন্দুগামী। নিচের পাঁচটি সিদ্ধান্ত দেওয়া হলো: ① AB ⊥ CD; ② ∠AOB = 4∠ACD; ③ ⌒AB = ⌒BD; ④ PO = PD; ⑤ AC² + AD² = CD²। সঠিক সিদ্ধান্তগুলোর নম্বর শূন্যস্থানে লেখো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "62771c41-9bc1-4a68-b77c-5f2d3e063f1f",
+    "images": [
+      "images/43184_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OABC আয়তক্ষেত্রটি MON বৃত্তকলায় অন্তর্লিখিত। যখন CN = CO, তখন ∠NMB-এর মান কত ডিগ্রি?\n\nOptions:\nক) 45°\nখ) 15°\nগ) 30°\nঘ) 22.5°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e1fb1179-ce90-4976-90fa-40427a16c0cb",
+    "images": [
+      "images/5544_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 8 × 8 বর্গাকার গ্রিড বোর্ডে, দৈবচয়নভাবে একটি পিন ছুড়লে তা ছায়াযুক্ত অংশে পড়ার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3a9da000-7ee9-4fb3-aca5-05ef2ae4c4b8",
+    "images": [
+      "images/67668_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, আয়তক্ষেত্র ABCD-তে, AB=5, AD=12। যদি আয়তক্ষেত্র ABCD-কে চিত্রে দেখানো রেখা l বরাবর দুইবার ঘোরানো হয়, যার ফলে বিন্দু B, বিন্দু B'-তে স্থানান্তরিত হয়, তবে দুইবার ঘোরার সময় বিন্দু B যে পথ অতিক্রম করে তার দৈর্ঘ্য কত?\n\nOptions:\nক) \\(25π\\)\nখ) \\( \\dfrac {25}{4}π\\)\nগ) \\( \\dfrac {25}{2}π\\)\nঘ) \\( \\dfrac {13}{2}π\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9ba0c55-727a-4aef-a2c0-1e658ac6f4e6",
+    "images": [
+      "images/25414_0.png"
+    ],
+    "english_question": "<image>\nএকটি শহরের চত্বরে, একটি ফুলের বাগানকে 6টি অংশে ভাগ করা হয়েছে (ছবিতে দেখানো হয়েছে)। আমরা 4টি ভিন্ন রঙের ফুল লাগাতে চাই, যেখানে প্রতিটি অংশে একটি রঙ থাকবে এবং পাশাপাশি অংশে একই রঙ থাকা যাবে না। কতগুলো ভিন্ন উপায়ে ফুল লাগানো সম্ভব?\n\nOptions:\nক) (96)\nখ) (108)\nগ) (120)\nঘ) (144)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "810ca66e-637f-4bd6-932a-870587a88e2c",
+    "images": [
+      "images/63894_0.png"
+    ],
+    "english_question": "<image>\nনদীর ওপাড়ে অবস্থিত দুটি প্রাচীন মিনার A এবং B-এর মধ্যবর্তী দূরত্ব পরিমাপের জন্য, গণিত ক্লাবের শিক্ষার্থীরা নদীর এপাড়ে AB-এর সমান্তরাল একটি সরলরেখা বরাবর 20m দূরত্বে C এবং D দুটি বিন্দু নিল। তারা ∠ACB=15°, ∠BCD=120° এবং ∠ADC=30° পরিমাপ করল। চিত্রে প্রদর্শিত তথ্য অনুযায়ী প্রাচীন মিনার A এবং B-এর মধ্যবর্তী দূরত্ব নির্ণয় করো।\nOptions:\nখ) They measured ∠ACB=15°, ∠BCD=120°, and ∠ADC=30°. As shown in the figure, find the distance between ancient towers A and খ)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7a3b4d7b-22b1-48d1-82a5-a272417c3ba2",
+    "images": [
+      "images/16593_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, AD হলো উচ্চতা এবং ত্রিভুজ ABC-এর পরিবৃত্তের ব্যাস AE, BC বাহুকে G বিন্দুতে ছেদ করে। চারটি সিদ্ধান্ত দেওয়া হলো: 1) AD² = BD • CD; 2) BE² = EG • AE; 3) AE • AD = AB • AC; 4) AG • EG = BG • CG। সঠিক সিদ্ধান্তের সংখ্যা কত? ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc6ae260-7e3a-4a57-83d4-6cee9bca1349",
+    "images": [
+      "images/44547_0.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু সমকোণী ত্রিভুজ ABC-এ সমকোণী বাহু AB-এর দৈর্ঘ্য 2 সে.মি.। ব্যাস AB বিশিষ্ট একটি অর্ধবৃত্ত অতিভুজ AC-কে বিন্দু D-এ ছেদ করে। চিত্রে ছায়াযুক্ত অঞ্চলের ক্ষেত্রফল কত?\nOptions:\nD) What is the area of the shaded region in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "769ee76f-b55d-4b58-92f4-1885d8d7885d",
+    "images": [
+      "images/triangle_ext_769ee76f-b55d-4b58-92f4-1885d8d7885d.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সূক্ষ্মকোণী ত্রিভুজ ABC-এর AB এবং AC বাহুর উপর উচ্চতা যথাক্রমে CE এবং BF। CE এবং BF বিন্দু D-তে ছেদ করে। চিত্রে সদৃশ ত্রিভুজ জোড়ার সংখ্যা হলো ______।\nOptions:\nD) The number of pairs of similar triangles in the figure is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b39b8f17-f97c-4d48-afe9-0b0eb96b58eb",
+    "images": [
+      "images/9097_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তক্ষেত্রের দীর্ঘ বাহুদ্বয়কে পাঁচটি সমান ভাগে বিভক্ত করা হয়েছে E ও F বিন্দু দ্বারা এবং খাটো বাহুদ্বয়কে তিনটি সমান ভাগে বিভক্ত করা হয়েছে G ও H বিন্দু দ্বারা। E, G, F ও H বিন্দুগুলো ক্রমানুসারে যোগ করে EGHF সামান্তরিকটি পাওয়া যায়। যদি EGHF সামান্তরিকের ক্ষেত্রফল 21 হয়, তবে ABCD আয়তক্ষেত্রের ক্ষেত্রফল কত?\nOptions:\nD) By connecting E, G, F, and H in sequence, we obtain the parallelogram EGHF. Given that the area of parallelogram EGHF is 21, what is the area of rectangle ABCD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d25be887-78be-4a93-b032-1fc58ed8282c",
+    "images": [
+      "images/46821_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD সামান্তরিকের কর্ণ BD, ∠ABD=90°, DE⊥BC, যেখানে E লম্ববিন্দু। M এবং N যথাক্রমে AB এবং DE এর মধ্যবিন্দু, tanC=1/2, এবং ত্রিভুজ BCD এর ক্ষেত্রফল 9 বর্গ সেমি। MN এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

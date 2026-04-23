@@ -1,0 +1,302 @@
+[
+  {
+    "id": "3c55abab-0d75-4474-bd07-8a31eb4f0c50",
+    "images": [
+      "images/47766_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ, G বিন্দুটি BC-এর মধ্যবিন্দু, H বিন্দুটি AF-এর ওপর অবস্থিত এবং P বিন্দুটি চিত্র 1-এর ধার বরাবর 2 সেমি/সেকেন্ড বেগে G → C → D → E → F → H পথে চলছে। ত্রিভুজ ABP-এর ক্ষেত্রফল y (সেমি²) সময় t (সেকেন্ড)-এর একটি ফাংশন হিসেবে চিত্র 2-এ দেখানো হয়েছে। দেওয়া আছে AB = 6 সেমি, তবে নিচের কয়টি সিদ্ধান্ত সঠিক:\n1. BC-এর দৈর্ঘ্য 8 সেমি।\n2. চিত্র 2-এর M বিন্দুটি t = 4 সেকেন্ডে y = 24 সেমি² নির্দেশ করে।\n3. CD-এর দৈর্ঘ্য 4 সেমি।\n4. চিত্র 2-এর N বিন্দুটি t = 12 সেকেন্ডে y = 18 সেমি² নির্দেশ করে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "faa1f14b-1cf0-4805-88eb-4aec3849e726",
+    "images": [
+      "images/43445_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি সুষম পঞ্চভুজের প্রতিসাম্য রেখা l-এর উপর এমন একটি বিন্দু P নির্ণয় করো, যাতে ত্রিভুজ PCD এবং ত্রিভুজ PDE উভয়ই সমদ্বিবাহু ত্রিভুজ হয়। এই শর্ত পূরণকারী বিন্দু P-এর সংখ্যা কত? ( ) \nক. 4 \nখ. 5 \nগ. 6 \nঘ. 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "25e474e5-6359-411c-a21d-ae15eb56a5ee",
+    "images": [
+      "images/53411_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র ABCD-তে, যেখানে AB=1, বিন্দু P কর্ণ AC-এর উপর অবস্থিত। কর্ণ AP এবং PC-এর উপর বর্গক্ষেত্র অঙ্কন করা হলো। ছোট বর্গক্ষেত্র দুটির পরিসীমার সমষ্টি কত?\nOptions:\nC) Squares are constructed on diagonals AP and PC) What is the sum of the perimeters of the two small squares?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f0bf09d-c4ac-4d29-bb28-ba7fbf0f5196",
+    "images": [
+      "images/39485_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত: PD ⊥ AB, PE ⊥ AC, লম্বের পাদবিন্দুদ্বয় যথাক্রমে D এবং E, এবং AP, ∠BAC-কে সমদ্বিখণ্ডিত করে। ΔAPD ≅ ΔAPE হওয়ার কারণ হলো (___)\n\nOptions:\nক) SAS__\nখ) HL__\nগ) SSS__\nঘ) AAS",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9c2dd3b4-1d2d-4210-aed8-17d648a68c11",
+    "images": [
+      "images/25141_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর ক্ষেত্রফল 30 এবং ত্রিভুজ ADF-এর ক্ষেত্রফল 9। ত্রিভুজ ABE-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e74cfd89-f753-4a7f-aaf3-3aaae3c85bad",
+    "images": [
+      "images/6951_0.png"
+    ],
+    "english_question": "<image>\n5 × 5 বর্গ গ্রিডে, একটি বৃত্তচাপ A, B এবং C বিন্দু দিয়ে অতিক্রম করে। বৃত্তটির কেন্দ্র কোনটি? ( ) \nক. P বিন্দু \nখ. Q বিন্দু \nগ. R বিন্দু \nঘ. M বিন্দু",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "617a113b-e237-41f3-9788-669eb43aefe3",
+    "images": [
+      "images/34599_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, A এবং B বিন্দু যথাক্রমে x-অক্ষ এবং y-অক্ষের ওপর অবস্থিত, যেখানে A বিন্দুর স্থানাঙ্ক (-2, 0)। দেওয়া আছে যে ∠ABO = 30°, PQ রেখাংশের প্রান্তবিন্দু P, O বিন্দু থেকে যাত্রা শুরু করে O → B → A → O ক্রমে ত্রিভুজ OBA-এর বাহু বরাবর ঘোরে। ইতিমধ্যে, অন্য প্রান্তবিন্দু Q, x-অক্ষের অ-ঋণাত্মক অর্ধ-অক্ষ বরাবর ঘোরে। যদি PQ = 2√3 হয়, তবে P বিন্দুটি এক পূর্ণ চক্র সম্পন্ন করলে Q বিন্দু দ্বারা অতিক্রান্ত মোট দূরত্ব কত?\n\nOptions:\nক) 4 \\sqrt{3}\nখ) 6\nগ) 6 \\sqrt{3}\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52fdfb24-6ea3-4c4f-a8c2-0863ea1c5ba5",
+    "images": [
+      "images/19962_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, O এবং B বিন্দুগুলো একই সরলরেখায় অবস্থিত। যদি $∠1=35^{\\circ}$ হয়, তবে রশ্মি OB যে দিকটি নির্দেশ করে তা হলো দক্ষিণ-পশ্চিম ______ ডিগ্রি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c7c7a7c4-cb7d-4fac-a076-6ff2fb79ccb8",
+    "images": [
+      "images/59083_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ট্রাপিজিয়াম ABCD-তে, AD = 3 সেমি, AB = 4 সেমি, BC = 6 সেমি। BE রেখাটি ট্রাপিজিয়ামটিকে সমান ক্ষেত্রফলবিশিষ্ট দুটি অংশে বিভক্ত করে। DE-এর দৈর্ঘ্য কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4db5fc80-b4cc-4184-83c1-d778b07dec43",
+    "images": [
+      "images/17976_0.png"
+    ],
+    "english_question": "<image>\nচিহ্নিত কোণগুলোর মধ্যে কোনগুলো একান্তর অন্তঃস্থ কোণ? ক. ∠1 এবং ∠B খ. ∠1 এবং ∠3 গ. ∠3 এবং ∠B ঘ. ∠2 এবং ∠3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8aaeb6a5-6969-48a6-8837-c78021c0cfd1",
+    "images": [
+      "images/29782_0.png"
+    ],
+    "english_question": "<image>\nফুলের বাগানটির পরিসীমা 11.2 মিটার। তুমি কি বলতে পারো এই ফুলের বাগানটির প্রস্থ কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7bbb5ac7-b09f-46e4-a5dc-ba691700ac34",
+    "images": [
+      "images/26871_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার বাক্সের ভেতরে একটি বল রাখা আছে, যার কিছু অংশ বাক্সের বাইরে বেরিয়ে আছে। সামনের দৃশ্যটি চিত্রে দেখানো হয়েছে। যদি EF = CD = 16 সেমি হয়, তবে বলটির ব্যাসার্ধ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f27e5ac-c6be-4ca9-bb6a-e809ab996133",
+    "images": [
+      "images/67575_0.png"
+    ],
+    "english_question": "<image>\nAB দ্বারা এরকি মেমোরিয়াল টাওয়ার নির্দেশিত হয়েছে। ভূমির বিন্দু C থেকে A-এর উন্নতি কোণ 45°। ভূমি থেকে 35.3 মিটার উচ্চতায় অবস্থিত বিন্দু E (ভবন DE) থেকে A-এর উন্নতি কোণ 60°। ∠ECD = 37°। বিন্দু C, D, B একই সরলরেখায় অবস্থিত। AB-এর উচ্চতা নির্ণয় করো। (নিকটতম পূর্ণসংখ্যায়। sin37°≈0.60, cos37°≈0.80, tan37°≈0.75; √3≈1.732 ব্যবহার করো।)\nOptions:\nB) (Round to nearest integer. Use sin37°≈0.60, cos37°≈0.80, tan37°≈0.75; √3≈1.732.)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "99f27ad1-6d2a-4252-8929-eb1479e0e783",
+    "images": [
+      "images/47694_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, 30° কোণ বিশিষ্ট একটি ত্রিভুজাকার স্কেল একটি সোজা স্কেলের ওপর রাখা আছে। যদি ∠1 = 40° হয়, তবে ∠2 = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3aaa0d07-b4dc-4bd2-a8f1-79b26f402d61",
+    "images": [
+      "images/33826_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠C = 90°, ∠A = 18°, এবং BC = 1.2 মিটার, নিচের কোন উক্তিটি সঠিক?\nক. র‍্যাম্প AB-এর ঢাল 18°\nখ. র‍্যাম্প AB-এর ঢাল tan 18°\nগ. AC = 2 tan 18° মিটার\nঘ. AB = 2 / cos 18° মিটার",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ab23a15-33f2-4aeb-93da-a33868bdb395",
+    "images": [
+      "images/36559_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DE || FG, FG || HJ এবং HJ || BC। চিত্রে মোট কতটি সদৃশ ত্রিভুজ রয়েছে তা নির্ণয় করো।\nOptions:\nC) Determine the number of similar triangles in the figure.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f36d854-89e9-4658-8fb4-c59a205b31f5",
+    "images": [
+      "images/43432_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, শিয়াওহুয়া একটি গোলাকার মাঠের A বিন্দু থেকে যাত্রা শুরু করে এবং ব্যাসার্ধ OA-এর সাথে α কোণ করে অগ্রসর হয়। B বিন্দুতে মাঠের প্রান্তে পৌঁছানোর পর তিনি ব্যাসার্ধ OB-এর সাথে α কোণ করে হাঁটতে থাকেন। এই পদ্ধতি অনুসরণ করে শিয়াওহুয়া যখন পঞ্চম বারের মতো মাঠের প্রান্তে পৌঁছান তখন তিনি বৃত্তচাপ AB-র ওপর থাকেন। এই মুহূর্তে ∠AOE = 56° হলে α-এর মান কত?\nক. 52°\nখ. 60°\nগ. 72°\nঘ. 76°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d658e2b3-d3ce-41e8-8401-cee3a2dc521e",
+    "images": [
+      "images/37489_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের পরিলিখিত ট্রাপিজিয়াম ABCD-তে, যদি AD সমান্তরাল BC হয়, তবে ∠DOC এর মান কত ডিগ্রি?\n\nOptions:\nক) 70°\nখ) 90°\nগ) 60°\nঘ) 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8cc84732-164d-42a6-a595-ff8960085423",
+    "images": [
+      "images/382_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD বৃত্ত ⊙O-তে অন্তর্লিখিত, বিন্দু E, AB-এর বর্ধিতাংশের উপর অবস্থিত, BF ∥ AC, AB=BC এবং ∠ADC=130^{\\circ}। তাহলে, ∠FBE=____^{\\circ}।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e90fc64-4d57-4454-9909-81d26533d730",
+    "images": [
+      "images/49666_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ত্রিভুজাকৃতির স্কেল বিভিন্ন অবস্থানে রাখা হয়েছে। কতগুলো আকৃতিতে ∠α = ∠β হবে?\n\nOptions:\nক) \\(1\\)\nখ) \\(2\\)\nগ) \\(3\\)\nঘ) \\(4\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

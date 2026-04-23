@@ -1,0 +1,302 @@
+[
+  {
+    "id": "738c1e4c-efe6-416a-aced-e5404db817a2",
+    "images": [
+      "images/16690_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত \\( \\triangle ABE \\) এবং \\( \\triangle ACD \\) উভয়ই সমবাহু ত্রিভুজ এবং \\( \\angle BAC=70^{\\circ} \\)। \\( \\angle BOC \\) এর মান কত?\n\nOptions:\nক) \\(105^{\\circ}\\)\nখ) \\(110^{\\circ}\\)\nগ) \\(120^{\\circ}\\)\nঘ) \\(130^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a1caa02-c910-4697-a7bc-12cc083ee9ac",
+    "images": [
+      "images/triangle_ext_6a1caa02-c910-4697-a7bc-12cc083ee9ac.png"
+    ],
+    "english_question": "<image>\nশাও মিং স্কুলের পতাকাদণ্ডের উচ্চতা পরিমাপের জন্য একটি থিওডোলাইট এবং পতাকাদণ্ডের গাইড তার ব্যবহার করে। চিত্রে প্রদর্শিত অনুযায়ী, পতাকাদণ্ডের উচ্চতা (PA) গাইড তারের (PB) দৈর্ঘ্যের সমান। শাও মিং PB কে PB' অবস্থানে টানে, যেখানে পরিমাপ পাওয়া যায় \\(∠PB'C=α=40^{\\circ}\\) (BC হলো অনুভূমিক রেখা), এবং থিওডোলাইট BD এর উচ্চতা 1 মিটার। পতাকাদণ্ড PA এর উচ্চতা কত?\nক. \\( \\dfrac {1}{1+\\cos 40 ^\\circ }\\)\nখ. \\( \\dfrac {1}{1-\\cos 40 ^\\circ }\\)\nগ. \\( \\dfrac {1}{1+\\sin 40 ^\\circ }\\)\nঘ. \\( \\dfrac {1}{1-\\sin 40 ^\\circ }\\",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b978221e-a6dc-4674-a907-c74c33ee74d9",
+    "images": [
+      "images/40739_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমকোণী ত্রিভুজ △ABC তে, ∠C=90°। D বিন্দুটি CA বাহুর বর্ধিতাংশের উপর অবস্থিত এবং DE∥AB। যদি ∠ADE=42° হয়, তবে ∠B এর মান কত?\n\nOptions (copied from English):\n(ক) 42°______ (খ) 45°________(গ) 48°________ (ঘ) 58°_\nOptions:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "af0a0768-cbdf-473e-8053-0023a2e0dfdf",
+    "images": [
+      "images/60575_0.png"
+    ],
+    "english_question": "<image>\nএকটি ল্যান্ডস্কেপিং কোম্পানি O কেন্দ্র এবং R ব্যাসার্ধ বিশিষ্ট একটি অর্ধবৃত্তাকার এলাকায় ফুল, ঘাস ও গাছ লাগানোর পরিকল্পনা করছে। বৃত্তচাপ CMDC এলাকাটি অলঙ্কৃত নমুনার জন্য, ত্রিভুজ OCD এলাকাটি ফুলের জন্য এবং অবশিষ্ট এলাকাটি ঘাসের জন্য রাখা হয়েছে। প্রতি বর্গমিটারে খরচ এবং মুনাফা নিম্নরূপ: অলঙ্কৃত নমুনার খরচ 2 ইয়ুয়ান/বর্গমিটার, ফুলে মুনাফা 8 ইয়ুয়ান/বর্গমিটার এবং ঘাসে মুনাফা 3 ইয়ুয়ান/বর্গমিটার। ধরি ∠COD = θ (রেডিয়ানে)। বৃত্তচাপ CMDC-র ক্ষেত্রফলকে S_arc = f(θ) আকারে প্রকাশ করো এবং সর্বোচ্চ মুনাফার জন্য θ-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ef8c6e75-068b-44e7-b829-10bbcf833ef1",
+    "images": [
+      "images/27132_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলো পর্যবেক্ষণ করো: যদি এই ধারাটি অব্যাহত থাকে, তবে 6ষ্ঠ চিত্রে সাদা সমবাহু ত্রিভুজের সংখ্যা কত হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ecf19e5-d5b1-4864-aea3-5bbb3eca81fc",
+    "images": [
+      "images/74867_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজাকার পিরামিডের প্রধান দৃশ্য (main view) এবং শীর্ষ দৃশ্য (top view) চিত্রে দেখানো হয়েছে। এর বাম দিকের দৃশ্যের (left view) ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6af26efe-75e5-4369-a438-73363bdf27de",
+    "images": [
+      "images/49620_0.png"
+    ],
+    "english_question": "<image>\nচিত্র-1 এর ঘনকটি খুলে ফেললে নিচের কোন নকশাটি (Net) সঠিক হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7170061-3217-4460-b1af-afdded887f12",
+    "images": [
+      "images/4638_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC তে, যেখানে AB = AC এবং ∠A = 36°, ∠ABC ও ∠ACB এর কোণ দ্বিখণ্ডকদ্বয় F বিন্দুতে ছেদ করে। চিত্রে কতটি সমদ্বিবাহু ত্রিভুজ আছে?\nক. 7\nখ. 8\nগ. 9\nঘ. 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a51de763-5586-49e9-9dd5-4a76062c7a7e",
+    "images": [
+      "images/74412_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, y^2 = 2px (যেখানে p > 0) পরাবৃত্তের ফোকাস F দিয়ে গমনকারী একটি রেখা এর নিয়ামক রেখা l, y-অক্ষ এবং পরাবৃত্তকে যথাক্রমে A, B এবং C বিন্দুতে ছেদ করে। যদি AB = 3BC হয়, তবে রেখা AF এর ঢাল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "42b58326-4d37-49d7-bdf9-c80c75f8c0e7",
+    "images": [
+      "images/59796_0.png"
+    ],
+    "english_question": "<image>\n8 সেমি বাহু বিশিষ্ট একটি বর্গক্ষেত্র থেকে 2 সেমি বাহু বিশিষ্ট চারটি ছোট বর্গক্ষেত্র কেটে নেওয়া হলো। অবশিষ্ট আকৃতির পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c094948e-4a36-4563-ac04-68384e8c44fc",
+    "images": [
+      "images/62563_0.png"
+    ],
+    "english_question": "<image>\nএকটি কুকুর ছবিতে প্রদর্শিত টাইলযুক্ত মেঝেতে এদিক-ওদিক হাঁটছে, কুকুরটি শেষ পর্যন্ত ছায়াযুক্ত টাইলটিতে থামার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cedde02c-e4f5-4cbe-a031-c0da017a0882",
+    "images": [
+      "images/31569_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বিজ্ঞাপন বেলুন α কোণে আপতিত সমান্তরাল আলো দ্বারা আলোকিত। প্রক্ষেপ একটি উপবৃত্ত যার অর্ধ-মুখ্য অক্ষ 5 মিটার। বেলুন তৈরিতে নূন্যতম কাপড়ের পরিমাণ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0842cd04-faaf-4cdb-ab22-a5d1828adf65",
+    "images": [
+      "images/35717_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে 10টি সমান ব্যাসার্ধের বৃত্ত দ্বারা গঠিত আতশবাজির একটি প্রস্থচ্ছেদ দেখানো হয়েছে। A, B এবং C হলো তিনটি কোণায় অবস্থিত বৃত্তের কেন্দ্র এবং ত্রিভুজ ABC একটি সমবাহু ত্রিভুজ। যদি বৃত্তগুলোর ব্যাসার্ধ r এবং সম্মিলিত আতশবাজির উচ্চতা h হয়, তবে আতশবাজির পার্শ্বতলের জন্য প্রয়োজনীয় মোড়ক কাগজের ক্ষেত্রফল (জোড়া দেওয়ার অংশ বাদে) অন্তত কত হবে?\n\nOptions:\nক) 18πrh\nখ) 2πrh+18rh\nগ) πrh+12rh\nঘ) 2πrh+12rh",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06a730a1-0f1a-4599-861b-7d259b6ee0b8",
+    "images": [
+      "images/36978_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অষ্টভুজটি একটি সুষম অষ্টভুজাকার প্রিজমের ওপরের দৃশ্য। আপনি যদি এই সুষম অষ্টভুজাকার প্রিজমের ঠিক তিনটি পার্শ্বতল দেখতে চান, তবে আপনার কোথায় দাঁড়ানো উচিত ( )\n\nOptions:\nক) ①\nখ) ②\nগ) ③\nঘ) ④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e3e5c33-d48b-43bc-8426-7cb62833e982",
+    "images": [
+      "images/triangle_ext_8e3e5c33-d48b-43bc-8426-7cb62833e982.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ, যা একটি খেলনা ধাঁধার টেমপ্লেটের অংশ, \\triangle ABC-এর ছয়টি উপাদানের ভিত্তিতে, A, B এবং C চিহ্নিত ত্রিভুজগুলোর মধ্যে কোনটি \\triangle ABC-এর সাথে পুরোপুরি মিলে যায়?\nক. এবং C\nগ. এবং B\nগ. Only A\nঘ. Only C",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb5da796-f8ee-4962-83f0-bfc65a40db9c",
+    "images": [
+      "images/15245_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বস্তুটি দুটি অভিন্ন সিলিন্ডার দ্বারা গঠিত। এর ওপরের দৃশ্য (top view) হলো 【 】",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c8277f4d-0249-48bf-a90f-00eb42da1f28",
+    "images": [
+      "images/53287_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত নদী তীর a এবং রাস্তা b-এর একটি অংশ সমান্তরাল। C এবং D হলো নদী তীর a-এর ওপর অবস্থিত দুটি গাছ যাদের মধ্যবর্তী দূরত্ব 50 মিটার। রাস্তা b-এর বিন্দু A থেকে বিন্দু D-এর দিক উত্তর দিকের সাথে 60° পূর্ব দিকে। রাস্তা b-এর বিন্দু B থেকে বিন্দু C-এর দিক উত্তর দিকের সাথে 30° পূর্ব দিকে। শিয়াও মিং এবং শিয়াও লিয়াং-এর মধ্যবর্তী দূরত্ব 100 মিটার। নদী তীর a এবং রাস্তা b-এর মধ্যবর্তী দূরত্ব নির্ণয় করো। (ফলাফলে বর্গমূল চিহ্ন রাখতে হবে)\nOptions:\nb. (Result should retain the square root)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bf76875d-5296-4f20-8a34-ef97fbf928e5",
+    "images": [
+      "images/40172_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি ঘনকের জাল (net) প্রদর্শন করে যেখানে প্রতিটি তলে একটি চীনা অক্ষর আছে। '考' অক্ষরের বিপরীত তলের অক্ষরটি হলো ( )।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e00e0bc-f86d-4792-8a70-fe5b53126dd8",
+    "images": [
+      "images/14908_0.png"
+    ],
+    "english_question": "<image>\nট্রাপিজিয়ামে, AB এবং CD উভয় ভূমিই EF এর সমান্তরাল এবং CG রেখা AD কে H বিন্দুতে ছেদ করে। তাহলে চিত্রে কত জোড়া সদৃশ ত্রিভুজ বিদ্যমান? ( )\n\nOptions:\nক) 1 pair\nখ) 2 pairs\nগ) 3 pairs\nঘ) 4 pairs",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3fdad9ed-49af-4f76-8d7d-077b82c6fa29",
+    "images": [
+      "images/75335_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD এবং চতুর্ভুজ AEFG হলো বর্গক্ষেত্র, এবং ত্রিভুজ AED একটি সমবাহু ত্রিভুজ। চিত্রে 30° পরিমাপের কতটি কোণ রয়েছে? ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

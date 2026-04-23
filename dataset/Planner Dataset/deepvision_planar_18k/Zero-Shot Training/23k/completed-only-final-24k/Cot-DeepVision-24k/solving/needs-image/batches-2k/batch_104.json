@@ -1,0 +1,302 @@
+[
+  {
+    "id": "d011158d-a02d-4ce9-90b7-34434339245b",
+    "images": [
+      "images/56089_0.png"
+    ],
+    "english_question": "<image>\n1 সেমি বাহুবিশিষ্ট কিছু ছোট ঘনক ব্যবহার করে একটি জ্যামিতিক কাঠামো তৈরি করা হলো। (1) হলো এর ওপরের দৃশ্য (top view) এবং (2) হলো এর সামনের দৃশ্য (front view)। তবে এই জ্যামিতিক কাঠামোর সর্বোচ্চ আয়তন কত হতে পারে ( )\nক. 6 সেমি³\nখ. 7 সেমি³\nগ. 8 সেমি³\nঘ. 9 সেমি³",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc442357-f03a-4aee-b923-3fea19df2ee8",
+    "images": [
+      "images/44120_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AC হলো খুঁটি AB এর একটি টানা তার, যেখানে BC পরিমাপ করা হয়েছে 6 মিটার এবং ∠ACB = 52°। টানা তার AC এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "543d7820-7b1c-4027-a905-919f981ba03e",
+    "images": [
+      "images/30648_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 4টি অভিন্ন ছোট বর্গক্ষেত্র দ্বারা গঠিত চিত্রে, ∠1 + ∠2 + ∠3 এর সমষ্টি কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f8e2faba-c84f-4179-b8ec-d62a73be6423",
+    "images": [
+      "images/13615_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোন কোণগুলো একই পার্শ্বস্থ অন্তঃস্থ কোণ (same-side interior angles)?\n\nOptions:\nক) ∠1 and ∠2\nখ) ∠3 and ∠2\nগ) ∠3 and ∠4\nঘ) ∠1 and ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc858729-de19-41f4-bff5-3edcd1c5e93b",
+    "images": [
+      "images/63500_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রে মোট ত্রিভুজের সংখ্যা কত?\n\nOptions:\nক) 10\nখ) 11\nগ) 12\nঘ) 13",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "53b29e20-c9b5-4fc1-b901-110ffa63be4f",
+    "images": [
+      "images/11842_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ঘুড়ি আকৃতির প্যাটার্ন দেওয়া আছে যা একটি অক্ষ-প্রতিসম আকৃতি। দেওয়া আছে যে ∠AEB=140°, AC⊥AE এবং ∠C=60°। ∠CFD-এর মান কত ডিগ্রি?\n\nOptions:\nক) 140°\nখ) 150°\nগ) 160°\nঘ) 170°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6395e461-b13d-4757-8a87-27d3313ab868",
+    "images": [
+      "images/38077_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে (2012 • জিনচাং ডিস্ট্রিক্ট স্কুল-লেভেল ইন্ডিপেন্ডেন্ট এনরোলমেন্ট), D বিন্দুটি সমবাহু ত্রিভুজ ABC এর অভ্যন্তরে অবস্থিত, যেখানে DB = DA, BF = AB এবং ∠1 = ∠2। ∠BFD কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bacdeabc-2661-48eb-9e8a-080be3db2d58",
+    "images": [
+      "images/48765_0.png"
+    ],
+    "english_question": "<image>\nএকটি শহরের কেন্দ্রে একটি শতবর্ষী পুরনো সেতু রয়েছে। সেতুটিতে পাঁচটি খিলান কাঠামো রয়েছে যা ঘনিষ্ঠভাবে সংযুক্ত, প্রতিটিতে একটি অনুভূমিক বিম এবং আটটি উল্লম্ব প্রধান কলাম রয়েছে। এই খিলান কাঠামোটিকে একটি সমদ্বিবাহু ট্রাপিজিয়াম ABD_8D_1 এবং এর উপরের পরাবৃত্ত D_1OD_8 এর সমন্বয়ে গঠিত হিসেবে ধরা যেতে পারে। একটি কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করা হলো, যেখানে মূলবিন্দু O হলো পরাবৃত্ত D_1OD_8 এর শীর্ষবিন্দু। দেওয়া আছে, AB=44 মি., ∠A=45°, AC_1=4 মি. এবং বিন্দু D_2 এর স্থানাঙ্ক (-13, -1.69)। খিলানের সর্বোচ্চ বিন্দু থেকে সেতুর পৃষ্ঠের দূরত্ব OH নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae79f8cf-c9fc-4e7a-8d24-4b9168a94e74",
+    "images": [
+      "images/5831_0.png"
+    ],
+    "english_question": "<image>\n2013 সালের বসন্তে, চংকিং স্কুল-স্তরের চূড়ান্ত পরীক্ষায়, O হলো চতুর্ভুজ ABCD-এর অভ্যন্তরে একটি বিন্দু। A', B', C' এবং D' বিন্দুগুলো যথাক্রমে OA, OB, OC এবং OD-এর ওপর অবস্থিত, যাতে OA': A'A = OB': B'B = OC': C'C = OD': D'D = 2: 1। যদি চতুর্ভুজ A'B'C'D'-এর ক্ষেত্রফল 12 বর্গ সেমি হয়, তবে চতুর্ভুজ ABCD-এর ক্ষেত্রফল কত?\n\nOptions:\nক) 18 cm²\nখ) 27 cm²\nগ) 36 cm²\nঘ) 54 cm²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "48df8b64-beb2-47f3-ad5c-ecd5bc1617af",
+    "images": [
+      "images/5100_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, বিন্দু A (2, 4) এবং B (2, 0) দেওয়া আছে। যদি O বিন্দুকে কেন্দ্র করে ত্রিভুজ OAB-কে অর্ধেক করা হয়, তবে A বিন্দুর অনুরূপ বিন্দুর স্থানাঙ্ক কত?\n\nOptions:\nক) (1, 2)\nখ) (-1, -2)\nগ) (1, 2) or (-1, -2)\nঘ) (2, 1) or (-2, -1)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9cce2c3a-1823-49f9-a0c1-08eb067ffab0",
+    "images": [
+      "images/13393_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি বৃত্তে অন্তর্লিখিত, BD একটি জ্যা যা AC-এর সমান্তরাল, AB = AC, A বিন্দুতে অঙ্কিত স্পর্শক DB-এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে এবং AD, BC-কে F বিন্দুতে ছেদ করে। AE = 6 এবং BD = 5 হলে, CF রেখাংশের দৈর্ঘ্য নির্ণয় কর।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b7f6c75-b451-4ee1-b88b-9564e4f566b6",
+    "images": [
+      "images/22594_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AC হলো রম্বস ABCD এর কর্ণ, AE=EF=FC হলে, ত্রিভুজ BMN এর ক্ষেত্রফল এবং রম্বস ABCD এর ক্ষেত্রফলের অনুপাত কত? ( )\n\nOptions:\nক) \\( \\frac{3}{4} \\)\nখ) \\( \\frac{3}{7} \\)\nগ) \\( \\frac{3}{8} \\)\nঘ) \\( \\frac{3}{10} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f83d55c4-d29c-4aee-a5b6-a570b15114e9",
+    "images": [
+      "images/71797_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O বৃত্তে, AB ব্যাস, AD একটি জ্যা, ∠ADE = 60°, ∠C = 30°। যদি CD = 3 হয়, তবে BC-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7a12c29a-4604-4e19-bd8b-a94a49028631",
+    "images": [
+      "images/12888_0.png"
+    ],
+    "english_question": "<image>\nএকটি হেলিকপ্টার থেকে একটি ভবন CD-এর শীর্ষবিন্দু D-এর অবনতি কোণ \\(\\alpha=60^{\\circ}\\) এবং পাদবিন্দু C-এর অবনতি কোণ \\(\\beta=75^{\\circ}\\) পরিমাপ করা হলো। হেলিকপ্টার থেকে ভবনটির অনুভূমিক দূরত্ব \\(BC=42\\) মিটার। ভবন CD-এর উচ্চতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eccc22d8-9f6b-4aef-a566-c63b54fa365e",
+    "images": [
+      "images/59061_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1)-এ একটি ট্রাপিজিয়াম ABCD দেখানো হয়েছে, যেখানে ∠C=∠D=90°, AD=6, BC=18 এবং CD=12। যদি AD-কে BC-এর ওপর ভাঁজ করা হয়, তবে চিত্র (2)-এর মতো একটি পলিলাইন MN তৈরি হয়। MN-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 10\nখ) 12\nগ) 15\nঘ) 21",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "34c8ef02-796d-4bce-915f-da8732e280be",
+    "images": [
+      "images/20731_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে 5টি কাগজের টুকরো দিয়ে একটি সামান্তরিক তৈরি করা হয়েছে, যেখানে পাশাপাশি টুকরোগুলো একে অপরের ওপর উপরিপাতিত হয় না এবং কোনো ফাঁক নেই। টুকরোগুলোর মধ্যে দুটি হলো সমদ্বিবাহু সমকোণী ত্রিভুজ যাদের প্রত্যেকের ক্ষেত্রফল S₁, দুটি হলো সমকোণী ত্রিভুজ যাদের প্রত্যেকের ক্ষেত্রফল S₂, এবং মাঝখানের টুকরোটি একটি বর্গক্ষেত্র যার ক্ষেত্রফল S₃। এই সামান্তরিকটির ক্ষেত্রফলকে কীভাবে প্রকাশ করা যায়? ( )\n\nOptions:\nক) 4S₁\nখ) 4S₂\nগ) 4S₂+S₃\nঘ) 3S₁+4S₃",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a7b0bde3-7709-4da6-a46e-d19db6621a17",
+    "images": [
+      "images/30226_0.png"
+    ],
+    "english_question": "<image>\nABCD সামান্তরিকের ক্ষেত্রে, যেখানে AB = AC = 4 এবং AB ⊥ AC, O হলো কর্ণদ্বয়ের ছেদবিন্দু। যদি O কেন্দ্রবিশিষ্ট বৃত্তটি A এবং C বিন্দুগামী হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফলের সমষ্টি কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d6292d81-33f1-45e5-a193-1866d76314ed",
+    "images": [
+      "images/6561_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, রেখা l হলো চতুর্ভুজ ABCD-এর প্রতিসাম্য অক্ষ, যেখানে AD সমান্তরাল BC। নিচের সিদ্ধান্তগুলো দেওয়া হলো: 1. AB সমান্তরাল CD; 2. AB সমান BC; 3. AB লম্ব BC; 4. AO সমান OC। কয়টি সিদ্ধান্ত সঠিক?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "80bd95ac-4620-49a0-b510-cf08495005ef",
+    "images": [
+      "images/33994_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, ∠C=90°, এবং বৃত্ত O যথাক্রমে AC, BC ও AB বাহুকে D, E ও F বিন্দুতে স্পর্শ করে। BD যোগ করি। যদি tan∠DBC = 1/4 হয়, তবে tan∠ABD এর মান নির্ণয় করো।\nOptions:\nD) Given that tan∠DBC = 1/4, find the value of tan∠ABD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "64c788fd-3295-47c8-ab66-b1265c23f8cd",
+    "images": [
+      "images/14297_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, শিয়াও হুয়া নদীর তীরে G বিন্দুতে দাঁড়িয়ে আছে এবং তার দিকে নদীর তীরের সাথে লম্বভাবে একটি ছোট নৌকা আসতে দেখছে। এই সময়ে, ছোট নৌকা C-এর অবনতি কোণ হলো ∠FDC = 30°। যদি শিয়াও হুয়া-এর চোখ থেকে ভূমির উচ্চতা 1.6 মিটার হয়, BG = 0.7 মিটার হয়, এবং BG রেখাটি AC রেখার সমান্তরাল হয়, যার ঢাল i = 4:3, এবং ঢালের দৈর্ঘ্য AB = 8 মিটার হয়, তবে ছোট নৌকা C থেকে তীরের দূরত্ব CA কত? (ফলাফলে বর্গমূল রাখতে হবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

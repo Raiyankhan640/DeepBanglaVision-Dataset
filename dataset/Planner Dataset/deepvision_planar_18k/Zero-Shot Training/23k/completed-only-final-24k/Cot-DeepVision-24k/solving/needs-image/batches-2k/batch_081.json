@@ -1,0 +1,342 @@
+[
+  {
+    "id": "26589f24-282a-489a-b7f4-fc040ee4878e",
+    "images": [
+      "images/35797_0.png"
+    ],
+    "english_question": "<image>\nছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b49902ea-b020-4883-b185-d269ebfac4bc",
+    "images": [
+      "images/8425_0.png"
+    ],
+    "english_question": "<image>\nমূল সমকোণী ত্রিভুজাকৃতির কাঁচটির ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "68a8610a-609b-4934-8c88-454f8effa612",
+    "images": [
+      "images/17957_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ABCD বর্গক্ষেত্রে, কর্ণের দৈর্ঘ্য 10 সেমি হলে, PE + PF = কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a15cc5fb-0d3d-4e81-ade4-d530890a91b7",
+    "images": [
+      "images/2489_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অফিস ভবন AB এবং ল্যাবরেটরি ভবন CD-এর মাঝে একটি পতাকা দণ্ড EF অবস্থিত। অফিস ভবন AB-এর শীর্ষবিন্দু A থেকে ল্যাবরেটরি ভবন CD-এর পাদবিন্দু D-এর দিকে তাকালে পতাকা দণ্ড EF-এর শীর্ষবিন্দু E দৃশ্যমান হয়, যার অবনতি কোণ 45 ডিগ্রি। আবার, ল্যাবরেটরি ভবন CD-এর শীর্ষবিন্দু C থেকে অফিস ভবন AB-এর বিন্দু G-এর দিকে তাকালে পতাকা দণ্ড EF-এর শীর্ষবিন্দু E দৃশ্যমান হয়, যার অবনতি কোণ 30 ডিগ্রি। দেওয়া আছে, BG = 1 মিটার এবং পতাকা দণ্ড EF-এর উচ্চতা 9 মিটার। অফিস ভবন AB-এর উচ্চতা নির্ণয় করো (নিকটতম মিটারে)। (সহায়ক তথ্য: √2 ≈ 1.41, √3 ≈ 1.73)\nOptions:\nD) From point A at the top of the office building AB, the top of the flagpole E is just visible at the bottom point D of the laboratory building CD, with a depression angle of 45 degrees. From point C at the top of the laboratory building CD, the top of the flagpole E is just visible at point G of the office building AB, where BG = 1 meter, with a depression angle of 30 degrees. Given that the height of the flagpole EF is 9 meters, find the height of the office building AB (to the nearest meter). Reference data: $\\sqrt{2} \\approx 1.41$, $\\sqrt{3} \\approx 1.73$.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f251567-f1c1-4243-afe1-e83fe2979740",
+    "images": [
+      "images/42090_0.png"
+    ],
+    "english_question": "<image>\nদিয়াওইউ দ্বীপপুঞ্জ প্রাচীনকাল থেকেই আমাদের পবিত্র ভূখণ্ড। জাতীয় সার্বভৌমত্ব ও সামুদ্রিক অধিকার রক্ষার জন্য, আমাদের সামুদ্রিক নজরদারি ও মৎস্য প্রশাসন বিভাগ দিয়াওইউ দ্বীপপুঞ্জের আশেপাশের জলসীমায় নিয়মিত টহল পরিচালনা করে। চিত্রে প্রদর্শিত, একটি নির্দিষ্ট দিনে, দুটি সামুদ্রিক নজরদারি জাহাজ A ও B দিয়াওইউ দ্বীপপুঞ্জের কাছে পশ্চিম থেকে পূর্ব দিকে যাচ্ছিল। জাহাজ B, জাহাজ A-এর ঠিক পূর্বে অবস্থিত এবং জাহাজ দুটির মধ্যবর্তী দূরত্ব 20 নটিক্যাল মাইল। একটি নির্দিষ্ট মুহূর্তে, উভয় জাহাজ একই সাথে একটি চীনা মৎস্য আইন প্রয়োগকারী জাহাজ C-কে শনাক্ত করে, যা জাহাজ A-এর উত্তর-পূর্ব দিকে এবং জাহাজ B-এর উত্তর-পূর্ব দিকে 15° কোণে অবস্থিত। এই মুহূর্তে জাহাজ C এবং জাহাজ B-এর মধ্যবর্তী দূরত্ব কত? (ফলাফল বর্গমূল আকারে রাখতে হবে)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "efae333e-64db-4ed0-b53e-aad8d30ac519",
+    "images": [
+      "images/62199_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 1, 2 এবং 3 সেন্টিমিটার বাহু বিশিষ্ট 8টি ছোট সমবাহু ত্রিভুজ 5 সেন্টিমিটার বাহু বিশিষ্ট একটি বড় সমবাহু ত্রিভুজের অংশ বিশেষকে ঢেকে রেখেছে। বড় ত্রিভুজটির ছায়াবৃত অংশ এবং সবগুলো ছোট ত্রিভুজের মোট ছায়াবৃত অংশের ক্ষেত্রফলের পার্থক্য কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ecd80e1-8601-476a-977c-0d5be111f8ba",
+    "images": [
+      "images/60585_0.png"
+    ],
+    "english_question": "<image>\nপাহাড়ের ঢালে অবস্থিত একটি গাছ ঝড়ের কারণে মাঝখান থেকে ভেঙে গিয়ে অন্য একটি গাছের গোড়ায় C বিন্দুতে স্পর্শ করে। যদি AB = 1 মিটার, BC = 5 মিটার হয় এবং গাছ দুটির মধ্যবর্তী অনুভূমিক দূরত্ব 3 মিটার হয়, তবে গাছটির আদি উচ্চতা নির্ণয় করো (ফলাফল বর্গমূল আকারে রাখো)।\nOptions:\nC) Given that AB = 1 meter, BC = 5 meters, and the horizontal distance between the two trees is 3 meters, please calculate the original height of this tree (the result should retain the square root).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "728a2da9-d46d-4c78-a3a3-90eff6e0cc4d",
+    "images": [
+      "images/triangle_ext_728a2da9-d46d-4c78-a3a3-90eff6e0cc4d.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি চতুর্ভুজাকার পিরামিডের তিনটি দৃশ্য দেখানো হয়েছে, যেখানে সামনের দৃশ্যটি একটি সমদ্বিবাহু সমকোণী ত্রিভুজ যার বাহুর দৈর্ঘ্য 1। এই জ্যামিতিক বস্তুটির আয়তন কত ( )?\nক. \\( \\frac { 1 } { 2 } \\)\nখ. \\( ^ { - 1 } \\)\nগ. \\( \\frac 3 2 \\)\nঘ. \\( 2 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98adae9d-c5dd-46a5-88d2-5644c9376246",
+    "images": [
+      "images/28045_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের AB এবং CD দুটি পরস্পর লম্ব ব্যাস। জ্যা DE, AB-এর বর্ধিতাংশকে F বিন্দুতে ছেদ করে। যদি DE = 24 এবং EF = 18 হয়, তবে OE-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "63f52d47-da36-4b4f-aaa0-023c421c6810",
+    "images": [
+      "images/20177_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, O মূলবিন্দু, বিন্দু A-এর স্থানাঙ্ক (-8, 0), রেখা BC বিন্দু B (-8, 6) এবং C (0, 6) দিয়ে অতিক্রম করে। চতুর্ভুজ OABC-কে মূলবিন্দু O-এর সাপেক্ষে ঘড়ির কাঁটার দিকে ঘুরিয়ে চতুর্ভুজ OA'B'C' পাওয়া গেল। যখন শীর্ষবিন্দু B' রেখা BC-এর উপর পড়ে, তখন ত্রিভুজ OPB'-এর ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cb809210-99f6-4ec6-b957-2b63c8d5a25c",
+    "images": [
+      "images/52769_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি আয়তাকার কাগজের স্ট্রিপ ভাঁজ করা হয়েছে। যদি ∠1 = 110° হয়, তবে ∠2-এর মান কত?\nOptions:\nd. If ∠1 = 110°, then what is the measure of ∠2?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bd48c0ee-cceb-4061-a452-6d55a51d7673",
+    "images": [
+      "images/26754_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD রেখাকে O বিন্দুতে ছেদ করে এবং EO, AB এর উপর O বিন্দুতে লম্ব। কোণ 1 এবং কোণ 2 এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c80a596e-54c1-45da-9ea7-f915373015de",
+    "images": [
+      "images/56227_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC-এ ∠C=90°, ∠A=30° এবং BC=1। ত্রিভুজের অভ্যন্তরে একটি অর্ধবৃত্ত খোদাই করা হয়েছে (কেন্দ্র O, AC প্রান্তের উপর, অর্ধবৃত্ত BC ও AB-কে যথাক্রমে C ও M বিন্দুতে স্পর্শ করে এবং AC-কে N বিন্দুতে ছেদ করে)। ছায়াযুক্ত অঞ্চলকে AC রেখা কেন্দ্র করে ঘুরিয়ে প্রাপ্ত কঠিন বস্তুর আয়তন ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ced7995b-cbd4-46ac-83ea-13fa9b89d122",
+    "images": [
+      "images/15542_0.png"
+    ],
+    "english_question": "<image>\nএকটি কোণের ক্ষেত্রে, জেনারেট্রিক্স এবং ঘূর্ণন অক্ষের মধ্যবর্তী কোণ 30 ডিগ্রি। জেনারেট্রিক্সের ওপর লম্ব একটি প্রস্থচ্ছেদ অক্ষটিকে O বিন্দুতে ছেদ করে, যেখানে MO = 1। প্রাপ্ত কনিক সেকশনের জন্য, নিচের প্রস্তাবনাগুলোর সত্যতা যাচাই করুন:\n1. বক্ররেখাটি একটি উপবৃত্ত;\n2. বিন্দু O বক্ররেখার যেকোনো দুটি বিন্দুর মধ্যবর্তী দীর্ঘতম দূরত্বের ত্রিখণ্ডন বিন্দু;\n3. বক্ররেখার যেকোনো দুটি বিন্দুর মধ্যবর্তী দীর্ঘতম দূরত্ব 3/2 এবং ক্ষুদ্রতম দূরত্ব 2/3√3;\n4. বক্ররেখাটির উৎকেন্দ্রিকতা √3/3।\nকোন প্রস্তাবনাগুলো সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c6d6af2-bd0b-4127-b52f-f0e95513ebd2",
+    "images": [
+      "images/25338_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে কর্ণ AC এবং BD পরস্পরকে O বিন্দুতে ছেদ করে। E এবং F বিন্দু BD এর ওপর এমনভাবে অবস্থিত যেন BE = DF। চিত্রে কত জোড়া সর্বসম ত্রিভুজ আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "123b21d9-4a6f-4fac-9e48-e5e0346b7b2e",
+    "images": [
+      "images/23875_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: 1 একক ব্যাসার্ধের বৃত্ত O-এর বাইরে একটি বিন্দু A, যেখানে OA = 2, AB হলো বৃত্ত O-এর স্পর্শক, B স্পর্শবিন্দু, জ্যা BC সমান্তরাল OA এবং AC সংযুক্ত। ছায়াযুক্ত অঞ্চলের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nd. Find the area of the shaded region.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9257410f-2605-4522-a8ca-523f315e937d",
+    "images": [
+      "images/36551_0.png"
+    ],
+    "english_question": "<image>\n6 একক বাহুবিশিষ্ট একটি বর্গক্ষেত্র ABCD-কে এর কর্ণ AC বরাবর কাটা হলো। ত্রিভুজ ABC-কে AD-এর দিকে স্থানান্তর করে ত্রিভুজ A'B'C' পাওয়া গেল। যদি ত্রিভুজ ABC এবং A'B'C'-এর সাধারণ অংশটি একটি রম্বস গঠন করে, তবে AA'-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nC) Triangle ABC is translated in the direction of AD to obtain triangle A'B'C'. When the overlapping region of triangles ABC and A'B'C' forms a rhombus, find the length of AA'.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "10a63d9c-e0b4-420f-84eb-4daed4473fdf",
+    "images": [
+      "images/34173_0.png"
+    ],
+    "english_question": "<image>\nআমাদের শহরের নতুন লংহু পার্কের বিশ্রামাগারের কাছে আয়তাকার টাইলস দিয়ে একটি মেঝে বাঁধানো হয়েছে। পরিমাপ করে দেখা গেছে যে, 8টি অভিন্ন আয়তাকার টাইলস দিয়ে 2400 বর্গ সেমি ক্ষেত্রফলবিশিষ্ট একটি আয়তক্ষেত্র ABCD তৈরি করা যায়। আয়তক্ষেত্র ABCD-এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94d77ea6-72e6-4070-823c-dae57cacc1cc",
+    "images": [
+      "images/8080_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, যদি আমরা সামান্তরিক ABCD-কে ড্যাশ লাইন EF বরাবর কাটি, তবে প্রাপ্ত চতুর্ভুজ ABFE হবে একটি ( )\nক. ট্রাপিজিয়াম\nখ. সামান্তরিক\nগ. আয়তক্ষেত্র\nঘ. রম্বস",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8bd0517b-8f8a-41c6-95df-3d214d1b4fde",
+    "images": [
+      "images/14405_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, EF সমান EH, EH কোণ AEG কে সমদ্বিখণ্ডিত করে এবং কোণ GEH হলো 30 ডিগ্রি। কোণ CFH এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

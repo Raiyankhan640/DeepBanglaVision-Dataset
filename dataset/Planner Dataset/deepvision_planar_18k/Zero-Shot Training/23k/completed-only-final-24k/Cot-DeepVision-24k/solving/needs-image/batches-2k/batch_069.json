@@ -1,0 +1,302 @@
+[
+  {
+    "id": "6cf107f3-ffc0-40f9-b4a0-ccce6ac97866",
+    "images": [
+      "images/65687_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত হাইপারবোলা বা পরাবৃত্তের সমীকরণ \\( \\frac{x^{2}}{a^{2}} - \\frac{y^{2}}{b^{2}} = 1 \\) (যেখানে \\(a > 0, b > 0\\))। \\(A, B\\) এবং \\(C\\) বিন্দু তিনটি পরাবৃত্তের উপর অবস্থিত। রেখাংশ \\(AB\\) মূলবিন্দু \\(O\\) দিয়ে যায় এবং রেখাংশ \\(AC\\) ডানদিকের ফোকাস \\(F\\) দিয়ে যায়। যদি \\(BF \\perp AC\\) এবং \\(|BF| = |CF|\\) হয়, তবে পরাবৃত্তটির উৎকেন্দ্রিকতা কত?\n\nOptions:\nক) \\( \\frac{ \\sqrt{10}}{2}\\)\nখ) \\( \\sqrt{10}\\)\nগ) \\( \\frac{3}{2}\\)\nঘ) \\(3\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "57e4414d-8f2a-4bc8-82f6-efa07e9caa39",
+    "images": [
+      "images/72607_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমকোণী ত্রিভুজ স্কেলের ক্ষেত্রে, যদি AE সমান্তরাল BC হয়, তবে ∠AFD এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ee14e6ff-75c2-44b6-b4ac-4dd5e02a35aa",
+    "images": [
+      "images/71534_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি AB ∥ CD ∥ EF, BC ∥ AD এবং AC, ∠BAD কে সমদ্বিখণ্ডিত করে, তবে চিত্রের কোন কোণগুলো ∠AGE এর সমান?\n\nOptions:\nক) \\(3\\)\nখ) \\(4\\)\nগ) \\(5\\)\nঘ) \\(6\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a970291c-d49f-4138-9cbf-75be18580d3d",
+    "images": [
+      "images/29876_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে কত জোড়া সমান্তরাল রেখাংশ রয়েছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4edf9a11-4581-4527-834e-7e8d701c1380",
+    "images": [
+      "images/23053_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD কে O বিন্দুতে ছেদ করে, OE রেখা AB এর ওপর লম্ব। যদি ∠AOD = 65° হয়, তবে ∠EOC = __°।\nOptions:\nB) If ∠AOD = 65°, then ∠EOC = __°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "05c8251d-9a56-4bb2-b647-11215ce8cb0b",
+    "images": [
+      "images/triangle_ext_05c8251d-9a56-4bb2-b647-11215ce8cb0b.png"
+    ],
+    "english_question": "<image>\nচিত্রের জ্যামিতিক বস্তুটির তিনটি ভিউ দেওয়া আছে। সামনের ভিউ এবং পাশের ভিউ দুটি সর্বসম আকৃতির। জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\nক. 384+4π\nখ. 336+4π\nগ. 336\\frac{+4\\pi}{3}\nঘ. 384+\\frac{4\\pi}{3}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9b080511-7778-4873-a9fb-cef28c6d9cb1",
+    "images": [
+      "images/32109_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, MN || BC এবং MC ও NB রেখাদ্বয় O বিন্দুতে ছেদ করে। চিত্রে সদৃশ ত্রিভুজের সংখ্যা কতটি?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f65f32d-34ae-47cc-94b7-a458f8890192",
+    "images": [
+      "images/45667_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, দেওয়া আছে AB = 3 সেমি এবং BC = 4 সেমি। ABCD আয়তক্ষেত্রটিকে D বিন্দুর চারদিকে ঘড়ির কাঁটার দিকে ঘোরানো হলো যতক্ষণ না এটি EFGH আয়তক্ষেত্রের E বিন্দুতে পৌঁছায়, যেখানে ∠EDF = 30°। B বিন্দুর অতিক্রান্ত পথের দৈর্ঘ্য কত সেমি? (উত্তর π এর মাধ্যমে প্রকাশ করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1a239c41-8699-40ad-a3c3-f854e4ee7d48",
+    "images": [
+      "images/56236_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত ঘনকের নেটের চিত্রটি লক্ষ্য করো। যদি '2' অঙ্কিত তলটি সামনের দিকে থাকে, তবে তার বিপরীত তলে কোন সংখ্যা বা অক্ষরটি থাকবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9254d79a-18ff-4417-9353-f097c1d4344b",
+    "images": [
+      "images/66251_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, E হলো AD বাহুর মধ্যবিন্দু এবং BE, AC এর উপর লম্ব যা F বিন্দুতে ছেদ করে। DF যোগ করা হলো। নিচের চারটি সিদ্ধান্ত বিশ্লেষণ করো: ①△AEF, △CAB এর সদৃশ; ②CF = 2AF; ③DF = DC; ④S_△ABC = 2S_△ABF। সঠিক সিদ্ধান্তগুলো কোনটি?\n\nOptions:\nক) 4\nখ) 3\nগ) 2\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0095b69a-671d-4d12-af40-4b258ca37191",
+    "images": [
+      "images/62174_0.png"
+    ],
+    "english_question": "<image>\nযখন চিত্রটিকে ড্যাশযুক্ত রেখা বরাবর ভাঁজ করা হয়, তখন একটি ঘনক তৈরি হয়। '1' পৃষ্ঠের বিপরীত পৃষ্ঠ কোনটি? (সংখ্যাটি লিখুন)\nOptions:\nd. What is the opposite face of face '1'? (Fill in the number)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e8ada97e-f0d7-4b4b-854d-3a5ea3964022",
+    "images": [
+      "images/37004_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি $AB \\parallel CD \\parallel EF$ হয়, তবে নিচের কোন বিবৃতিটি সঠিক? ( )\nক. $∠1 + ∠3 = 180^{\\circ}$\nখ. $∠1 + ∠2 = ∠3$\nগ. $∠2 + ∠3 + ∠1 = 180^{\\circ}$\nঘ. $∠2 + ∠3 - ∠1 = 180^{\\circ}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "68b09c3a-b272-4c67-9714-d054b60e0ab5",
+    "images": [
+      "images/53632_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90^{\\circ} এবং AC=BC=1, ত্রিভুজটিকে বিন্দু A-কে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে 40^{\\circ} কোণে ঘোরানোর ফলে ত্রিভুজ ADE পাওয়া যায়। বিন্দু B যে পথ অতিক্রম করে তা হলো \\overset{\\ }{BD}। ছায়াবৃত অঞ্চলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b3e4881d-6f72-4327-92f1-8d54d4ee845e",
+    "images": [
+      "images/18171_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, যেসব বিন্দুর x-স্থানাঙ্ক এবং y-স্থানাঙ্ক উভয়ই পূর্ণসংখ্যা, তাদের পূর্ণসংখ্যা বিন্দু বলা হয়। চিত্রে প্রতিটি বর্গের (অখণ্ড রেখা) বাহুর ওপর অবস্থিত পূর্ণসংখ্যা বিন্দুর সংখ্যা পর্যবেক্ষণ করো। ভেতর থেকে বাইরের দিকে 10ম বর্গের বাহুর ওপর কতগুলো পূর্ণসংখ্যা বিন্দু আছে তা অনুমান করতে পারবে কি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "495dc167-1f3f-4b92-9f32-348f41b47cea",
+    "images": [
+      "images/3792_0.png"
+    ],
+    "english_question": "<image>\nদুটি সর্বসম সমকোণী ত্রিভুজের অতিভুজ 10 সেমি এবং ক্ষুদ্রতম সূক্ষ্মকোণ 30°। এদের এমনভাবে সাজানো হয়েছে যে বিন্দু B, C, F, D সমরেখ এবং C ও F বিন্দুদ্বয় সমপাতিত হয়। ত্রিভুজ ABC-কে C বিন্দুর চারদিকে ঘড়ির কাঁটার দিকে এমনভাবে ঘোরানো হলো যেন বিন্দু E, বাহু AB-এর উপর অবস্থিত হয় এবং রেখা AC, DE-কে G বিন্দুতে ছেদ করে। CG রেখাংশের দৈর্ঘ্য সেমিতে নির্ণয় করো, যা বর্গমূলের মাধ্যমে প্রকাশ করতে হবে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f162982d-78c1-4916-aa3b-332d999a1f2a",
+    "images": [
+      "images/17563_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, A বিন্দুতে অবস্থিত তথ্য কেন্দ্র জানতে পেরেছে যে একটি মাছ ধরার নৌকা B বিন্দুতে বিপদে পড়েছে, যা A-এর ঠিক পূর্বে 40 নটিক্যাল মাইল দূরে অবস্থিত এবং উদ্ধারের অপেক্ষায় আছে। তথ্য কেন্দ্র অবিলম্বে C বিন্দুতে থাকা জাহাজটিকে অবহিত করে, যা A-এর দক্ষিণ-পশ্চিমে (30 ডিগ্রি) 20 নটিক্যাল মাইল দূরে অবস্থিত। এখন, জাহাজ C, θ কোণে B বিন্দুর দিকে অগ্রসর হচ্ছে। cos θ-এর মান নির্ণয় করো।\nOptions:\nA) Now, ship C is heading towards point B in the direction of angle θ. Find the value of \\( \\cos \\theta \\).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "92d14aef-a3b1-43f6-b658-708c410529d2",
+    "images": [
+      "images/5979_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াযুক্ত অংশটি একটি আয়তক্ষেত্র, এর ক্ষেত্রফল কত? ( ) \nক. 3 সেমি²\nখ. 4 সেমি²\nগ. 5 সেমি²\nঘ. 6 সেমি²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0f4f54fb-7304-4e92-b9da-dc2e4c1bf2e3",
+    "images": [
+      "images/16723_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যদি PAB এবং PCD রেখা দুটি বৃত্ত O-কে যথাক্রমে A, B, C এবং D বিন্দুতে ছেদ করে, তবে নিচের কোন সমীকরণটি সঠিক? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "560b297f-c9bd-494a-b150-61fc3a03fcc9",
+    "images": [
+      "images/44959_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\(A\\) ও \\(B\\) বিন্দু দুটি 1 একক বাহুবিশিষ্ট একটি \\(5 \times 5\\) গ্রিডের গ্রিড বিন্দু। যদি \\(C\\) বিন্দুটিকে যেকোনো গ্রিড বিন্দুতে স্থাপন করা হয়, তবে ত্রিভুজ \\(ABC\\)-এর ক্ষেত্রফল ঠিক 1 হওয়ার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ac4e787-55e4-44f1-8a45-5dcd72d7083b",
+    "images": [
+      "images/3983_0.png"
+    ],
+    "english_question": "<image>\nO বন্দর থেকে ঠিক 120 km পূর্বে B বন্দর অবস্থিত। C দ্বীপটি এমনভাবে অবস্থিত যে ∠CBO = 60° এবং ∠COB = 30°। একটি মাছ ধরা নৌবহর O বন্দর থেকে দক্ষিণ-পূর্ব 30° দিক বরাবর 20 km/h বেগে যাত্রা শুরু করে। একটি আইন প্রয়োগকারী জাহাজ B বন্দর থেকে 60 km/h বেগে দক্ষিণ-পশ্চিম 30° দিক বরাবর C দ্বীপের দিকে রওনা দেয়, দ্বীপে পৌঁছাতে জাহাজটির 1 ঘণ্টা সময় লাগে এবং সেখানে সরবরাহ নেওয়ার জন্য আরও 1 ঘণ্টা ব্যয় করে। C দ্বীপ থেকে রওনা হওয়ার পর, নৌবহরের সাথে মিলিত হতে আইন প্রয়োগকারী জাহাজটির ন্যূনতম কত সময় লাগবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

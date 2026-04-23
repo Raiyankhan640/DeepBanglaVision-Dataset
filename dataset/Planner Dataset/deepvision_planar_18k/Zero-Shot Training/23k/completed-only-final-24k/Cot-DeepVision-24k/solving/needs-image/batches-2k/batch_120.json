@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a150fd01-1849-46c6-b65d-cdd60b3eef0d",
+    "images": [
+      "images/17058_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∆AB_1C_1, ∆C_1B_2C_2, ∆C_2B_3C_3 হলো তিনটি সমবাহু ত্রিভুজ যাদের বাহুর দৈর্ঘ্য 2 এবং একটি বাহু একই সরলরেখায় অবস্থিত। B_3C_3 বাহুর ওপর দুটি ভিন্ন বিন্দু P_1 এবং P_2 রয়েছে। তাহলে A→B_2 · (A→P_1 + A→P_2) = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fbaef9cd-4440-4c9f-a123-259aacbd1655",
+    "images": [
+      "images/43797_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, ∠1 = ∠2, AE ⊥ OB বিন্দু E-তে, BD ⊥ OA বিন্দু D-তে এবং তাদের ছেদবিন্দু C। চিত্রে সর্বসম ত্রিভুজের কত জোড়া বিদ্যমান?\nOptions:\nC) How many pairs of congruent triangles are there in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "752ee84f-65c1-463e-8ff9-b60129ebeb64",
+    "images": [
+      "images/12075_0.png"
+    ],
+    "english_question": "<image>\nশাও চিয়াং একই আকারের ছোট ঘনক ব্যবহার করে একটি আয়তাকার প্রিজম তৈরি করেছে। সামনে এবং উপর থেকে দেখা আকৃতিগুলো চিত্রে দেখানো হয়েছে। সে মোট কতগুলো ছোট ঘনক ব্যবহার করেছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3323f67d-322a-4537-a782-983bd1e5fbb9",
+    "images": [
+      "images/71203_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD রেখার সমান্তরাল, ∠1 = (3x + 10)°, ∠2 = (5x + 10)°। ∠1 এর মান ডিগ্রিতে নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "690bead0-220e-4e44-9d9f-e4ae6ea43166",
+    "images": [
+      "images/58512_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, কমিউনিটি পার্কে একটি বৃত্তাকার মাঠ আছে যা কালো ও সাদা পাথর দিয়ে বাঁধানো এবং আটটি সমান অংশে বিভক্ত। ছায়াযুক্ত অংশটি কালো পাথর দিয়ে তৈরি। যদি শাও হুয়া দৈবভাবে মাঠের ওপর একটি বল নিক্ষেপ করে, তবে বলটি কালো পাথরের এলাকায় পড়ার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3fc973ad-09ca-4a37-886b-66568a993113",
+    "images": [
+      "images/3654_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াযুক্ত অংশের ক্ষেত্রফল 2 বর্গ সেমি। যদি AE = ED এবং BD = 2DC হয়, তবে ত্রিভুজ ABC-এর ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "53c5316a-8ee9-4e17-98d1-dad25a58562f",
+    "images": [
+      "images/31853_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, O হলো মূলবিন্দু। ABOC সামান্তরিকের কর্ণদ্বয় M বিন্দুতে ছেদ করে। $y= \\frac{k}{x}$ ($x<0$ এর জন্য) পরাবৃত্তটি B এবং M বিন্দুগামী। যদি ABOC সামান্তরিকের ক্ষেত্রফল 12 হয়, তবে $k= ______$ ।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cc5a3b27-6ec2-444a-b7ca-4a71317add9d",
+    "images": [
+      "images/17470_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো অনুযায়ী, আয়তক্ষেত্র ABCD-কে EF ভাঁজ বরাবর ভাঁজ করা হলো। BC-এর অনুরূপ বাহু B'C', CD-কে P বিন্দুতে ছেদ করে। যদি ∠DPB' = 58° হয়, তবে ∠BEF-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a1fce379-95ad-4c36-b3e5-18963340b0ac",
+    "images": [
+      "images/49986_0.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট ব্র্যান্ডের টি-শার্টের চারটি ধোয়ার নির্দেশনার নকশার মধ্যে, কোনটি ঘূর্ণন বা অক্ষীয় প্রতিসাম্যের ধারণা ব্যবহার করে না? ( )\n\nOptions (copied from English):\nক. \\boxdot\nখ. \\bigotimes\nগ. \nঘ. \\bigotimes",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "39fa430e-e080-4280-961b-84614a6b8bd4",
+    "images": [
+      "images/31977_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্র, BEFG বর্গক্ষেত্র এবং RKPF বর্গক্ষেত্রের বাহুর দৈর্ঘ্য যথাক্রমে a, b এবং c। বিন্দু G, রেখাংশ DK-এর উপর অবস্থিত। চিত্রটিতে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08a9d52d-d088-4104-9709-1021819220f6",
+    "images": [
+      "images/17090_0.png"
+    ],
+    "english_question": "<image>\nউভয় পাশে সমান্তরাল একটি কাগজের ফিতাকে চিত্রে দেখানো অনুযায়ী ভাঁজ করা হয়েছে। যদি ∠EFB = 32° হয়, তবে ∠BGE = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60937c17-d2b7-4f3c-a197-2e47008a4841",
+    "images": [
+      "images/20691_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-কে বিন্দু C-এর সাপেক্ষে ঘড়ির কাঁটার দিকে 50° কোণে আবর্তন করে ত্রিভুজ A'B'C' পাওয়া গেল। যদি ∠A = 45° এবং ∠B' = 110° হয়, তবে ∠BCA'-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "731417b3-6953-4089-a153-2e02a25cdfe3",
+    "images": [
+      "images/59937_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত শ্রেণিকক্ষের পরিমাপ এবং শিক্ষার্থীর সংখ্যা অনুযায়ী, কোন শ্রেণিটি বেশি জনাকীর্ণ? প্রতিটি শ্রেণির জন্য শিক্ষার্থীর ঘনত্ব (প্রতি বর্গমিটারে শিক্ষার্থীর সংখ্যা) নির্ণয় করে উত্তরটি বের করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "99956381-14d0-46a5-881e-e38d19b49368",
+    "images": [
+      "images/40402_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তথ্য অনুযায়ী AH∥DG∥BC এবং DF∥AC। চিত্রে ∠ACB-এর সমান কোণের সংখ্যা (নিজে বাদে) কতটি? (___)।\nবিকল্প:\n(ক) 3\n(খ) 4\n(গ) 5\n(ঘ) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "220fde08-bf29-4f7a-9f9b-fe638ab89fa2",
+    "images": [
+      "images/74189_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে ∠C = 90°, ∠ABC = 30°, AC = 2। A কেন্দ্র করে বিরুদ্ধ দিকে 45° ঘুরাইলে AB'C' পাওয়া যায়। B → B' পথের ছায়াযুক্ত অঞ্চলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3a1cf7b-a3ef-43d6-ae6e-b0c79e093a07",
+    "images": [
+      "images/28099_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ছায়াবৃত অংশের ক্ষেত্রফল 5 বর্গ সেমি। OA-কে ব্যাস ধরে অঙ্কিত অর্ধবৃত্তের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe43f18e-2f3a-4e29-981b-9c754f3e3df0",
+    "images": [
+      "images/63810_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, যেখানে AC=BC, বিন্দু D এবং E যথাক্রমে AB এবং AC বাহুর মধ্যবিন্দু। DE রেখাকে F বিন্দু পর্যন্ত এমনভাবে বর্ধিত করা হলো যেন EF=DE হয়। তাহলে, চতুর্ভুজ ADCF অবশ্যই একটি ( )\n\nOptions:\nক) Rectangle\nখ) Rhombus\nগ) Square\nঘ) Trapezoid",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "69f2b515-2f75-4eaf-b8f3-fc977f440103",
+    "images": [
+      "images/triangle_ext_69f2b515-2f75-4eaf-b8f3-fc977f440103.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, গ্রিড কাগজের বর্গগুলোর বাহুর দৈর্ঘ্য \\(1\\)। গাঢ় রেখাগুলো একটি নির্দিষ্ট জ্যামিতিক বস্তুর তিনটি দৃশ্য প্রকাশ করছে। এই জ্যামিতিক বস্তুটির আয়তন কত? \\((\\) \\()\\)\nক. \\( \\dfrac {13}{3}\\)\nখ. \\( \\dfrac {14}{3}\\)\nগ. \\( \\dfrac {15}{3}\\)\nঘ. \\( \\dfrac {16}{3}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07f1a8e0-f38b-445f-9303-b08c831cdee1",
+    "images": [
+      "images/38914_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ভেক্টর 11 এবং 12 এর আলোকে, 211 - 12 ভেক্টরটি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "caccb31e-b5cf-45f0-8af0-7c7f368e6a5d",
+    "images": [
+      "images/68231_0.png"
+    ],
+    "english_question": "<image>\nস্থানাঙ্ক ব্যবস্থায় একটি রম্বস OABC স্থাপন করা হলো। দেওয়া আছে ∠ABC = 60°, বিন্দু B y-অক্ষে অবস্থিত এবং OA = 1। রম্বস OABC-কে x-অক্ষের ধনাত্মক দিকে পিছলে না গিয়ে উল্টানো হলো, প্রতিবার 60° কোণে উল্টানো হয় এবং এভাবে 2017 বার উল্টানো হলো। প্রতিটি উল্টানোর পর বিন্দু B-এর স্থানাঙ্ক যথাক্রমে B₁, B₂, B₃, … হলে, B₂₀₁₇-এর স্থানাঙ্ক কত?\n\nOptions:\nক) (1345, 0)\nখ) (1345, 0)\nগ) (1345.5, \\frac { \\sqrt {3}}{2})\nঘ) (1346.5, \\frac { \\sqrt {3}}{2})",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

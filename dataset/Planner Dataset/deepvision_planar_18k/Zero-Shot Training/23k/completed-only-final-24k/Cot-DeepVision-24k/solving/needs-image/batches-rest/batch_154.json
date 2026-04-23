@@ -1,0 +1,302 @@
+[
+  {
+    "id": "56ab7982-235c-470c-867b-59684dab0275",
+    "images": [
+      "images/triangle_ext_56ab7982-235c-470c-867b-59684dab0275.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D হলো ত্রিভুজ ABC এর BC বাহুর ওপর একটি বিন্দু, দেওয়া আছে AB=4 এবং AD=2। যদি ∠DAC=∠B হয় এবং ত্রিভুজ ABD এর ক্ষেত্রফল a হয়, তবে ত্রিভুজ ACD এর ক্ষেত্রফল কত? ( )\nক. a\nখ. \\textstyle { \\frac { 1 } { 2 } } a\nগ. \\textstyle { \\frac { 1 } { 3 } } a\nঘ. \\textstyle { \\frac { 2 } { 3 } } a",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65cbcb9b-192b-4f83-a829-9547e3ff3bfc",
+    "images": [
+      "images/70680_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, দেওয়া আছে ∠1 = ∠B = 50°, তাহলে ∠2 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c65cbe3a-0f44-457c-9fa6-11cf47664d83",
+    "images": [
+      "images/58970_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ∥ CD, AD ∥ BC এবং OE = OF। চিত্রে সর্বসম ত্রিভুজের কত জোড়া বিদ্যমান?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5083f583-9109-4bac-a513-231d24406de6",
+    "images": [
+      "images/56361_0.png"
+    ],
+    "english_question": "<image>\nযদি একটি বেলনাকার কাগজের টিউবকে এর উৎপাদক রেখা AB বরাবর কেটে খোলা হয়, তবে একটি আয়তক্ষেত্র পাওয়া যায় (চিত্রে দেখানো হয়েছে)। যদি এই কাগজের টিউবটিকে B→M→A রেখা বরাবর কেটে খোলা হয়, তবে কী আকৃতি পাওয়া যাবে?\n\nOptions:\nক) Rectangle\nখ) Semicircle\nগ) Triangle\nঘ) Parallelogram",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29aeac47-8fe1-4d7b-b6f7-d02bf0beff1a",
+    "images": [
+      "images/66336_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, AC রেখাটি x-অক্ষকে A(-4, 0) বিন্দুতে ছেদ করে এবং P(2, 2) বিন্দুগামী। রেখাটি P বিন্দুতে y = k/x পরাবৃত্তকে ছেদ করে। প্রথম চতুর্ভাগে x-এর কোন মানের জন্য রৈখিক ফাংশনটি ব্যস্তানুপাতিক ফাংশন অপেক্ষা বৃহত্তর হবে তা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e5634223-39fc-4122-aaa1-63f1a57f1b32",
+    "images": [
+      "images/59337_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 1 একক বাহুবিশিষ্ট ছোট বর্গক্ষেত্র দ্বারা গঠিত 4x4 গ্রিডে, গ্রিড রেখাগুলোর ছেদবিন্দুগুলোকে গ্রিড পয়েন্ট বলা হয়। যদি A এবং B দুটি গ্রিড পয়েন্ট হয় এবং C যেকোনো একটি গ্রিড পয়েন্টে অবস্থিত হয়, তবে ত্রিভুজ ABC-এর ক্ষেত্রফল 1 হওয়ার সম্ভাবনা কত? ( ) ক. 4/25 খ. 1/5 গ. 6/25 ঘ. 8/25",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f11bdfa0-9628-42c1-8e77-0dabff5c65c5",
+    "images": [
+      "images/49879_0.png"
+    ],
+    "english_question": "<image>\nএকটি দুই সারি, তিন কলামের ছক বা চেকারবোর্ডে একটি ছক্কাকে তার ধার বরাবর গড়ানো হচ্ছে (বিপরীত পৃষ্ঠগুলোতে 1 ও 6, 2 ও 5, 3 ও 4 অঙ্কিত)। প্রতিটি গড়ানো পদ্ধতিতে, ছক্কাটি পিছনের দিকে গড়াতে পারবে না। শুরুতে, ছক্কাটি চিত্র (1)-এ দেখানো অবস্থানে আছে, যেখানে 2 সংখ্যাটি উপরে আছে। পরিশেষে, এটি চিত্র (2)-এ দেখানো অবস্থানে পৌঁছায়, এই অবস্থানে উপরের সংখ্যাটি নিচের কোন সংখ্যাটি হতে পারবে না?\n\nOptions:\nক) 5\nখ) 4\nগ) 3\nঘ) 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "13be6257-2005-4844-b3a8-ff151e10cd4d",
+    "images": [
+      "images/12266_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ধরা যাক ABCD একটি রম্বস। নিচের কোন ভেক্টর জোড়াকে একই অভিমুখে নির্দেশিত রেখাংশ দিয়ে উপস্থাপন করা যেতে পারে? ( )\nক. AB এবং CD\nখ. AD এবং BC\nগ. AD এবং CD\nঘ. AD এবং AB",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "88ffc796-7ef2-4494-963a-bf10d5b10992",
+    "images": [
+      "images/23939_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু A এবং B হাইপারবোলা y_1 = k/x (k > 1, x > 0) এর উপর অবস্থিত, বিন্দু C এবং D হাইপারবোলা y_2 = 1/x (x > 0) এর উপর অবস্থিত এবং AC // BD // x-অক্ষ। যদি AC/BD = m হয়, তবে ত্রিভুজ OCD এর ক্ষেত্রফল কত (m এর মাধ্যমে প্রকাশ করো)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73214291-7e76-4b8b-a0d6-55567ae47d29",
+    "images": [
+      "images/77019_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র ABCD-এর শীর্ষবিন্দু A এবং C যথাক্রমে x-অক্ষ এবং y-অক্ষের ধনাত্মক দিকের উপর অবস্থিত। শীর্ষবিন্দু B হাইপারবোলা y_1 = 4/x (x > 0) এর উপর এবং শীর্ষবিন্দু D হাইপারবোলা y_2 = -2/x (x < 0) এর উপর অবস্থিত। বর্গক্ষেত্র ABCD-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a024fec9-9875-49ed-b5b7-c8bb6f88d741",
+    "images": [
+      "images/38103_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি 45^{\\circ} ত্রিভুজ একত্রে সাজানো আছে। BC এবং AC-এর বর্ধিতাংশ যথাক্রমে M এবং N বিন্দুতে DE রেখাকে ছেদ করে। যদি ∠ABD=30^{\\circ} হয়, তবে ∠AND-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f5f06cb2-9d0a-4ad2-a378-2e1d093fd7f1",
+    "images": [
+      "images/11156_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, যেখানে ∠C=90° এবং CA=CB, M বিন্দুটি AB-এর উপর এমনভাবে অবস্থিত যে ∠GMB=22.5° এবং BG, MG-এর উপর লম্ব, যেখানে G পাদবিন্দু। MG রেখাটি BC-কে H বিন্দুতে ছেদ করে। যদি MH=8 সেমি হয়, তবে BG-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "44689fb2-5e7e-4ae7-b05e-fcf182604ad4",
+    "images": [
+      "images/10431_0.png"
+    ],
+    "english_question": "<image>\nটেবিলে কিছু ইনস্ট্যান্ট নুডলসের কাপ রাখা আছে। বাম পাশে দেওয়া তিনটি দৃশ্য হলো এর তিনটি অভিক্ষেপ (projections)। সব মিলিয়ে মোট কয়টি ইনস্ট্যান্ট নুডলসের কাপ আছে? ( ) \nক. 5টি \nখ. 6টি \nগ. 9টি \nঘ. 12টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ac618484-ea43-457f-8410-2a6e89433421",
+    "images": [
+      "images/60325_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত ফ্লোচার্টটি নির্দেশ করে যে নিচের চারটি ফাংশন ইনপুট হিসেবে দেওয়া যেতে পারে, কোন ফাংশনটি আউটপুট হিসেবে পাওয়া যাবে? ( )\nক. f (x) = x^2 - 1\nখ. f (x) = 1/x\nগ. f (x) = e^x - e^{-x}\nঘ. f (x) = 3sin(x) + 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5658c363-dc0f-46ca-bace-203ebcd56e56",
+    "images": [
+      "images/47614_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত জটিল আকৃতির ক্ষেত্রফল নির্ণয় করো (একক: সেমি)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1a55025b-583e-4a09-af02-67c0b214a23b",
+    "images": [
+      "images/1503_0.png"
+    ],
+    "english_question": "<image>\nটেবিলে কিছু ইনস্ট্যান্ট নুডলসের বাটি রাখা আছে। চিত্রটিতে এর তিনটি দৃশ্য দেখানো হয়েছে। সব মিলিয়ে মোট কয়টি ইনস্ট্যান্ট নুডলসের বাটি আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f7f7359-ab87-4458-9253-f9408628bf60",
+    "images": [
+      "images/57503_0.png"
+    ],
+    "english_question": "<image>\nচ্যাং দাদুর পরিবারের একটি সবজির বাগান আছে (চিত্রে দেখানো হয়েছে)। বর্গমিটার এককে এই সবজির বাগানটির ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ee437ca7-bccf-4c60-a557-50d7e82d327d",
+    "images": [
+      "images/21195_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, OA রেখাংশ OB-এর ওপর লম্ব। যদি OA রশ্মির দিক উত্তর দিকের সাথে 65° পূর্ব কোণে থাকে, তবে OB রশ্মির দিকটি কত?\nOptions:\nB) If the direction of ray OA is 65° east of north, then the direction of ray OB is.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "41b206f5-6394-4dfd-9d47-91d8b9856b3c",
+    "images": [
+      "images/28921_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD-তে, ∠BAD=100°, ∠BCD=70°। বিন্দু M এবং N যথাক্রমে AB এবং BC বাহুর ওপর অবস্থিত। ত্রিভুজ BMN-কে MN রেখা বরাবর ভাঁজ করে ত্রিভুজ FMN পাওয়া যায়। যদি MF ∥ AD এবং FN ∥ DC হয়, তবে ∠B-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "28079492-1d22-46cb-a413-bf82c59ec71d",
+    "images": [
+      "images/38951_0.png"
+    ],
+    "english_question": "<image>\n(2006•জিয়াক্সিং) টেবিলের উপর কিছু ইন্সট্যান্ট নুডলসের কাপ রাখা আছে। বাম দিকে দেওয়া তিনটি দৃশ্য হলো এর সামনের দৃশ্য, বাম পাশের দৃশ্য এবং উপরের দৃশ্য। মোট কতগুলো ইন্সট্যান্ট নুডলসের কাপ আছে?\n\nOptions:\nক) 5 buckets\nখ) 6 buckets\nগ) 9 buckets\nঘ) 12 buckets",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

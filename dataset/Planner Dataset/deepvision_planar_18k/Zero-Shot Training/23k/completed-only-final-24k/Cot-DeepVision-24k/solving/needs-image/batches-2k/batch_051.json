@@ -1,0 +1,302 @@
+[
+  {
+    "id": "40840494-768a-45ea-a253-051fbd17bf8e",
+    "images": [
+      "images/32534_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একই আকৃতির কিন্তু ভিন্ন আকারের তিনটি সমকোণী ত্রিভুজাকার কাঠের বোর্ড দিয়ে একটি চতুর্ভুজ ABCD গঠন করা হয়েছে। যদি AE=2 এবং CE=3BE হয়, তবে এই চতুর্ভুজের ক্ষেত্রফল কত?\nOptions:\nD) If AE=2 and CE=3BE, what is the area of this quadrilateral?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6a54050c-0da1-4976-9e23-fb3d903612ce",
+    "images": [
+      "images/38004_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB একটি অর্ধবৃত্তের ব্যাস, D বিন্দুটি চাপ AC-এর মধ্যবিন্দু এবং ∠ABC = 50°। ∠DAB-এর মান কত?\n\nOptions:\nক) 55°\nখ) 60°\nগ) 65°\nঘ) 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ecaba264-9c4b-44ae-9918-929853db38eb",
+    "images": [
+      "images/46138_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন উক্তিটি ভুল? ( )\nক. ∠1 এবং ∠2 একান্তর অন্তঃস্থ কোণ\nখ. ∠2 এবং ∠3 অনুরূপ কোণ\nগ. ∠1 এবং ∠3 একান্তর অন্তঃস্থ কোণ\nঘ. ∠2 এবং ∠4 একই পার্শ্বস্থ অন্তঃস্থ কোণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ce00ad8-5c5d-41f6-bf75-205143c88c3b",
+    "images": [
+      "images/triangle_ext_6ce00ad8-5c5d-41f6-bf75-205143c88c3b.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজাকার কাগজ ABC এর AB রেখাংশের ওপর P একটি বিন্দু। জানা আছে যে, যখন A, B এবং C বিন্দুগুলোকে P বিন্দুর দিকে ভাঁজ করা হয়, তখন SR, TQ এবং QR রেখাংশগুলো তৈরি হয়, যেখানে Q, R, S এবং T বিন্দুগুলো যথাক্রমে BC, AC, AP এবং BP রেখাংশের ওপর অবস্থিত। যদি ত্রিভুজ ABC এবং চতুর্ভুজ PTQR এর ক্ষেত্রফল যথাক্রমে 16 এবং 5 হয়, তবে ত্রিভুজ PRS এর ক্ষেত্রফল কত?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e81c6de-4eca-4f3e-8de1-329214d608d8",
+    "images": [
+      "images/35630_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014 ওয়ানঝৌ ডিস্ট্রিক্ট স্কুল-লেভেল সিমুলেশন), AB সমান্তরাল CD, CE কোণ ACD-কে সমদ্বিখণ্ডিত করে AB-কে E বিন্দুতে ছেদ করে। যদি কোণ ACE 12° হয়, তবে কোণ 1-এর মান কত ডিগ্রি?\n\nOptions:\nক) 6°\nখ) 12°\nগ) 24°\nঘ) 39°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6cd395a0-8461-4b71-80f0-7792c17d1710",
+    "images": [
+      "images/58832_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 20-এ দেখানো হয়েছে যে, একজন শিক্ষার্থী দুর্ঘটনাবশত একটি ত্রিভুজাকার কাঁচের যন্ত্রকে তিনটি টুকরোয় ভেঙে ফেলেছে। কাঁচের দোকানে হুবহু একই রকম একটি টুকরো তৈরি করতে, সবচেয়ে সহজ উপায় হলো তাদের সাথে ________ নিয়ে যাওয়া।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "038a67cd-9b8b-4bf6-a55c-6010ef3858a0",
+    "images": [
+      "images/46361_0.png"
+    ],
+    "english_question": "<image>\nযদি বর্গক্ষেত্র A এর একটি শীর্ষবিন্দু বর্গক্ষেত্র B এর কর্ণের ছেদবিন্দুর সাথে মিলে যায়, যেমনটি চিত্র (1) এ দেখানো হয়েছে, তবে ছায়াবৃত অংশের ক্ষেত্রফল বর্গক্ষেত্র A এর ক্ষেত্রফলের 1/8 অংশ। যদি বর্গক্ষেত্র B এর একটি শীর্ষবিন্দু বর্গক্ষেত্র A এর কর্ণের ছেদবিন্দুর সাথে মিলে যায়, চিত্র (2) অনুযায়ী, তবে ছায়াবৃত অংশের ক্ষেত্রফল বর্গক্ষেত্র B এর ক্ষেত্রফলের কত অংশ?\n\nOptions:\nক) \\( \\frac{1}{4} \\)\nখ) \\( \\frac{1}{3} \\)\nগ) \\( \\frac{1}{2} \\)\nঘ) \\( \\frac{2}{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5ae9d949-9c1b-4384-b35c-d197edbb2674",
+    "images": [
+      "images/13148_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তক্ষেত্রটি 3 সেমি বাহুবিশিষ্ট 8টি ছোট বর্গক্ষেত্র দ্বারা গঠিত। ছায়াবৃত অংশের ক্ষেত্রফল কত সেমি²?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7804dbd1-c631-4cf7-bb31-90ef15c1636d",
+    "images": [
+      "images/9648_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, ত্রিভুজ AOB এবং ত্রিভুজ DOC-এর ক্ষেত্রফলের অনুপাত কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b1b7d601-0b63-4825-954b-0743b3cceb1e",
+    "images": [
+      "images/20031_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (2)-এ, চিত্র (1)-এর শর্তানুসারে, যদি ∠D = 40° এবং ∠B = 30° হয়, তবে কোণ P-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a91c5928-4b2e-49d3-b25b-4bb1c1bca011",
+    "images": [
+      "images/63_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l₁ সমান্তরাল রেখা l₂ এবং রেখা l₃ লম্ব রেখা l₄। তিনটি সিদ্ধান্ত দেওয়া হলো: ① ∠1 + ∠3 = 90°; ② ∠2 + ∠3 = 90°; ③ ∠2 = ∠4। নিচের কোনটি সঠিক?\n\nOptions:\nক) Only ① is correct\nখ) Only ② is correct\nগ) Both ① and ③ are correct\nঘ) All ①, ②, and ③ are correct",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9afe265f-0458-4b1b-9331-7056ecc947d1",
+    "images": [
+      "images/30028_0.png"
+    ],
+    "english_question": "<image>\nএকটি দিকনির্ণয় কার্যক্রমে, 'সারপাস' দলটি বিন্দু A থেকে বিন্দু B-তে যাওয়ার প্রস্তুতি নিচ্ছে, যা 2 কিমি দূরে অবস্থিত। বিন্দু A-এর সাপেক্ষে বিন্দু B-এর অবস্থান কত?\n\nOptions:\nক) Southwest 50°, 2km\nখ) Southeast 50°, 2km\nগ) Northwest 40°, 2km\nঘ) Northeast 40°, 2km",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8cab137c-7541-4c32-80d1-2814ace00830",
+    "images": [
+      "images/37214_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD এর কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে এবং E, BC বাহুর মধ্যবিন্দু। OE যোগ করা হলো। যদি AB = 6 হয়, তবে OE এর দৈর্ঘ্য কত? ( )\nক. 6\nখ. 5\nগ. 4\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "04da6b03-70e7-4e15-a46b-25f0306a3872",
+    "images": [
+      "images/42594_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি আয়তাকার কাগজ, যেখানে AB=4 এবং BC=8। E এবং F বিন্দুদ্বয় যথাক্রমে AD এবং BC বাহুর উপর অবস্থিত। কাগজটিকে EF রেখা বরাবর ভাঁজ করলে C বিন্দু AD বাহুর H বিন্দুতে এবং D বিন্দু G বিন্দুতে পতিত হয়। নিচের চারটি সিদ্ধান্ত দেওয়া হলো: ① চতুর্ভুজ CFHE একটি রম্বস; ② ∠DCE=∠ECH; ③ BF রেখাংশের সীমা 3≤BF≤5; ④ যখন H বিন্দু A বিন্দুর সাথে মিলে যায়, তখন EF=2√5। এই সিদ্ধান্তগুলোর মধ্যে কয়টি সঠিক?\n\nOptions:\nক) \\(1\\)\nখ) \\(2\\)\nগ) \\(3\\)\nঘ) \\(4\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8d5007e4-06b1-458e-ab19-fa045966aa1e",
+    "images": [
+      "images/10717_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চুম্বকগুলোর আকৃতি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ef851a90-ce05-4b4b-a23d-6457e6a85a6a",
+    "images": [
+      "images/26182_0.png"
+    ],
+    "english_question": "<image>\nএকটি জাহাজ ঘণ্টায় 35 নটিক্যাল মাইল বেগে উত্তর-পূর্ব দিকে (উত্তরের 45° পূর্বে) চলছে। বিন্দু A-তে, বাতিঘর C-কে উত্তরের 74° পূর্বে দেখা যায়। 12 মিনিট পর জাহাজটি বিন্দু B-তে পৌঁছালে বাতিঘর C সরাসরি পূর্ব দিকে অবস্থিত হয়। জাহাজটির C বিন্দুর নিকটতম দূরত্ব কি 8 নটিক্যাল মাইলের চেয়ে বেশি? (tan 29° ≈ 0.50, sin 29° ≈ 0.48, cos 29° ≈ 0.87 ব্যবহার করুন)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f87064fd-6320-44b0-a391-6b480e9cd5d9",
+    "images": [
+      "images/69116_0.png"
+    ],
+    "english_question": "<image>\nধরা যাক, চারটি গ্রাম E, F, G এবং H একটি চতুর্ভুজ গঠন করে যার কোণগুলো চিত্রে প্রদর্শিত হয়েছে। চারটি গ্রামকে অন্তর্ভুক্ত করে এমন বৃত্তাকার কভারেজ এলাকার ব্যাসার্ধ সর্বনিম্ন করতে রিলে স্টেশনটি কোথায় স্থাপন করা উচিত? বিকল্পগুলো হলো: ক. HF-এর মধ্যবিন্দু; খ. ত্রিভুজ GHE-এর পরিকেন্দ্র; গ. ত্রিভুজ HEF-এর পরিকেন্দ্র; ঘ. ত্রিভুজ GEF-এর পরিকেন্দ্র।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f8045147-f940-4f4b-bab4-bade3b277374",
+    "images": [
+      "images/72671_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ABCD একটি আয়তক্ষেত্র, F হলো AD বাহুর উপর একটি বিন্দু এবং E হলো CB বাহুর বর্ধিতাংশের উপর একটি বিন্দু। যদি AECF একটি সমদ্বিবাহু ট্রাপিজিয়াম হয়, তবে নিচের কোনটি সর্বদা সঠিক নয়? (ক) AE = FC (খ) AD = BC (গ) ∠AEB = ∠CFD (ঘ) BE = AF",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e4a3af4e-201b-4b48-893c-bb3f84f1643f",
+    "images": [
+      "images/7739_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ট্রাপিজিয়াম ABCD-তে, যেখানে AD সমান্তরাল BC এবং ∠ABC = 90°, BE, AC-এর উপর লম্ব এবং E বিন্দুতে ছেদ করে, CF, ∠ACB-কে সমদ্বিখণ্ডিত করে এবং BE-কে G বিন্দুতে ছেদ করে। DF সংযোগ করলে তা AC-কে H বিন্দুতে ছেদ করে এবং DF, CF-এর উপর লম্ব। নিচের সিদ্ধান্তগুলো নেওয়া হলো: 1. BF = BG; 2. △AFH ∽ △BCG; 3. CF = DF; 4. 2HA² = HD • HF। কয়টি সিদ্ধান্ত সঠিক? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "50881ba9-38b9-4ccc-ba45-19d2f9cc7d1e",
+    "images": [
+      "images/37246_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABED এবং AFCD উভয়ই সামান্তরিক। AF এবং DE রেখাদ্বয় G বিন্দুতে সমকোণে ছেদ করে। দেওয়া আছে AG = 3 সেমি, DG = 4 সেমি এবং চতুর্ভুজ ABCD-এর ক্ষেত্রফল 90 সেমি²। চতুর্ভুজ ABCD-এর পরিসীমা নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

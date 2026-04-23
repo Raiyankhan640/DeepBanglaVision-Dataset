@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1236a5f0-a971-44d4-8cb2-61c49ae71b41",
+    "images": [
+      "images/12575_0.png"
+    ],
+    "english_question": "<image>\nABCD সমকোণী ট্রাপিজিয়ামে, AD সমান্তরাল BC, AD লম্ব AB এবং BC = 5। ট্রাপিজিয়াম ABCD-কে AB বরাবর 2 একক স্থানান্তর করে EFGH ট্রাপিজিয়াম পাওয়া গেল। HG রেখা BC-কে M বিন্দুতে ছেদ করে এবং CM = 1। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "32cf0177-8ee9-41af-bcfb-4a1e101b95d2",
+    "images": [
+      "images/62180_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার গ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 এবং ছোট বর্গের শীর্ষবিন্দুগুলোকে গ্রিড পয়েন্ট বলা হয়। ত্রিভুজ △ABO এর তিনটি শীর্ষবিন্দু A, B এবং O গ্রিড পয়েন্টে অবস্থিত। যদি ত্রিভুজ △ABO কে O বিন্দুর সাপেক্ষে ঘড়ির কাঁটার বিপরীত দিকে 90° ঘোরানো হয়, তবে ঘূর্ণনের সময় রেখাংশ AB দ্বারা অতিক্রান্ত ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2d67c45f-b65b-44ed-ace0-f732d11fc08e",
+    "images": [
+      "images/47113_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-এ, যেখানে ∠C = 90°, P এবং Q বিন্দুদ্বয় যথাক্রমে A এবং B থেকে C বিন্দুর দিকে 2 মি/সে বেগে যাত্রা শুরু করে। কত সেকেন্ড পর, ত্রিভুজ PCQ-এর ক্ষেত্রফল ত্রিভুজ ABC-এর ক্ষেত্রফলের অর্ধেক হবে?\n\nOptions:\nক) 1.5\nখ) 9\nগ) 1.5 or 9\nঘ) 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e182df76-cfe5-49c8-8177-d92e10d54ece",
+    "images": [
+      "images/50352_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, গ্রিড কাগজে ত্রিভুজ ABC এবং ত্রিভুজ EPD-এর শীর্ষবিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত। ত্রিভুজ ABC-কে ত্রিভুজ EPD-এর সদৃশ করতে হলে, বিন্দু P অবশ্যই কোথায় অবস্থিত হতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e0311668-464a-4b4b-8b9f-6b8ac440e585",
+    "images": [
+      "images/25566_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1 এবং 2-এ, বৃত্ত O-এর ব্যাসার্ধ 2 এবং AB = 2√3। P বিন্দুটি চাপ y_B-এর উপর অবস্থিত একটি বিন্দু (P বিন্দুটি A বা B-এর সাথে মিলে যায় না)। যখন চিত্রটিকে BP বরাবর ভাঁজ করা হয়, তখন A বিন্দুর প্রতিসম বিন্দু A' পাওয়া যায়। যখন BA', বৃত্ত O-এর স্পর্শক হয়, যেমনটি চিত্র 2-এ দেখানো হয়েছে, তখন ভাঁজের দৈর্ঘ্য নির্ণয় করো।\nOptions:\nB). When the figure is folded along BP, point A's symmetric point A' is obtained. When BA' is tangent to circle O, as shown in Figure 2, find the length of the crease.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6fa3ee40-4b1c-4dea-ae29-4c6accf2ee5a",
+    "images": [
+      "images/15302_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। নিচের কোন উক্তিটি সঠিক? ( )\n\nOptions:\nক) When ∠1 = ∠2, then a ∥ b\nখ) When a ∥ b, then ∠1 = ∠2\nগ) When a ∥ b, then ∠1 + ∠2 = 180°\nঘ) When a ∥ b, then ∠1 + ∠2 = 90°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7cf635b7-312c-42e9-84d7-5023fe8c79e2",
+    "images": [
+      "images/2162_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে, তবে এর পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "028daf88-0762-41af-a615-a2c655642243",
+    "images": [
+      "images/63148_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি পরাবৃত্তাকার খিলান সেতু দেখানো হয়েছে। যখন পানির উপরিভাগ n অবস্থানে থাকে, তখন খিলানের শীর্ষবিন্দু পানির উপরিভাগ থেকে 2 মিটার উপরে থাকে এবং পানির উপরিভাগের প্রস্থ 4 মিটার। যদি পানির উপরিভাগ 1 মিটার নিচে নেমে যায়, তবে পানির উপরিভাগের প্রস্থ কতটুকু বৃদ্ধি পাবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07d9c6df-5ef2-47b3-8e6e-7a29b0a3e6cc",
+    "images": [
+      "images/10423_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত C: x^2 + y^2 = 9 এবং বিন্দু A(-5,0) দেওয়া আছে। OA রেখার উপর (যেখানে O মূলবিন্দু) এমন সকল বিন্দু B-এর স্থানাঙ্ক নির্ণয় করো যাতে বৃত্ত C-এর যেকোনো বিন্দু P-এর জন্য, অনুপাত |PB|/|PA| একটি ধ্রুবক হয়।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "752b68a1-5c06-493e-984b-4718dc031649",
+    "images": [
+      "images/10703_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-এর ক্ষেত্রফল 36। কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে এবং E হলো CD-এর ওপর একটি বিন্দু। যদি চতুর্ভুজ EFOG-এর ক্ষেত্রফল 3 হয়, তবে ছায়াবৃত অঞ্চলের ক্ষেত্রফল কত?\nOptions:\nD) Given that the area of quadrilateral EFOG is 3, what is the area of the shaded region?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "810c67b8-bd06-4907-b3fb-bf174f33377b",
+    "images": [
+      "images/76278_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গাকার পিরামিডের পার্শ্বীয় ধারগুলো সমান এবং এর ভূমি একটি বর্গক্ষেত্র। সম্মুখ দৃশ্য একটি ত্রিভুজাকার প্রস্থচ্ছেদ দেখায় যার ভূমি 2 এবং উচ্চতা 2। এই বর্গাকার পিরামিডের পার্শ্বতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02a1806a-efef-415b-8299-eddf259bfc4c",
+    "images": [
+      "images/9001_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং CD সমান্তরাল EF হলে, x, y এবং z-এর মধ্যে সম্পর্ক কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "48fbd858-a516-43a0-a1fd-5105c29d865c",
+    "images": [
+      "images/36477_0.png"
+    ],
+    "english_question": "<image>\nএকটি চলমান বিন্দু P, বিন্দু A থেকে যাত্রা শুরু করে l পরিসীমা বিশিষ্ট একটি সমতল চিত্রের চারপাশ দিয়ে ঘড়ির কাঁটার বিপরীত দিকে ঘুরছে। বিন্দু A এবং P-এর মধ্যবর্তী দূরত্ব y এবং বিন্দু P কর্তৃক অতিক্রান্ত দূরত্ব x-এর সম্পর্ক চিত্রে দেখানো হয়েছে। চলমান বিন্দু P কোন আকৃতির পথ দিয়ে চলছে? ক. ত্রিভুজ খ. অর্ধবৃত্ত গ. বৃত্ত ঘ. বর্গ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43e4c755-0cad-4e81-93d2-ec5aecb72986",
+    "images": [
+      "images/triangle_ext_43e4c755-0cad-4e81-93d2-ec5aecb72986.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে (সামনের দৃশ্যটি দুটি বর্গ নিয়ে গঠিত এবং উপরের দৃশ্যটি দুটি সমবাহু ত্রিভুজ নিয়ে গঠিত), এর আয়তন কত?\nক. \\( \\dfrac {3 \\sqrt {3}}{2}\\)\nখ. \\( \\dfrac {9 \\sqrt {3}}{4}\\)\nগ. \\(3 \\sqrt {3}\\)\nঘ. \\( \\dfrac {9 \\sqrt {3}}{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c4c7329-1e86-48fa-9b9f-1120defd1af3",
+    "images": [
+      "images/1185_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বড় অর্ধবৃত্তের ব্যাস 8α এবং ছোট অর্ধবৃত্তের ব্যাস 4α। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7bc8170a-6b50-48f1-ac41-743a64ea6469",
+    "images": [
+      "images/47739_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রে, সেক্টর OAB হলো একটি কোণের পার্শ্বতলের বিস্তৃতি। যদি ছোট বর্গাকার গ্রিডের বাহুর দৈর্ঘ্য 1 সেমি হয়, তবে এই কোণের ভূমির ব্যাসার্ধ কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "098952e8-4512-47b5-b319-c917622fa313",
+    "images": [
+      "images/triangle_ext_098952e8-4512-47b5-b319-c917622fa313.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য এবং এর পরিমাপ চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুর আয়তন কত? ( )\nক. \\( \\frac{28}{3} \\)\nখ. \\( \\frac{28 \\sqrt{2}}{3} \\)\nগ. 28\nঘ. \\( 22 + 6\\sqrt{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5c3bada7-9db4-49e6-9174-df8ac22f1e27",
+    "images": [
+      "images/38379_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু B, D এবং F রেখা AN-এর উপর অবস্থিত, বিন্দু C এবং E রেখা AG-এর উপর অবস্থিত, এবং AB = BC = CD, EC = ED = EF, ∠A = 20°। ∠FEG-এর মান কত ডিগ্রি তা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e44c37c-8588-4853-9eb0-0de3438c7782",
+    "images": [
+      "images/72451_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ দেখানো হয়েছে, একটি আয়তক্ষেত্রের এক বাহুর দৈর্ঘ্য x এবং পরিসীমার অর্ধেক y। (x,y) জোড়াটি এই আয়তক্ষেত্রের স্থানাঙ্ক নির্ধারণ করে। চিত্র 2-এ, কার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, x=1 এবং y=3 রেখাগুলো প্রথম চতুর্ভাগকে 4টি অঞ্চলে বিভক্ত করে। জানা গেছে যে, আয়তক্ষেত্র 1-এর স্থানাঙ্কের সংশ্লিষ্ট বিন্দু A চিত্রে দেখানো পরাবৃত্তের ওপর অবস্থিত এবং আয়তক্ষেত্র 2-এর স্থানাঙ্কের সংশ্লিষ্ট বিন্দুটি ④ অঞ্চলে অবস্থিত। নিচের কোন বিবৃতিটি সঠিক?\n\nOptions:\nক) The abscissa of point A may be greater than 3.\nখ) When rectangle 1 is a square, point A is located in region ②.\nগ) When point A moves up along the hyperbola, the area of rectangle 1 decreases.\nঘ) When point A is in region ①, rectangle 1 may be congruent to rectangle 2.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "412f5695-cd1f-4b91-8290-8b510cf6e033",
+    "images": [
+      "images/triangle_ext_412f5695-cd1f-4b91-8290-8b510cf6e033.png"
+    ],
+    "english_question": "<image>\nক. এবং B নামক দুইজন ব্যক্তি A বিন্দু থেকে যাত্রা শুরু করে C বিন্দুর দিকে যথাক্রমে পূর্ব দিকের উত্তর দিকে \\(30^{\\circ}\\) এবং \\(60^{\\circ}\\) কোণে ভ্রমণ করছে। যদি \\(BC \\perp AB\\) হয়, তবে C বিন্দুর সাপেক্ষে B বিন্দুর দিক কোনটি?\nক. North-east \\(30^{\\circ}\\)\nখ. North-west \\(30^{\\circ}\\)\nগ. South-east \\(30^{\\circ}\\)\nঘ. South-west \\(30^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

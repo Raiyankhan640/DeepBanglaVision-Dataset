@@ -1,0 +1,302 @@
+[
+  {
+    "id": "e159a6f0-59ff-4926-98d6-9f7f217e3212",
+    "images": [
+      "images/20089_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90° এবং CA=4, P বিন্দুটি অর্ধবৃত্তাকার চাপ AC-এর মধ্যবিন্দু। BP সংযোগ রেখাটি APCB চিত্রটিকে (যা একটি অর্ধবৃত্ত এবং সমকোণী ত্রিভুজ ABC নিয়ে গঠিত) দুটি অংশে বিভক্ত করে। এই দুটি অংশের ক্ষেত্রফলের পার্থক্যের পরম মান কত?\n\nOptions:\nক) 2\nখ) 4\nগ) 1.5π﹣2\nঘ) \\frac { 2 \\pi } { 3 }",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb11a66e-2ef2-434d-9a4c-454e0a325de4",
+    "images": [
+      "images/76108_0.png"
+    ],
+    "english_question": "<image>\nযদি বিন্দু E এর স্থানাঙ্ক (-2,1) এবং বিন্দু F এর স্থানাঙ্ক (1,-1) হয়, তবে বিন্দু G এর স্থানাঙ্ক কত?\n\nOptions:\nক) \\((1,2)\\)\nখ) \\((2,2)\\)\nগ) \\((2,1)\\)\nঘ) \\((1,1)\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ad64c547-7639-43ae-be80-bba1d12d8398",
+    "images": [
+      "images/54597_0.png"
+    ],
+    "english_question": "<image>\nটেবিলে কিছু ইনস্ট্যান্ট নুডলসের বাটি রাখা আছে এবং তাদের তিনটি দৃশ্য নিচে দেওয়া হলো। সব মিলিয়ে মোট কতটি নুডলসের বাটি আছে? ( ) \nক. 7টি বাটি \nখ. 8টি বাটি \nগ. 9টি বাটি \nঘ. 10টি বাটি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0069c343-eb1e-48ed-a14d-6534ce769208",
+    "images": [
+      "images/59451_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত AB রেখাটি CD রেখার সমান্তরাল এবং EF রেখাটি AB ও CD কে যথাক্রমে E ও F বিন্দুতে ছেদ করেছে। যদি ∠1 = 55° হয়, তবে ∠2 এর মান কত ডিগ্রি?\n\nOptions:\nক) 125°\nখ) 55°\nগ) 35°\nঘ) 135°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "475d966d-7ede-438e-a4b5-b5dd4dd86844",
+    "images": [
+      "images/61430_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমকোণী ত্রিভুজ এবং চতুর্ভুজ EDFC একটি বর্গক্ষেত্র। দুটি ছায়াবৃত ত্রিভুজের ক্ষেত্রফলের সমষ্টি 32 বর্গ সেন্টিমিটার এবং AD ও DB-এর অনুপাত 4:1। AD-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f3c5d667-c3ee-495f-bf9d-4777b2a95db4",
+    "images": [
+      "images/20476_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোনটি থেকে নিশ্চিত হওয়া যায় যে AD, BC এর সমান্তরাল?\nক. ∠1 = ∠2\nখ. ∠3 = ∠4\nগ. ∠2 = ∠3\nঘ. ∠1 = ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "89a6e2a9-b980-490c-99fb-949edeedd388",
+    "images": [
+      "images/8153_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্রের পরিসীমা 40 সেমি, DE = 6.4 সেমি এবং ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b1698391-94d1-44d0-a832-192045e422d7",
+    "images": [
+      "images/46546_0.png"
+    ],
+    "english_question": "<image>\nনিচের বামদিকের চিত্রটি একটি জ্যামিতিক বস্তুর সম্মুখ দৃশ্য। এর উপরের দৃশ্য (top view) কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6e7a789c-aab9-43e6-bff5-05fcee87d8ad",
+    "images": [
+      "images/31987_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD। α, β, এবং γ এর মাধ্যমে θ কে প্রকাশ করো, তাহলে θ = ( )\n\nOptions:\nক) α + γ - β\nখ) β + γ - α\nগ) 180° + γ - α - β\nঘ) 180° + α + β - γ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f6a2872d-5342-4bff-8ab1-6094315e4424",
+    "images": [
+      "images/75367_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো \\(M\\), \\(N\\), \\(P\\) এবং \\(Q\\) বিন্দুর অবস্থান অনুযায়ী নীচের কোন সিদ্ধান্তটি সঠিক?\nক. \\(∠NOQ=42^{\\circ}\\)\nখ. \\(∠NOP=132^{\\circ}\\)\nগ. \\(∠PON\\) কোণ \\(∠MOQ\\) অপেক্ষা বড়\nঘ. \\(∠MOQ\\) এবং \\(∠MOP\\) পরস্পর পূরক কোণ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "032d62a3-6cc4-4ce5-8a9e-8fa9d89f4bfb",
+    "images": [
+      "images/6252_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ঘনকের উন্মুক্ত রূপ দেওয়া আছে। যদি মূল ঘনকের উপরের তলে '祝' অক্ষরটি থাকে, তবে তার বিপরীত নিচের তলে কোন অক্ষরটি থাকবে?\n\nOptions:\nক) 考\nখ) 试\nগ) 顺\nঘ) 利",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "15e2b130-4bcd-4c32-bbe1-20fa7fb51519",
+    "images": [
+      "images/64367_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a387878b-6bb5-4b0c-b639-5efd2b5434b4",
+    "images": [
+      "images/45124_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ট্রাপিজিয়াম ABCD-এর কর্ণদ্বয় E বিন্দুতে ছেদ করে। চিত্রে সমান ক্ষেত্রফলবিশিষ্ট ত্রিভুজের সংখ্যা হলো ___।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c13d9acc-9d9c-4fd2-9b70-eca17b15bbed",
+    "images": [
+      "images/7313_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের কোন উক্তিটি সঠিক? ( )\n\nOptions:\nক) If AB ∥ DC, then ∠1 = ∠2\nখ) If AD ∥ BC, then ∠3 = ∠4\nগ) If ∠1 = ∠2, then AB ∥ DC\nঘ) If ∠2 + ∠3 + ∠A = 180°, then AB ∥ DC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a690a2e9-dad3-43ae-9479-609692d7f568",
+    "images": [
+      "images/40784_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সামান্তরিক ABCD-এর শীর্ষবিন্দু A, C এবং D বৃত্ত O-এর উপর অবস্থিত এবং AB রেখাটি A বিন্দুতে বৃত্ত O-এর স্পর্শক। ধরি ∠OCD = α এবং ∠BAD = β। যদি α = 50° হয়, তবে β-এর মান নির্ণয় করো।\nOptions:\nA) Let ∠OCD = α and ∠BAD = β. If α = 50°, find the value of β.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2652abd0-f5b8-4164-a388-d813de964298",
+    "images": [
+      "images/64973_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ △ABC (∠C=90°) এ, D এবং E বিন্দু যথাক্রমে AC এবং AB বাহুর উপর অবস্থিত। যদি ∠B = ∠ADE হয়, তবে কোন সিদ্ধান্তটি সঠিক? ক. ∠A এবং ∠B পূরক। খ. ∠B এবং ∠ADE পূরক। গ. ∠A এবং ∠ADE পূরক। ঘ. ∠AED এবং ∠DEB পূরক।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95897f7f-e40a-4127-bccf-cc14d1b2db32",
+    "images": [
+      "images/triangle_ext_95897f7f-e40a-4127-bccf-cc14d1b2db32.png"
+    ],
+    "english_question": "<image>\nপ্রশ্ন ২: দেওয়া আছে বিন্দু A(2, 0), B(1, 0) এবং D ও E বিন্দু দুটি একক বৃত্ত O-এর ওপর দিয়ে B বিন্দু থেকে ঘড়ির কাঁটার বিপরীত দিকে ঘুরছে, যেখানে E বিন্দুর কৌণিক বেগ D বিন্দুর দ্বিগুণ। ধরি, ∠BOD = θ। যখন θ = π/6, তখন চতুর্ভুজ ODAE-এর ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98159eef-41f6-4791-8045-1d73d364635c",
+    "images": [
+      "images/36664_0.png"
+    ],
+    "english_question": "<image>\nএকটি শপিং মল গ্রাহকদের আকৃষ্ট করার জন্য একটি ঘূর্ণায়মান ডিস্ক তৈরি করেছে। যখন নির্দেশকটি ছায়াবৃত অংশে থামে, তখন গ্রাহক পুরস্কার জেতেন। গ্রাহকের পুরস্কার জেতার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b75c5ece-77d1-46c5-af34-831527fd995d",
+    "images": [
+      "images/62881_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আকৃতিটির আয়তন নির্ণয় করো। (একক: ডেসিমিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b742a5fe-6d2b-4e56-aeaf-3fdee654794e",
+    "images": [
+      "images/76447_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি জ্যামিতিক বস্তুর ওপরের দৃশ্য (top view) প্রদর্শন করছে এবং সংখ্যাগুলো সেই অবস্থানে থাকা ছোট ঘনকের সংখ্যা নির্দেশ করে। এই জ্যামিতিক বস্তুটির সামনের দৃশ্য (front view) কেমন হবে?\n\nOptions:\nক) ![Option A](tikuimages/2/2017/400/shoutiniao20/c79cbbc2fa5cc644befe5e7eff64d5da.png) Option\nখ) ![Option B](tikuimages/2/2017/400/shoutiniao33/977c9993d98f8aabfbd19b94df95bb29.png) Option\nগ) ![Option C](tikuimages/2/2017/400/shoutiniao10/e8b23de4161d295a7ce718c748966b97.png) Option\nঘ) ![Option D](tikuimages/2/2017/400/shoutiniao30/8635d7129183c49ef6ba5af53f3f0f53.png)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

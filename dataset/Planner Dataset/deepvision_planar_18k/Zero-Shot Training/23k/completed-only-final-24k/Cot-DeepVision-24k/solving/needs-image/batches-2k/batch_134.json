@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bb259872-c100-41b9-9586-844ded045585",
+    "images": [
+      "images/22496_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, ধরি O মূলবিন্দু। ভেক্টর ${\\overrightarrow{O A}}={\\overline{a}}$ এবং ${\\overrightarrow{O B}}={\\overline{b}}$ সংজ্ঞায়িত করি, যেখানে ${\\overline{a}}=(3,1)$ এবং ${\\overline{b}}=(1,3)$। যদি $\\overline{O C}=\\lambda\\overline{a} + \\mu\\overline{b}$ হয়, যেখানে $0 \\leq \\lambda \\leq \\mu \\leq 1$, তবে কোন ছায়াবৃত অঞ্চলটি বিন্দু C-এর সকল সম্ভাব্য অবস্থান নির্দেশ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "909010f6-a6ae-4bc8-97b7-cc60ba06e91c",
+    "images": [
+      "images/58152_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি চিত্র 'ক' এবং 'খ' বিন্দু O-এর সাপেক্ষে কেন্দ্রিক প্রতিসম হয়, তবে চিত্র 'খ'-এর কোন অংশটি শর্ত পূরণ করে না? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fad3943c-af86-4e6c-80a3-087138cd2719",
+    "images": [
+      "images/25898_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90°, ∠CAB=60°, এবং AC=1, ত্রিভুজ ABC-কে বিন্দু A-এর সাপেক্ষে ঘড়ির কাঁটার বিপরীত দিকে 30° ঘোরানোর পর, আমরা ত্রিভুজ ADE পাই। বিন্দু B যে পথ অতিক্রম করে তা \\( \\overparen{BD} \\) দ্বারা চিহ্নিত। চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb999360-8cb3-4911-bcdd-3aea9bf11abc",
+    "images": [
+      "images/12596_0.png"
+    ],
+    "english_question": "<image>\nসবগুলো ত্রিভুজের শীর্ষবিন্দুর মোট সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5a0daafe-d4b6-48f8-8c4f-a4acb9ce915c",
+    "images": [
+      "images/triangle_ext_5a0daafe-d4b6-48f8-8c4f-a4acb9ce915c.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC (∠C=90°)-তে 3, 4 এবং x বাহু বিশিষ্ট বর্গক্ষেত্র রাখা হয়েছে। x-এর মান কত?\nক. 5\nখ. 6\nগ. 7\nঘ. 12",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a95bec82-27ec-469c-919c-1be1930ff454",
+    "images": [
+      "images/30493_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বর্গাকার গ্রিডের বাহুর দৈর্ঘ্য 1। রেখাংশ AB এবং বিন্দু P একই বিন্দুর সাপেক্ষে ঘূর্ণনের ফলে রেখাংশ A'B' এবং বিন্দু P' পাওয়া যায়। বিন্দু P' যে একক বর্গাকার ক্ষেত্রে অবস্থিত তা হলো ( )\nক. 1 ক্ষেত্র\nখ. 2 ক্ষেত্র\nগ. 3 ক্ষেত্র\nঘ. 4 ক্ষেত্র",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2c54a356-44c1-4ed8-a039-7948a8c91bdb",
+    "images": [
+      "images/2314_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 = 70°, a রেখাকে স্থানান্তর করে b রেখা পাওয়া গেল। তাহলে, ∠2 - ∠3 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b68f26e1-ccec-423a-a6e2-ffd79d03d718",
+    "images": [
+      "images/40569_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তথ্য অনুযায়ী, নিচের কোন বিবৃতিটি ভুল? ( )\nক. OA-এর দিক উত্তর 22° পশ্চিম\nখ. OB-এর দিক দক্ষিণ-পশ্চিম\nগ. OC-এর দিক দক্ষিণ 60° পূর্ব\nঘ. OD-এর দিক উত্তর 60° পূর্ব",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9a0b41e9-4460-4203-b4a5-4608f2153737",
+    "images": [
+      "images/12907_0.png"
+    ],
+    "english_question": "<image>\nএকটি নির্মাণস্থলে পানীয় জলের ড্রামের জন্য একটি কাঠের কাঠামো রাখা হয়েছে (চিত্র 1)। কাঠের তক্তার পুরুত্ব উপেক্ষা করলে, এর ওপরের দৃশ্য চিত্র 2-এ দেখানো হয়েছে। দেওয়া আছে যে AD, BC-এর ওপর লম্ব এবং BC-কে সমদ্বিখণ্ডিত করে, যেখানে AD = BC = 48 সেমি। সিলিন্ডার আকৃতির পানীয় জলের ড্রামের নিচের তলের ব্যাসার্ধের সর্বোচ্চ মান কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "38f6b980-c713-414f-9e53-816d5d86f3d1",
+    "images": [
+      "images/22829_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা c দুটি সমান্তরাল রেখা a এবং b কে ছেদ করেছে। নিচের কোন উক্তিটি সর্বদা সত্য? ( )\n\nOptions:\nক) ∠1 = ∠2\nখ) ∠1 = ∠3\nগ) ∠1 = ∠4\nঘ) ∠1 = ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "21290912-e82d-4812-ad01-22c6483b93e4",
+    "images": [
+      "images/35645_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিহ্নের মধ্যে কোনটি কেন্দ্রিক প্রতিসম চিত্র? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7e16ee32-e213-4bda-8790-40341e546cb3",
+    "images": [
+      "images/5892_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে 8টি আয়তক্ষেত্র দ্বারা গঠিত একটি বর্গক্ষেত্র দেখানো হয়েছে, যার প্রতিটি আয়তক্ষেত্রের দৈর্ঘ্য 4 ডেসিমিটার এবং প্রস্থ 2 ডেসিমিটার। একটি ছোট পোকা বিন্দু A থেকে যাত্রা শুরু করে এবং কোনো পথ পুনরায় অতিক্রম না করে রেখা বরাবর বিন্দু B-তে পৌঁছায়। পোকাটির অতিক্রান্ত সর্বোচ্চ দূরত্ব কত ডেসিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c3656a3d-996d-4f6a-a056-e9291031b46f",
+    "images": [
+      "images/66457_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD চতুর্ভুজের কর্ণ AC এবং BD পরস্পর O বিন্দুতে ছেদ করে এবং OA = OC, OB = OD। চতুর্ভুজ ABCD কে রম্বস করার জন্য একটি উপযুক্ত শর্ত যোগ করো: ( )\nOptions:\nD) Please add a suitable condition: \\( \\) , to make quadrilateral ABCD a rhombus.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "37c65136-a38e-4339-a3df-2b6db9d97cbc",
+    "images": [
+      "images/76435_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AB একটি অর্ধবৃত্তের ব্যাস, D বিন্দুটি AC চাপের মধ্যবিন্দু এবং ∠ABC = 50°। ∠DAB-এর মান কত?\nক. 55°\nখ. 60°\nগ. 65°\nঘ. 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eedb08e2-6f6d-4511-9eca-ee5ce607cb96",
+    "images": [
+      "images/62813_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি ∠AOD > ∠BOC হয়, তবে নিচের কোন উক্তিটি সঠিক ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b285ba6d-a07a-41a3-9e9d-3e99efc66f74",
+    "images": [
+      "images/28447_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে, AP রেখাটি O কেন্দ্রবিশিষ্ট বৃত্তের P বিন্দুতে একটি স্পর্শক এবং ∠APQ = ∠CPQ। চিত্রের কোন রেখাংশটি CQ রেখাংশের সমান? ( )\n\nOptions (copied from English):\nক. PQ\nPB\nPC\nঘ. BQ",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fafa790b-7c8f-4d22-909a-258b700ad9d9",
+    "images": [
+      "images/31167_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, শাও ফান একটি বৃত্তাকার মাঠের A বিন্দু থেকে যাত্রা শুরু করে এবং ব্যাসার্ধ OA-এর সাথে α কোণ উৎপন্ন করে এমন একটি দিকে হাঁটে। মাঠের প্রান্তে B বিন্দুতে পৌঁছানোর পর, সে দিক পরিবর্তন করে এবং ব্যাসার্ধ OB-এর সাথে α কোণ উৎপন্ন করে এমন দিকে হাঁটে। এই পদ্ধতি অনুসরণ করে, পঞ্চম বার মাঠের প্রান্তে পৌঁছানোর সময় সে AB চাপের উপর থাকে। এই সময়ে, ∠AOE = 48°, তবে α-এর মান কত?\n\nOptions:\nক) 60°\nখ) 51°\nগ) 48°\nঘ) 76°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7499534a-81b3-4800-9c24-caadf8e8d572",
+    "images": [
+      "images/42072_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, E এবং F যথাক্রমে AB এবং CD বাহুর মধ্যবিন্দু। যদি AD, BD-এর উপর লম্ব হয়, তবে BEDF কী ধরনের চতুর্ভুজ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ce2e8391-fad0-47bc-92ee-db9e69caa2ba",
+    "images": [
+      "images/74707_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ডানদিকে, বৃত্তের ব্যাস 20 সে.মি. এবং ছায়া A-এর ক্ষেত্রফল ছায়া B-এর ক্ষেত্রফল থেকে 27 বর্গ সে.মি. কম। MN-এর দৈর্ঘ্য কত সে.মি.?\nOptions:\nB) What is the length of MN in centimeters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "49a94250-fd13-40ef-b162-8d35afe3f2ac",
+    "images": [
+      "images/72034_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সামান্তরিক ABCD কে বিন্দু A কে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে 30° কোণে আবর্তন করে সামান্তরিক AB'C'D' পাওয়া গেল। বিন্দু B', বিন্দু B এর অনুরূপ এবং বিন্দু B', BC বাহুর উপর অবস্থিত। ∠C এর মান কত?\n\nOptions:\nক) \\(100^{\\circ}\\)\nখ) \\(105^{\\circ}\\)\nগ) \\(115^{\\circ}\\)\nঘ) \\(120^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

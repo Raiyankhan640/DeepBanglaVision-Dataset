@@ -1,0 +1,302 @@
+[
+  {
+    "id": "2eeb81a8-5eba-483f-a49e-f56854f6df21",
+    "images": [
+      "images/57482_0.png"
+    ],
+    "english_question": "<image>\nএকটি নির্দিষ্ট স্থানে ভ্রমণের জন্য, একটি ট্রাভেল এজেন্সি দুটি পরিকল্পনা দেয় (নিচে দেওয়া হলো)। 7 জন প্রাপ্তবয়স্ক এবং 3 জন শিশু একসাথে ভ্রমণ করছে। কোন পরিকল্পনাটি বেশি সাশ্রয়ী? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1013fbd7-8ebb-42a4-93fd-d40a32a1dacc",
+    "images": [
+      "images/13945_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত ত্রিভুজটির ক্ষেত্রফল 48 বর্গমিটার। প্রদত্ত পরিমাপ অনুযায়ী, সম্পূর্ণ ট্রাপিজিয়ামটির ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5567add4-715f-4167-812c-18c7154884d8",
+    "images": [
+      "images/59294_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি প্যারাবোলিক প্রান্তবিশিষ্ট লোহার টুকরো রাখা আছে। পরিমাপ করে দেখা গেছে যে AB = 20 সেমি এবং প্যারাবোলার শীর্ষবিন্দু থেকে AB প্রান্তের দূরত্ব 25 সেমি। 4 সেমি সমপ্রস্থের আয়তাকার লোহার পাতগুলো AB প্রান্ত বরাবর পর্যায়ক্রমে উপরের দিকে কাটা হবে (চিত্রে প্রদর্শিত)। যদি কাটা লোহার পাতগুলোর মধ্যে একটি বর্গাকার হয়, তবে এই বর্গাকার লোহার পাতটি কোনটি? ( )\n\nOptions:\nক) Seventh piece Option\nখ) Sixth piece Option\nগ) Fifth piece Option\nঘ) Fourth piece Option E:",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a12064c-f9b2-4996-a8f1-9296ea81a1e7",
+    "images": [
+      "images/75750_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, কোণগুলোর সমষ্টি ∠A + ∠B + ∠C + ∠D + ∠E + ∠F + ∠G নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d7a5356d-80fb-4182-85b5-25160932fc0c",
+    "images": [
+      "images/38466_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, চিড়িয়াখানা কর্তৃপক্ষ চারটি অভিন্ন আয়তাকার বাঘের খাঁচা তৈরি করতে চায়। একটি দেয়ালকে সীমানা হিসেবে ব্যবহার করা যাবে এবং বাকি দিকগুলো স্টিলের জাল দিয়ে ঘেরা হবে। যদি 36 মিটার স্টিলের জাল থাকে, তবে প্রতিটি বাঘের খাঁচার সর্বোচ্চ ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6401b930-d0c6-4426-908c-646a0a2fc18d",
+    "images": [
+      "images/55982_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু A থেকে বিন্দু B কোন দিকে অবস্থিত?\n\nOptions:\nক) South-East 20°\nখ) South-East 70°\nগ) North-West 20°\nঘ) North-West 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3fd58d98-d892-451c-a479-492e44fd82a2",
+    "images": [
+      "images/26532_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 6টি অভিন্ন আকৃতি ও আকারের রম্বস দ্বারা একটি গ্রিড তৈরি করা হয়েছে। রম্বসের শীর্ষবিন্দুগুলোকে গ্রিড পয়েন্ট বলা হয়। রম্বস গ্রিডের একটি কোণ (∠O) হলো 60^{\\circ}। A, B এবং C বিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত। tan ∠ABC এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f984d285-b5bf-4e3f-8906-c28189837536",
+    "images": [
+      "images/52852_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা a এবং b সমান্তরাল এবং তাদের মধ্যবর্তী দূরত্ব 4। বিন্দু A থেকে রেখা a-এর দূরত্ব 2 এবং বিন্দু B থেকে রেখা b-এর দূরত্ব 3। AB-এর দৈর্ঘ্য 2√30। রেখা a-এর উপর একটি বিন্দু M এবং রেখা b-এর উপর একটি বিন্দু N এমনভাবে নির্ণয় করো যেন MN রেখা a-এর উপর লম্ব হয় এবং AM + MN + NB-এর যোগফল সর্বনিম্ন হয়। সেক্ষেত্রে, AM + NB-এর মান কত?\n\nOptions:\nক) 6\nখ) 8\nগ) 10\nঘ) 12",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f5915ce-cf33-4fdb-b620-9bc67843435f",
+    "images": [
+      "images/70742_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, শাও মিং বিদ্যালয়ের পতাকা দণ্ড AB-এর উচ্চতা পরিমাপের জন্য 3 মিটার লম্বা একটি বাঁশের খুঁটি CD ব্যবহার করছে। বাঁশের খুঁটিটিকে এমনভাবে সরানো হলো যাতে খুঁটির শীর্ষ C, বিন্দু A এবং বিন্দু O একই সরলরেখায় থাকে। চিত্রের তথ্য ব্যবহার করে পতাকা দণ্ড AB-এর উচ্চতা নির্ণয় করো। পতাকা দণ্ড AB-এর উচ্চতা হলো ( ) মিটার।\nOptions:\nB) By moving the bamboo pole so that the top of the pole C, point A, and point O are in a straight line, we can determine the height of the flagpole AB based on the data in the figure. The height of the flagpole AB is \\( \\) m.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b951907f-7ba0-47b9-a55f-d655197f5957",
+    "images": [
+      "images/42605_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো নিয়মিত ষড়ভুজাকার পিরামিডের বাম দৃশ্য (একক: সে.মি.) দেওয়া আছে। এই নিয়মিত ষড়ভুজাকার পিরামিডের আয়তন কত ঘন সে.মি.?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "76fc713a-9876-48cd-a849-c5171ceff3cf",
+    "images": [
+      "images/6795_0.png"
+    ],
+    "english_question": "<image>\nআয়তক্ষেত্র ABCD তে, E হলো CD এর মধ্যবিন্দু। AE যোগ করো এবং একে বর্ধিত করো যা BC এর বর্ধিতাংশকে F বিন্দুতে ছেদ করে। BD এবং DF যোগ করো। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① △ADE ≌ △CEF; ② ∠AFD + ∠BDC = ∠BAF; ③ 3DG = DF; ④ BD ⊥ DF। নিচের কোনটি সঠিক ( )?\nক. ①②③\nখ. ①③④\nগ. ①②④\nঘ. ①②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e4d1747-09c6-4910-b821-7d8600b2a678",
+    "images": [
+      "images/23496_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ষড়ভুজ ABCDEF সমবাহু ত্রিভুজ দ্বারা গঠিত। যদি ত্রিভুজ ABM-এর ক্ষেত্রফল 9 হয় এবং P, AB বাহুর উপর একটি বিন্দু হয়, তবে ছায়াবৃত পঞ্চভুজ PCDEF-এর ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5f15b295-bf74-414d-a780-11dfb441ff9e",
+    "images": [
+      "images/3501_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, রেখাংশ OA = 4, বিন্দু C হলো OA-এর মধ্যবিন্দু এবং CA রেখাংশকে কর্ণ ধরে একটি বর্গক্ষেত্র ABCD অঙ্কন করা হলো। যখন রেখাংশ OA-কে বিন্দু O-এর সাপেক্ষে ঘড়ির কাঁটার বিপরীত দিকে 60° কোণে ঘোরানো হয়, তখন রেখাংশ OA' এবং বর্গক্ষেত্র A'B'C'D' গঠিত হয়। ঘূর্ণনের সময় বর্গক্ষেত্র ABCD দ্বারা অতিক্রান্ত ক্ষেত্রফল কত? (উত্তর π-এর মাধ্যমে প্রকাশ করো)\nOptions:\nd. During the rotation, the area swept by square \\(ABCD\\) is ______ (result to be kept in terms of \\(π\\)).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a067b1e3-86be-4dc2-b875-00ed44a627f0",
+    "images": [
+      "images/67675_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি জাহাজ থেকে সমুদ্রপৃষ্ঠে একটি বাতিঘর B-কে দক্ষিণ থেকে 30° পূর্ব দিকে দেখা যায়। জাহাজটি ঘণ্টায় 30 নটিক্যাল মাইল বেগে দক্ষিণ-পূর্ব দিকে চলছে। আধা ঘণ্টা পর, বাতিঘরটিকে জাহাজের ঠিক পশ্চিমে দেখা যায়। সেই সময়ে জাহাজ এবং বাতিঘরের মধ্যবর্তী দূরত্ব নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "05ab7fcc-7beb-43ae-a6b4-29977cb024f0",
+    "images": [
+      "images/53700_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AB হলো একটি অর্ধবৃত্তের ব্যাস এবং C ও D বিন্দু দুটি অর্ধবৃত্তের সমত্রিখণ্ডক বিন্দু। যদি বৃত্তের ব্যাসার্ধ 1 হয় এবং E বিন্দু AB রেখাংশের ওপর যেকোনো একটি বিন্দু হয়, তবে চিত্রের ছায়াবৃত অঞ্চলের ক্ষেত্রফল গণনা করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "04544795-a722-457e-8275-70335fef6570",
+    "images": [
+      "images/23565_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD এবং ∠1 = 20°, ∠2 = 45° + α, ∠3 = 60° - α, ∠4 = 40° - α, ∠5 = 30°। α-এর মান কত?\n\nOptions:\nক) 10°\nখ) 15°\nগ) 20°\nঘ) 25°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9b0e44df-76a9-4573-96b2-cc1062b13dfe",
+    "images": [
+      "images/16009_0.png"
+    ],
+    "english_question": "<image>\nউপরে প্রদর্শিত 5টি ছোট বর্গক্ষেত্র দ্বারা গঠিত চিত্রে, একটি অক্ষ-প্রতিসম চিত্র তৈরি করতে আর কয়টি ভিন্ন উপায়ে একটি ছোট বর্গক্ষেত্র যোগ করা যেতে পারে? ( ) ক. 2 উপায় খ. 3 উপায় গ. 4 উপায় ঘ. 5 উপায়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a98afd2f-dba1-4f15-9cba-a89520409139",
+    "images": [
+      "images/56102_0.png"
+    ],
+    "english_question": "<image>\nএকটি ত্রিভুজ \\(\\triangle ABC\\)-এর \\(\\angle ABC\\) এবং \\(\\angle ACB\\)-এর সমদ্বিখণ্ডকদ্বয় \\(E\\) বিন্দুতে মিলিত হয়। \\(E\\) বিন্দুগামী একটি রেখা \\(AB\\)-কে \\(M\\) বিন্দুতে এবং \\(AC\\)-কে \\(N\\) বিন্দুতে ছেদ করে। যদি \\(BM + CN = 9\\) হয়, তবে \\(MN\\) রেখাংশের দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "700b15c7-1e6f-4533-9926-265ad2c4dec9",
+    "images": [
+      "images/34725_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি ছোট পাহাড়ের পূর্ব দিকে A বিন্দুতে একটি হট এয়ার বেলুন আছে, যা উলম্বের সাথে 30° কোণে 28 মিটার/মিনিট বেগে উড়ছে। আধা ঘণ্টা পর এটি C বিন্দুতে পৌঁছায়। এই সময়ে, বেলুনের যাত্রী সরাসরি A বিন্দুর পশ্চিমে একটি অগ্নিকুণ্ড B লক্ষ্য করেন। 5 মিনিট পর, D বিন্দুতে অগ্নিকুণ্ড B-এর অবনতি কোণ 15° পরিমাপ করা হয়। হট এয়ার বেলুনের উৎক্ষেপণ বিন্দু A এবং অগ্নিকুণ্ড B-এর মধ্যবর্তী দূরত্ব নির্ণয় করো। (ফলাফলে বর্গমূল রাখতে হবে। রেফারেন্স ডেটা: sin 15° = (√6-√2)/4, cos 15° = (√6+√2)/4, tan 15° = 2-√3, cot 15° = 2+√3)\nOptions:\nগ) At this time, the person in the balloon notices a fire point B directly west of point ক) After 5 minutes, the angle of depression to fire point B measured at point D is 15°. Find the distance between the launch point A of the hot air balloon and the fire point খ) (Results should retain the square root. Reference data: \\( \\sin 15°= \\frac{\\sqrt{6}-\\sqrt{2}}{4} \\), \\( \\cos 15°= \\frac{\\sqrt{6}+\\sqrt{2}}{4} \\), \\( \\tan 15°=2-\\sqrt{3} \\), \\( \\cot 15°=2+\\sqrt{3} \\))",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20a43709-7e29-4cee-a4f2-da5346654136",
+    "images": [
+      "images/65631_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, যেখানে AB সমান্তরাল CD এবং AB = 3CD, কর্ণ AC এবং BD বিন্দু O-তে ছেদ করে। মধ্যরেখা EF, AC এবং BD-কে যথাক্রমে M এবং N বিন্দুতে ছেদ করে। ছায়াবৃত অংশের ক্ষেত্রফলের সাথে ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফলের অনুপাত কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

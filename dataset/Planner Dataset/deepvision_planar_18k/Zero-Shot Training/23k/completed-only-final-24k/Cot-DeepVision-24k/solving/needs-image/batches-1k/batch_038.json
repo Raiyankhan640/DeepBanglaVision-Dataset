@@ -1,0 +1,302 @@
+[
+  {
+    "id": "83b1d652-02e5-4625-adc8-bdb421424c00",
+    "images": [
+      "images/15212_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে যে DB সমান্তরাল FG এবং EC, ∠ABD = 70°, ∠ACE = 34°, এবং AP হলো ∠BAC এর সমদ্বিখণ্ডক। ∠PAG এর মান নির্ণয় করো।\nOptions:\nC) Find ∠PAG.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bda17533-c6c8-4680-bfec-1404ecaa877c",
+    "images": [
+      "images/41415_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত CD বৈদ্যুতিক খুঁটির C বিন্দুতে CE এবং CF দুটি টানা তার যুক্ত আছে। CE তার এবং ভূমির মধ্যবর্তী কোণ ∠CED = 60°। খুঁটি থেকে 9 মিটার দূরে B বিন্দুতে 1.5 মিটার উচ্চতার একটি থিওডোলাইট AB স্থাপন করা হলো। A বিন্দু থেকে C বিন্দুর উন্নতি কোণ 30° পরিমাপ করা হলো। CE তারের দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9f5a384c-f3dd-4861-ae8c-a40f7da470a1",
+    "images": [
+      "images/11541_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল এবং c রেখাটি a ও b রেখাকে যথাক্রমে A ও B বিন্দুতে ছেদ করেছে। যদি ∠1 = 60° হয়, তবে ∠2 = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "56cac197-a7fb-4ec0-a621-c57ab7bb4c8e",
+    "images": [
+      "images/39097_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি বৃত্তাকার লক্ষ্যবস্তুকে 6টি সমান অংশে ভাগ করা হয়েছে। ডার্টটি ছায়াযুক্ত অংশে পড়ার সম্ভাবনা কত?\nক. 1/6\nখ. 1/3\nগ. 1/2\nঘ. 2/3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "461257b4-b49b-4b04-8842-2257a29517a8",
+    "images": [
+      "images/75120_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, E বিন্দুটি AD বাহুর মধ্যবিন্দু। ∠EBC এর সমদ্বিখণ্ডক CD বাহুকে F বিন্দুতে ছেদ করে। যখন △DEF কে EF বরাবর ভাঁজ করা হয়, তখন D বিন্দুটি BE এর উপর M বিন্দুতে পতিত হয়। BC এবং EF কে বর্ধিত করলে তারা N বিন্দুতে মিলিত হয়। নিচের কোন সিদ্ধান্তগুলো সঠিক? ① DF = CF; ② BF ⊥ EN; ③ △BEN সমবাহু; ④ S_{△BEF} = 3S_{△DEF}।\nOptions:\nD) The angle bisector of ∠EBC intersects CD at point F. When triangle DEF is folded along EF, point D coincides with point M on BE. Extending BC and EF intersects at point N. Which of the following conclusions are correct? ① DF = CF; ② BF ⊥ EN; ③ △BEN is equilateral; ④ S_{△BEF} = 3S_{△DEF}.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6c16565-5e81-472d-bb65-dc4e6ef3bde0",
+    "images": [
+      "images/88_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD হলো l রেখার সাপেক্ষে একটি প্রতিসম চিত্র। নিচের কোন সিদ্ধান্তটি ভুল? ( ) \nAD=BC \nAD⊥BC \nAC এবং BD-এর ছেদবিন্দু l-এর ওপর অবস্থিত \nAD এবং BC রেখাদ্বয়ের ছেদবিন্দু l-এর ওপর অবস্থিত",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2f19fab4-5691-42b3-b1d8-b5634449a884",
+    "images": [
+      "images/152_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চিহ্নিত কোণগুলোর মধ্যে কোনগুলো একান্তর অন্তঃস্থ কোণ? ( ) ক. ∠1 এবং ∠B খ. ∠1 এবং ∠3 গ. ∠3 এবং ∠B ঘ. ∠2 এবং ∠3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ddb73662-e6a5-4e47-85cb-c1e51d193225",
+    "images": [
+      "images/59810_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে PA, PB ও CD বৃত্ত O-কে যথাক্রমে A, B ও E বিন্দুতে স্পর্শ করে। যদি PA = 7 হয়, তবে ত্রিভুজ PCD-এর পরিসীমা কত? ক. 7 খ. 14 গ. 10.5 ঘ. 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ee286a6e-34b5-4527-9e90-ed39361c4ee8",
+    "images": [
+      "images/16784_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয়কে c রেখা ছেদ করেছে। কোন কোণের সমতা প্রমাণ করে যে a এবং b রেখাদ্বয় সমান্তরাল? সঠিকটি বেছে নাও: ∠1 = ∠2, ∠2 = ∠3, ∠3 = ∠4, অথবা ∠1 = ∠4।\nOptions:\nc. Which angle equality proves that lines a and b are parallel? Choose one: ∠1 = ∠2, ∠2 = ∠3, ∠3 = ∠4, or ∠1 = ∠4.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "76696af0-1592-4dfc-b572-9e2eb3ac2b44",
+    "images": [
+      "images/20426_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্র থেকে, কোণ সম্পর্কিত এমন একটি শর্ত লিখ যা নির্ধারণ করতে পারে যে রেখা $l_1$ এবং $l_2$ সমান্তরাল কিনা।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fa32b6c6-bd19-4973-96ed-e761aef12ee8",
+    "images": [
+      "images/30160_0.png"
+    ],
+    "english_question": "<image>\nধরি, বর্গক্ষেত্র ABCD-এর বাহুর দৈর্ঘ্য a। বর্গক্ষেত্রটির বাহুগুলোর মধ্যবিন্দুসমূহ যোগ করে একটি নতুন বর্গক্ষেত্র তৈরি করা হলো। এই প্রক্রিয়ায় বর্গক্ষেত্রের একটি ধারা তৈরি হয়। একটি ছোট পোকা বিন্দু A থেকে যাত্রা শুরু করে এবং বর্গক্ষেত্রগুলোর বাহু বরাবর ঘড়ির কাঁটার বিপরীত দিকে চলতে থাকে। প্রতিবার একটি নতুন বর্গক্ষেত্রের শীর্ষবিন্দুতে পৌঁছালে, এটি সেই বর্গক্ষেত্রের বাহু বরাবর ঘড়ির কাঁটার বিপরীত দিকে চলতে থাকে। 10টি অংশ অতিক্রম করার পর, যদি এই 10টি অংশের দৈর্ঘ্যের সমষ্টি S_{10} হয়, তবে (2-\\sqrt{2})S_{10} = কত?\nক. \\frac{31a}{64}\nখ. \\frac{61a}{64}\nগ. \\frac{31a}{32}\nঘ. \\frac{61a}{128}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7fa62519-c633-4c54-a00f-9930c2cd7cad",
+    "images": [
+      "images/52261_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশটি একটি আয়তক্ষেত্র এবং এর ক্ষেত্রফল কত? ( ) \nক. 3 বর্গ সেমি \nখ. 4 বর্গ সেমি \nগ. 5 বর্গ সেমি \nঘ. 6 বর্গ সেমি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0f1cc11-e067-416e-893e-60c1ee6e3d78",
+    "images": [
+      "images/71071_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বিন্দু P(3, 4) বৃত্ত x² + y\n² = 25-এর উপর অবস্থিত। বিন্দু E ও F y-অক্ষের উপর যেমন ত্রিভুজ PEF শীর্ষবিন্দু P বিশিষ্ট সমদ্বিবাহু। রেখা PE ও PF বৃত্তকে আবার D ও C বিন্দুতে ছেদ করে। রেখা CD y-অক্ষকে বিন্দু A-তে ছেদ করে। ∠DAO-এর cos মান কত?\nOptions:\nA) What is the value of $\\cos \\angle DAO$?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb20d833-9dad-42fd-aeb4-6ff6a800c347",
+    "images": [
+      "images/49441_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1)-এ, ছোট বর্গক্ষেত্র ABCD-এর ক্ষেত্রফল 1। প্রতিটি বাহুকে এক গুণ বৃদ্ধি করে একটি নতুন বর্গক্ষেত্র A₁B₁C₁D₁ পাওয়া যায়; একইভাবে বর্গক্ষেত্র A₁B₁C₁D₁-এর বাহুর দৈর্ঘ্য বৃদ্ধি করে বর্গক্ষেত্র A₂B₂C₂D₂ পাওয়া যায় (চিত্র (2)-এ দেখানো হয়েছে); এবং এভাবে চলতে থাকে... বর্গক্ষেত্র A₄B₄C₄D₄-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dbf27c5e-798c-486a-a067-3b88edea8387",
+    "images": [
+      "images/60850_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: ট্রাপিজিয়াম ABCD-তে, AD সমান্তরাল BC, AB = CD, কর্ণ AC এবং BD বিন্দু E-তে ছেদ করে, ∠ADB = 60°, BD = 10, BE: ED = 4: 1, ট্রাপিজিয়াম ABCD-এর বাহুগুলোর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18aa04d5-5b57-4fcf-a506-fb364536d469",
+    "images": [
+      "images/12435_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ন্যায় রুলার ও কম্পাস ব্যবহার করে একটি প্রদত্ত কোণের সমান কোণ অঙ্কনের ভিত্তি হলো ( )\n\nOptions:\nক) Side-Side-Side\nখ) Side-Angle-Side\nগ) Angle-Side-Angle\nঘ) Angle-Angle-Side",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fea8d69d-5599-4b87-ba8b-f03da1ca9533",
+    "images": [
+      "images/triangle_ext_fea8d69d-5599-4b87-ba8b-f03da1ca9533.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, কোণ A = 90°, BE কোণ ABC-কে সমদ্বিখণ্ডিত করে, DE, BC-এর উপর লম্ব, যার পাদবিন্দু D। যদি DE = 3 cm হয়, তবে AE = ( ▲ ) cm।\nক. 3\nখ. 3.5\nগ. 4\nঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e9cf0ed-5cf8-4d55-8454-08cefe419d2c",
+    "images": [
+      "images/25509_0.png"
+    ],
+    "english_question": "<image>\nশূন্যস্থান পূরণ করো: চিত্রে AB \\/\\/ CD, ∠ABC = 50°, ∠CPN = 150°, ∠PNB = 60°, ∠NDC = 60° হলে কোণ ∠BCP-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "019e7f47-b7c9-47d5-814f-c925b76245cd",
+    "images": [
+      "images/73389_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু ট্রাপিজিয়ামের কর্ণদ্বয়ের মধ্যবর্তী সূক্ষ্মকোণ 60°। যদি ট্রাপিজিয়ামটির সমান্তরাল বাহুদ্বয়ের দৈর্ঘ্যের সমষ্টি 2√3 হয়, তবে ট্রাপিজিয়ামটির উচ্চতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71190ff0-ded0-4627-a48d-144569d7da49",
+    "images": [
+      "images/57906_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, টেবিলে কাঠের ফালি b ও c স্থির করা আছে এবং কাঠের ফালি a বিন্দু O কেন্দ্র করে টেবিলের উপর ঘড়ির কাঁটার বিপরীত দিকে n° (0 < n < 90) ঘুরে b-এর সমান্তরাল হয়। n-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

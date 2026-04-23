@@ -1,0 +1,302 @@
+[
+  {
+    "id": "6f971504-f7dd-42b4-9b0b-2e250a98dcb7",
+    "images": [
+      "images/39283_0.png"
+    ],
+    "english_question": "<image>\nনিচে কয়েকটি বিখ্যাত গাড়ির লোগো দেওয়া হইয়াছে। এদের মধ্যে কয়টি কেন্দ্র-প্রতিসম (centrally symmetric) চিত্র?\nক. 1টি   খ. 2টি   গ. 3টি   ঘ. 4টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c0624da3-c22f-40da-8211-410d47ab0abb",
+    "images": [
+      "images/69219_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার বাক্সের ভেতরে একটি বল রাখা আছে, যার কিছু অংশ বাক্সের বাইরে বেরিয়ে আছে (সামনের দৃশ্য অনুযায়ী)। যদি EF = CD = 16 সেমি হয়, তবে বলটির ব্যাসার্ধ নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c2232cd3-20d4-4f51-9337-716c7ff6167e",
+    "images": [
+      "images/47335_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, P হলো বৃত্তচাপের উপর একটি বিন্দু, এবং M, N হলো ব্যাস AB-এর উপর দুটি বিন্দু যা O-এর সাপেক্ষে প্রতিসম। দেওয়া আছে AB = 6 এবং MN = 4, তবে PM * PN = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d6a4cde8-a97a-4712-b766-f506cbfe6ef3",
+    "images": [
+      "images/45610_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD একটি আয়তক্ষেত্র, EF, BC এর সমান্তরাল। চতুর্ভুজ AECF এর ক্ষেত্রফল 35, ত্রিভুজ AFD এর ক্ষেত্রফল 40, ত্রিভুজ BCE এর ক্ষেত্রফল 30 এবং ত্রিভুজ CDF এর ক্ষেত্রফল 25। ত্রিভুজ ABE এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4893d693-cc5d-4bf4-8d2b-99f62a81a9b6",
+    "images": [
+      "images/46720_0.png"
+    ],
+    "english_question": "<image>\nপ্রদর্শিত জ্যামিতিক চিত্রটির সম্মুখ দৃশ্য (front view) কোনটি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c57259ce-c605-4714-91b0-bb8c3218b6db",
+    "images": [
+      "images/37849_0.png"
+    ],
+    "english_question": "<image>\nফ্লোচার্টটি পড়ো এবং সংশ্লিষ্ট প্রোগ্রামটি চালাও। যখন x এর ইনপুট মান -25 হয়, তখন x এর আউটপুট মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3497d7f0-4535-4f00-a3b2-4b813f916634",
+    "images": [
+      "images/56458_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। গ্রিডের প্রতিটি ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1। এই জ্যামিতিক বস্তুটির পার্শ্বতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 12π\nখ) 15π\nগ) 20π\nঘ) 24π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "16cbc83a-724c-4e94-a18b-1bf9ac205cde",
+    "images": [
+      "images/25984_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, দুটি বহিঃস্থ কোণের সমদ্বিখণ্ডক D বিন্দুতে মিলিত হয়। যদি ∠B = 60° হয়, তবে ∠D-এর মান কত?\nOptions:\nD) If ∠B = 60°, what is the measure of ∠D? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97fcbd4e-7cd9-4a7a-91ca-2d746a2baec2",
+    "images": [
+      "images/28906_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, c রেখাটি দুটি সমান্তরাল রেখা a এবং b-কে ছেদ করেছে। নিচের কোন উক্তিটি অবশ্যই সত্য?\n\nOptions:\nক) $$∠1 = ∠2$$\nখ) $$∠1 = ∠3$$\nগ) $$∠1 = ∠4$$\nঘ) $$∠1 = ∠5$$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "26c22e5a-871b-4816-bf57-4b43316a991e",
+    "images": [
+      "images/33187_0.png"
+    ],
+    "english_question": "<image>\nR ব্যাসার্ধবিশিষ্ট একটি বৃত্তে AB এবং CD জ্যা দুটির কেন্দ্রস্থ কোণ যথাক্রমে 36° এবং 108°। CD জ্যা এবং AB জ্যা-এর দৈর্ঘ্যের পার্থক্য কত? (R এর মাধ্যমে প্রকাশ করো)\n\nOptions:\nক) R\nখ) 1R\nগ) 2R\nঘ) 3R",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d13245d6-8efc-439e-be45-3a058faa63d5",
+    "images": [
+      "images/51098_0.png"
+    ],
+    "english_question": "<image>\nচারজন শিশু সারিবদ্ধভাবে দাঁড়িয়ে আছে এবং শিক্ষক চিত্রে প্রদর্শিত নিয়ম অনুযায়ী গণনা করছেন। যে শিশুটি 201 5 সংখ্যাটির সাথে মিলবে সে একটি লাল ফুল পাবে। কে লাল ফুলটি পাবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bbd57059-2e60-4597-9d59-542a57e737dc",
+    "images": [
+      "images/75435_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ ∠ACB = 90°, CD ও CE যথাক্রমে উচ্চতা ও কোণ সমদ্বিখণ্ডক। দেওয়া আছে ত্রিভুজ BEC-এর ক্ষেত্রফল 15 এবং ত্রিভুজ CDE-এর ক্ষেত্রফল 3, তবে ত্রিভুজ ABC-এর ক্ষেত্রফল কত? ক. 22.5 বা 20 খ. 22.5 গ. 24 বা 20 ঘ. 20",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6f90a82-eee5-465c-bd79-4ad719ffc9e9",
+    "images": [
+      "images/44289_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC এবং ত্রিভুজ DEF উভয়ই সমবাহু ত্রিভুজ এবং O হলো BC এবং EF এর মধ্যবিন্দু। AD:BE এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "83eefe4b-eb12-40a6-82aa-b8b68ca28cd5",
+    "images": [
+      "images/48015_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে AB সমান্তরাল CD এবং CD সমান্তরাল EF, নিচের কোন সিদ্ধান্তটি সঠিক? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "164d704f-1740-49ad-bca4-a19bb4c77397",
+    "images": [
+      "images/36780_0.png"
+    ],
+    "english_question": "<image>\nABCD রম্বসের বাহুর দৈর্ঘ্য 4 এবং ∠BAD = 60°। E বিন্দুটি AD বাহুর উপর একটি চলমান বিন্দু (A বা D এর সাথে মিলে না) এবং F বিন্দুটি CD বাহুর উপর একটি চলমান বিন্দু। যদি AE + CF = 4 হয়, তবে ত্রিভুজ BEF এর সর্বনিম্ন ক্ষেত্রফল কত?\n\nOptions:\nক) $2\\sqrt{3}$\nখ) $3\\sqrt{3}$\nগ) $4\\sqrt{3}$\nঘ) $6\\sqrt{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "71ab4df5-aa4b-408e-9127-ee20629bc6c4",
+    "images": [
+      "images/37884_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, একটি জাহাজ A বিন্দুতে অবস্থিত, যা বাতিঘর P থেকে উত্তর দিকের 54° পূর্ব দিকে 4 নটিক্যাল মাইল দূরে। যদি জাহাজটি সরাসরি দক্ষিণে বাতিঘরের পূর্ব অবস্থানে যায়, তবে জাহাজটি কত দূরত্ব AB অতিক্রম করবে (সায়েন্টিফিক ক্যালকুলেটর ব্যবহার করে হিসাব করুন, ফলাফল 0.01 নটিক্যাল মাইলে রাউন্ড করুন)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c6dbde0c-5e18-43f4-a92a-08e552279a81",
+    "images": [
+      "images/13313_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠D = 70°, ∠C = 110°, ∠1 = 69° হলে, ∠2-এর মান কত ডিগ্রি?\n\nOptions:\nক) 110°\nখ) 111°\nগ) 69°\nঘ) 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c4f48e97-4a25-419d-a75c-a049fc72d9ac",
+    "images": [
+      "images/triangle_ext_c4f48e97-4a25-419d-a75c-a049fc72d9ac.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, বিন্দু A দ্বিতীয় চতুর্ভাগে হাইপারবোলা $y = \\frac{k}{x}$-এর শাখার ওপর অবস্থিত। AB রেখা y-অক্ষের ওপর B বিন্দুতে লম্ব। বিন্দু C x-অক্ষের ঋণাত্মক অর্ধাংশে অবস্থিত এবং OC = 2AB। বিন্দু E রেখাংশ AC-এর ওপর অবস্থিত এবং AE = 2EC। বিন্দু D হলো OB-এর মধ্যবিন্দু। যদি ত্রিভুজ ADE-এর ক্ষেত্রফল 3 হয়, তবে k-এর মান কত।\nOptions:\nB) Point C is on the negative half of the x-axis, and OC = 2AB) Point E is on line segment AC, and AE = 2EC) Point D is the midpoint of OB) If the area of triangle ADE is 3, then the value of k is __.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5a006468-9a14-4cd5-9a78-e94667510ceb",
+    "images": [
+      "images/61333_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সিলিন্ডারটির উচ্চতা 2 এবং ভূমির ব্যাসার্ধ 1। সিলিন্ডারের বক্রপৃষ্ঠ বরাবর A থেকে A₁ পর্যন্ত ক্ষুদ্রতম দূরত্ব কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d37232d-59bb-497c-aa5f-cc75fc6751df",
+    "images": [
+      "images/51181_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-কে বিন্দু A-কে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে 42° কোণে ঘোরানো হলো, যার ফলে ত্রিভুজ AB'C' উৎপন্ন হয়। বিন্দু C' ঠিক বাহু AB-এর উপর অবস্থিত। BB' যোগ করলে, ∠B'BC'-এর পরিমাপ কত?\nOptions:\nB) Connecting BB', what is the measure of angle ∠B'BC'?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

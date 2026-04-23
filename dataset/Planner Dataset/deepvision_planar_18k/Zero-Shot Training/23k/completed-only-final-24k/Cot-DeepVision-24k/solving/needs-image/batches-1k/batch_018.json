@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cfe9d713-c11c-4d9e-8a17-47dfc52baab4",
+    "images": [
+      "images/57411_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O বৃত্তের ব্যাস AB, জ্যা CD-এর ওপর লম্ব এবং ছেদবিন্দু H। P বিন্দুটি AC চাপের ওপর অবস্থিত (A বা C বিন্দুর সাথে সমাপতিত নয়)। PC, PD, PA এবং AD রেখাগুলো যোগ করি। E বিন্দুটি AP-এর বর্ধিতাংশের ওপর অবস্থিত এবং PD রেখাটি AB-কে F বিন্দুতে ছেদ করে। নিচের চারটি সিদ্ধান্ত বিবেচনা করি: ① CH² = AH · BH; ② চাপ AD = চাপ AC; ③ AD² = DF · DP; ④ ∠EPC = ∠APD। এই সিদ্ধান্তগুলোর মধ্যে কয়টি সঠিক?\nOptions:\nC). Connect lines PC, PD, PA, and AD) Point E is on the extension of AP, and PD intersects AB at point F. Consider the following four conclusions: ① CH² = AH · BH; ② arc AD = arc AC; ③ AD² = DF · DP; ④ ∠EPC = ∠APD) How many of these conclusions are correct?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "265ac580-9463-44ed-9887-09da5fa141af",
+    "images": [
+      "images/22863_0.png"
+    ],
+    "english_question": "<image>\nপ্রাচীন গ্রিকরা সংখ্যা নিয়ে গবেষণার জন্য সমুদ্র সৈকতে ছোট ছোট নুড়ি পাথর ব্যবহার করে বিভিন্ন আকৃতি তৈরি করত। উদাহরণস্বরূপ, তারা চিত্র 1-এ প্রদর্শিত 1, 3, 6, 10... সংখ্যাগুলো নিয়ে গবেষণা করেছিল, যেগুলোকে ত্রিভুজাকার সংখ্যা বলা হয়; একইভাবে, চিত্র 2-এ প্রদর্শিত 1, 4, 9, 16... সংখ্যাগুলোকে বর্গ সংখ্যা বলা হয়। নিচের কোন সংখ্যাটি ত্রিভুজাকার এবং বর্গ উভয়ই?\n\nOptions:\nক) 289\nখ) 1024\nগ) 1225\nঘ) 1378",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65d389fc-b711-4a53-bc2f-a88d9de808f2",
+    "images": [
+      "images/20221_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2014 হেনান সিমুলেশন), একটি 60° কোণ বিশিষ্ট ত্রিভুজ ABC-কে শীর্ষবিন্দু A-এর সাপেক্ষে ঘড়ির কাঁটার দিকে 45° ঘোরানো হলো, যার ফলে ত্রিভুজ AB'C' পাওয়া গেল। বিন্দু B দ্বারা অতিক্রান্ত পথটি হলো একটি বৃত্তচাপ BB'। দেওয়া আছে যে ∠BAC=60° এবং AC=1, তবে ছায়াবৃত অঞ্চলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9ad0e110-56b1-44d6-849b-dc15c4d19e05",
+    "images": [
+      "images/64103_0.png"
+    ],
+    "english_question": "<image>\nলেলের পরিবারের তুলনায় বিংবিংয়ের পরিবারের মাথাপিছু বসবাসের জায়গা কত বর্গমিটার বেশি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "007335f8-81ef-4e5e-a1e8-5efe064f55b5",
+    "images": [
+      "images/65730_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমান অতিভুজবিশিষ্ট দুটি সমকোণী ত্রিভুজাকার বোর্ড একত্রে যুক্ত করা হয়েছে। যদি |AC| = 1 হয়, তবে AD • AC = ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "08a5cec3-1f9e-4681-93c3-c3ef8587f37a",
+    "images": [
+      "images/20133_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চারটি নকশার মধ্যে অক্ষীয় প্রতিসাম্য (axisymmetric) চিত্রটি হলো ( ) \nবিকল্পসমূহ: \n(ক) (1)(2)(3) \n(খ) (1)(3)(4) \n(গ) (2)(3)(4) \n(ঘ) (1)(2)(4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b984d0b9-a35e-4b9c-8544-ce0060732db4",
+    "images": [
+      "images/59878_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD-তে কর্ণদ্বয় AC এবং BD পরস্পরকে O বিন্দুতে ছেদ করে। যদি ত্রিভুজ AOD-কে স্থানান্তরিত করে ত্রিভুজ BEC-এর জায়গায় আনা হয় এবং রেখাংশ OE যোগ করা হয়, তবে চিত্রটিতে কতগুলো সামান্তরিক রয়েছে? ( )\nক. 1টি\nখ. 2টি\nগ. 3টি\nঘ. 4টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2c6fd900-8c70-4afa-ac9e-a38951e1c759",
+    "images": [
+      "images/38429_0.png"
+    ],
+    "english_question": "<image>\nএকটি দেয়াল ব্যবহার করে, একটি ট্রাপিজিয়াম আকৃতির সবজির বাগান বেড়া দিয়ে ঘেরা হয়েছে (চিত্রে প্রদর্শিত)। বেড়ার মোট দৈর্ঘ্য 60 মিটার। এই সবজির বাগানের ক্ষেত্রফল কত বর্গ মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "07b24043-01f4-43ca-8058-b3ecf380ba1d",
+    "images": [
+      "images/45762_0.png"
+    ],
+    "english_question": "<image>\nএকটি কুকুর চিত্রে প্রদর্শিত বর্গাকার টাইলসের উপর দিয়ে হাঁটছে। কুকুরটির ছায়াযুক্ত টাইলসের উপর থামার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e7e5e19b-4bed-4b51-ac86-7a0f0b65793c",
+    "images": [
+      "images/54987_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেয়াল OA এবং OB এর মধ্যবর্তী কোণ ∠AOB = 120°। 9 মিটার দীর্ঘ একটি দড়ি এক প্রান্তে কোণ O তে বাঁধা এবং অন্য প্রান্তে একটি ছোট কুকুর বাঁধা আছে। কুকুরটি যে অঞ্চলে চলাচল করতে পারে তার ক্ষেত্রফল কত বর্গমিটার? (ফলাফল π এর মাধ্যমে প্রকাশ করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cfe8744c-285f-4cb8-b7b4-44c4f1f8cdd0",
+    "images": [
+      "images/1748_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমদ্বিবাহু ট্রাপিজিয়াম ABCD-এর উপরের ভূমি BC-এর দৈর্ঘ্য 1। বৃত্তচাপ OB, OD এবং BD-এর ব্যাসার্ধ সমান, যেখানে বৃত্তচাপ OB এবং BD-এর কেন্দ্রের অবস্থান যথাক্রমে A এবং O। চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) \\( \\frac { \\sqrt { 3 } } { 4 } \\)\nখ) \\( \\frac { \\sqrt { 3 } } { 2 } \\)\nগ) \\( \\frac { 3 \\sqrt { 3 } } { 4 } \\)\nঘ) \\( \\sqrt { 3 } \\",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4774d739-ebff-4e0a-b69d-07a2664e31c4",
+    "images": [
+      "images/25688_0.png"
+    ],
+    "english_question": "<image>\nদিনের চারটি ভিন্ন সময়ে একই খুঁটির ছায়া ①, ②, ③ এবং ④ চিত্রে দেখানো হয়েছে। সময়ের সঠিক ক্রমানুসারে এদের সাজাও ( )\n\nOptions:\nক) ①②③④\nখ) ④①③②\nগ) ④②③①\nঘ) ④③①②",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "978a0eeb-a74c-45e1-9a7e-b77a6eb80f73",
+    "images": [
+      "images/23777_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সরলকোণের চেয়ে ছোট কোণের সংখ্যা কতটি?\nক. 5\nখ. 6\nগ. 7\nঘ. 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98e4c1fe-d6a2-4731-9850-dff3019b20f9",
+    "images": [
+      "images/3348_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অঞ্চলের ক্ষেত্রফল নির্ণয় করো, যেখানে চিত্রটি 6 সেমি ব্যাসার্ধের একটি বৃত্তকলা এবং এর ভেতরে অঙ্কিত 6 সেমি বাহুবিশিষ্ট একটি সমকোণী সমদ্বিবাহু ত্রিভুজ নিয়ে গঠিত।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "75051339-51d0-4822-8ec4-5fb42281dbf9",
+    "images": [
+      "images/63795_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিকটির ক্ষেত্রফল 24 বর্গ সেমি হলে, ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f586ac3e-cbd8-49ec-b808-da96eeb84178",
+    "images": [
+      "images/67601_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সূর্যের আলো মাটির সাথে 60° কোণ তৈরি করে এবং একটি হেলে থাকা গাছ মাটির সাথে 30° কোণ করে আছে। মাটিতে গাছটির ছায়ার দৈর্ঘ্য 8 মিটার। গাছটির উচ্চতা মিটারে কত?\nOptions:\nd. The shadow of the tree on the ground measures 8 m. What is the height of the tree in meters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6424a760-8563-4fe8-a14f-a72a4070a243",
+    "images": [
+      "images/21012_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্তের পরিধি 15.6 সেমি। ট্রাপিজিয়াম ABCD এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a2afcb36-6246-4398-bfc6-e914c1fda0b7",
+    "images": [
+      "images/25532_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, AB সমান্তরাল DC এবং BD কোণ ABC-কে সমদ্বিখণ্ডিত করে, যেখানে কোণ DAB = 60°। যদি ট্রাপিজিয়ামটির পরিসীমা 40 সেমি হয়, তবে AD = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb416648-32d1-4969-bb44-bde40c47c66c",
+    "images": [
+      "images/6345_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি বর্গক্ষেত্র পাশাপাশি একটি অর্ধবৃত্তের মধ্যে অন্তর্লিখিত আছে। যদি ছোট বর্গক্ষেত্রটির ক্ষেত্রফল 16 সেমি² হয়, তবে অর্ধবৃত্তটির ব্যাসার্ধ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7cb53d7-fce9-4efa-9548-14d190c8f4dc",
+    "images": [
+      "images/16020_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, বিন্দু R বাহু CD বরাবর C থেকে D-এর দিকে এবং বিন্দু M বাহু BC বরাবর চলে। বিন্দু E এবং F যথাক্রমে AM এবং MR রেখাংশের মধ্যবিন্দু। M এবং R বিন্দুগুলো চলার সময় EF রেখাংশের দৈর্ঘ্যের কী পরিবর্তন হয়?\nক. কমে\nখ. বাড়ে\nগ. অপরিবর্তিত থাকে\nঘ. নির্ধারণ করা সম্ভব নয়",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

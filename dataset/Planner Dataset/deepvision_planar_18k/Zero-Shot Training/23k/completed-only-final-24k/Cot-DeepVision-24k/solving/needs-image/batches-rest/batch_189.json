@@ -1,0 +1,302 @@
+[
+  {
+    "id": "293410cd-f0c0-4f0c-a544-f707eb0300c6",
+    "images": [
+      "images/9511_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি সমকোণী ত্রিভুজ ABC দেওয়া আছে যেখানে ∠C=90°, AC=10 এবং BC=5। একটি রেখাংশ PO=AB, যেখানে P বিন্দুটি AC বাহুর উপর এবং O বিন্দুটি A বিন্দুগামী AC-এর উপর লম্ব রশ্মি AX-এর উপর অবস্থিত। ত্রিভুজ ABC এবং ত্রিভুজ POA সর্বসম হওয়ার জন্য P বিন্দুটি কোথায় অবস্থিত হতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2b572d37-42e3-471d-bf1c-84372d41929f",
+    "images": [
+      "images/44084_0.png"
+    ],
+    "english_question": "<image>\n4 সেমি দৈর্ঘ্যের n সংখ্যক দিয়াশলাই কাঠি ব্যবহার করে, চিত্র 1-এ দেখানো অনুযায়ী 4 সেমি বাহুবিশিষ্ট x সংখ্যক সামান্তরিক তৈরি করা যায় এবং চিত্র 2-এ দেখানো অনুযায়ী 4 সেমি বাহুবিশিষ্ট 2y সংখ্যক সামান্তরিক তৈরি করা যায়। সুতরাং, x-এর মাধ্যমে y-কে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "918949ee-dc8b-4e2d-9fbf-3684bbb383c4",
+    "images": [
+      "images/1610_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা a এবং b কে রেখা c ছেদ করেছে। ∠1 এর অনুরূপ কোণ কোনটি?\nক. ∠2\nখ. ∠3\nগ. ∠4\nঘ. ∠5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e2f2a17a-266d-4bfa-842b-e14669ab6a72",
+    "images": [
+      "images/67948_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AD সমান্তরাল EF, যা BC-এর সমান্তরাল। চিত্রে সদৃশ ত্রিভুজের কত জোড়া বিদ্যমান?\nOptions:\nC) How many pairs of similar triangles are there in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f1dc4394-4b98-4ea6-8004-321264c58295",
+    "images": [
+      "images/11302_0.png"
+    ],
+    "english_question": "<image>\nABCD ট্রাপিজিয়ামে, ত্রিভুজ ABE-এর ক্ষেত্রফল 12 বর্গ সেন্টিমিটার এবং AE:EC = 2:3। ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0de3295d-dc1f-42dc-b541-e40d27b0bb38",
+    "images": [
+      "images/43001_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে: 8টি অভিন্ন আয়তাকার টাইল ব্যবহার করে একটি আয়তক্ষেত্র তৈরি করা হলো। প্রতিটি আয়তাকার টাইলসের ক্ষেত্রফল কত? ( )\nক. 200 বর্গসেমি\nখ. 300 বর্গসেমি\nগ. 600 বর্গসেমি\nঘ. 2400 বর্গসেমি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0f5181ff-482e-40c0-8098-858f3aadf331",
+    "images": [
+      "images/5637_0.png"
+    ],
+    "english_question": "<image>\nচীনা জাতির বৈজ্ঞানিক ও সাংস্কৃতিক ইতিহাস দীর্ঘ এবং উজ্জ্বল। আমাদের পূর্বপুরুষরা হাজার হাজার বছর আগে উৎপাদন ব্যবস্থায় গণিত প্রয়োগ করতে সক্ষম ছিলেন। 1300 বছরেরও বেশি আগে, সুই রাজবংশের সময় নির্মিত ঝাওঝৌ পাথরের খিলান সেতুর খিলানটি একটি বৃত্তাকার চাপের আকারে (চিত্রে দেখানো হয়েছে)। পরিমাপ করে দেখা গেছে যে খিলানের নিচের পানির পৃষ্ঠ খিলানের শীর্ষ থেকে 6 মিটার নিচে হলে, পানির পৃষ্ঠের প্রস্থ 34.64 মিটার। খিলানের বিস্তার 37.4 মিটার হলে, ঝাওঝৌ সেতুর খিলানের উচ্চতা নির্ণয় করো। (গণনার জন্য 37.4 = 14*sqrt(7), 34.64 = 20*sqrt(3) ব্যবহার করো)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "359f2fc2-6327-4a5f-85a9-00d5019d352b",
+    "images": [
+      "images/58429_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে নীচের উক্তিগুলো দেওয়া হয়েছে, যার মধ্যে সঠিকগুলো হলো ( ) \n① যদি ∠1 = ∠3 হয়, তবে AD ∥ BC; \n② যদি AD ∥ BC হয়, তবে ∠1 = ∠2 = ∠3; \n③ যদি ∠1 = ∠3 এবং AD ∥ BC হয়, তবে ∠1 = ∠2; \n④ যদি ∠C + ∠3 + ∠4 = 180° হয়, তবে AD ∥ BC।\nক. 1টি\nখ. 2টি\nগ. 3টি\nঘ. 4টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d1fa8df9-b0aa-4b2c-91b3-ebcec6bf996c",
+    "images": [
+      "images/4651_0.png"
+    ],
+    "english_question": "<image>\nসমবাহু ত্রিভুজ ABC-তে, যেখানে BD = CE এবং রেখা BE, AD-কে F বিন্দুতে ছেদ করে। যদি BF = 3 এবং AF = 4 হয়, তবে CF কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "235097ef-8820-45eb-8a83-3aa5386aefc3",
+    "images": [
+      "images/49601_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস, বিন্দু C এবং D বৃত্ত O-এর ওপর অবস্থিত এবং MN রেখাটি C বিন্দুতে বৃত্ত O-এর স্পর্শক। ∠BCN-এর পূরক কোণ কোনটি? ( ) ক. 1 খ. 2 গ. 3 ঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "578da1f7-acab-4d0a-8a3d-59f1b5448824",
+    "images": [
+      "images/4002_0.png"
+    ],
+    "english_question": "<image>\nচারটি চিত্রের কোন গ্রুপটি কেন্দ্রিক প্রতিসম (centrally symmetric)?\n\nOptions:\nক) 1 group\nখ) 2 groups\nগ) 3 groups\nঘ) 4 groups",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d88f886-ee1b-4e42-bde8-92d549e3ac6f",
+    "images": [
+      "images/63652_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD চতুর্ভুজে, AD সমান্তরাল BC এবং কর্ণ AC ও BD পরস্পর O বিন্দুতে ছেদ করে। যদি AC = BD হয়, তবে চিত্রে সর্বসম ত্রিভুজের কয়টি জোড়া বিদ্যমান ( )?\nক. 1 জোড়া\nখ. 2 জোড়া\nগ. 3 জোড়া\nঘ. 4 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "680a745a-9402-4987-a559-114318fef91d",
+    "images": [
+      "images/22636_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AD হলো সমকোণী ত্রিভুজ ABC এর অতিভুজের মধ্যমা, AE ⊥ AD যা CB এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে। চিত্রে কোন ত্রিভুজগুলো নিশ্চিতভাবে সদৃশ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "de74eb8f-b916-4a92-9093-f01f13fcbfca",
+    "images": [
+      "images/64791_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 10×6 গ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1 একক। ত্রিভুজ ABC-কে ত্রিভুজ DEF-এর অবস্থানে নিয়ে যাওয়ার সঠিক স্থানান্তর ধাপগুলো হলো ( )\n\nOptions (copied from English):\nD. First, move triangle ABC 5 units to the right, then 2 units up",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00c89d2e-44d7-4b89-9e13-9e659202bb74",
+    "images": [
+      "images/69170_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে ∠COD = 90°, রেখা AB, OC কে B বিন্দুতে এবং OD কে A বিন্দুতে ছেদ করে। রশ্মি OE এবং AF, G বিন্দুতে মিলিত হয়। যদি OE, ∠BOA কে সমদ্বিখণ্ডিত করে, AF, ∠BAD কে সমদ্বিখণ্ডিত করে এবং ∠OBA = 42° হয়, তবে ∠OGA এর মান নির্ণয় করো।\nOptions:\nA) Rays OE and AF intersect at G. If OE bisects ∠BOA, AF bisects ∠BAD, and ∠OBA = 42°, find ∠OGA)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "11e35f0d-7337-47b5-89ea-09d69a49ed84",
+    "images": [
+      "images/49743_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুর চারটি তলের মধ্যে, বৃহত্তম তলের ক্ষেত্রফল কত? ( )\nক. 8\nখ. 10\nগ. 6\\sqrt{2}\nঘ. 8\\sqrt{2}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d6a7577b-d876-4f2e-a987-9f02ef54c2c4",
+    "images": [
+      "images/20994_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যদি ∠1 = ∠2 এবং ∠3 = ∠4 হয়, তবে চিত্রে সর্বসম ত্রিভুজের সংখ্যা কত জোড়া?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02b628d9-4442-4560-9f14-52241fd7a7e3",
+    "images": [
+      "images/26084_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমদ্বিবাহু সমকোণী ত্রিভুজ, DEFG একটি বর্গক্ষেত্র, রেখাংশ AB, CD কে K বিন্দুতে ছেদ করে। যদি বর্গক্ষেত্র DEFG এর ক্ষেত্রফল 48 হয় এবং AK:KB = 1:3 হয়, তবে ত্রিভুজ BKD এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97728021-7ec8-4a32-8858-14fb4ad82855",
+    "images": [
+      "images/54946_0.png"
+    ],
+    "english_question": "<image>\nএকটি বর্গক্ষেত্রকে উভয় কর্ণের বরাবর ভাঁজ করলে কী আকৃতি পাওয়া যায়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3bfef810-d46e-44ad-9d77-fa8ed7dda0be",
+    "images": [
+      "images/33321_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক কঠিন বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে, যেখানে সামনের দৃশ্যটি একটি আয়তক্ষেত্র, পাশের দৃশ্যটি একটি সমদ্বিবাহু সমকোণী ত্রিভুজ এবং উপরের দৃশ্যটি একটি সমকোণী ট্রাপিজয়েড। এই জ্যামিতিক কঠিন বস্তুর আয়তন কত?\n\nOptions:\nক) \\(72\\)\nখ) \\(80\\)\nগ) \\(120\\)\nঘ) \\(144\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

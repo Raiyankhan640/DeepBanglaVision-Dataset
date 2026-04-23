@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ddbdfcb8-8b39-433a-b34c-67359a45f19d",
+    "images": [
+      "images/30417_0.png"
+    ],
+    "english_question": "<image>\na বাহুবিশিষ্ট একটি বর্গক্ষেত্র থেকে b বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র কেটে নেওয়া হলো। চিত্র (1)-এর মতো ড্যাশ লাইন বরাবর কাটার পর, এটিকে চিত্র (2)-এর মতো একটি ট্রাপিজিয়ামে পুনরায় সাজানো হলো। এই দুটি আকৃতির ক্ষেত্রফলের সম্পর্কের ভিত্তিতে, নিচের কোন রাশিটি সঠিক?\n\nOptions:\nক) a^2 - b^2 = (a + b)(a - b)\nখ) (a + b)^2 = a^2 + 2ab + b^2\nগ) (a - b)^2 = a^2 - 2ab + b^2\nঘ) a^2 - b^2 = (a - b)^2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fe46af40-94f4-4119-a91d-2da4c9c1adfa",
+    "images": [
+      "images/26354_0.png"
+    ],
+    "english_question": "<image>\nবৃত্ত O-তে, ব্যাস AB জ্যা CD-এর ওপর বিন্দু H-তে লম্ব। E বৃত্তের ওপর একটি বিন্দু। যদি ∠BEC = 25° হয়, তবে ∠BAD-এর মান কত?\n\nOptions:\nক) 65°\nখ) 50°\nগ) 25°\nঘ) 12.5°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f5557207-75c8-46e7-bd2e-f54cbb8d67e4",
+    "images": [
+      "images/55032_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে (2016 স্প্রিং, নানজিং মিডটার্ম), নিচের কোন সিদ্ধান্তটি ভুল? ( ) \nক) যদি AD সমান্তরাল BC হয়, তবে ∠1 = ∠B \nখ) যদি ∠1 = ∠2 হয়, তবে AD সমান্তরাল BC \nগ) যদি ∠2 = ∠C হয়, তবে AE সমান্তরাল CD \nঘ) যদি AE সমান্তরাল CD হয়, তবে ∠1 + ∠3 = 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a84fb4e7-f7a7-41c3-9168-21d99c04350c",
+    "images": [
+      "images/triangle_ext_a84fb4e7-f7a7-41c3-9168-21d99c04350c.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\( a \\) বাহুর দৈর্ঘ্যবিশিষ্ট একটি ঘনক রয়েছে যার মধ্যে একটি বড় গোলক এবং আটটি ছোট গোলক আছে। বড় গোলকটি ঘনকের ছয়টি তলের সাথেই স্পর্শক হিসেবে আছে এবং প্রতিটি ছোট গোলক বড় গোলকটির সাথে এবং ঘনকের যে কোণকে স্পর্শ করেছে সেই তিন তলের সাথে স্পর্শক হিসেবে আছে। এখন, যদি আমরা ঘনকের প্রতিটি কোণা থেকে একটি ত্রিভুজাকার পিরামিড কেটে ফেলি, যার প্রস্থচ্ছেদ একটি সমবাহু ত্রিভুজ এবং ছোট গোলকগুলোকে স্পর্শ করে, তবে মূল ঘনকের প্রতিটি ধারের অবশিষ্ট দৈর্ঘ্য কত?\nক. (6-3 \\( \\sqrt{3} \\))a\nখ. (6-3 \\( \\sqrt{3} \\))a\nগ. (5 \\( \\sqrt{3} \\)-8)a\nঘ. (5 \\( \\sqrt{3} \\)-8)a",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29bab5be-2908-455e-8f63-44c07e7d3d43",
+    "images": [
+      "images/52083_0.png"
+    ],
+    "english_question": "<image>\nসমান্তরাল চতুর্ভুজের উপরের বাহু ও নিচের বাহু হল ( ) ক. a ও b খ. b ও d গ. b ও c ঘ. a ও c",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cb1804b7-f167-4508-8a10-a04f299848e9",
+    "images": [
+      "images/48596_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজটি একটি ট্রাপিজিয়াম এবং △AOB-এর ক্ষেত্রফল △COD-এর ক্ষেত্রফলের (__)।\nবিকল্পসমূহ:\n(ক) সমান\n(খ) বৃহত্তর\n(গ) ক্ষুদ্রতর",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "785752aa-7967-4cef-8755-61762ccb9646",
+    "images": [
+      "images/triangle_ext_785752aa-7967-4cef-8755-61762ccb9646.png"
+    ],
+    "english_question": "<image>\n6 বাহুর দৈর্ঘ্যবিশিষ্ট ঘনকের ক্ষেত্রে, E এবং F বিন্দু দুটি যথাক্রমে C_{1}D_{1} এবং B_{1}C_{1} বাহুর মধ্যবিন্দু। A, E, এবং F বিন্দুগামী একটি সেকশন তৈরি করা হলো। সেকশনটির পরিসীমা কত?\nক. \\(18+3 \\sqrt{2} \\)\nখ. \\(6 \\sqrt{13}+3 \\sqrt{2} \\)\nগ. \\(6 \\sqrt{5}+9 \\sqrt{2} \\)\nঘ. \\(10+3 \\sqrt{2}+4 \\sqrt{10} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "315e067b-700f-4f1f-8532-cd646129c5a9",
+    "images": [
+      "images/40010_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে নিচের কোন যুক্তিগুলো সঠিক? ( )\n① যেহেতু ∠1 = ∠2, তাই b || c.\n② যেহেতু ∠3 = ∠4, তাই a || c.\n③ যেহেতু ∠4 + ∠5 = 180°, তাই b || c.\nক. 0\nখ. 1\nগ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c9c3d295-7309-4312-b499-d29f3a3ab903",
+    "images": [
+      "images/67192_0.png"
+    ],
+    "english_question": "<image>\nসমান্তরিক ABCD-এ ∠B=60°, ত্রিভুজ ABC কে কর্ণ AC বরাবর ভাঁজ করে বিন্দু B, বিন্দু E-এর সাথে মিলে যায় যাতে বিন্দু B, A ও E সমরেখায়। রেখা CE, AD-কে F বিন্দুতে ছেদ করে। চিত্রে কয়টি সমবাহু ত্রিভুজ আছে? ক. 4 খ. 3 গ. 2 ঘ. 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "34aaa73e-57d9-4cd2-a02c-20e0d5f70ed5",
+    "images": [
+      "images/triangle_ext_34aaa73e-57d9-4cd2-a02c-20e0d5f70ed5.png"
+    ],
+    "english_question": "<image>\n(10) চিত্রটি একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখাচ্ছে। সম্মুখ দৃশ্যটি একটি সমদ্বিবাহু সমকোণী ত্রিভুজ, যার অতিভুজ \\( \\bar{B}\\bar{D} \\) পরিমাপে \\( 2 \\)। পার্শ্ব দৃশ্যটি একটি সমকোণী ত্রিভুজ এবং শীর্ষ দৃশ্যটি একটি সমকোণী ট্রাপিজয়েড, যেখানে \\( \\mathit{A B} = \\mathit{B C} = 1 \\)। তির্যক রেখা \\( \\mathcal{P B} \\) এবং \\( C D \\)-এর মধ্যবর্তী কোণের ট্যানজেন্ট (tangent) কত?\nক. $1$\nখ. $\\sqrt{2}$\nগ. $\\frac{\\sqrt{2}}{2}$\nঘ. $\\frac{1}{2}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1676342a-2740-4ec7-a6a4-fd4f5bd1850a",
+    "images": [
+      "images/49396_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্ত O-এর ব্যাস AB এবং C ও D বৃত্তের ওপর অবস্থিত দুটি বিন্দু। MN রেখাটি C বিন্দুতে বৃত্তের স্পর্শক। চিত্রে ∠BCN-এর পূরক কোণের সংখ্যা কত? (__) \n(ক) 1\n(খ) 2\n(গ) 3\n(ঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "00eef6ba-492d-4144-8f4e-ace6076a95fe",
+    "images": [
+      "images/55473_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সমান্তরিক ABCD-এ বিন্দু E, F, G ও H যথাক্রমে AB, BC, CD ও DA প্রান্তের মধ্যবিন্দু। চিত্রে মোট কয়টি সমান্তরিক আছে? ক. 2 খ. 3 গ. 4 ঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2626ff33-b038-4d8d-877e-b97a36afa1c1",
+    "images": [
+      "images/71529_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল DC এবং ∠FMG = ∠BMG। যদি ∠FMG = 50° হয়, তবে ∠END = কত?\n\nOptions:\nক) 100°\nখ) 80°\nগ) 40°\nঘ) 25°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a637d462-2137-4093-909c-42c2d16ccb68",
+    "images": [
+      "images/34902_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\\\(\\\\triangle ABC\\\\) একটি বৃত্তে অন্তর্নিহিত ত্রিভুজ। \\\\(∠BAC\\\\) কোণের সমদ্বিখণ্ডক \\\\(AD\\\\) বৃত্তকে \\\\(D\\\\) বিন্দুতে ছেদ করে এবং \\\\(BC\\\\) কে \\\\(E\\\\) বিন্দুতে ছেদ করে। বৃত্তের \\\\(B\\\\) বিন্দুতে স্পর্শক \\\\(AD\\\\) রেখার বর্ধিতাংশকে \\\\(F\\\\) বিন্দুতে ছেদ করে। উপরোক্ত শর্তাবলী অনুযায়ী, নিম্নলিখিত চারটি সিদ্ধান্ত দিন: \\\\(① BD \\\\) \\\\(∠CBF\\\\) কে সমদ্বিখণ্ডিত করে; \\\\(② FB^{2} = FD \\\\cdot FA\\\\); \\\\(③ AE \\\\cdot CE = BE \\\\cdot DE\\\\); \\\\(④ AF \\\\cdot BD = AB \\\\cdot BF\\\\). সব সঠিক সিদ্ধান্তের ক্রম \\\\((\\\\) \\\\(\\\\)\\\\()\\\\)\n\nOptions:\nক) \\(①②\\)\nখ) \\(③④\\)\nগ) \\(①②③\\)\nঘ) \\(①②④\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2c71dbf1-991d-4ad2-b9fa-16eb7bddc0ce",
+    "images": [
+      "images/29717_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O বিন্দুটি একটি সুষম ষড়ভুজ ABCDEF এর কেন্দ্র। A, B, C, D, E, F, O বিন্দুগুলোর যেকোনো একটি থেকে অন্য একটি বিন্দুতে অঙ্কিত ভেক্টরগুলোর মধ্যে, ভেক্টর OA এর সাথে সমরেখ (collinear) কতগুলো ভেক্টর আছে (ভেক্টর OA ব্যতীত)?\n\nOptions:\nক) 2\nখ) 3\nগ) 6\nঘ) 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7d191d80-9ece-44d7-bdfc-86e9312449e2",
+    "images": [
+      "images/37951_0.png"
+    ],
+    "english_question": "<image>\nবর্গাকার গ্রিডে ত্রিভুজ ABC এর অবস্থান চিত্রে দেখানো হয়েছে। tan ∠A এর মান কত?\n\nOptions:\nক) \\( \\frac { 1 } { 2 } \\)\nখ) \\( \\frac { \\sqrt { 2 } } { 2 } \\)\nগ) \\( \\frac 1 3 \\)\nঘ) \\( \\frac { \\sqrt { 3 } } { 3 } \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3cddb756-4ec6-4f3a-ad22-31bab17d82fc",
+    "images": [
+      "images/1807_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-তে, দেওয়া আছে ∠BAD = 100°। AB বাহুর লম্ব সমদ্বিখণ্ডক কর্ণ AC-কে F বিন্দুতে ছেদ করে এবং E হলো লম্বের পাদবিন্দু। DF যুক্ত করলে, ∠CDF এর মান কত?\n\nOptions:\nক) \\(60^{\\circ}\\)\nখ) \\(50^{\\circ}\\)\nগ) \\(30^{\\circ}\\)\nঘ) \\(20^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4edbdf79-a6a8-45f2-9c72-8c756521b934",
+    "images": [
+      "images/36208_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, △ABC এবং △AFG দুটি সর্বসম সমদ্বিবাহু সমকোণী ত্রিভুজ, যেখানে ∠BAC=∠F=90°। রেখাংশ BC, AF এবং AG কে যথাক্রমে D এবং E বিন্দুতে ছেদ করে। সুতরাং, চিত্রে সদৃশ কিন্তু সর্বসম নয় এমন ত্রিভুজ জোড়ার সংখ্যা কত? ( ) \nক. 0 জোড়া \nখ. 1 জোড়া \nগ. 2 জোড়া \nঘ. 3 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7a3823f0-e3eb-4733-9e49-0c3c75420526",
+    "images": [
+      "images/39709_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয় EF রেখাকে যথাক্রমে G এবং H বিন্দুতে ছেদ করেছে। নিচের শর্তগুলো দেওয়া আছে: ①∠1=∠2; ②∠3=∠6; ③∠2=∠8; ④∠5+∠8=180°। নিচের কোনটি থেকে নিশ্চিত হওয়া যায় যে AB সমান্তরাল CD?\n\nOptions:\nক) ①③\nখ) ①②④\nগ) ①③④\nঘ) ②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "95276fd5-3eae-4443-8c5a-f04bd0fca4ce",
+    "images": [
+      "images/71195_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তে, জ্যা AD, BC-এর সমান্তরাল, DA = DC এবং ∠AOC = 160°। ∠BCO-এর পরিমাপ কত?\n\nOptions:\nক) 20°\nখ) 30°\nগ) 40°\nঘ) 50°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c97c0fe6-a829-4178-ac49-a34b6565a372",
+    "images": [
+      "images/52818_0.png"
+    ],
+    "english_question": "<image>\nজাহাজ A ঘণ্টায় 30√2 নটিক্যাল মাইল বেগে উত্তর দিকে চলছে। জাহাজ B একটি নির্দিষ্ট দিকে ধ্রুবক বেগে চলছে। যখন জাহাজ A বিন্দু A1-এ থাকে, তখন জাহাজ B বিন্দু B1-এ থাকে, যা জাহাজ A থেকে পশ্চিমে 105° উত্তরে 20 নটিক্যাল মাইল দূরত্বে অবস্থিত। 20 মিনিট পর, জাহাজ A বিন্দু A2-এ পৌঁছায় এবং জাহাজ B বিন্দু B2-এ পৌঁছায়, যা জাহাজ A থেকে পশ্চিমে 120° উত্তরে 10√2 নটিক্যাল মাইল দূরত্বে অবস্থিত। জাহাজ B-এর গতিবেগ নটিক্যাল মাইল প্রতি ঘণ্টায় কত? তোমার উত্তরটি মূলদ আকারে প্রকাশ করো।\nOptions:\nd. When Ship A is at point $A_1$, Ship B is at point $B_1$, located $105^\\circ$ north of west from Ship A, with distance $20$ nautical miles. After $20$ minutes, Ship A reaches $A_2$, and Ship B reaches $B_2$, located $120^\\circ$ north of west from Ship A, with distance $10\\sqrt{2}$ nautical miles. What is the speed of Ship B in nautical miles per hour? Express your answer in radical form.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "604a6663-2d9a-41f4-8f0e-ef1447a17eae",
+    "images": [
+      "images/75880_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অন্তঃস্থ একান্তর কোণগুলো হলো ( )\n\nOptions:\nক) ∠1 and ∠4\nখ) ∠2 and ∠3\nগ) ∠1 and ∠3\nঘ) ∠3 and ∠4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9abbbe2d-a66d-47f4-a252-4b0c3e78803d",
+    "images": [
+      "images/7445_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমান ব্যাসার্ধবিশিষ্ট দুটি সমকোণী সেক্টরের কেন্দ্র একে অপরের চাপের ওপর অবস্থিত। ব্যাসার্ধ AE এবং CF বিন্দু G-তে ছেদ করে এবং ব্যাসার্ধ BE এবং CD বিন্দু H-তে ছেদ করে। বিন্দু C হলো কোণ \\( \\widehat{AB} \\)-এর মধ্যবিন্দু। যদি সেক্টরগুলোর ব্যাসার্ধ 2 হয়, তবে চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল কত?\nOptions:\nc. The radii AE and CF intersect at point G, and the radii BE and CD intersect at point H. Point C is the midpoint of angle \\( \\widehat{AB} \\). If the radius of the sectors is 2, what is the area of the shaded region in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "61d698a8-0d94-41da-bd76-335f9cc01dd2",
+    "images": [
+      "images/29905_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি ঘনকের নেটের (net) অংশ দেখানো হয়েছে। যদি ঘনকের বিপরীত পৃষ্ঠের সংখ্যাগুলো একে অপরের বিপরীতে থাকে, তবে c এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24dc3d1a-4fce-4e93-a0ae-6501e8d8bf25",
+    "images": [
+      "images/59739_0.png"
+    ],
+    "english_question": "<image>\nপ্রতিটি 'a' বাহুবিশিষ্ট দুটি বর্গক্ষেত্র দ্বারা গঠিত একটি আয়তক্ষেত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।\nOptions:\na.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9b26a966-6102-406c-b471-be36803c5e5e",
+    "images": [
+      "images/59313_0.png"
+    ],
+    "english_question": "<image>\nচিত্র (1) একটি ঘনকের উন্মুক্ত রূপ। চিত্র (2) এ দেখানো অবস্থান থেকে ঘনকটিকে প্রথম বর্গের দিকে, তারপর দ্বিতীয় বর্গের দিকে, তারপর তৃতীয় বর্গের দিকে এবং সবশেষে চতুর্থ বর্গের দিকে উল্টানো হলো। এই অবস্থায়, ছোট ঘনকের উপরের তলে থাকা অক্ষরটি কী?\n\nOptions:\nক) Dream\nখ) Yi\nগ) City\nঘ) Beautiful",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "70c3e8fa-f703-4aae-a8fe-28626376382d",
+    "images": [
+      "images/50413_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিচের চারটি শর্তের মধ্যে কোনটি AD, BC-এর সমান্তরাল তা নিশ্চিত করতে পারে না?\n∠DAC=∠ACB\n∠ADB=∠DBC\n∠DAB+∠ABC=180°\n∠BAC=∠ACD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "02142b93-1ac4-4da8-baa1-070f2cec445f",
+    "images": [
+      "images/40664_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজগুলোর বিন্যাস অনুযায়ী, যেখানে ∠C=90°, ∠D=30°, এবং ∠B=45°, ∠AOE-এর মান কত?\n\nOptions:\nক) 165°\nখ) 120°\nগ) 150°\nঘ) 135°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8bc3f4f6-0a88-45a7-a487-9d9b5c9e5351",
+    "images": [
+      "images/602_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, যখন দুটি ত্রিভুজাকার বোর্ডকে তাদের সমকোণী শীর্ষবিন্দুগুলো মিলিয়ে রাখা হয়, যদি ∠1 = 40° হয়, তবে ∠2 এর মান কত?\n\nOptions:\nক) 60°\nখ) 50°\nগ) 40°\nঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "faeb6b16-84ea-40a3-b6ad-4032baf8af6c",
+    "images": [
+      "images/59731_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রটি কেন্দ্রিক প্রতিসম (centrally symmetric) এবং অক্ষীয় প্রতিসম (axially symmetric) উভয়ই?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ea9a09a9-a276-447c-afb0-13e8a69c9e36",
+    "images": [
+      "images/66451_0.png"
+    ],
+    "english_question": "<image>\nস্থানাঙ্ক ব্যবস্থায় বর্গক্ষেত্র ABCD এর অবস্থান চিত্রে দেখানো হয়েছে। বর্গক্ষেত্র ABCD কে D বিন্দুর সাপেক্ষে ঘড়ির কাঁটার দিকে 90° কোণে ঘোরালে B বিন্দুর স্থানাঙ্ক কত হবে?\n\nOptions:\nক) (-2, 2)\nখ) (4, 1)\nগ) (3, 1)\nঘ) (4, 0)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dc4a550d-ff9e-4a99-9a8d-53652e0ce0b0",
+    "images": [
+      "images/triangle_ext_dc4a550d-ff9e-4a99-9a8d-53652e0ce0b0.png"
+    ],
+    "english_question": "<image>\nগ. ্রিডে, ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দুই গ্রিড পয়েন্টের ওপর অবস্থিত। সুতরাং, ত্রিভুজ ABC-এর অক্ষ-প্রতিসম এবং গ্রিড পয়েন্টকে শীর্ষবিন্দু হিসেবে ধারণকারী মোট ত্রিভুজের সংখ্যা কত? ( )\nক. 3\nখ. 4\nগ. 5\nঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b4555c4-94c4-420b-96c3-30995771b567",
+    "images": [
+      "images/29434_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আকৃতির পরিসীমা নির্ণয় করো। (একক: মি.)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "643fc15c-384c-4ec2-939c-103a51af7896",
+    "images": [
+      "images/43798_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলো লক্ষ্য করো:\nএদের মধ্যে কতটি চিত্রকে কেন্দ্র-প্রতিসম (centrally symmetric) হিসেবে বিবেচনা করা যায়?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "638014df-9f29-473e-bf5f-a04179f565d5",
+    "images": [
+      "images/52240_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে OA = OB, সংখ্যারেখায় বিন্দু A দ্বারা প্রকাশিত সংখ্যা ____________।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2bd485a3-e3f1-406a-b979-469d68f4ee0f",
+    "images": [
+      "images/33561_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমদ্বিবাহু ট্রাপিজিয়ামে, ক আকৃতির ক্ষেত্রফল খ আকৃতির ক্ষেত্রফলের ( )।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5e4175ef-5655-4330-b4d6-3f257453e667",
+    "images": [
+      "images/25775_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি বড় বর্গের ভেতরে তিনটি ছোট বর্গ রয়েছে। উপরের ডানদিকের বর্গের ক্ষেত্রফল 27 এবং নিচের বামদিকের বর্গের ক্ষেত্রফল 12। মাঝখানের ছায়াবৃত বর্গের দুটি শীর্ষবিন্দু যথাক্রমে নিচের বামদিকের এবং উপরের ডানদিকের বর্গের কেন্দ্রে অবস্থিত। মাঝখানের ছায়াবৃত বর্গের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "034245ec-7fb4-4e83-9f65-b2102fa7562e",
+    "images": [
+      "images/55944_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, P বৃত্তটি x-অক্ষকে O বিন্দুতে স্পর্শ করে এবং P বিন্দুর স্থানাঙ্ক (0, 3/2)। A বিন্দুটি P বৃত্তের উপর অবস্থিত এবং প্রথম চতুর্ভাগে আছে, যেখানে ∠APO = 120°। P বৃত্তটি x-অক্ষের ঋণাত্মক দিকে গড়িয়ে চলে। যখন A বিন্দুটি প্রথমবার x-অক্ষে স্পর্শ করে, তখন A বিন্দুর x-স্থানাঙ্ক কত হবে? (ফলাফলে π থাকবে)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "574588a4-f329-46a9-94c6-0de0ffd7febc",
+    "images": [
+      "images/4069_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, নিম্নলিখিত শর্তগুলো দেওয়া আছে: 1) ∠1 = ∠2; 2) ∠3 = ∠4; 3) AD ∥ BE এবং ∠D = ∠B; 4) AD ∥ BE এবং ∠BAD = ∠BCD। নিচের কোন শর্তগুলো AB ∥ DC নির্দেশ করে?\n\nOptions:\nক) 1)\nখ) 2)\nগ) 2) 3)\nঘ) 2) 3) 4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "47685830-f157-4cb5-9811-abe7078434d8",
+    "images": [
+      "images/triangle_ext_47685830-f157-4cb5-9811-abe7078434d8.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC তে, D বিন্দুটি AB এর উপর এবং E বিন্দুটি AC এর উপর অবস্থিত, যেখানে ∠B = ∠C। কোন অতিরিক্ত শর্তটি ত্রিভুজ ABE এবং ত্রিভুজ ACD এর সর্বসমতা নিশ্চিত করে না? (ক) AD = AE (খ) BD = CE (গ) ∠ABE = ∠ACD (ঘ) ∠AEB = ∠ADC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

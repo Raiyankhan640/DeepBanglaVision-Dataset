@@ -1,0 +1,302 @@
+[
+  {
+    "id": "5785dfd6-6f02-40d3-b796-5610a6790c25",
+    "images": [
+      "images/19327_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি রোবট বিন্দু A থেকে দক্ষিণ-পশ্চিম দিকে 4√2 একক দূরত্ব অতিক্রম করে। বিন্দু B-তে পৌঁছানোর পর, এটি লক্ষ্য করল যে মূলবিন্দু O দক্ষিণ থেকে 60° কোণে দক্ষিণ-পূর্ব দিকে অবস্থিত। বিন্দু A-এর স্থানাঙ্ক নির্ণয় করো।\nOptions:\nA)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0da61612-6a54-4802-b0a5-faad61f1572e",
+    "images": [
+      "images/17247_0.png"
+    ],
+    "english_question": "<image>\nAB রেখার উপর O একটি বিন্দু। OA রশ্মির উপর A1, A2, A3, ... এবং OB রশ্মির উপর B1, B2, B3, ... বিন্দুগুলো অবস্থিত। চিত্রে প্রতিটি সরলরেখাংশ ও বৃত্তচাপের দৈর্ঘ্য 1 একক। একটি গতিশীল বিন্দু M, O বিন্দু থেকে যাত্রা শুরু করে এবং চিত্রে তীরচিহ্নিত দিক অনুযায়ী প্রতি সেকেন্ডে 1 একক দ্রুতিতে সরলরেখাংশ ও অর্ধবৃত্তাকার পথ অতিক্রম করে। এই ধারা অনুযায়ী, বিন্দু M-এর A101 বিন্দুতে পৌঁছাতে কত সেকেন্ড সময় লাগবে?\nOptions:\nB) Each solid and dashed line segment in the figure has a length of 1 unit. A moving point M starts from point O and moves along the solid line segments and the semicircle centered at point O at a constant speed of 1 unit length per second, in the direction indicated by the arrows in the figure. According to this pattern, the time required for point M to reach point A<sub>101</sub> is seconds.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8ce8d33-3bec-4898-8368-5a2086265a00",
+    "images": [
+      "images/26604_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, A, B এবং C বিন্দুগুলো O কেন্দ্রবিশিষ্ট বৃত্তের ওপর অবস্থিত এবং D বিন্দুটি বৃত্তের বাইরে অবস্থিত। নিচের কোন সিদ্ধান্তটি সঠিক?\n\nOptions (copied from English):\nক. \\(∠C > ∠D\\)\nখ. \\(∠C < ∠D\\)\n\\(∠C=∠D\\)\n\\(∠C=2∠D\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "88df1492-3078-477c-abde-1afa98e94fdc",
+    "images": [
+      "images/35320_0.png"
+    ],
+    "english_question": "<image>\nধরি, OABC একটি আয়তক্ষেত্র যার বাহুগুলো স্থানাঙ্ক অক্ষের ওপর অবস্থিত এবং y = x² - 4x - 2 পরাবৃত্তটি A(0, -2) ও B বিন্দু দিয়ে যায়, যেখানে AB বাহুর দৈর্ঘ্য 4। বিন্দু P, A থেকে B এর দিকে প্রতি সেকেন্ডে 1 একক বেগে চলে। বিন্দু Q, A থেকে 1 সেকেন্ড পরে যাত্রা শুরু করে এবং AO, OC, CB বরাবর প্রতি সেকেন্ডে 7 একক বেগে চলে। যখন PQ, AC এর সমান্তরাল হয়, তখন পরাবৃত্তের প্রতিসাম্য অক্ষের ওপর অবস্থিত বিন্দু H এর y-স্থানাঙ্কের সীমা নির্ণয় করো যাতে ∠HOQ > ∠POQ হয়।\nOptions:\nc. Point Q starts from A after 1 second and moves along AO, OC, CB at 7 units/sec. When PQ is parallel to AC, find the range of y-coordinates for point H on the axis of symmetry of the parabola such that ∠HOQ > ∠POQ.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c026f4e-1e1d-4e52-a52c-8bc9bafc21fd",
+    "images": [
+      "images/55711_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, রান্নাঘরের ক্ষেত্রফল বাথরুমের ক্ষেত্রফলের চেয়ে 2 বর্গমিটার বেশি। যদি 1 বর্গমিটার মেঝেতে টাইলস লাগানোর গড় খরচ 80 ইউয়ান হয়, তবে পুরো মেঝেতে টাইলস লাগাতে মোট কত খরচ হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3619dfa-5b8f-46a7-a8b4-ea93d8d6f9e7",
+    "images": [
+      "images/30230_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, যেখানে AD = 2AB, F হলো AD-এর মধ্যবিন্দু এবং CE, AB-এর উপর লম্ব যেখানে E বিন্দুটি AB বাহুর উপর অবস্থিত। EF এবং CF যোগ করলে, নিচের কোন সিদ্ধান্তগুলো অবশ্যই সত্য হবে: ①∠DCF = 1/2 ∠BCD; ②EF = CF; ③S_ΔBEC = 2S_ΔCEF; ④∠DFE = 3∠AEF। কোন বিবৃতিগুলো নিশ্চিতভাবে সত্য? ( )\n\nOptions:\nক) ①②\nখ) ①③④\nগ) ①②③\nঘ) ①②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "992a12ad-dcbe-4849-bf1a-57541109ad6f",
+    "images": [
+      "images/37462_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a ও b রেখাদ্বয় c রেখাকে ছেদ করেছে। নিম্নোক্ত শর্তগুলো দেওয়া আছে: ① ∠2 = ∠3; ② ∠1 = ∠4; ③ ∠1 + ∠4 = 180°। নিচের কোনটি থেকে নিশ্চিত হওয়া যায় যে a ∥ b? ( )\n\nOptions:\nক) ①②③\nখ) ①②\nগ) ①③\nঘ) Only ①",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "260c5649-582a-4847-8370-414ebe985db9",
+    "images": [
+      "images/21640_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 30° কোণ বিশিষ্ট একটি ত্রিভুজাকার স্কেল একটি সোজা স্কেলের ওপর রাখা আছে। যদি ∠1 = 40° হয়, তবে ∠2 = কত?\n\nOptions:\nক) 45°\nখ) 50°\nগ) 60°\nঘ) 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ebc8d133-f38b-4f65-903e-5db7738fbe22",
+    "images": [
+      "images/50348_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, যদি ∠D = ∠EFC হয়, তবে ( )\nAD∥BC\nEF∥BC\nAB∥DC\nAD∥EF",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dee927e9-10d7-4aaa-ab25-d1aeb20fb489",
+    "images": [
+      "images/41101_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 300m উচ্চতায় অবস্থিত একটি হেলিকপ্টার A থেকে একটি টাওয়ারের শীর্ষ এবং পাদদেশের অবনতি কোণ যথাক্রমে 30° এবং 60° পরিমাপ করা হয়েছে। টাওয়ারটির উচ্চতা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a93890bf-1bc9-4feb-b767-5b35612e758c",
+    "images": [
+      "images/27840_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস এবং C ও D হলো AB-এর সমত্রিখণ্ডক বিন্দু। যদি বৃত্ত O-এর ব্যাসার্ধ 1 হয় এবং P, AB রেখাংশের ওপর যেকোনো একটি বিন্দু হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) \\( \\frac{\\pi}{3} \\)\nখ) \\( \\frac{\\pi}{6} \\)\nগ) \\( \\frac{\\pi}{2} \\)\nঘ) \\( \\frac{2\\pi}{3} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "800e15d8-230c-4596-8033-95fbb54e35ec",
+    "images": [
+      "images/28649_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমতলে AB রেখাংশের প্রান্তবিন্দু দিয়ে অতিক্রম করে। a এবং b রেখাদ্বয়ের মধ্যবর্তী সূক্ষ্মকোণটি কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d90528df-b21d-46cd-9224-64485e8f02b4",
+    "images": [
+      "images/2712_0.png"
+    ],
+    "english_question": "<image>\nMN রেখার সাপেক্ষে বিন্দু গ্রিডে অবস্থিত ত্রিভুজ △ABC-এর প্রতিসম চিত্র অঙ্কন করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "63babd7c-476d-4bc5-896c-a6aaeea5e603",
+    "images": [
+      "images/61324_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) 8+2 \\sqrt{2}\nখ) 11+2 \\sqrt{2}\nগ) 14+ \\sqrt{2}\nঘ) 15",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b7207dba-79e0-40be-b9e8-f0f1cba24fcf",
+    "images": [
+      "images/5065_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বলয়ের (ring) ক্ষেত্রফল 9π। বড় বৃত্তের জ্যা AB ছোট বৃত্তকে C বিন্দুতে স্পর্শ করে। জ্যা AB এর দৈর্ঘ্য কত? ( )\nক. 9\nখ. 18\nগ. 3\nঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "838dc3a9-5e35-4f78-b26e-1943ea44b147",
+    "images": [
+      "images/47230_0.png"
+    ],
+    "english_question": "<image>\nশাও মিং একটি পার্কের সামনে একটি হট এয়ার বেলুনের ব্যাস পরিমাপ করতে চায়। চিত্রে দেখানো অনুযায়ী, বেলুনটি একটি নির্দিষ্ট অবস্থানে উঠলে, শাও মিং বিন্দু A থেকে বেলুনের নিচের বিন্দু C এবং মধ্যবিন্দু D-এর উন্নতি কোণ পরিমাপ করে, যা যথাক্রমে 50° এবং 60°। দেওয়া আছে O বেলুনের কেন্দ্র, EA ⊥ AB, OB ⊥ AB, OB ⊥ OD, বিন্দু C, OB-এর উপর অবস্থিত, AB = 30 মি, এবং বিন্দু E, A, B, O, D একই সমতলে অবস্থিত। উপরের তথ্যের ভিত্তিতে, হট এয়ার বেলুনের আনুমানিক ব্যাস কত মিটার? (0.1 মি পর্যন্ত সঠিক) (তথ্য: sin50° ≈ 0.7660, cos50° ≈ 0.6428, tan50° = 1.192)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bb315d19-ca8f-4403-a1de-f5a13b3bc335",
+    "images": [
+      "images/23322_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য (একক: cm) দেওয়া হলো (সম্মুখ দৃশ্যের চাপটি একটি অর্ধবৃত্ত), এই যৌগিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল cm² এককে গণনা করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3ca25022-ab92-4105-9d46-38769af655f9",
+    "images": [
+      "images/76468_0.png"
+    ],
+    "english_question": "<image>\nশ্যাও হুয়া বাড়ি থেকে শুরু করে স্কুল হয়ে যুব প্রাসাদে যায়, মোট ______টি পথ আছে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0bf9addc-bcf6-408e-a74c-efdc7c4b9961",
+    "images": [
+      "images/46546_0.png"
+    ],
+    "english_question": "<image>\nনীচের বামদিকের ছবিটি একটি জ্যামিতিক বস্তুর সামনের দৃশ্য (front view)। কোন বিকল্পটি এর উপরের দৃশ্য (top view) নির্দেশ করে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8e170ad3-25cc-4d81-8700-ba08459d03c3",
+    "images": [
+      "images/12573_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে মোট 12টি অভিন্ন ছোট বর্গক্ষেত্র রয়েছে, যার মধ্যে ছায়াবৃত অংশটি একটি ঘনকের পৃষ্ঠতলের বিস্তৃতির 5টি ছোট বর্গক্ষেত্র নিয়ে গঠিত। এখন, অবশিষ্ট বর্গক্ষেত্রগুলো থেকে দৈবচয়ন পদ্ধতিতে একটি বর্গক্ষেত্র নির্বাচন করে ছায়াবৃত করলে, এটি উক্ত ঘনকের পৃষ্ঠতলের বিস্তৃতি গঠন করার সম্ভাবনা কত?\n\nOptions:\nক) \\(\\dfrac{4}{7}\\)\nখ) \\(\\dfrac{3}{4}\\)\nগ) \\(\\dfrac{2}{7}\\)\nঘ) \\(\\dfrac{1}{7}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

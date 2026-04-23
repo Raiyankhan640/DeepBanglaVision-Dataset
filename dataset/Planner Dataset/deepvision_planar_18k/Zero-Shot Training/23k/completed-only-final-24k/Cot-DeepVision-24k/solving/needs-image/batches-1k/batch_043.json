@@ -1,0 +1,302 @@
+[
+  {
+    "id": "8d9cf531-9e1b-4741-a2ae-4a2709638f86",
+    "images": [
+      "images/34662_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী: ∠AOB এবং ∠COD কোণদ্বয় ∠BOC কোণের পূরক কোণ হলে, চিত্রে সম্পূরক কোণের জোড়ার সংখ্যা কত? ( )\nক. 1 জোড়া\nখ. 2 জোড়া\nগ. 3 জোড়া\nঘ. 4 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "46375c74-fa5d-490b-87c1-18cdb99875bb",
+    "images": [
+      "images/63208_0.png"
+    ],
+    "english_question": "<image>\n1. ডানদিকের চিত্রে চিহ্নিত পাঁচটি অঞ্চলকে পাঁচটি উপলব্ধ রঙ ব্যবহার করে রঙ করো, যেন পাশাপাশি দুটি অঞ্চলের রঙ একই না হয়। মোট কতটি ভিন্ন পদ্ধতিতে রঙ করা সম্ভব? (সংখ্যায় উত্তর দাও)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e1a98d96-b9f1-498e-bac0-9f9826be734d",
+    "images": [
+      "images/42365_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক চিত্র অনুযায়ী, নিচের কোন যুক্তি ও ব্যাখ্যাটি ভুল? ( )\n∵∠1=∠3, ∴AB∥CD (একান্তর কোণ সমান, তাই রেখাদ্বয় সমান্তরাল)\n∵AB∥CD, ∴∠1=∠3 (রেখাদ্বয় সমান্তরাল হলে, একান্তর কোণ সমান হয়)\n∵AD∥BC, ∴∠2=∠4 (রেখাদ্বয় সমান্তরাল হলে, একান্তর কোণ সমান হয়)\n∵∠2=∠4, ∴AB∥CD (একান্তর কোণ সমান, তাই রেখাদ্বয় সমান্তরাল)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "020471d8-aa65-468a-822a-fd5eefc0c549",
+    "images": [
+      "images/triangle_ext_020471d8-aa65-468a-822a-fd5eefc0c549.png"
+    ],
+    "english_question": "<image>\nধরা যাক, বৃত্ত O হলো ত্রিভুজ ABC-এর পরিবৃত্ত, যার ব্যাসার্ধ R, AD হলো ত্রিভুজ ABC-এর উচ্চতা, E হলো BC-এর মধ্যবিন্দু এবং EF, E বিন্দুতে বৃত্ত O-এর স্পর্শক, যা AC-এর বর্ধিতাংশকে F বিন্দুতে ছেদ করে। নিম্নলিখিত সিদ্ধান্তগুলো যাচাই করো: 1) AC • AB = 2R • AD; 2) EF ∥ BC; 3) CF • AC = EF • CM; 4) CM / BM = sin B / sin F। নিচের কোনটি সঠিক?\nক. 1) 1, 2, 3\nখ. 2) 1, 3, 4\nগ. 3) 2, 3, 4\nঘ. 4) 1, 2, 3, 4\nঙ. 5)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "28c67ff9-9d6d-49bd-b987-ee068fb615d3",
+    "images": [
+      "images/53632_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90° এবং AC=BC=1, ত্রিভুজটিকে বিন্দু A-কে কেন্দ্র করে ঘড়ির কাঁটার বিপরীত দিকে 40° কোণে ঘোরালে ত্রিভুজ ADE পাওয়া যায়। বিন্দু B যে পথ অতিক্রম করে তা হলো ∠BD। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c2e9f05-9620-4a4f-bb0b-c62f319c935a",
+    "images": [
+      "images/24019_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে দ্বিতল কোণ α-AB-β সূক্ষ্মকোণ, বিন্দু C তল α-এর একটি বিন্দু (প্রান্ত AB-তে নয়), বিন্দু D হলো তল β-এর ওপর বিন্দু C-এর লম্ব অভিক্ষেপ, এবং বিন্দু E প্রান্ত AB-এর ওপর যেকোনো বিন্দু এমন যে ∠CEB সূক্ষ্মকোণ, তবে ( )\n\nOptions (copied from English):\nA. ∠CEB > ∠DEB\n∠CEB = ∠DEB\n∠CEB < ∠DEB\nThe relationship between ∠CEB and ∠DEB cannot be determined",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "224bb499-1194-4281-9e24-30ffb1719343",
+    "images": [
+      "images/49887_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l₁ সমান্তরাল রেখা l₂, AB লম্ব l₁-এর উপর, লম্বের পাদবিন্দু O। রেখা BC, l₂-কে E বিন্দুতে ছেদ করে। যদি ∠1 = 43° হয়, তবে ∠2 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bffe30be-f7e0-425e-a7bb-ded5f942224c",
+    "images": [
+      "images/9501_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, রেখা l₁ এবং l₂ সমান্তরাল, ∠1 এবং ∠2 পরস্পর পূরক কোণ এবং ∠4 = 149°, তাহলে ∠3 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f48874ce-02cd-47f1-bc3d-8c9263881860",
+    "images": [
+      "images/24267_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস এবং C ও D হলো অর্ধবৃত্তের সমত্রিখণ্ডক বিন্দু। যদি বৃত্ত O-এর ব্যাসার্ধ 1 হয় এবং E, AB রেখাংশের ওপর যেকোনো একটি বিন্দু হয়, তবে চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "693b4dd3-6648-4542-982c-3555f3bc038e",
+    "images": [
+      "images/20450_0.png"
+    ],
+    "english_question": "<image>\nসমদ্বিবাহু ত্রিভুজ ABC-তে, যেখানে AB=AC এবং ∠BAC=120°, AD রেখাংশ BC এর উপর D বিন্দুতে লম্ব। P বিন্দুটি BA রেখার বর্ধিতাংশের উপর অবস্থিত এবং O বিন্দুটি AD রেখাংশের উপর এমনভাবে অবস্থিত যে OP=OC। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ①∠APO+∠DCO=30°; ②∆OPC একটি সমবাহু ত্রিভুজ; ③AC=AO+AP; ④S_∆ABC=S_চতুর্ভুজAOCP। সঠিক সিদ্ধান্তগুলোর ক্রমিক নম্বর হলো ________।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a6b1426b-232b-4c59-a914-b6135ef165ea",
+    "images": [
+      "images/46743_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2007•মেইশান), জানা আছে যে সমকোণী সমদ্বিবাহু ত্রিভুজ ABC-এর সমকোণ সংলগ্ন বাহুদ্বয় এবং বর্গক্ষেত্র MNPQ-এর বাহুর দৈর্ঘ্য উভয়ই 20 cm। AC রেখা MN রেখার ওপর অবস্থিত এবং শুরুতে A বিন্দু N বিন্দুর সাথে মিলে ছিল। ত্রিভুজ ABC প্রতি সেকেন্ডে 2 cm বেগে বাম দিকে অগ্রসর হয় এবং শেষ পর্যন্ত A বিন্দু M বিন্দুর সাথে মিলে যায়। উপরিপাতিত ক্ষেত্রফল y (cm²-এ) এবং সময় t (সেকেন্ড-এ) এর মধ্যে ফাংশনাল সম্পর্কটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "98024d97-7d18-43a5-a935-ad991401b577",
+    "images": [
+      "images/8141_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠ACB=90°, AC=BC এবং একটি সমকোণী ত্রিভুজ DEF-তে, যেখানে ∠DFE=90°, বিন্দু D এবং E যথাক্রমে AC এবং BC বাহুর উপর অবস্থিত, যেখানে DE=BC। যদি ∠CFB=135°, CF=1 এবং EF=3 হয়, তবে AB-এর দৈর্ঘ্য কত?\nOptions:\nC) If ∠CFB=135°, CF=1, and EF=3, what is the length of AB?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2c9bb615-5b14-4c0e-986a-c9fdc6e2f3be",
+    "images": [
+      "images/61491_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সেক্টর AOB-তে, OA = 10 এবং ∠AOB = 36°। যদি বিন্দু B স্থির থাকে এবং এই সেক্টরটিকে ঘড়ির কাঁটার দিকে ঘোরানো হয়, তবে একটি নতুন সেক্টর A'O'B গঠিত হয়, যেখানে বিন্দু A, O'B-এর উপর অবস্থিত। বিন্দু O থেকে O' বিন্দুতে পৌঁছাতে যে পথ অতিক্রম করে তার দৈর্ঘ্য কত?\n\nOptions:\nক) π\nখ) 2π\nগ) 3π\nঘ) 4π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65844328-be7c-4a56-a716-6f87692f5720",
+    "images": [
+      "images/15065_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, O হলো মূলবিন্দু। সামান্তরিক ABCO-এর শীর্ষবিন্দুগুলোর স্থানাঙ্ক A(8,0) এবং C(3,4)। D এবং E বিন্দুদ্বয় OB রেখাংশকে তিনভাগে বিভক্ত করে। CD এবং CE রেখাকে বর্ধিত করলে তা যথাক্রমে OA এবং AB-কে F এবং G বিন্দুতে ছেদ করে। নিচের সিদ্ধান্তগুলো মূল্যায়ন করো: 1. F হলো OA-এর মধ্যবিন্দু; 2. △OFD সদৃশ △BEG; 3. চতুর্ভুজ DEGF-এর ক্ষেত্রফল 20/3; 4. OD = 4√5/3। কয়টি সিদ্ধান্ত সঠিক?\nOptions:\nB) Extending lines CD and CE intersects OA and AB at points F and G, respectively. Evaluate the following conclusions: 1. F is the midpoint of OA; 2. △OFD is similar to △BEG; 3. The area of quadrilateral DEGF is 20/3; 4. OD = 4√5/3. How many of these conclusions are correct?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "15522983-e8b6-4e8d-89fd-ed055d8009a1",
+    "images": [
+      "images/31209_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমতলে দুটি বর্গক্ষেত্র এবং একটি সুষম পঞ্চভুজ রয়েছে যাদের একটি সাধারণ বাহু আছে। ∠a কোণের মান নির্ণয় করুন।\nOptions:\na.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "05c5b323-ae41-4540-98b9-f64f1652c332",
+    "images": [
+      "images/60835_0.png"
+    ],
+    "english_question": "<image>\nসমতল ভূমিতে A এবং B বিন্দু দুটি 3 মিটার দূরত্বে অবস্থিত। A বিন্দু থেকে C বিন্দুর (ধ্বংসাবশেষের নিচে) উন্নতি কোণ 30° এবং B বিন্দু থেকে কোণটি 60°। C বিন্দু থেকে ভূমির লম্ব দূরত্ব (গভীরতা) নির্ণয় করো। (0.1 মিটার পর্যন্ত আসন্ন মান, √3 ≈ 1.73 ধরো)।\nOptions:\nd. From A, the angle between the line to point C (beneath the ruins) and the ground is 30°. From B, the angle is 60°. Find the perpendicular distance from point C to the ground (i.e., the depth). Round to 0.1 meters. Use √3 ≈ 1.73.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c21e4df7-2ed9-452d-b6a3-dee9d5df0b37",
+    "images": [
+      "images/64350_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, ABCD ট্রাপিজিয়ামে, DC সমান্তরাল AB। ট্রাপিজিয়ামটিকে ভাঁজ করলে, D ও C বিন্দুদ্বয় যথাক্রমে AB রেখার D' ও C' বিন্দুতে পতিত হয় এবং ভাঁজের রেখাটি হলো EF। যদি CD = 3 সেমি এবং EF = 4 সেমি হয়, তবে AD' + BC' এর দৈর্ঘ্য কত?\nOptions:\nB) When the trapezoid is folded, points D and C fall on points D' and C' on line AB, respectively, and the crease is EF. If CD = 3 cm and EF = 4 cm, what is the length of AD' + BC'?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a5c5767-e6b1-447b-a4be-5afb832d9f7b",
+    "images": [
+      "images/54992_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, নিচের ত্রিভুজাকৃতির বিন্যাসগুলো পর্যবেক্ষণ করো। প্রতিটি সারিতে ডটের সংখ্যার নিয়মটি কী? ধরি, প্রতিটি ত্রিভুজে n সংখ্যক সারি আছে। এই দুটি ত্রিভুজাকৃতির বিন্যাসে মোট ডটের সংখ্যাকে n-এর মাধ্যমে একটি বীজগাণিতিক রাশিতে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4d7799ed-ccd4-47f0-ab22-2cfa794be38e",
+    "images": [
+      "images/12852_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রে, একটি সামান্তরিক আকৃতির জমিকে 4টি ছোট সামান্তরিকে ভাগ করা হয়েছে যেখানে চার রঙের ফুল চাষ করা হয়: লাল, হলুদ, নীল এবং সাদা। লাল, হলুদ এবং নীল রঙের ফুল চাষ করা জমির ক্ষেত্রফল যথাক্রমে 20 বর্গমিটার, 30 বর্গমিটার এবং 36 বর্গমিটার। সাদা রঙের ফুল চাষ করা জমির ক্ষেত্রফল কত?\n\nOptions:\nক) 46 m²\nখ) 50 m²\nগ) 54 m²\nঘ) 60 m²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f23c6d6b-d330-4534-aebc-62a68cbae218",
+    "images": [
+      "images/45993_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে, রেখা a, রেখা b এর সমান্তরাল এবং একটি সমকোণী ত্রিভুজ ABC (∠C = 90°, ∠B = 45°) চিত্রে প্রদর্শিত অনুযায়ী স্থাপন করা হয়েছে। যদি ∠1 = 55° হয়, তবে ∠2 এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

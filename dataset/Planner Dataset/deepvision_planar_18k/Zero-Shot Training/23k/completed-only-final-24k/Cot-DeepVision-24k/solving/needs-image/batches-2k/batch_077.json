@@ -1,0 +1,342 @@
+[
+  {
+    "id": "42920884-6ffb-4c55-b137-50eee81c16a8",
+    "images": [
+      "images/20272_0.png"
+    ],
+    "english_question": "<image>\nছায়ায়িত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18e9e124-5f85-4356-86bb-8e6087cc2c36",
+    "images": [
+      "images/30751_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজের AC বাহুর ওপর E একটি বিন্দু। প্রথমে, ABE ত্রিভুজটিকে BE রেখা বরাবর ভাঁজ করা হলো, ফলে AB বাহু AC বাহুকে D বিন্দুতে ছেদ করে। এরপর, BCD ত্রিভুজটিকে BD রেখা বরাবর ভাঁজ করা হলো, ফলে C বিন্দুটি BE রেখার ওপর পতিত হয়। যদি ∠CDB = 74° এবং ∠AEB = 128° হয়, তবে মূল ত্রিভুজের ∠B এর মান কত?\nOptions:\nগ) First, triangle ABE is folded along BE, and after folding, side AB of triangle ABE intersects AC at point ঘ) Then triangle BCD is folded along BD, and point C coincides with BE. At this time, ∠CDB = 74°, ∠AEB = 128°, what is the measure of angle ∠B in the original triangle?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7c9a2315-0f43-4cc2-850b-c9349876d1d4",
+    "images": [
+      "images/18827_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি অর্ধবৃত্তাকার বস্তুকে প্রথমে তার ব্যাস ভূমির সমান্তরালে রাখা হলো। এরপর এর বক্র অংশকে ক্ষতি থেকে রক্ষা করার জন্য না পিছলে উল্টানো হলো, যাতে এর ব্যাস ভূমির স্পর্শ করে। এরপর এটিকে ভূমির সমান্তরালে 50 মিটার সরানো হলো। অর্ধবৃত্তের ব্যাস 4 মিটার হলে, কেন্দ্র O এর অতিক্রান্ত পথের দৈর্ঘ্য কত মিটার?\nOptions:\nd. It is then translated 50 meters along the ground. The diameter of the semicircle is 4 meters. What is the length of the path traveled by the center O in meters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a40531af-ef02-4cde-bdbe-6ee6a5396fdf",
+    "images": [
+      "images/10580_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, CE কোণ ACD-কে সমদ্বিখণ্ডিত করে এবং যদি কোণ 1 = 25° হয়, তবে কোণ 2-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9da092ae-2004-4807-a4d8-6267abc310b2",
+    "images": [
+      "images/13658_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র ABCD-এর ক্ষেত্রফল 12। বিন্দু M হলো AB-এর মধ্যবিন্দু। AC এবং DM যোগ করলে, ছায়াবৃত অংশের ক্ষেত্রফল কত? ( ▲ )\n\nOptions:\nক) 6\nখ) 4.8\nগ) 4\nঘ) 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9e115183-1be6-4fcf-a625-0d33baae4f30",
+    "images": [
+      "images/41083_0.png"
+    ],
+    "english_question": "<image>\nপ্রতি বছর জুন থেকে আগস্ট পর্যন্ত টাইফুন মৌসুমে, একটি বড় গাছের গুঁড়ি AB (ধরি গুঁড়িটি মাটির সাথে লম্ব) টাইফুনের আঘাতে 15^{\\circ} কোণে হেলে পড়ে এবং ভেঙে যায়। গাছটি এমনভাবে মাটিতে পড়ে যে গাছের শীর্ষবিন্দুটি মাটির D বিন্দুতে স্পর্শ করে (চিত্রে দেখানো হয়েছে)। গুঁড়ির নতি কোণ পরিমাপ করা হয়েছে \\angle BAC = 15^{\\circ} এবং গাছের ভাঙা অংশ ও মাটির মধ্যবর্তী কোণ \\angle ADC = 60^{\\circ}, যেখানে AD = 4 মিটার। গাছের আদি উচ্চতা AB কত মিটার ছিল? (তথ্য: \\sqrt{2} \\approx 1.4, \\sqrt{3} \\approx 1.7, \\sqrt{6} \\approx 2.4)\nOptions:\nd) was tilted \\(15^{\\circ}\\) and broke down when a typhoon hit, falling to the ground such that the top of the tree just touches the ground at point \\(D\\) (as shown in the figure). The angle of inclination of the trunk is measured as \\(∠BAC=15^{\\circ}\\), and the angle between the broken part of the tree and the ground is \\(∠ADC=60^{\\circ}\\), with \\(AD=4\\) meters. What was the original height of the tree \\(AB\\) in meters? (Reference data: \\( \\sqrt{2} ≈1.4\\), \\( \\sqrt{3} ≈1.7\\), \\( \\sqrt{6} ≈2.4\\))",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "47781448-2f8a-45d3-8ee8-9725eab3fad7",
+    "images": [
+      "images/63836_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা $l_1 \\parallel l_2$, $\\angle 1 = 40^\\circ$, $\\angle 2 = 75^\\circ$ হলে, $\\angle 3 = ( )$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "97d9d5ce-9625-4d39-8e37-8dbc903a7d55",
+    "images": [
+      "images/59728_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: রশ্মি OP, রেখা AE-এর সমান্তরাল। ∠A = α ধরি। পর্যায়ক্রমে ∠AOP-এর সমদ্বিখণ্ডক OB, ∠BOP-এর সমদ্বিখণ্ডক OB₁, ∠B₁OP-এর সমদ্বিখণ্ডক OB₂, ..., ∠Bₙ₋₁OP-এর সমদ্বিখণ্ডক OBₙ নির্মাণ করো, যেখানে সব বিন্দু B, B₁, B₂, ..., Bₙ রশ্মি AE-এর উপর অবস্থিত। ∠ABₙO-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7ba015e2-8c63-4f4a-84f3-21b946374ef8",
+    "images": [
+      "images/29523_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে AB বৃত্ত O-এর ব্যাস, P বৃত্তচাপের ওপর একটি বিন্দু এবং M, N ব্যাস AB-র ওপর দুটি বিন্দু যারা ও বিন্দুর সাপেক্ষে প্রতিসম। যদি AB = 6 এবং MN = 4 হয়, তবে PM · PN-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "96feb711-24e8-41e1-813a-4cec00f66ed4",
+    "images": [
+      "images/14055_0.png"
+    ],
+    "english_question": "<image>\nনিচের তিনটি বড় ত্রিভুজের প্রতিটিতে তিনটি করে ছোট ত্রিভুজ আছে। প্রতিটি বড় ত্রিভুজের চারটি সংখ্যা একটি নির্দিষ্ট নিয়ম মেনে চলে। বাম ও ডান পাশের বড় ত্রিভুজের সংখ্যাগুলো যে নিয়ম মেনে চলে, সেই নিয়ম অনুযায়ী মাঝখানের বড় ত্রিভুজের কেন্দ্রে '?' চিহ্নিত স্থানে উপযুক্ত সংখ্যাটি বসাও। উত্তর হলো ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2b24b573-7e00-4b61-b425-6c22ca0f1d93",
+    "images": [
+      "images/triangle_ext_2b24b573-7e00-4b61-b425-6c22ca0f1d93.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, হাইপারবোলা $y= \\frac{k}{x}$, সমকোণী ত্রিভুজ OMN-এর অতিভুজ বরাবর বিন্দু A দিয়ে যায় এবং সমকোণ সৃষ্টিকারী বাহু MN-কে বিন্দু B-তে ছেদ করে। যদি $OA=2AN$ হয় এবং ত্রিভুজ OAB-এর ক্ষেত্রফল $(2- \\sqrt{3}) x^2 - 4 (\\sqrt{3}-1) x - 10 = 0$ সমীকরণের একটি মূল হয়, তবে $k$-এর মান কত?\nOptions:\nB) If $OA=2AN$, and the area of triangle $OAB$ is exactly one of the roots of the equation $(2- \\sqrt{3}) x^2 - 4 (\\sqrt{3}-1) x - 10 = 0$, then the value of $k$ is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6ffaa2b2-04fc-4f8e-a776-605c773590e5",
+    "images": [
+      "images/42989_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2013, গাওয়াও সিটি মক পরীক্ষা) দেওয়া আছে যে সরলরেখা l₁, l₂-এর সমান্তরাল এবং ∠1 = 35°, তবে ∠2-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "05010dfc-2439-48b6-be6c-815169c48e76",
+    "images": [
+      "images/53716_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, A এবং B দুটি দ্বীপ, যাদের উচ্চতা 200 মিটার। একটি জরিপকারী বিমান সমুদ্রপৃষ্ঠ থেকে 1100 মিটার উচ্চতায় উড়ছে। যখন এটি C বিন্দুতে পৌঁছায়, তখন দ্বীপ A এর চূড়ার অবনতি কোণ 45°। এরপর এটি অনুভূমিকভাবে 1.99 × 10^4 মিটার উড়ে D বিন্দুতে পৌঁছায়, যেখানে দ্বীপ B এর চূড়ার অবনতি কোণ 60°। দ্বীপ দুটির মধ্যবর্তী দূরত্ব AB নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d3d2d488-3a4b-4241-901c-70c17a79858e",
+    "images": [
+      "images/53268_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত (2016 বসন্ত, রুশান সিটি ফাইনাল পরীক্ষা) বাগানটির দৈর্ঘ্য 200 মিটার এবং প্রস্থ 150 মিটার। মাঝখানের সাদা অংশটি পাকা রাস্তা এবং চারপাশের অংশটি চারটি অভিন্ন বর্গক্ষেত্র ও দুটি অভিন্ন অর্ধবৃত্ত নিয়ে গঠিত একটি লন। অর্ধবৃত্তের ব্যাসার্ধ r (মিটার) পরিবর্তিত হলে বাগানের পাকা অংশের ক্ষেত্রফল S (বর্গমিটার) পরিবর্তিত হয়। r-এর মাধ্যমে S-এর রাশিমালাটি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55437b6e-b2c8-4a39-8fad-62d440c8ddb9",
+    "images": [
+      "images/5750_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সামান্তরিক ABCD এর DC বাহুকে E বিন্দু পর্যন্ত এমনভাবে বর্ধিত করা হলো যাতে CE = CD হয়। AE যোগ করো যা BC বাহুকে F বিন্দুতে ছেদ করে। যখন ∠AFC = n∠D হয়, তখন n এর কোন মানের জন্য চতুর্ভুজ ABEC একটি আয়তক্ষেত্র হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "28bbba07-8e4d-42b9-b938-c03905c828a5",
+    "images": [
+      "images/34058_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-তে, যেখানে ∠ACB=90°, AC=BC=1, ত্রিভুজ ABC-কে বিন্দু A-কে কেন্দ্র করে 30° ঘড়ির কাঁটার বিপরীত দিকে ঘুরিয়ে ত্রিভুজ ADE তৈরি করা হলো। বিন্দু B দ্বারা অতিক্রান্ত পথকে \\( \\widetilde{BD} \\) দ্বারা চিহ্নিত করা হলো। ছায়াযুক্ত অঞ্চলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0af2ea1d-babb-4c48-811d-7eb9c029b89e",
+    "images": [
+      "images/40440_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি জাহাজ A বিন্দুতে অবস্থিত, যা বাতিঘর P থেকে উত্তর দিকের 65° পূর্ব দিকে 80 নটিক্যাল মাইল দূরে। জাহাজটি দক্ষিণ দিকে কিছুক্ষণ চলার পর B বিন্দুতে পৌঁছায়, যা বাতিঘর P থেকে দক্ষিণ দিকের 34° পূর্ব দিকে অবস্থিত। বাতিঘর P থেকে B বিন্দুতে থাকা জাহাজের দূরত্ব কত? (1 নটিক্যাল মাইলের নির্ভুলতায়, রেফারেন্স ডেটা: cos 25° ≈ 0.91, sin 25° ≈ 0.42, tan 25° ≈ 0.47, sin 34° ≈ 0.56, cos 34° ≈ 0.83, tan 34° ≈ 0.67)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2fcbe2e7-506b-4a36-a552-5cca996e9906",
+    "images": [
+      "images/20713_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমকোণী ত্রিভুজ ABC এবং DEF-এর ক্ষেত্রে (যেখানে ∠A=60°, ∠F=45°), E বিন্দুটি AC বাহুর উপর অবস্থিত এবং ED ∥ BC। ∠CEF-এর মান ডিগ্রিতে নির্ণয় করো।\nOptions:\nC) Find the measure of ∠CEF in degrees.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2b7aa0d2-81ab-4914-83cf-c251579a9646",
+    "images": [
+      "images/33935_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে $\\sqrt{5}$ ব্যাসার্ধ এবং কেন্দ্রস্থ কোণ 45° বিশিষ্ট একটি বৃত্তকলা (sector) $AOB$-র ভেতরে একটি বর্গক্ষেত্র $CDEF$ এমনভাবে তৈরি করা হয়েছে যেন বিন্দু $C$ রেখা $OA$-র ওপর, বিন্দু $D$ রেখা $OB$-র ওপর এবং বিন্দু $F$ বৃত্তচাপ $AB$-র ওপর থাকে। ছায়াযুক্ত অঞ্চলের ক্ষেত্রফল বের করো (ফলাফল $\\pi$-এর আকারে দিন)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f6738da1-7a09-4c50-aa9f-81c39b3ba41d",
+    "images": [
+      "images/2536_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো দেয়ালে হেলান দিয়ে রাখা একটি মই। মইয়ের পাদবিন্দু B দেয়াল থেকে 1.4 মি দূরে অবস্থিত। মইয়ের ওপর একটি বিন্দু D দেয়াল থেকে 1.2 মি দূরে এবং BD-এর দৈর্ঘ্য 0.5 মি। মইয়ের ওপর বিন্দু D থেকে ভূমির উচ্চতা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

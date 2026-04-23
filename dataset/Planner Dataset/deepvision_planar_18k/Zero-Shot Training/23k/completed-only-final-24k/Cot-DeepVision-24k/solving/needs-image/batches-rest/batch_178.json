@@ -1,0 +1,302 @@
+[
+  {
+    "id": "28ca67b0-9864-4550-baa4-252361299209",
+    "images": [
+      "images/2847_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2016 শরৎ, লাওহেকাউ সিটি মিডটার্ম), দেওয়া আছে যে AB সমান্তরাল CD এবং AD সমান্তরাল CB, তাহলে ত্রিভুজ ABC এবং ত্রিভুজ CDA-এর সর্বসমতার ভিত্তি হলো ( )\n\nOptions (copied from English):\nখ. ASA\nগ. AAS\nঘ. SSS",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "80aa3c2d-b71e-4e75-9987-d0403a70ce7c",
+    "images": [
+      "images/58298_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 'A' এবং 'B' বিন্দু দুটি দুটি ভবনের অবস্থান নির্দেশ করে। রেখা 'a' প্রধান পানির পাইপলাইন এবং রেখা 'b' প্রধান গ্যাসের পাইপলাইন নির্দেশ করে। আমাদের এই প্রধান পাইপলাইনগুলোর প্রতিটিতে একটি সংযোগ বিন্দু স্থাপন করতে হবে এবং ভবন 'A' ও 'B'-তে পানি ও গ্যাস সরবরাহের জন্য শাখা পাইপলাইন স্থাপন করতে হবে, যাতে পানি ও গ্যাসের শাখা পাইপলাইনের মোট ব্যবহৃত উপাদানের পরিমাণ সর্বনিম্ন হয়। চিত্রে, 'A'' হলো রেখা 'b'-এর সাপেক্ষে 'A' বিন্দুর প্রতিফলন এবং 'A'B' রেখাটি 'b' ও 'a' রেখাকে যথাক্রমে 'C' ও 'D' বিন্দুতে ছেদ করে। একইভাবে, 'B'' হলো রেখা 'a'-এর সাপেক্ষে 'B' বিন্দুর প্রতিফলন এবং 'B'A' রেখাটি 'b' ও 'a' রেখাকে যথাক্রমে 'E' ও 'F' বিন্দুতে ছেদ করে। পানি ও গ্যাসের শাখা পাইপলাইনের জন্য প্রয়োজনীয় সংযোগ বিন্দুগুলো হলো ( )\n\nOptions:\nক) F and C\nখ) F and E\nগ) D and C\nঘ) D and E",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5733d791-372b-4227-af88-f6e1689655dd",
+    "images": [
+      "images/62415_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সামান্তরিক ABCD-কে আয়তক্ষেত্রে রূপান্তর করতে একটি শর্ত যোগ করো। তোমার যোগ করা শর্তটি হলো ____।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dbaa2341-06c0-438c-81c5-2f98cb25625b",
+    "images": [
+      "images/18235_0.png"
+    ],
+    "english_question": "<image>\n△ABC-এ, AB = AC = a, BC = b (a > b)। △ABC-এর অভ্যন্তরে, ∠CBD = ∠A এবং ∠DCE = ∠CBD। DE-এর দৈর্ঘ্য কত?\nক. b²/a\nখ. a/b²\nগ. b³/a²\nঘ. a³/b²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0ec523b-7fe8-4a94-bfa2-08eda90f1dcf",
+    "images": [
+      "images/30453_0.png"
+    ],
+    "english_question": "<image>\nবর্গক্ষেত্র ABCD এর বাহুর দৈর্ঘ্য a। BC এবং CD এর মধ্যবিন্দু যথাক্রমে E এবং F। BF এবং DE যুক্ত করলে, চিত্রে ছায়াবৃত অংশের ক্ষেত্রফল কত?\nOptions:\na. The midpoints of BC and CD are E and F, respectively. Connecting BF and DE, what is the area of the shaded part in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6749b14b-9870-47d9-b5e1-d07110f1514c",
+    "images": [
+      "images/triangle_ext_6749b14b-9870-47d9-b5e1-d07110f1514c.png"
+    ],
+    "english_question": "<image>\nচিত্রে, △ABC একটি সমকোণী ত্রিভুজ যার ∠ACB=90°, ∠B=30°। ত্রিভুজটির সমকোণী শীর্ষবিন্দু একটি সোজা রুলারের একপাশে রাখা হয়েছে এবং AC বাহু রুলারের অন্য প্রান্তকে D বিন্দুতে ছেদ করে, যেখানে AB বাহু রুলারের দুই পাশকে E এবং F বিন্দুতে ছেদ করে। যদি ∠AFD=58° হয়, তবে ∠BCE এর মান কত?\nক. 20°\nখ. 28°\nগ. 32°\nঘ. 88°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "150c2e5e-5bd3-481d-836a-2fbf29a11865",
+    "images": [
+      "images/735_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত জ্যামিতিক সেট স্কয়ারের বিন্যাস অনুযায়ী, ED রেখাংশকে বর্ধিত করলে তা AC বাহুকে F বিন্দুতে ছেদ করে। ∠AFE কোণের মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4d65bf1-5210-4857-a7a6-749c0e5e8a4a",
+    "images": [
+      "images/55952_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায় xoy-তে, বিন্দু A, B এবং C অধিবৃত্ত y=6/x-এর ওপর অবস্থিত। রেখাংশ BD, x-অক্ষের ওপর D বিন্দুতে লম্ব এবং রেখাংশ CE, y-অক্ষের ওপর E বিন্দুতে লম্ব। বিন্দু F, x-অক্ষের ওপর অবস্থিত এবং দেওয়া আছে AO=AF। ছায়াঘেরা অঞ্চলগুলোর ক্ষেত্রফলের সমষ্টি কত? \nক. 6 \nখ. 12 \nগ. 18 \nঘ. 24",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f9645097-11a6-49e4-904a-f874b2ce1667",
+    "images": [
+      "images/58486_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-তে, ∠ACB = 90°, AC = BC = 1। ত্রিভুজ ABC-কে A বিন্দুর চারদিকে ঘড়ির কাঁটার বিপরীত দিকে 30° কোণে ঘোরানোর পর, ত্রিভুজ ADE পাওয়া যায়। B বিন্দু যে পথ অতিক্রম করে তা হলো BD। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e97d2b4c-591f-4eea-82ca-86850eb5a43e",
+    "images": [
+      "images/22314_0.png"
+    ],
+    "english_question": "<image>\nদুটি বর্গক্ষেত্র পাশাপাশি একটি অর্ধবৃত্তের মধ্যে অন্তর্লিখিত আছে। যদি ছোট বর্গক্ষেত্রটির ক্ষেত্রফল 16 বর্গ সেমি হয়, তবে অর্ধবৃত্তের ব্যাসার্ধ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c7b2e891-3360-4ffa-bc60-9f0dac9c22bc",
+    "images": [
+      "images/11424_0.png"
+    ],
+    "english_question": "<image>\nএকটি ট্রাপিজিয়াম ABCD-তে, যেখানে AD সমান্তরাল BC, E এবং F বিন্দুদ্বয় যথাক্রমে AB এবং CD বাহুর মধ্যবিন্দু। নিচের সিদ্ধান্তগুলো যাচাই করো: 1) EF সমান্তরাল AD; 2) ত্রিভুজ ABO-এর ক্ষেত্রফল ত্রিভুজ DCO-এর ক্ষেত্রফলের সমান; 3) ত্রিভুজ OGH সমদ্বিবাহু; 4) BG সমান DG; 5) EG সমান HF। কয়টি সিদ্ধান্ত সঠিক?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9dd0a8f6-3d3c-49a8-9736-acb418bf5c16",
+    "images": [
+      "images/75837_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চতুর্ভুজ ACEH একটি ট্রাপিজিয়াম, ACEG একটি সামান্তরিক, ABGH একটি বর্গক্ষেত্র এবং CDFG একটি আয়তক্ষেত্র। যদি AC = 8 সেমি এবং HE = 13 সেমি হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "40ded495-2196-4c04-9a4f-1d70b166bdfa",
+    "images": [
+      "images/58916_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তক্ষেত্রটিকে 'ক' এবং 'খ' নামক দুটি অংশে বিভক্ত করা হয়েছে। এই দুটি অংশের পরিসীমা এবং ক্ষেত্রফলের ক্ষেত্রে নিচের কোন বক্তব্যটি সঠিক?\n\nOptions (copied from English):\nB. Which of the following statements is true about the perimeters and areas of these two parts?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "807ca2db-801a-4673-93d9-1ed5e5b9e36c",
+    "images": [
+      "images/62868_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ \\(\\triangle OAB\\)-তে, P বিন্দুটি রেখাংশ \\(OB\\), \\(AB\\) এবং \\(AO\\)-এর বর্ধিতাংশ দ্বারা গঠিত ছায়াবৃত অঞ্চলের যেকোনো একটি বিন্দু (সীমানাসহ)। যদি \\( \\overrightarrow{OP}=x \\overrightarrow{OA}+y \\overrightarrow{OB}\\) হয়, তবে কার্তেসীয় সমতলে বাস্তব সংখ্যা জোড়া \\((x,y)\\) দ্বারা নির্দেশিত সেই অঞ্চলের ক্ষেত্রফল কত যা \\(y-x=3\\) রেখার নিচে এবং ডান পাশে অবস্থিত?\nক. \\( \\dfrac {9}{2}\\)\nখ. \\( \\dfrac {7}{2}\\)\nগ. \\(4\\)\nঘ. \\(5\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ede2bf53-709d-4725-92a7-4755b5147502",
+    "images": [
+      "images/1106_0.png"
+    ],
+    "english_question": "<image>\nনিচের উক্তিগুলো বিবেচনা কর: (1) চিত্র (1)-এ, OA-এর দিক উত্তর-পূর্ব 15° এবং OB-এর দিক উত্তর-পশ্চিম। যদি ∠AOC = ∠AOB হয়, তবে OC-এর দিক উত্তর-পূর্ব 60°; (2) চিত্র (2)-এ, আয়তাকার কাগজ ABCD-কে C কোণে GF রেখা বরাবর ভাঁজ করা হলো (F বিন্দু BC-এর ওপর, B বা C-এর সাথে সমাপতিত নয়) যাতে C বিন্দু আয়তক্ষেত্রের ভেতরে E বিন্দুতে পড়ে। যদি FH, ∠BFE-কে সমদ্বিখণ্ডিত করে, তবে ∠GFH = 90°; (3) চিত্র (3)-এ ত্রিভুজাকার স্কেল ABC এবং BDE দেখানো হয়েছে, যেখানে A, B, D সমরেখ। BM, ∠CBE-কে এবং BN, ∠DBE-কে সমদ্বিখণ্ডিত করে। তবে ∠MBN = 75°। কয়টি উক্তি সঠিক?\n\nOptions (copied from English):\nC) so that point C falls at point E inside the rectangle. If FH bisects ∠BFE, then ∠GFH = 90°; (3) Triangle rulers ABC and BDE are combined as shown in figure (3), with A, B, D collinear. BM bisects ∠CBE, and BN bisects ∠DBE. Then ∠MBN = 75°. How many of these statements are correct?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ebea602c-430d-4f14-b232-1f73350c1eba",
+    "images": [
+      "images/15412_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজকে চিত্রানুসারে ভাঁজ করা হলো। BD এবং BE হলো ভাঁজের রেখা এবং BA' ও BC' পরস্পর সমাপতিত হয়। যদি ∠ABE = 15° হয়, তবে ∠DBC এর মান কত ডিগ্রি?\nOptions:\nd. If ∠ABE = 15°, what is ∠DBC in degrees?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1dd2410a-264b-45b0-a827-b9fbcdde3493",
+    "images": [
+      "images/48839_0.png"
+    ],
+    "english_question": "<image>\n[a, b] ব্যবধিতে y=x^2-2x ফাংশনের রেঞ্জ বা পাল্লা হলো [-1, 3]। তাহলে (a, b) বিন্দুর সঞ্চারপথ চিত্রে কোনটি? ( )\n\nOptions (copied from English):\nb)$ is ( ) in the figure.\nLine segment AB and line segment AD\nLine segment AB and line segment CD\nLine segment AD and line segment BC\nLine segment AC and line segment BD\nOptions:\nb)$ is ( ) in the figure.\nLine segment AB and line segment AD\nLine segment AB and line segment CD\nLine segment AD and line segment BC\nLine segment AC and line segment BD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9257d948-9923-4641-91de-e9b79b0a24f0",
+    "images": [
+      "images/triangle_ext_9257d948-9923-4641-91de-e9b79b0a24f0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, \\(a{/\\!/}b\\), \\(30^{\\circ}\\) কোণ বিশিষ্ট ত্রিভুজাকার রুলারের সমকোণী শীর্ষবিন্দু রেখা \\(b\\) এর ওপর এবং একটি সূক্ষ্মকোণী শীর্ষবিন্দু রেখা \\(a\\) এর ওপর অবস্থিত। যদি \\({∠}1{=}20^{\\circ}\\) হয়, তবে \\({∠}2\\) এর মান কত ( )\nক. \\(20^{\\circ}\\)\nখ. \\(40^{\\circ}\\)\nগ. \\(50^{\\circ}\\)\nঘ. \\(60^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2f2169c9-3c05-4524-b49f-f2c885d783b5",
+    "images": [
+      "images/75876_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, P বিন্দুটি O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাস AB-এর বর্ধিতাংশের ওপর অবস্থিত, PC বৃত্তটিকে C বিন্দুতে স্পর্শ করে এবং জ্যা CD, AB-এর ওপর লম্ব এবং E বিন্দুতে ছেদ করে। যদি PC = √3 এবং PB = 1 হয়, তবে ছায়াবৃত অঞ্চলের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8472558-6753-4bed-b0ea-1bde5f1e05a3",
+    "images": [
+      "images/13232_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, DE || BC এবং EF || CD। নিচের কোন সিদ্ধান্তটি ভুল? ( )\nOptions:\nD) Which of the following conclusions is incorrect? ( )\n$ \\frac {AB}{AD}$ = $ \\frac {AC}{AE}$\n$ \\frac {AD}{AB}$ = $ \\frac {AF}{AD}$\n$ \\frac {AB}{AF}$ = $ \\frac {AC}{AE}$\n$ \\frac {EF}{DC}$ = $ \\frac {DE}{BC}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

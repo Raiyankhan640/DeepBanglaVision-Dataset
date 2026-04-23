@@ -1,0 +1,302 @@
+[
+  {
+    "id": "abc23c42-4676-4093-91a2-bd395d4de71f",
+    "images": [
+      "images/41423_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রবিশিষ্ট বৃত্তে, AB এবং AC জ্যা দুটি পরস্পর লম্ব। D এবং E যথাক্রমে AB এবং AC জ্যা-এর মধ্যবিন্দু। তাহলে OEAD চতুর্ভুজটি একটি ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fa7eb4aa-b0a5-426e-ab6e-f110a702360b",
+    "images": [
+      "images/52466_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, AC = AD এবং BC = BD হলে, নিচের কোনটি সঠিক? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "30c7708b-cb65-4862-be72-20cd43980e73",
+    "images": [
+      "images/11680_0.png"
+    ],
+    "english_question": "<image>\nজাহাজ A, বিন্দু A-তে অবস্থিত। জাহাজ B, A থেকে 45° দক্ষিণ-পূর্বে 9 নটিক্যাল মাইল দূরে অবস্থিত এবং 15° দক্ষিণ-পশ্চিমে 20 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে চলছে। জাহাজ A, জাহাজ B-কে দ্রুততম সময়ে ধরার জন্য 28 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে যাত্রা শুরু করে। জাহাজ A-এর জাহাজ B-কে ধরতে কত ঘণ্টা সময় লাগবে?\nOptions:\nA) Ship B is located 9 nautical miles away from A in the direction of 45° south-east and sails at 20 nautical miles per hour in the direction of 15° south-west. Ship A sails at 28 nautical miles per hour to intercept ship B as quickly as possible. How many hours will it take for ship A to catch up with ship B?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "76a3b6d7-f6dd-4582-a2dd-674c0736a989",
+    "images": [
+      "images/66732_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে যে সমদ্বিবাহু সমকোণী ত্রিভুজ FDE-এর বাহু 6 সেমি এবং সমদ্বিবাহু সমকোণী ত্রিভুজ ABC-এর বাহু 9 সেমি। তারা BE = 1 সেমি অংশ জুড়ে উপরিপাতিত (overlap) হয়। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "10551433-f14e-4106-9228-4a1c8131078b",
+    "images": [
+      "images/52219_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, ত্রিভুজ ΔABC এবং ΔADE-তে, যদি AB/BC = AE/ED হয়, তবে ΔABC-কে ΔADE-এর সদৃশ করার জন্য অতিরিক্ত প্রয়োজনীয় শর্তটি হলো __________।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6629f415-8d7d-4513-8e97-dd64a6e5ae19",
+    "images": [
+      "images/37085_0.png"
+    ],
+    "english_question": "<image>\nএকটি মাধ্যমিক বিদ্যালয়ে পানীয় জলের ব্যারেলের জন্য বেশ কিছু কাঠের কাঠামো তৈরি করা হয়েছে (চিত্র 1-এ দেখানো হয়েছে)। কাঠের কাঠামোর পুরুত্ব উপেক্ষা করলে, ওপরের দৃশ্যটি চিত্র 2-এ দেখানো হয়েছে। দেওয়া আছে যে, AD, BC-এর ওপর লম্ব এবং BC-কে সমদ্বিখণ্ডিত করে, যেখানে AD = BC = 40 সেমি। পানীয় জলের ব্যারেলের ভূমির ব্যাসার্ধের সর্বোচ্চ মান কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "86b855f4-53c2-4c08-91b7-e3bc6ba7fc5b",
+    "images": [
+      "images/15798_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2007•লেশান), অর্ধবৃত্তের ব্যাস AB = 10। বিন্দু P, AB-এর ওপর অবস্থিত এবং বিন্দু C ও D হলো অর্ধবৃত্তের ত্রিখণ্ডক বিন্দু। ছায়াবৃত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73e80bd2-664f-41c2-abf0-b2feb5ef01e1",
+    "images": [
+      "images/62027_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি লক্ষ্য করো। রুলার ও কম্পাসের সাহায্যে একটি প্রদত্ত কোণের সমান কোণ অঙ্কনের ক্ষেত্রে, এর মূল ভিত্তি হলো _____।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eedc1f59-7049-4ca9-ba01-fe1ba71de259",
+    "images": [
+      "images/62400_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ABCD একটি আয়তক্ষেত্র। DE, AC এর উপর লম্ব এবং ∠ADE ও ∠EDC এর অনুপাত 3:2। ∠BDE এর মান কত ডিগ্রি?\n\nOptions:\nক) 36°\nখ) 9°\nগ) 27°\nঘ) 18°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "154775c1-6088-4196-a6d0-3be27abc4f99",
+    "images": [
+      "images/67368_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজ ABCD-এর বাহুগুলোর মধ্যবিন্দুগুলো ক্রমানুসারে যোগ করলে EFGH চতুর্ভুজটি গঠিত হয়। EFGH একটি রম্বস হওয়ার জন্য ABCD-কে কোন শর্ত পূরণ করতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "252caa13-0686-42f5-bfdc-bcc0808368b0",
+    "images": [
+      "images/74660_0.png"
+    ],
+    "english_question": "<image>\nএকটি সিলিন্ডার থেকে একটি কোণ (শঙ্কু) অপসারণ করা হয়েছে, যার উচ্চতা সিলিন্ডারের উচ্চতার সমান নয়। কোণের শীর্ষবিন্দু O থেকে রেখা AD-এর দূরত্ব 1 এবং ∠OCD = 30°, যেখানে OC = 4। কোণটি অপসারণের পর বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ac8461e7-eda4-4fa0-894f-6e340f61a570",
+    "images": [
+      "images/4291_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চিত্রটি ছয়টি সর্বসম সমবাহু ত্রিভুজ দ্বারা গঠিত। চিত্রটিতে কতটি সামান্তরিক আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ba44df8d-4244-4a47-9890-0822f7d48d41",
+    "images": [
+      "images/12873_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোণ C এর একই পাশে অবস্থিত কোণগুলো হলো ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f15ef1c-b486-49a3-bb0f-fa6de5ff837f",
+    "images": [
+      "images/30766_0.png"
+    ],
+    "english_question": "<image>\nকয়েকটি ছোট ঘনক দিয়ে তৈরি একটি ত্রিমাত্রিক আকৃতির সম্মুখ দৃশ্য এবং বাম দিকের দৃশ্য চিত্রে দেখানো হয়েছে। এই ত্রিমাত্রিক আকৃতিটি তৈরি করতে সর্বনিম্ন কয়টি ছোট ঘনকের প্রয়োজন?\n\nOptions:\nক) 3 cubes\nখ) 4 cubes\nগ) 5 cubes\nঘ) 6 cubes",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a869837-124f-4b02-9148-4e73d8b9d865",
+    "images": [
+      "images/67161_0.png"
+    ],
+    "english_question": "<image>\nফাঁকা অংশটির ক্ষেত্রফল 80 বর্গ সেন্টিমিটার হলে, ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "721e7e68-13e2-4c6a-b067-164af07c639a",
+    "images": [
+      "images/52891_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC বৃত্ত O-তে অন্তর্লিখিত, যেখানে কোণ BAC = 120° এবং AB = AC। BD হলো বৃত্ত O-এর ব্যাস এবং AD = 6। DC-এর দৈর্ঘ্য কত?\nOptions:\nC) BD is the diameter of circle O, and AD = 6. What is the length of DC?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "18662edd-63e8-47c1-aad0-0325199895c2",
+    "images": [
+      "images/70646_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমদ্বিবাহু ট্রাপিজিয়াম ABCD-তে, AD সমান্তরাল BC, AD সমান DC এবং AB লম্ব AC। ∠BAD-এর মান কত ডিগ্রি?\n\nOptions:\nক) 120°\nখ) 119°\nগ) 121°\nঘ) None of the above",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45f45a6a-3f00-4871-99c0-fe2e5d81fabb",
+    "images": [
+      "images/12738_0.png"
+    ],
+    "english_question": "<image>\n4 মিটার ব্যাসবিশিষ্ট একটি হাইড্রোজেন বেলুন মাটি থেকে উপরে উঠছে। মাটিস্থ বিন্দু A থেকে বেলুনের কেন্দ্র O-এর উন্নতি কোণ ∠OAD = 60°। যদি ∠BAC = 60° হয়, যেখানে AB এবং AC বেলুনের প্রান্তবিন্দুতে দৃষ্টিরেখা এবং AC বেলুনটিকে C বিন্দুতে স্পর্শ করে (অর্থাৎ OC ⊥ AC), তবে মাটি থেকে বেলুনের কেন্দ্র OD-এর উচ্চতা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec617111-fe7f-47eb-879b-18c0d667d922",
+    "images": [
+      "images/67363_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি জ্যামিতিক ঘনবস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এর আয়তন কত? ( )\nক. 8\nখ. 4\nগ. 3/4\nঘ. 2 \\sqrt{3}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65e71b85-6f25-4eff-8b62-9e34183d4ed1",
+    "images": [
+      "images/70313_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ত্রিভুজাকার পিরামিডের সম্মুখ দৃশ্য ও উপর দৃশ্য দেখানো হয়েছে। এর বাম দৃশ্যের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

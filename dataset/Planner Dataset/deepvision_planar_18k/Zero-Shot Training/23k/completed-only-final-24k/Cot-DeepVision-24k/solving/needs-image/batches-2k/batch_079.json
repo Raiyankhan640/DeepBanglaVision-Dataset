@@ -1,0 +1,342 @@
+[
+  {
+    "id": "7f9d70e1-b6d8-4f35-a268-65583b26a4ac",
+    "images": [
+      "images/18650_0.png"
+    ],
+    "english_question": "<image>\nABCD আয়তক্ষেত্রে, যেখানে AD = 3 এবং ∠CAB = 30°, P হলো AC রেখাংশের উপর একটি চলমান বিন্দু এবং Q হলো CD রেখাংশের উপর একটি চলমান বিন্দু। AQ + QP এর সর্বনিম্ন মান কত?\nOptions:\nD) What is the minimum value of AQ + QP?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cae542eb-2462-4afd-a345-3460860a5c7c",
+    "images": [
+      "images/38263_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কম্পিউটার স্ক্রিনে প্রদর্শিত একটি আয়তাকার রঙিন ব্লক দেখানো হয়েছে, যা 6টি ভিন্ন রঙের বর্গক্ষেত্র দিয়ে গঠিত। কেন্দ্রস্থলে সবচেয়ে ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1 সে.মি.। এই আয়তাকার রঙিন ব্লকের মোট ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eb4aafc6-a8cd-4f1b-9faf-54545b9752f1",
+    "images": [
+      "images/55875_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তক্ষেত্র ABCD-তে AB = 2 এবং BC = 3। কাগজটিকে EF বরাবর এমনভাবে ভাঁজ করা হলো যেন বিন্দু B, CD বাহুর মধ্যবিন্দু B'-এর সাথে মিলে যায়। ত্রিভুজ FCB' এবং ত্রিভুজ B'DG-এর ক্ষেত্রফলের অনুপাত নির্ণয় করো।\nOptions:\nD) Find the ratio of the areas of triangle FCB' to triangle B'DG.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2bd26e56-fa56-4378-9cf0-0ba561a2d9cb",
+    "images": [
+      "images/9465_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি ফায়ার সার্ভিস দল একটি আবাসিক ভবনের সামনে মহড়া দিচ্ছে। মই ব্যবহার করে B বিন্দুতে একজনকে সফলভাবে উদ্ধার করার পর, দমকলকর্মীরা লক্ষ্য করেন যে B বিন্দুর ঠিক উপরে C বিন্দুতে আরও একজন ব্যক্তি সাহায্যের অপেক্ষায় আছেন। ফায়ার ট্রাকের A বিন্দুতে, B এবং C বিন্দুর উন্নতি কোণ যথাক্রমে 45° এবং 65° পরিমাপ করা হলো। A বিন্দু মাটি থেকে 2.5 মিটার উপরে এবং B বিন্দু মাটি থেকে 10.5 মিটার উপরে অবস্থিত। C বিন্দুতে পৌঁছানোর জন্য মইটিকে কত উচ্চতায় প্রসারিত করতে হবে? (ফলাফল নিকটতম পূর্ণসংখ্যায় প্রকাশ করো। রেফারেন্স ডেটা: tan(65°) ≈ 2.1, sin(65°) ≈ 0.9, cos(65°) ≈ 0.4, √2 ≈ 1.4)\nOptions:\nC) At point A on the fire truck, the angles of elevation to points B and C are measured to be 45° and 65°, respectively. Point A is 2.5 meters above the ground, and point B is 10.5 meters above the ground. How high does the ladder need to extend to reach point C? (Round the result to the nearest integer. Reference data: tan(65°) ≈ 2.1, sin(65°) ≈ 0.9, cos(65°) ≈ 0.4, √2 ≈ 1.4)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cacbfd70-54c1-4518-b2ba-6f89b1e2e4d7",
+    "images": [
+      "images/42872_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, C ও D বিন্দু দুটি নদীর তীর MN এর উপর অবস্থিত এবং A ও B বিন্দু দুটি এমনভাবে অবস্থিত যে CD = 100 মিটার, ∠ADN = 105°, ∠BDM = 30°, ∠ACN = 45° এবং ∠BCM = 60°। AB রেখাংশের দৈর্ঘ্য নির্ণয় করো।\nOptions:\nB)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a841db9c-8d40-4aab-995e-df11f2140077",
+    "images": [
+      "images/31606_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমবাহু ত্রিভুজ, ∠CBD = 90° এবং BD = BC। ∠1 এর মান কত?\nOptions:\nC) What is the degree measure of ∠1?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f98fe016-1610-4cad-a066-d979a3d85bed",
+    "images": [
+      "images/16926_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ঢাল AB-এর নতিমাত্রা i=1:2। ঢালের পাদদেশ B-তে একটি গাছ BC রয়েছে। একটি নির্দিষ্ট সময়ে, ঢাল AB-এর ওপর গাছ BC-এর ছায়া BD-এর দৈর্ঘ্য 10 মিটার পরিমাপ করা হলো। এসময় সূর্যের আলোর সাথে অনুভূমিক রেখার কোণ 60°। গাছ BC-এর উচ্চতা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9b0add80-2004-4121-a61e-02beb9575fbf",
+    "images": [
+      "images/17754_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, সামুদ্রিক সম্পদ উন্নয়ন ও ব্যবহারের লক্ষ্যে একটি জরিপকারী বিমান একটি দ্বীপের দুই প্রান্ত A ও B বিন্দুর মধ্যবর্তী দূরত্ব পরিমাপ করে। বিমানটি সমুদ্রপৃষ্ঠ থেকে স্থির উচ্চতায় উড়ছে। C বিন্দু থেকে A বিন্দুর অবনতি কোণ 60°। এরপর বিমানটি AB এর সমান্তরাল দিকে 500 মিটার অনুভূমিকভাবে উড়ে D বিন্দুতে পৌঁছায়, যেখান থেকে B বিন্দুর অবনতি কোণ 45°। যদি A ও B বিন্দুর মধ্যবর্তী দূরত্ব 541.91 মিটার হয়, তবে বিমানটির উচ্চতা কত (নিকটতম মিটারে)? (প্রদত্ত মান: √3 ≈ 1.73, √2 ≈ 1.41)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb4fd7c9-9564-4583-adbc-319a7e5b3914",
+    "images": [
+      "images/52745_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AE ⊥ AB, এবং AE = AB, BC ⊥ CD, এবং BC = CD। চিত্রে প্রদর্শিত রেখা দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল নির্ণয় করো, S = ______।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "618a017e-98fc-4d6e-9600-67bdaa12730b",
+    "images": [
+      "images/53796_0.png"
+    ],
+    "english_question": "<image>\nহোপ প্রাইমারি স্কুলের অ্যাথলেটিক মাঠটি চিত্রে দেখানো হয়েছে: (একক: মি.)। অ্যাথলেটিক মাঠটির চারপাশে 3 মিটার চওড়া একটি রাস্তা আছে। এই রাস্তার ক্ষেত্রফল কত বর্গমিটার?\nOptions:\nd. What is the area of this path in square meters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4a693e17-058d-458b-832c-232ebadc62a6",
+    "images": [
+      "images/15601_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCDEF একটি সুষম ষড়ভুজ যার বাহুর দৈর্ঘ্য 1। বিন্দু C এবং D এর স্থানাঙ্ক যথাক্রমে (1, 0) এবং (2, 0)। যদি এই ষড়ভুজটি x-অক্ষ বরাবর পিছলে না গিয়ে ডানদিকে গড়িয়ে চলে, তবে A, B, C, D, E, অথবা F বিন্দুগুলোর মধ্যে কোনটি (2014, 2) বিন্দু দিয়ে অতিক্রম করবে?\n\nOptions:\nক) Point B\nখ) Point C\nগ) Point D\nঘ) Point E",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e4aaab93-c38f-4359-882c-f06febf9bbe6",
+    "images": [
+      "images/41821_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্তের ব্যাসের দুই প্রান্তবিন্দু A এবং B। ব্যক্তি A বিন্দু থেকে এবং ব্যক্তি B বিন্দু থেকে বিপরীত দিকে হাঁটা শুরু করে। তারা প্রথমে C বিন্দুতে এবং দ্বিতীয়বার D বিন্দুতে মিলিত হয়। দেওয়া আছে, ঘড়ির কাঁটার বিপরীত দিকে A থেকে C বিন্দুর দূরত্ব 80 মিটার এবং B থেকে D বিন্দুর দূরত্ব 60 মিটার। বৃত্তটির পরিধি কত মিটার?\nOptions:\nD) It is known that the distance from point A to point C in the counterclockwise direction is 80 meters, and the distance from point B to point D in the counterclockwise direction is 60 meters. What is the circumference of this circle in meters?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3aefe06a-eb63-4762-a320-c05a70ebc280",
+    "images": [
+      "images/30393_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ল্যাম্পশেডের প্রান্ত থেকে নির্গত আলোর ছেদবিন্দু এবং ভূমি AB এর ছেদবিন্দু হলো A, এবং ∠EAF=30°। A থেকে ল্যাম্পপোস্টের গোড়া B এর দূরত্ব 6.5 মিটার, ল্যাম্পপোস্টের উপরে অনুভূমিক দণ্ড DE হলো 0.5 মিটার, এবং ED, DB এর উপর লম্ব, যেখানে EF, AB এর উপর F বিন্দুতে লম্ব। যদি EF রেখাটি ল্যাম্পশেডের প্রতিসাম্যের অক্ষ হয়, তবে ল্যাম্পপোস্ট BD এর উপর ল্যাম্প দ্বারা সরাসরি আলোকিত BC এর দৈর্ঘ্য কত? (0.01 মিটার পর্যন্ত সঠিক, √3=1.732, ল্যাম্পপোস্টটি ভূমির সাথে লম্ব)।\nOptions:\nd).",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e4f0e67c-818c-46dd-bfc2-f62332965838",
+    "images": [
+      "images/54036_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত দুটি বর্গের বাহুর দৈর্ঘ্য যথাক্রমে 10 সেমি এবং 6 সেমি। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d31d7348-6264-4490-ae14-322705dc42ab",
+    "images": [
+      "images/22933_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB রেখা CD এর সমান্তরাল, ∠A = 110°, ∠C = 130°। ∠1 এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2a6d003-3b73-451b-a5d7-34323590b800",
+    "images": [
+      "images/21434_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 5টি অভিন্ন ছোট আয়তক্ষেত্র মিলে একটি বড় আয়তক্ষেত্র গঠন করেছে। যদি বড় আয়তক্ষেত্রটির পরিসীমা 14 সেমি হয়, তবে ছোট আয়তক্ষেত্রটির পরিসীমা কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2750b01f-7929-4508-87b8-6f75e37ba9fb",
+    "images": [
+      "images/44847_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেলওয়ের বাঁধটি একটি সমদ্বিবাহু ট্রাপিজিয়াম ABCD, যার ঢাল AD এবং BC এর নতি i=1:1.5। বাঁধের উচ্চতা AE হলো 3 মিটার। এখন, সিঙ্গেল লাইনকে ডাবল লাইনে পরিবর্তন করা হয়েছে এবং বাঁধটিকে 4 মিটার প্রশস্ত করতে হবে (অর্থাৎ, AH=4 মিটার)। প্রশস্ত করার পর, এটিও একটি সমদ্বিবাহু ট্রাপিজিয়াম হয় এবং ঢাল GH এবং BF এর নতি i'=1:2। যদি রাস্তার দৈর্ঘ্য 10,000 মিটার হয়, তবে প্রশস্ত করার জন্য প্রয়োজনীয় মাটি ও পাথরের মোট আয়তন কত ঘনমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c40eff87-3d61-47de-bd76-0cb22fa45896",
+    "images": [
+      "images/66009_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ΔABC বৃত্ত O তে অন্তর্লিখিত এবং AD হলো বৃত্ত O তে অন্তর্লিখিত একটি সুষম দ্বাদশভুজের একটি বাহু। যদি CD এর দৈর্ঘ্য 5 হয়, তবে বৃত্ত O এর ব্যাসার্ধ কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b867c69-8500-4998-aaf1-f9e532215745",
+    "images": [
+      "images/triangle_ext_5b867c69-8500-4998-aaf1-f9e532215745.png"
+    ],
+    "english_question": "<image>\nসমুদ্রে A এবং B দুটি বাতিঘর এমনভাবে অবস্থিত যে B বিন্দুটি A-এর ঠিক পূর্বে। একটি মাছ ধরার নৌকা C বিন্দু থেকে পূর্ব দিকে D বিন্দুর দিকে 30 নটিক্যাল মাইল পথ পাড়ি দেয়। C বিন্দুতে, বাতিঘর A-কে উত্তর-পশ্চিম দিকে এবং বাতিঘর B-কে উত্তর-পূর্ব দিকে 30° কোণে দেখা যায়। D বিন্দুতে, বাতিঘর A-কে উত্তর-পশ্চিম দিকে 60° কোণে দেখা যায়। বাতিঘর A এবং B-এর মধ্যবর্তী দূরত্ব বর্গমূল আকারে নির্ণয় করো।\nOptions:\nA) A fishing boat sails east from point C to point D, a distance of 30 nautical miles. At C, lighthouse A is observed in the northwest direction and lighthouse B in the northeast direction at 30°. At D, lighthouse A is observed in the northwest direction at 60°. Find the distance between lighthouses A and B, expressed in square root form.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "75db2aa4-31cc-4231-bcc0-7be2e773a1af",
+    "images": [
+      "images/5157_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, পর্যবেক্ষণ বিন্দু \\(A\\) থেকে বন্দর \\(B\\) উত্তর দিকের 53.2° পূর্ব দিকে অবস্থিত এবং \\(BD\\) দূরত্ব \\(A\\) এর প্রকৃত উত্তরের দিকে 16 কিমি। একটি কার্গো জাহাজ বন্দর \\(B\\) থেকে \\(BC\\) অভিমুখে 40 কিমি/ঘণ্টা বেগে যাত্রা শুরু করে এবং 15 মিনিট পর \\(C\\) বিন্দুতে পৌঁছায়। পরিমাপ করে দেখা গেল, \\(C\\) বিন্দুটি পর্যবেক্ষণ বিন্দু \\(A\\) থেকে উত্তর দিকের 79.8° পূর্ব দিকে অবস্থিত। সেই সময়ে কার্গো জাহাজ এবং পর্যবেক্ষণ বিন্দু \\(A\\) এর মধ্যবর্তী দূরত্ব \\(AC\\) নির্ণয় করো (0.1 কিমি পর্যন্ত সঠিক)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

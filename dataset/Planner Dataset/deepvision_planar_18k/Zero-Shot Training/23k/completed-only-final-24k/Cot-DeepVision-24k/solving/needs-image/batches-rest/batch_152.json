@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f7dc0f98-2a38-4696-bd9e-6bb3b30c8742",
+    "images": [
+      "images/27431_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু C হলো রেখাংশ AB-এর একটি স্বর্ণালী বিভাজন বিন্দু (golden section point)। রেখাংশ BG, রেখাংশ AB-এর সমান। CA বাহুবিশিষ্ট বর্গের ক্ষেত্রফল S_1 এবং BC ও BG বাহুবিশিষ্ট আয়তক্ষেত্রের ক্ষেত্রফল S_z হলে, S_1 _______ S_z (শূন্যস্থানে '>', '<' অথবা '=' বসাও)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f4884648-29f5-47e3-b669-c1a52c05f13e",
+    "images": [
+      "images/26332_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজকে চিত্রে প্রদর্শিত উপায়ে ভাঁজ করার পর, যদি ∠BGD' = 40° হয়, তবে ∠C'FE = ______ °।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0dbadcee-ffd8-4116-9c5c-951a2e950309",
+    "images": [
+      "images/25775_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বড় বর্গের ভেতরে তিনটি ছোট বর্গ আছে। উপরের ডানদিকের বর্গের ক্ষেত্রফল 27 এবং নিচের বামদিকের বর্গের ক্ষেত্রফল 12। মাঝখানের ছায়াবৃত বর্গের দুটি শীর্ষবিন্দু যথাক্রমে নিচের বামদিকের এবং উপরের ডানদিকের বর্গের কেন্দ্রে অবস্থিত। মাঝখানের ছায়াবৃত বর্গের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d803e504-b488-47c0-8391-b89f7d03eda5",
+    "images": [
+      "images/71685_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সমান্তরিক ABCD-এ ত্রিভুজ BEF-এর ক্ষেত্রফল 12 এবং চতুর্ভুজ CDGF-এর ক্ষেত্রফল 27। ত্রিভুজ ABG-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b296e841-2c91-4363-b551-5941ab56e5ca",
+    "images": [
+      "images/38198_0.png"
+    ],
+    "english_question": "<image>\nএকটি কৃষি উন্নয়ন প্রকল্পের পরিকল্পনায়, একটি বাধার কারণে বিচ্ছিন্ন দুটি বিন্দু A এবং P এর মধ্যবর্তী দূরত্ব নির্ণয় করতে হবে। তারা বাধার দুই পাশে দুটি বিন্দু B এবং C নির্বাচন করল এবং পরিমাপ করল AB = AC = 50 মিটার, ∠BAC = 60°, ∠ABP = 120°, এবং ∠ACP = 135°। A এবং P এর মধ্যবর্তী দূরত্ব নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8db9a29a-3deb-4d4c-84c3-744e6d1f29ed",
+    "images": [
+      "images/16732_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দুটি অভিন্ন বর্গাকার স্বচ্ছ কাগজকে কেন্দ্র O-এর সাপেক্ষে সম্পূর্ণভাবে সমাপতিত করা হয়েছে। নিচের কাগজটিকে স্থির রেখে, উপরের কাগজটিকে O বিন্দুর সাপেক্ষে ঘড়ির কাঁটার বিপরীত দিকে 15° ঘোরানো হলো। সমাপতিত অংশের আকৃতি কেমন?\n\nOptions (copied from English):\nক. Neither axisymmetric nor centrally symmetric\nখ. Axisymmetric but not centrally symmetric\nCentrally symmetric but not axisymmetric\nঘ. Both axisymmetric and centrally symmetric",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "32a98021-7b2a-41aa-8e63-3819eb389e68",
+    "images": [
+      "images/42755_0.png"
+    ],
+    "english_question": "<image>\nনিচের চারটি চিত্রের মধ্যে কোনটি অক্ষ-প্রতিসম (axis-symmetric) চিত্র নয়? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e56c657-f5b8-4040-be14-4cfe42b07a1f",
+    "images": [
+      "images/triangle_ext_1e56c657-f5b8-4040-be14-4cfe42b07a1f.png"
+    ],
+    "english_question": "<image>\nস্থানাঙ্ক সমতলে, মূলবিন্দু O, বিন্দু A (3,0) এবং বিন্দু B (0,4)। ⊙D বৃত্তটি O, A এবং B বিন্দুগামী। বিন্দু C, OBA চাপের উপর অবস্থিত (O বা A বিন্দুর সাথে সমাপতিত নয়)। cos ∠C এর মান নির্ণয় করো।\nOptions:\nখ) Point C lies on the arc OBA (not coinciding with O or ক). Find cos∠C)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cb1787fc-e420-4f18-a59a-e200ed4228a0",
+    "images": [
+      "images/50825_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী 40 সেমি দৈর্ঘ্যের 5টি কাঠের লাঠি যুক্ত করলে, যুক্ত করার পর লাঠিগুলোর মোট দৈর্ঘ্য কত হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "db426976-5d94-410a-8ea7-02ffb80a5af0",
+    "images": [
+      "images/8613_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ও CD রেখা দুইটি সমান্তরাল নির্ণয়ের শর্ত কোনটি? ( )\nক. ∠1=∠2\nখ. ∠1+∠3=180°\nগ. ∠3=∠4\nঘ. ∠3+∠4=180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ab55109e-d00c-4959-9e73-852d63738894",
+    "images": [
+      "images/34843_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ট্যানগ্রামের (tangram) ওপর একটি পিঁপড়া যদৃচ্ছভাবে ঘুরে বেড়াচ্ছে। ট্যানগ্রামের যেকোনো বিন্দুতে পিঁপড়াটির থামার সম্ভাবনা সমান। পিঁপড়াটি 3 নম্বর বোর্ডের ওপর থামার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3412c39a-0ec7-4656-995f-02fea434eed8",
+    "images": [
+      "images/33353_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি সামান্তরিক। AD কে E পর্যন্ত এমনভাবে বর্ধিত করা হলো যেন DE = AD হয়। EB, EC এবং DB যোগ করা হলো। নিচের কোন শর্তটি চতুর্ভুজ DBCE কে রম্বস করতে পারে না?\n\nOptions:\nক) AB = BE\nখ) BE ⊥ DC\nগ) ∠ABE = 90°\nঘ) BE bisects ∠DBC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1cc8dcc7-e91d-49fa-a8b2-3173c131396c",
+    "images": [
+      "images/73704_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে AB=AC=4, D হলো BC-এর মধ্যবিন্দু এবং E হলো AD রেখাংশের ওপর যেকোনো একটি বিন্দু। EC রেখাংশকে E বিন্দুর চারদিকে 90° ঘড়ির কাঁটার দিকে ঘোরালে তা EF রেখাংশ তৈরি করে। DF রেখাংশের সর্বনিম্ন মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "da8363a2-184c-4ed6-83ac-b7243df7e225",
+    "images": [
+      "images/33336_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড কাগজের ছোট বর্গের বাহুর দৈর্ঘ্য 1। মোটা রেখাগুলো একটি বহুতলকের তিনটি দৃশ্য নির্দেশ করে। এই বহুতলকের পৃষ্ঠতলের ক্ষেত্রফল কত?\n\nOptions:\nক) \\(36+6 \\sqrt {10}\\)\nখ) \\(36+3 \\sqrt {10}\\)\nগ) \\(54\\)\nঘ) \\(27\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ec06cfb1-8e46-401a-814a-0576eb2398ae",
+    "images": [
+      "images/17928_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রটির সামনের দৃশ্য (front view) কোনটি? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aed8e109-787f-4282-8997-374118434e31",
+    "images": [
+      "images/18500_0.png"
+    ],
+    "english_question": "<image>\nএকটি উপবৃত্তের উপকেন্দ্র F₁(-4, 0) এবং F₂(4, 0) এবং সমীকরণ x²/25 + y²/9 = 1 দেওয়া আছে। A(x₁, y₁) এবং C(x₂, y₂) উপবৃত্তের ওপর দুটি ভিন্ন বিন্দু এমনভাবে অবস্থিত যে |F₂A|, |F₂B| এবং |F₂C| একটি সমান্তর প্রগতি গঠন করে, যেখানে B হলো F₂ বিন্দুগামী উল্লম্ব রেখা এবং উপবৃত্তের ছেদবিন্দু। যদি জ্যা AC-এর লম্ব দ্বিখণ্ডকের সমীকরণ y = kx + m হয়, তবে m-এর মানের সীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a2f5611b-4ac9-4e20-9b3f-be824500deab",
+    "images": [
+      "images/40124_0.png"
+    ],
+    "english_question": "<image>\nশিক্ষার্থী শাও মিং একটি $45^{\\circ}$ কোণবিশিষ্ট সমকোণী ত্রিভুজকে দুটি সমান্তরাল রেখা $m$ এবং $n$-এর ওপর স্থাপন করল। পরিমাপ করে দেখা গেল যে $∠α=120^{\\circ}$। $∠β$-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e92e304b-3c64-480e-bef2-69d36f2042a9",
+    "images": [
+      "images/16316_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তক্ষেত্রকে (চিত্রে প্রদর্শিত) দুটি সর্বসম আয়তক্ষেত্রে বিভক্ত করা হলো। যদি প্রতিটি ছোট আয়তক্ষেত্র মূল আয়তক্ষেত্রের সদৃশ হয়, তবে মূল আয়তক্ষেত্রের বাহুগুলোর অনুপাত কত হতে হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ed6041a-de0c-433b-b38a-d5a9704a5760",
+    "images": [
+      "images/41414_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো শর্তগুলোর মধ্যে: ① ∠5 = ∠6, ② ∠7 = ∠2, ③ ∠3 + ∠8 = 180°, ④ ∠3 = ∠2, ⑤ ∠4 + ∠1 = 180°, যেসব শর্ত a ∥ b নির্ধারণ করতে পারে তা হল (__)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "961a9497-f3ce-46ca-8c7c-f74441dd3d38",
+    "images": [
+      "images/36402_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী: ∠1=30°, বিন্দু A থেকে বিন্দু B এর দিক হলো ( ) \nক. দক্ষিণ-পূর্ব 30° \nখ. উত্তর-পশ্চিম 30° \nগ. দক্ষিণ-পূর্ব 60° \nঘ. উত্তর-পশ্চিম 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

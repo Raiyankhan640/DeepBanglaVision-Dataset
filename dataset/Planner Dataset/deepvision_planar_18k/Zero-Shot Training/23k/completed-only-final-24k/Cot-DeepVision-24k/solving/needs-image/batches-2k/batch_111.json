@@ -1,0 +1,302 @@
+[
+  {
+    "id": "693c9764-8a02-4881-a3a3-7004a9196dc1",
+    "images": [
+      "images/70637_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 300 মিটার উচ্চতায় অবস্থিত একটি হেলিকপ্টার A থেকে একটি টাওয়ারের শীর্ষ ও পাদদেশের অবনতি কোণ যথাক্রমে 30° এবং 60°। টাওয়ারটির উচ্চতা কত মিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f56767e-8014-43b4-b98f-fca7804f2d82",
+    "images": [
+      "images/77002_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DH ∥ EG ∥ BC এবং DC ∥ EF। চিত্রে ∠1 এর সমান কতটি কোণ আছে?\n\nOptions:\nক) \\(2\\)\nখ) \\(4\\)\nগ) \\(5\\)\nঘ) \\(6\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7f87bb26-9270-4ba3-9f96-0b0724a5b091",
+    "images": [
+      "images/22995_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে, ট্রাপিজিয়াম ABCD তে AD সমান্তরাল BC, AD + BC = 20, AB এর মধ্যবিন্দু M, MD রেখা DC এর ওপর লম্ব, D হলো লম্বের পাদবিন্দু, sinC = 4/5। ট্রাপিজিয়াম ABCD এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c0f7c26f-19b8-4612-b6ff-d7c2d96d2efa",
+    "images": [
+      "images/49711_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a96e0190-48c2-4c0f-9314-789ad2fca02c",
+    "images": [
+      "images/919_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD এবং EFGH দুটি আয়তাকার কাগজের টুকরো আছে, যেখানে AB = EF = 2 সেমি এবং BC = FG = 8 সেমি। ABCD কাগজের টুকরোটিকে EFGH-এর ওপর এমনভাবে রাখা হয়েছে যাতে উপরিপাতিত অংশটি একটি সামান্তরিক গঠন করে এবং D বিন্দুটি G বিন্দুর সাথে মিলে যায়। যখন কাগজ দুটির মধ্যবর্তী কোণ α সর্বনিম্ন হয়, তখন tan α-এর মান কত?\n\nOptions:\nক) \\( \\frac {1}{4} \\)\nখ) \\( \\frac {1}{2} \\)\nগ) \\( \\frac {8}{17} \\)\nঘ) \\( \\frac {8}{15} \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aee18331-0fa1-4c3f-94bc-6dfbe9e95705",
+    "images": [
+      "images/47638_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, AE সমান্তরাল FD এবং AE ও FD রেখাদ্বয় BC রেখাকে যথাক্রমে G ও H বিন্দুতে ছেদ করে। নিচের কোন সিদ্ধান্তটি ভুল? ( )\n\nOptions (copied from English):\nক. $\\frac{DH}{FH} = \\frac{CH}{BH}$\n$\\frac{GE}{FD} = \\frac{CG}{CB}$\n$\\frac{AF}{CE} = \\frac{HG}{CG}$\nঘ. $\\frac{FH}{AG} = \\frac{BF}{FA}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2bdb9d70-bec0-44bb-8bbe-50399e02d6d6",
+    "images": [
+      "images/55398_0.png"
+    ],
+    "english_question": "<image>\nদুটি অভিন্ন বর্গাকার পিরামিড দ্বারা গঠিত স্থানিক জ্যামিতিক আকৃতির সম্মুখ, পার্শ্ব এবং শীর্ষ দৃশ্য চিত্রে দেখানো হয়েছে। দৃশ্যে, চতুর্ভুজ ABCD হলো 1 একক বাহু বিশিষ্ট একটি বর্গক্ষেত্র। এই জ্যামিতিক আকৃতির আয়তন কত?\n\nOptions:\nক) 2\nখ) 2 (2) 3\nগ) 2 (2) 3\nঘ) 2 (2) 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be6c902d-a2cb-4efa-8f2e-0b9991984c7b",
+    "images": [
+      "images/36791_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, M(x, 2) বিন্দু থেকে নির্গত একটি আলোক রশ্মি পরাবৃত্ত y^2 = 4x এর অক্ষের সমান্তরাল দিকে পরাবৃত্তের P বিন্দুর দিকে যায়। প্রতিফলিত হওয়ার পর, এটি ফোকাস F-এর দিকে এবং তারপর পরাবৃত্তের Q বিন্দুর দিকে যায়। আরেকটি প্রতিফলনের পর, এটি রেখা l: x - 2y - 7 = 0 এর N বিন্দুর দিকে যায় এবং পুনরায় প্রতিফলিত হয়ে M বিন্দুতে ফিরে আসে। x-এর মান কত?\nOptions:\na. After reflecting, it travels towards the focus F and then to point Q on the parabola. After another reflection, it travels towards point N on the line \\(l: x - 2y - 7 = 0\\), and after reflecting again, it returns to point M. What is the value of \\(x\\)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2c16e023-4f45-4edf-a9cd-ed6658fd8158",
+    "images": [
+      "images/13069_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজের ক্ষেত্রফল 40 সেমি², AE = ED, এবং BD = 2/3 BC। ত্রিভুজ AEF এবং EBD-এর ক্ষেত্রফলের সমষ্টি কত সেমি²?\nOptions:\nC) What is the sum of the areas of triangles AEF and EBD in cm²?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9a3db48-608e-48ec-a482-5d76e2932179",
+    "images": [
+      "images/34035_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a বাহুবিশিষ্ট একটি বর্গক্ষেত্র থেকে b বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র কেটে নেওয়া হয়েছে (যেখানে a > b)। অবশিষ্ট অংশটিকে পুনর্বিন্যাস করে একটি ট্রাপিজিয়াম তৈরি করা হয়েছে। এই দুটি আকৃতির ছায়াবৃত অংশের ক্ষেত্রফল গণনা করলে, কোন সমীকরণটি যাচাই করা যায়? ( )\n\nOptions:\nক) (a﹣b) ^2=a ^2﹣2ab+b ^2\nখ) (a+b) ^2=a ^2+2ab+b ^2\nগ) a ^2﹣b ^2= (a+b) (a﹣b)\nঘ) a (a﹣b) =a ^2﹣ab",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2bdf4bf3-72e2-4bcd-9cac-95a585632a19",
+    "images": [
+      "images/45323_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলো কয়েকটি বিখ্যাত গাড়ির লোগো: এদের মধ্যে কয়টি কেন্দ্রীয় প্রতিসম চিত্র? ( ) \nক. 1 \nখ. 2 \nগ. 3 \nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "616754ac-af34-46d9-8bab-636b132917d4",
+    "images": [
+      "images/71521_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত বৃত্তের ক্ষেত্রফল 120 বর্গমিটার। ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a5beeef0-8e78-4759-82b5-3d40db4eb4bb",
+    "images": [
+      "images/55445_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, 2 সেমি ব্যাসবিশিষ্ট বৃত্ত O1 কে 3 সেমি স্থানান্তর করে O2 বৃত্তে পরিণত করলে ছায়াবৃত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aa255cc1-fb34-4eb6-bc3c-014b329caf76",
+    "images": [
+      "images/triangle_ext_aa255cc1-fb34-4eb6-bc3c-014b329caf76.png"
+    ],
+    "english_question": "<image>\n\\(\\triangle ABC\\) এবং \\(\\triangle BDE\\) ত্রিভুজদ্বয়ে, \\(C\\) বিন্দুটি \\(BD\\) বাহুর উপর অবস্থিত এবং \\(AC\\) বাহু \\(BE\\) বাহুকে \\(F\\) বিন্দুতে ছেদ করে। যদি \\(AC=BD\\), \\(AB=ED\\), এবং \\(BC=BE\\) হয়, তবে \\(∠ACB\\)-এর মান কত?\nক. \\(∠EDB\\)\nগ. \\( \\dfrac {1}{2}∠AFB\\)\nঘ. \\(2∠ABF\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cbea5998-05d4-40b5-9cdf-49f436349443",
+    "images": [
+      "images/18582_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এ, AD লম্ব, AE কোণ সমদ্বিখণ্ডক এবং ∠C > ∠B। নিচের কোনটি ∠EAD, ∠B এবং ∠C-এর মধ্যকার সম্পর্ক সঠিকভাবে প্রকাশ করে?\n\nOptions (copied from English):\nB. Which of the following correctly represents the relationship between ∠EAD, ∠B, and ∠C?\n∠EAD= \\frac { 1 } { 2 } (∠C + ∠B)\n∠EAD= \\frac { 1 } { 2 } (∠C - ∠B)\n∠EAD=90°- \\frac { 1 } { 2 } (∠C + ∠B)\n∠EAD=180°- \\frac { 1 } { 2 } (∠C + ∠B)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8e3fce3-432a-4280-ba65-9395ef52b963",
+    "images": [
+      "images/75271_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ দেখানো হয়েছে, চিত্র 2 হল হংডা উইন্ডো ফ্যাক্টরির তৈরি একই আকারের দুই ধরনের আয়তাকার অ্যালুমিনিয়াম অ্যালয় উইন্ডো ফ্রেম। দেওয়া আছে উইন্ডো ফ্রেমের দৈর্ঘ্য x মি. এবং প্রস্থ y মি.। যদি দাদী ওয়াং-এর বাড়িতে প্রথম ধরনের 2টি এবং দ্বিতীয় ধরনের 5টি উইন্ডো ফ্রেম প্রয়োজন হয়, তবে এই উইন্ডো ফ্রেম তৈরিতে কত মিটার অ্যালুমিনিয়াম অ্যালয় লাগবে (জয়েন্ট উপেক্ষা করে)?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5b10b99d-3491-41df-b488-e6e336b949ef",
+    "images": [
+      "images/75534_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: রেখা AB এবং CF পরস্পরকে O বিন্দুতে ছেদ করে, ∠EOB = ∠DOF = 90°, তবে চিত্রে কত জোড়া কোণ ∠DOE-এর পূরক কোণ? ( )\nক. 1 জোড়া\nখ. 2 জোড়া\nগ. 3 জোড়া\nঘ. 4 জোড়া",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0864bd92-fd7b-4f8c-b5b6-964bb56c06dc",
+    "images": [
+      "images/63538_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে পাঁচটি রেখা L₁, L₂, L₃, L₄ এবং L₅ পরস্পরকে ছেদ করেছে। চিহ্নিত কোণগুলোর ভিত্তিতে, কোনটি সঠিক তা নির্ণয় করো: (ক) L₁ ও L₃ সমান্তরাল, L₂ ও L₃ সমান্তরাল; (খ) L₁ ও L₃ সমান্তরাল নয়, L₂ ও L₃ সমান্তরাল; (গ) L₁ ও L₃ সমান্তরাল নয়, L₂ ও L₃ সমান্তরাল নয়।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c39af934-da7d-4447-9729-eca77b2c0ccc",
+    "images": [
+      "images/28194_0.png"
+    ],
+    "english_question": "<image>\nন্যাশনাল ওশেনিক অ্যাডমিনিস্ট্রেশন চীনের দিয়াওইউ দ্বীপের সর্বোচ্চ শৃঙ্গকে 'গাওহুয়া শৃঙ্গ' হিসেবে নামকরণ করেছে এবং দিয়াওইউ দ্বীপের নিয়মিত ত্রিমাত্রিক টহল পরিচালনা করছে। একটি টহল প্রক্রিয়ায়, টহল বিমানটি 2362 মিটার উচ্চতায় উড়ছিল। বিন্দু A-তে, গাওহুয়া শৃঙ্গের শীর্ষবিন্দু F-এর অবনতি কোণ পরিমাপ করা হলো 30°। একই দিকে বজায় রেখে 1464 মিটার এগিয়ে বিন্দু B-তে পৌঁছানোর পর, বিন্দু F-এর অবনতি কোণ পরিমাপ করা হলো 45°। এর ভিত্তিতে, দিয়াওইউ দ্বীপের সর্বোচ্চ উচ্চতা মিটারে নির্ণয় করো। (ফলাফল নিকটতম পূর্ণসংখ্যায় রাউন্ড করো, রেফারেন্স মান: \\( \\sqrt{3} \\approx 1.732, \\sqrt{2} \\approx 1.414 \\) )\nOptions:\nd. In a patrol process, the patrol aircraft flew at an altitude of 2362 meters. At point A, the angle of depression to the top point F of Gaohua Peak was measured to be 30°. After maintaining the same direction and advancing 1464 meters to point B, the angle of depression to point F was measured to be 45°. Based on this, calculate the highest altitude of Diaoyu Island in meters. (Result rounded to the nearest integer, reference values: \\( \\sqrt{3} \\approx 1.732, \\sqrt{2} \\approx 1.414 \\) )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "68fbd196-588c-49cf-a1f4-ad2401067268",
+    "images": [
+      "images/28354_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে রশ্মি, রেখা এবং রেখাংশ দেওয়া আছে। এদের মধ্যে, কতগুলো আকৃতি পরস্পরকে ছেদ করতে পারে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

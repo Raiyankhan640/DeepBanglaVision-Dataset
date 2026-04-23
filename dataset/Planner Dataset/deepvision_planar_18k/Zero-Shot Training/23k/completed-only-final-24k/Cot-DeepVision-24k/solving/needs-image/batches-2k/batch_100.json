@@ -1,0 +1,346 @@
+[
+  {
+    "id": "b6f05d5a-09c0-4f4b-9313-03c97cbc348c",
+    "images": [
+      "images/triangle_ext_b6f05d5a-09c0-4f4b-9313-03c97cbc348c.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-কে শীর্ষবিন্দু C-এর চারদিকে ঘড়ির কাঁটার বিপরীত দিকে ঘুরিয়ে ত্রিভুজ A'B'C' পাওয়া যায় এবং বিন্দু B রেখা A'B'-এর উপর অবস্থিত। যদি ∠A = 25°, ∠BCA' = 45° হয়, তবে ∠A'BA এর মান কত? ( )\nক. 30°\nখ. 35°\nগ. 40°\nঘ. 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "06f5b261-18c5-4828-9f75-b8b4560cc543",
+    "images": [
+      "images/13786_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠AOB = ∠COD = 90°, এবং যদি ∠BOD = 150° হয়, তবে ∠BOC-এর মান কত ডিগ্রি?\n\nOptions:\nক) 150°\nখ) 120°\nগ) 90°\nঘ) 60°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1b0b4342-b293-419e-9d49-00969a3e51f8",
+    "images": [
+      "images/42812_0.png"
+    ],
+    "english_question": "<image>\nস্কুলে একটি খেলার আয়োজন করা হয়েছে যেখানে প্রতিটি খেলোয়াড় একটি বিশেষ লক্ষ্যে তিনটি ডার্ট নিক্ষেপ করে। শর্ত হলো, ডার্টগুলো একই রিংয়ে পড়লে তারা সমান পয়েন্ট পাবে। চিত্রে দেখানো অনুযায়ী, শাও মিং, শাও জুন এবং শাও হং যথাক্রমে 29 পয়েন্ট, 43 পয়েন্ট এবং 33 পয়েন্ট পেয়েছে। শাও হুয়া-এর স্কোর কত? ( )\n\nOptions:\nক) 31 points\nখ) 33 points\nগ) 36 points\nঘ) 38 points",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6421932c-35e3-4fd6-bda0-637b7bd133b5",
+    "images": [
+      "images/triangle_ext_6421932c-35e3-4fd6-bda0-637b7bd133b5.png"
+    ],
+    "english_question": "<image>\nক. BC-A₁B₁C₁ সমকোণী ত্রিভুজাকার প্রিজমে, ∠ACB = 90°, 2AC = AA₁ = BC = 2। যদি B₁-DC-C₁ দ্বিতল কোণটি 60° হয়, তবে AD-এর দৈর্ঘ্য কত?\nক. \\(\\sqrt{2}\\)\nখ. \\(\\sqrt{3}\\)\nগ. 2\nঘ. \\(\\frac{\\sqrt{2}}{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fc341bd1-ca5c-411e-8ba8-38e04ddd68df",
+    "images": [
+      "images/triangle_ext_fc341bd1-ca5c-411e-8ba8-38e04ddd68df.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, 30° কোণবিশিষ্ট একটি সমকোণী ত্রিভুজ ABC কে বিন্দু B এর চারদিকে ঘড়ির কাঁটার দিকে 150° ঘোরানো হলো যাতে ত্রিভুজ EBD পাওয়া যায়। CD যোগ করো। যদি AB = 4 cm হয়, তবে ত্রিভুজ BCD এর ক্ষেত্রফল কত? ( )\nক. 4\nখ. 2\nগ. 3\nঘ. 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ea0953c3-2ab4-4f23-967c-7cefb9dd5855",
+    "images": [
+      "images/triangle_ext_ea0953c3-2ab4-4f23-967c-7cefb9dd5855.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে, ত্রিভুজ ABC বৃত্ত O-তে অন্তর্লিখিত এবং AB বৃত্তের ব্যাস। জ্যা CE, AB-এর ওপর F বিন্দুতে লম্ব এবং C বিন্দুটি চাপ AD-এর মধ্যবিন্দু। রেখা BD-কে বর্ধিত করলে তা EC-এর বর্ধিতাংশকে G বিন্দুতে ছেদ করে এবং রেখা AD, CE ও BC-কে যথাক্রমে P ও Q বিন্দুতে ছেদ করে। নিচের উক্তিগুলোর মধ্যে সঠিক উক্তির সংখ্যা হলো ( )\n1. CO ⊥ AD; 2. ∠COB = 2∠GDC; 3. P বিন্দুটি ত্রিভুজ ACQ-এর পরিকেন্দ্র; 4. যদি \\( \\tan \\angle ABC = \\frac{3}{4} \\) এবং CF = 8 হয়, তবে \\( CQ = \\frac{15}{2} \\); 5. \\( (FP + PQ)^2 = FP \\cdot FG \\); 6. PQ = QD.\nক. 3\nখ. 4\nগ. 5\nঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cdd2bc4d-5019-40b0-b2af-40431f72bee5",
+    "images": [
+      "images/triangle_ext_cdd2bc4d-5019-40b0-b2af-40431f72bee5.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, AB∥CD, বিন্দু E, CB-এর বর্ধিতাংশের উপর অবস্থিত, যদি ∠ABE = 60°, তবে ∠ECD-এর পরিমাপ কত (__)\nবিকল্পসমূহ:\nক. 120°\nখ. 100°\nগ. 60°\nঘ. 20°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1184816b-ea08-469d-b379-5db6de584fe9",
+    "images": [
+      "images/triangle_ext_1184816b-ea08-469d-b379-5db6de584fe9.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত O ত্রিভুজ ABC-এর পরিবৃত্ত, D হলো বৃত্তচাপ BC-এর মধ্যবিন্দু, DE বৃত্ত O-এর D বিন্দুতে স্পর্শক এবং এটি AC-এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে। নিম্নলিখিত বিবৃতিগুলো দেওয়া হলো: 1) BC ∥ DE; 2) DE = DC; 3) ∠BCD = ∠DAE; 4) OA রেখা ∠BAD-কে সমদ্বিখণ্ডিত করে। কতটি বিবৃতি সঠিক? ( )\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fb36b830-b6e1-4cd9-90b0-63087b858dc2",
+    "images": [
+      "images/triangle_ext_fb36b830-b6e1-4cd9-90b0-63087b858dc2.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC এবং A'B'C' রেখা L-এর সাপেক্ষে প্রতিসম। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( )\n1. ত্রিভুজ ABC এবং ত্রিভুজ A'B'C' সর্বসম;\n2. ∠BAC = ∠B'A'C';\n3. রেখা L অবশ্যই CC' রেখাংশকে লম্বভাবে সমদ্বিখণ্ডিত করে না;\n4. A বিন্দুর প্রতিসম বিন্দু L রেখার ওপর অবস্থিত।\nক. 4\nখ. 3\nগ. 2\nঘ. 1",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "48079f6b-3cab-4278-b3ee-ecaf750bdcb7",
+    "images": [
+      "images/triangle_ext_48079f6b-3cab-4278-b3ee-ecaf750bdcb7.png"
+    ],
+    "english_question": "<image>\nসমবাহু ত্রিভুজ △ABC-তে, যেখানে AB=7, বিন্দু E, D বিন্দুকে কেন্দ্র করে 60° কোণে ঘড়ির কাঁটার বিপরীতে ঘুরে BC বাহুর F বিন্দুতে পতিত হয়। AE=2 দেওয়া থাকলে, BF-এর মান কত?\nক. 2\nখ. 3\nগ. 3.5\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "42f46c25-8206-487c-9ab0-87390b8de190",
+    "images": [
+      "images/triangle_ext_42f46c25-8206-487c-9ab0-87390b8de190.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ \\(\\Delta ABC\\)-তে, $AB = AC$ এবং $AD$ হলো $\\angle BAC$-এর সমদ্বিখণ্ডক। রেখাংশ $DE \\perp AB$ এবং $DF \\perp AC$-এর পাদবিন্দু যথাক্রমে $E$ এবং $F$। নিচের চারটি সিদ্ধান্ত নেওয়া হয়েছে: (1) $DE = DF$; (2) রেখাংশ $AD$-এর যেকোনো বিন্দু $C$ এবং $B$ থেকে সমদূরবর্তী; (3) $BD = CD$; (4) $\\angle BDE = \\angle CDF$। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( )\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20c72e1c-ccd5-4482-9571-86e646d97323",
+    "images": [
+      "images/triangle_ext_20c72e1c-ccd5-4482-9571-86e646d97323.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে, কোণ ABC বৃত্ত O-তে অন্তর্লিখিত এবং BD, OA ব্যাসার্ধের ওপর D বিন্দুতে লম্ব। BD = 4.8, sinC = \\frac{4}{5}। বৃত্ত O-এর ব্যাসার্ধ কত?\nOptions:\nD) BD = 4.8, sinC = \\frac{4}{5}. What is the radius of circle O?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1d0eae81-963a-491d-a0b0-96da1e6fae97",
+    "images": [
+      "images/triangle_ext_1d0eae81-963a-491d-a0b0-96da1e6fae97.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a রেখাটি b রেখার সমান্তরাল এবং 60° কোণবিশিষ্ট একটি সমকোণী ত্রিভুজ ABC (∠A=60°) দেখানো অনুযায়ী স্থাপন করা হয়েছে। যদি ∠1=55° হয়, তবে ∠2-এর মান কত ডিগ্রি?\nক. 105°\nখ. 110°\nগ. 115°\nঘ. 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7e0622b-2a28-4e73-b972-b8a7c927d890",
+    "images": [
+      "images/triangle_ext_f7e0622b-2a28-4e73-b972-b8a7c927d890.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখায়। এই জ্যামিতিক বস্তুটির আয়তন কত? ( )\nক. 1\nখ. \\frac{1}{3}\nগ. \\frac{1}{2}\nঘ. \\frac{3}{2}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f336ae5-fe2a-4300-a163-ed85700833f8",
+    "images": [
+      "images/triangle_ext_8f336ae5-fe2a-4300-a163-ed85700833f8.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC-তে, যেখানে ∠BAC = 90°, AB = AC। ত্রিভুজ ABC-কে C বিন্দুকে কেন্দ্র করে ঘড়ির কাঁটার দিকে 40° ঘুরিয়ে ত্রিভুজ A'B'C পাওয়া গেল। রেখা CB' বাহু AB-কে D বিন্দুতে ছেদ করে। তবে ∠B'A'A-এর মান কত ডিগ্রি?\nক. 10°\nখ. 15°\nগ. 20°\nঘ. 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "30f1fd99-1791-45dc-b371-7149663d7074",
+    "images": [
+      "images/triangle_ext_30f1fd99-1791-45dc-b371-7149663d7074.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ΔABC ত্রিভুজে AB=AC, AD হলো ∠BAC এর সমদ্বিখণ্ডক এবং DE⊥AB, DF⊥AC, যেখানে লম্বের পাদবিন্দু যথাক্রমে E ও F। নিচের চারটি সিদ্ধান্ত দেওয়া হলো: (1) DE=DF; (2) AD রেখাংশের যেকোনো বিন্দু C ও B বিন্দু থেকে সমদূরবর্তী; (3) BD=CD; (4) ∠BDE=∠CDF। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( )\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9e68409d-f463-4fca-a471-0d6968dba938",
+    "images": [
+      "images/triangle_ext_9e68409d-f463-4fca-a471-0d6968dba938.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC-কে বিন্দু A-এর চারদিকে ঘড়ির কাঁটার দিকে 45° কোণে ঘুরিয়ে ত্রিভুজ AB'C' পাওয়া গেল। যদি ∠BAC=90°, AB=AC= \\( \\sqrt{2} \\) হয়, তবে চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল কত?\nক. 2- \\( \\sqrt{2} \\)\nখ. 1\nগ. \\( \\sqrt{2} \\)\nঘ. \\( \\sqrt{2} \\) -l",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f7cd8d96-f785-428b-87f6-22a2d153889a",
+    "images": [
+      "images/triangle_ext_f7cd8d96-f785-428b-87f6-22a2d153889a.png"
+    ],
+    "english_question": "<image>\nচিত্রে (2015 উক্সি স্কুল লেভেল মক এক্সাম), সমবাহু ত্রিভুজ ABC-এর বাহুর দৈর্ঘ্য 9 সেমি এবং 3 সেমি বাহুবিশিষ্ট সমবাহু ত্রিভুজ RPQ-এর শীর্ষবিন্দু R, বিন্দু A-এর সাথে মিলে যায়। P এবং Q বিন্দুগুলো যথাক্রমে AC এবং AB বাহুর উপর অবস্থিত। ত্রিভুজ RPQ-কে AB, BC এবং CA বাহু বরাবর ক্রমাগত উল্টানো হয় (চিত্রে প্রদর্শিত) যতক্ষণ না P বিন্দু প্রথমবারের মতো তার মূল অবস্থানে ফিরে আসে। P বিন্দু দ্বারা অতিক্রান্ত পথের দৈর্ঘ্য সেমিতে কত? (ফলাফলে π বজায় রাখুন)\nOptions:\nA) Points P and Q are located on sides AC and AB, respectively. The triangle RPQ is flipped continuously along sides AB, BC, and CA (as shown in the figure) until point P returns to its original position for the first time. What is the length of the path traveled by point P in cm? (Result retains π)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "81e8c86a-8f98-41e9-9d76-b477da514845",
+    "images": [
+      "images/28169_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রে, কোন প্যাটার্নটি একটি মৌলিক প্যাটার্নকে ক্রমাগত 45° কোণে ঘূর্ণনের মাধ্যমে পাওয়া যেতে পারে? (সংখ্যাটি লিখুন)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c096aa31-34bc-46cc-a3a3-bcf8f78da3c2",
+    "images": [
+      "images/triangle_ext_c096aa31-34bc-46cc-a3a3-bcf8f78da3c2.png"
+    ],
+    "english_question": "<image>\nপ্রশ্ন ৪: ত্রিভুজ ABC-তে, কোণ ACB = 90°, ত্রিভুজ ABC-কে বিন্দু C-এর চারদিকে ঘড়ির কাঁটার দিকে 90° ঘোরানো হলো যাতে ত্রিভুজ A'B'C পাওয়া যায়। যদি কোণ A = 25° হয়, তবে কোণ AB'A'-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 50,
+      "anomalies": [
+        "Placeholder Text"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

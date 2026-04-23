@@ -1,0 +1,362 @@
+[
+  {
+    "id": "4e377e8d-4d83-4df9-97c5-73345b036cb5",
+    "images": [
+      "images/42349_0.png"
+    ],
+    "english_question": "<image>\nআলোর রশ্মি 'a' সমতল দর্পণ CD-তে আপতিত হয়ে AB এবং CD দর্পণের মধ্যে প্রতিফলিত হয়। প্রতিফলন কোণ আপতন কোণের সমান। যদি ∠1 = 25° এবং ∠3 = 75° হয়, তবে ∠2 এর মান নির্ণয় করো।\nক. 40°\nখ. 45°\nগ. 50°\nঘ. 55°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b57e4be9-1d07-4423-92aa-8cbac48cdd6e",
+    "images": [
+      "images/58116_0.png"
+    ],
+    "english_question": "<image>\nস্থানাঙ্ক সমতলে, ত্রিভুজ ABC এবং ত্রিভুজ DEF সর্বসম, যেখানে শীর্ষবিন্দু A, B, C যথাক্রমে D, E, F-এর অনুরূপ এবং AB = BC = 5। যদি বিন্দু A-এর স্থানাঙ্ক (-3, 1) হয় এবং B ও C উভয় বিন্দুর y-স্থানাঙ্ক -3 হয়, এবং D ও E বিন্দু y-অক্ষের ওপর অবস্থিত হয়, তবে F বিন্দু থেকে y-অক্ষের দূরত্ব কত? \nক. 2 \nখ. 3 \nগ. 4 \nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd82cab9-3a06-4d01-9870-c41ef8f8ae96",
+    "images": [
+      "images/5207_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট একটি বৃত্তের ব্যাসার্ধ 6 সেমি। A বিন্দুটি BC উপচাপের মধ্যবিন্দু এবং D বিন্দুটি BC অধিচাপের উপর অবস্থিত একটি বিন্দু। যদি ∠D = 30° হয়, তবে নিচের চারটি সিদ্ধান্তের মধ্যে কোনটি সঠিক?\n① OA ⊥ BC\n② BC = 6√3 সেমি\n③ sin ∠AOB = √3/2\n④ ABOC চতুর্ভুজটি একটি রম্বস।\nসঠিক উত্তর কোনটি?\nক. ①③\nখ. ①②③④\nগ. ②③④\nঘ. ①③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1f03fe8b-3d50-469c-8dc4-38411db1823b",
+    "images": [
+      "images/triangle_ext_1f03fe8b-3d50-469c-8dc4-38411db1823b.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো অনুযায়ী, নিচের কোন সিদ্ধান্তটি সঠিক? \\(①\\) \\(\\overrightarrow{PQ} = \\dfrac{3}{2} a + \\dfrac{3}{2} b\\); \\(②\\) \\(\\overrightarrow{PT} = -\\dfrac{3}{2} a - \\dfrac{3}{2} b\\); \\(③\\) \\(\\overrightarrow{PS} = \\dfrac{3}{2} a - \\dfrac{1}{2} b\\); \\(④\\) \\(\\overrightarrow{PR} = \\dfrac{3}{2} a + b\\).\nক. \\(①②\\)\nখ. \\(③④\\)\nগ. \\(①③\\)\nঘ. \\(②④\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6f905b5a-b8f8-4758-88e5-70b9abf92c8e",
+    "images": [
+      "images/56009_0.png"
+    ],
+    "english_question": "<image>\nধরি, একটি চতুস্তলক A-BCD যার প্রতিটি ধারের দৈর্ঘ্য 2। এর সম্মুখ দৃশ্য একটি 2 একক বাহুবিশিষ্ট সমবাহু ত্রিভুজ (চিত্রে প্রদর্শিত, যেখানে BC একটি অনুভূমিক রেখা)। এর পার্শ্ব দৃশ্যের ক্ষেত্রফল কত?\n\nOptions:\nক) $\\sqrt{2}$\nখ) $2\\sqrt{2}$\nগ) $\\sqrt{3}$\nঘ) $\\frac{2{\\sqrt{6}}}{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "57b1e9db-70b0-46c8-add2-3558db14ca23",
+    "images": [
+      "images/triangle_ext_57b1e9db-70b0-46c8-add2-3558db14ca23.png"
+    ],
+    "english_question": "<image>\nএকটি বহুভুজাকৃতির তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। বহুভুজটির কোন তলের ক্ষেত্রফল সবচেয়ে বেশি? ( )\nক. 1\nখ. \\( \\frac { \\sqrt { 2 } } { 2 } \\)\nগ. \\( \\frac { \\sqrt { 5 } } { 2 } \\)\nঘ. \\( \\sqrt { 5 } \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0240bb9e-966d-41e3-9816-b0ca0c50475e",
+    "images": [
+      "images/72082_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী (2014 হুনান অটোনোমাস এনরোলমেন্ট), 5 ক্ষেত্রফলবিশিষ্ট ত্রিভুজ ABC-কে BC বরাবর ত্রিভুজ DEF-এর অবস্থানে স্থানান্তর করা হলো। স্থানান্তরের দূরত্ব BC বাহুর দৈর্ঘ্যের দ্বিগুণ। চতুর্ভুজ ACED-এর ক্ষেত্রফল কত? ( )\n\nOptions:\nক) 10\nখ) 15\nগ) 20\nঘ) 25",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "57ca50a6-bb4d-40b3-b69a-a047d0a7bac6",
+    "images": [
+      "images/18280_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি বৃত্তচাপ A, B এবং C গ্রিড বিন্দুগুলোর মধ্য দিয়ে যায়। গ্রিডে একটি কার্তেসীয় স্থানাঙ্ক ব্যবস্থা স্থাপন করো যাতে A বিন্দুর স্থানাঙ্ক (2, 3) হয়। বৃত্তচাপটি যে বৃত্তের অংশ, তার কেন্দ্রের স্থানাঙ্ক কত?\nক. (-1, 1)\nখ. (2, 1)\nগ. (1, 1)\nঘ. (1, 0)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cbc32362-449e-4550-a49d-f9739560de9f",
+    "images": [
+      "images/triangle_ext_cbc32362-449e-4550-a49d-f9739560de9f.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বিন্দু A, D, B, F সমরেখ এবং △ABC সর্বসম △FDE। যদি AF = 10 এবং AD = 3.5 হয়, তবে BD-এর দৈর্ঘ্য কত?\nবিকল্পসমূহ:\nক. 3\nখ. 3.5\nগ. 6\nঘ. 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d48152e3-99cd-4de2-b432-a9366835f821",
+    "images": [
+      "images/38358_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O হলো ত্রিভুজ ABC-এর পরিবৃত্তের কেন্দ্র, ∠ABC = 60°, BF এবং CE হলো যথাক্রমে B এবং C বিন্দু থেকে AC এবং AB বাহুর উপর অঙ্কিত লম্ব, যা H বিন্দুতে ছেদ করে। CE রেখাটি O কেন্দ্রবিশিষ্ট বৃত্তকে M এবং D বিন্দুতে ছেদ করে, এবং G বিন্দুটি AB বাহুর উপর অবস্থিত এমনভাবে যে BD = BH এবং BG = BO। নিচের সিদ্ধান্তগুলো দেওয়া হলো: ① ∠ABO = ∠HBC; ② AB • BC = 2BF • BH; ③ BM = BD; ④ ত্রিভুজ BGD একটি সমবাহু ত্রিভুজ। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( )\n\nOptions:\nক) ①②\nখ) ①③④\nগ) ①②④\nঘ) ①②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51383206-d79f-48eb-9dbf-e01662b2ee16",
+    "images": [
+      "images/74956_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাসার্ধ 5 একক। AB এবং CD জ্যা-দ্বয়ের কেন্দ্রীয় কোণ যথাক্রমে ∠AOB এবং ∠COD। যদি ∠AOB এবং ∠COD পরস্পর পূরক কোণ হয় এবং CD জ্যা-এর দৈর্ঘ্য 6 একক হয়, তবে AB জ্যা-এর দৈর্ঘ্য কত?\nক. 6\nখ. 8\nগ. 5√2\nঘ. 5√3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "528556e9-9451-4555-953d-97b52781a1cd",
+    "images": [
+      "images/triangle_ext_528556e9-9451-4555-953d-97b52781a1cd.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ PQR বৃত্ত O-এর মধ্যে অন্তরলিখিত একটি সমবাহু ত্রিভুজ এবং চতুর্ভুজ ABCD বৃত্ত O-এর মধ্যে অন্তরলিখিত একটি বর্গক্ষেত্র। দেওয়া আছে যে BC বাহু QR-এর সমান্তরাল, তবে ∠AOQ কোণের পরিমাপ কত?\nক. 60°\nখ. 65°\nগ. 72°\nঘ. 75°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c383ed3b-fd6a-452d-987b-f83b4f6af3bb",
+    "images": [
+      "images/60425_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে: AC ⊥ BC, AC = BC, CD ⊥ AB, DE ⊥ BC হলে, চিত্রে কতটি সমদ্বিবাহু ত্রিভুজ আছে? ( )\n\nOptions:\nক) 2\nখ) 3\nগ) 4\nঘ) 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f2e9fbc1-41ca-4dd1-9ad5-724f8f9cd883",
+    "images": [
+      "images/58189_0.png"
+    ],
+    "english_question": "<image>\nn সংখ্যক অভিন্ন ছোট ঘনক দ্বারা গঠিত একটি জ্যামিতিক বস্তুর সম্মুখ দৃশ্য এবং উপর থেকে দৃশ্য চিত্রে দেখানো হয়েছে। n-এর সর্বোচ্চ মান কত? ( ) ক. 16 খ. 18 গ. 19 ঘ. 20",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2827fe3e-d776-47bd-8808-772dd97b7a29",
+    "images": [
+      "images/47223_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তক্ষেত্রের CD বাহুর বর্ধিতাংশের উপর E একটি বিন্দু। BE রেখা AD কে G বিন্দুতে ছেদ করে এবং AF, BE এর উপর লম্ব। চিত্রে সদৃশ ত্রিভুজ জোড়ার সংখ্যা কত? ( ) \nক. 5 \nখ. 7 \nগ. 8 \nঘ. 10",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "09d923ef-ee2d-4a12-adf9-c90637c54706",
+    "images": [
+      "images/15939_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রেখা l₁ || l₂, ∠A = 125°, ∠B = 105° হলে, ∠1 + ∠2 = কত?\n\nOptions:\nক) \\(230\\)\nখ) \\(20\\)\nগ) \\(50\\)\nঘ) \\(90\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c196bb2b-93e0-429c-8aaf-4fc2d2aa92cb",
+    "images": [
+      "images/triangle_ext_c196bb2b-93e0-429c-8aaf-4fc2d2aa92cb.png"
+    ],
+    "english_question": "<image>\nসমকোণী ত্রিভুজ ABC (∠C=90°) তে, 3, 4 এবং x বাহুবিশিষ্ট তিনটি বর্গক্ষেত্র রাখা হলো। x এর মান কত?\nক. 5\nখ. 6\nগ. 7\nঘ. 12",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "20f629c1-d299-422c-a0cd-8c51f8c8d5c0",
+    "images": [
+      "images/triangle_ext_20f629c1-d299-422c-a0cd-8c51f8c8d5c0.png"
+    ],
+    "english_question": "<image>\nএকটি নিয়মিত ত্রিভুজাকার পিরামিডের ভূমির বাহুর দৈর্ঘ্য \\( a \\), পার্শ্বীয় বাহুটি ভূমির সাথে 60° কোণ তৈরি করে, এবং ভূমির একটি বাহু দিয়ে এমনভাবে একটি প্রস্থচ্ছেদ তৈরি করা হয়েছে যা ভূমির সাথে 30° দ্বি-তলীয় কোণ গঠন করে। এই প্রস্থচ্ছেদের ক্ষেত্রফল কত?\nক. \\( \\frac { \\sqrt { 3 } } { 4 } a^2 \\)\nখ. \\( \\frac { \\sqrt { 3 } } { 3 } a^2 \\)\nগ. \\( \\frac { 1 } { 3 } a^2 \\)\nঘ. \\( \\frac { 3 } { 8 } a^2 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f57e7c41-413f-4057-a685-008c4f3e47ca",
+    "images": [
+      "images/63706_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড কাগজের ছোট বর্গক্ষেত্রগুলোর বাহুর দৈর্ঘ্য 1। মোটা রেখাগুলো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য (three views) নির্দেশ করে। এই জ্যামিতিক বস্তুটির পরিবৃত্তের (circumscribed sphere) পৃষ্ঠতলের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) 16π\nখ) 32π\nগ) 64π\nঘ) 72π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a8f512d6-72d4-4f1d-805b-c813ea1966c1",
+    "images": [
+      "images/61224_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমকোণী ত্রিভুজ ABC-কে সমকোণ C-এর সাপেক্ষে ঘড়ির কাঁটার দিকে এমনভাবে ঘোরানো হলো যাতে বিন্দু A, রেখা AB-এর ওপর A' বিন্দুতে পতিত হয়। যদি ∠A = 55° হয়, তবে চিত্রে ∠1-এর মান কত?\n\nOptions:\nক) 110°\nখ) 102°\nগ) 105°\nঘ) 125°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 55,
+      "anomalies": [
+        "Ground Truth Mismatch",
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

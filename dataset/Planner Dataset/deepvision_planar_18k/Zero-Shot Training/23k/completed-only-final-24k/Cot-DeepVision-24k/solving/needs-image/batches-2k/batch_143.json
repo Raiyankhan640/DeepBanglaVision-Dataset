@@ -1,0 +1,302 @@
+[
+  {
+    "id": "aa50c3d3-8e63-4b82-b188-41e987bc1d62",
+    "images": [
+      "images/39565_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, $l_1$ রেখাটি $l_2$ রেখার সমান্তরাল হলে, $\\alpha = $ কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fef9da49-5668-4779-8125-9ba30ab1d578",
+    "images": [
+      "images/21833_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 8 সেমি দৈর্ঘ্য এবং 6 সেমি প্রস্থের একটি আয়তাকার কাগজকে দুইবার ভাঁজ করা হলো। আয়তক্ষেত্রটির দুটি সন্নিহিত বাহুর মধ্যবিন্দু সংযোগকারী ড্যাশ রেখা বরাবর কাটার পর প্রাপ্ত রম্বস আকৃতির ক্ষেত্রফল কত? ( ) \nক. 6 সেমি² \nখ. 12 সেমি² \nগ. 24 সেমি² \nঘ. 48 সেমি²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1b04a0fb-fa75-4a4e-8fa8-c89f7dc82cb6",
+    "images": [
+      "images/33405_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বর্গক্ষেত্র OABC এবং বর্গক্ষেত্র ODEF হলো সদৃশ চিত্র যাদের সদৃশতার কেন্দ্র O এবং সদৃশতার অনুপাত 2/3। যদি বিন্দু B-এর স্থানাঙ্ক (2,2) হয়, তবে বিন্দু E-এর স্থানাঙ্ক নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "beef9d2c-9fac-4e44-8ac1-7f31e6c4057a",
+    "images": [
+      "images/45852_0.png"
+    ],
+    "english_question": "<image>\nদুটি সমান্তরাল রেখা a এবং b-কে একটি রেখা l ছেদ করেছে এবং ∠1 = 60°। ∠2-এর মান কত ডিগ্রি? ( )\nক. 30\nখ. 45°\nগ. 60°\nঘ. 120°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8386776d-0795-449e-9936-0b30f61173b2",
+    "images": [
+      "images/23342_0.png"
+    ],
+    "english_question": "<image>\nআমরা যদি আরও ______ টি ব্লক রং করি, তবে রঙিন অংশটি মোট অংশের 5/6 অংশ হবে।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ba3321aa-21d5-494f-af9e-5e828b000c38",
+    "images": [
+      "images/64639_0.png"
+    ],
+    "english_question": "<image>\nরম্বস ABCD-তে, যদি ∠BAD=80^{\\circ} হয়, AB বাহুর লম্ব দ্বিখণ্ডক কর্ণ AC-কে F বিন্দুতে ছেদ করে এবং E লম্বের পাদবিন্দু হয়, তবে ∠CDF-এর মান কত?\n\nOptions:\nক) \\(60^{\\circ}\\)\nখ) \\(65^{\\circ}\\)\nগ) \\(70^{\\circ}\\)\nঘ) \\(80^{\\circ}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "909be086-ed49-425e-83cc-6d3f7dbebda9",
+    "images": [
+      "images/42416_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বিন্দু P ব্যাস AB-এর উপর অবস্থিত, যেখানে PA=2 এবং PB=6। CD একটি জ্যা যা বিন্দু P-এর মধ্য দিয়ে যায়। নিম্নলিখিত PC ও PD-এর দৈর্ঘ্যের মধ্যে কোনটি শর্ত পূরণ করে? ( ) ক. PC=1, PD=12 খ. PC=3, PD=4 গ. PC=3, PD=5 ঘ. PC=8, PD=1.5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bbea8c72-2b99-473d-8b2b-085ffd37cc93",
+    "images": [
+      "images/49053_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ∥ CD, ∠1 = 58°, এবং FG, ∠EFD-কে সমদ্বিখণ্ডিত করে। ∠FGB-এর পরিমাপ কত?\nOptions:\nD) What is the measure of ∠FGB?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "54db5f2f-1d0f-42a0-b102-7f8982da0834",
+    "images": [
+      "images/42262_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি 5x5 বর্গাকার গ্রিডে, একটি বৃত্তচাপ A, B এবং C বিন্দু দিয়ে অতিক্রম করে। এই বৃত্তচাপটি যে বৃত্তের অংশ, তার কেন্দ্র কোনটি? ( )\n\nOptions:\nক) Point P\nখ) Point Q\nগ) Point R\nঘ) Point M",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "123706b2-52da-4f86-b310-42ed0341e8e8",
+    "images": [
+      "images/40132_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত চারটি রশ্মির মধ্যে কোনটি উত্তর থেকে 60° পূর্ব দিক নির্দেশ করে?\nরশ্মি OA\nরশ্মি OB\nরশ্মি OC\nরশ্মি OD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c4c28772-b94e-4216-8726-cba722c0b176",
+    "images": [
+      "images/29855_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, AE হলো ∠DAB-এর সমদ্বিখণ্ডক, EF, AD-এর সমান্তরাল এবং AB-কে F বিন্দুতে ছেদ করে। যদি AB = 9, CE = 4, AE = 8 হয়, তবে DF-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 4\nখ) 8\nগ) 6\nঘ) 9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fc1fa9a5-f385-44f6-9b33-7c8047f0d4cd",
+    "images": [
+      "images/8083_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 10×2 গ্রিডে একটি ত্রিভুজ ABC দেওয়া আছে। চিত্রে ত্রিভুজ ABC-এর সদৃশ কতটি ত্রিভুজ আছে? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ef9220a5-a47f-41cd-9a08-b049cbf6d41e",
+    "images": [
+      "images/41193_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, কোণ ∠BAC-এর ওপর একটি চাঁদা রাখা হয়েছে। ∠BAC-এর মান কত ডিগ্রি? ( )\nক. 80°\nখ. 40°\nগ. 20°\nঘ. 10°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bcff7733-96d5-42a7-874e-76ddb6e92413",
+    "images": [
+      "images/36184_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি সমকোণী ট্রাপিজিয়াম কাগজ ABCD আছে, বিন্দু E, BC-এর ওপর অবস্থিত, AD ∥ BC, ∠C=90°, AD=2, BC=8, CD=8। AE বরাবর ভাঁজ করার ফলে, বিন্দু C, BE রেখার ওপর চলে আসে, যাতে CD রেখা AB-কে F বিন্দুতে ছেদ করে। BF-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8d10214-8e06-44ae-af25-059dd6c863da",
+    "images": [
+      "images/triangle_ext_b8d10214-8e06-44ae-af25-059dd6c863da.png"
+    ],
+    "english_question": "<image>\nক. ার্টেসিয়ান স্থানাঙ্ক ব্যবস্থায়, ত্রিভুজ ABC, ত্রিভুজ DEF-এর সর্বসম, যেখানে AB = BC = 5। যদি বিন্দু A-এর স্থানাঙ্ক (-3, 1) হয় এবং বিন্দু B ও C রেখা y = -3-এর ওপর অবস্থিত হয়, এবং বিন্দু D ও E y-অক্ষের ওপর অবস্থিত হয়, তবে y-অক্ষ থেকে বিন্দু F-এর দূরত্ব কত?\nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fc2dc50-7c57-45f4-b15e-38f90cd896f6",
+    "images": [
+      "images/72368_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB, BC-এর উপর লম্ব এবং AB = BC = 2 সেমি। OA চাপটি O বিন্দুর সাপেক্ষে OC চাপের প্রতিসম। AB, BC, OC চাপ এবং OA চাপ দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b01fe0b6-a3c6-46ef-93c4-ab32ce6dd721",
+    "images": [
+      "images/40275_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 'L' আকৃতির কাগজটি 1 একক বাহুবিশিষ্ট ছয়টি ছোট বর্গক্ষেত্র নিয়ে গঠিত। A বিন্দু দিয়ে একটি রেখাংশ EF কাটা হলো। যদি ছায়াবৃত অংশের ক্ষেত্রফল কাগজের মোট ক্ষেত্রফলের অর্ধেক হয়, তবে EF এর দৈর্ঘ্য কত?\n\nOptions:\nক) $\\frac{7}{2}$\nখ) $2\\sqrt{6}$\nগ) $\\sqrt{15}$\nঘ) $2\\sqrt{3}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6d9a507a-a6e5-4614-b3e8-a67e110f369d",
+    "images": [
+      "images/43591_0.png"
+    ],
+    "english_question": "<image>\nদুটি অভিন্ন সমকোণী ত্রিভুজ বিন্দু P-এ 30° কোণে অধিক্রমণ করেছে (চিত্রে দেখানো হয়েছে)। দুটি জোড় বাহু বিন্দু P-এ ছেদ করে। BD যুক্ত করো। নিম্নলিখিত কোন বক্তব্য ভুল? ক. সম্পূর্ণ আকৃতিটি অক্ষীয় প্রতিসম আকৃতি। খ. ত্রিভুজ PEB-এর পরিসীমা DB-এর চেয়ে বড়। গ. 4 জোড় অভিন্ন ত্রিভুজ আছে (রেখা যোগ না করে)। ঘ. ∠EDB = 15°।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "885aff61-1dc2-4284-bc9d-bb9903d1a7ec",
+    "images": [
+      "images/11380_0.png"
+    ],
+    "english_question": "<image>\nসমান দৈর্ঘ্যের কালো সমবাহু ত্রিভুজ এবং সাদা সুষম ষড়ভুজ ব্যবহার করে একটি মোজাইক প্যাটার্ন তৈরি করা হয়েছে, যা চিত্র ①②③-এ দেখানো নিয়ম অনুসরণ করে। n-তম প্যাটার্নে কালো সমবাহু ত্রিভুজ এবং সাদা সুষম ষড়ভুজের মোট সংখ্যা কত?\n\nOptions:\nক) $n^{2}$ +4n+2\nখ) 6n+1\nগ) $n^{2}$ +3n+3\nঘ) 2n+4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bba58f22-c6a5-46a8-9b5a-0e313d653a17",
+    "images": [
+      "images/59722_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সমান উচ্চতার দুটি সিলিন্ডার আকৃতির কাপ দেওয়া আছে। কাপ 'ক' তরল দ্বারা পূর্ণ এবং কাপ 'খ' খালি। যদি কাপ 'ক'-এর সমস্ত তরল কাপ 'খ'-তে ঢালা হয়, তবে কাপ 'খ'-এর তরলের উপরিভাগ থেকে চিত্রে প্রদর্শিত বিন্দু P-এর দূরত্ব কত হবে?\n\nOptions:\nক) $2 { \\tt cm }$\nখ) $4 \\sqrt { 3 } \\mathfrak { cm }$\nগ) $6 \\mathtt { cm }$\nঘ) $\\mathtt { 8 cm }$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

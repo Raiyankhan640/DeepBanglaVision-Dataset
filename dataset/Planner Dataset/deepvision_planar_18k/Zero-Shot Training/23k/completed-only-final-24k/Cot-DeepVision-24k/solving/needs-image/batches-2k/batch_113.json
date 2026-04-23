@@ -1,0 +1,302 @@
+[
+  {
+    "id": "294d8b9b-a29d-4e8e-929f-211bdd83d48d",
+    "images": [
+      "images/54621_0.png"
+    ],
+    "english_question": "<image>\nABCD একটি 4 একক বাহুর বর্গক্ষেত্র। ADE ত্রিভুজকে AE বরাবর ভাঁজ করলে D বিন্দু F-এ পড়ে। নিচের কোন সিদ্ধান্তগুলো সঠিক? (① AE = DG; ② EH = DE + BH; ③ OC-এর সর্বনিম্ন মান 2√5 - 2; ④ ∠CFG = 45°)\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ab8de58c-497c-4027-92d5-e6e64bb7aed3",
+    "images": [
+      "images/36311_0.png"
+    ],
+    "english_question": "<image>\nএকজন বাগানির আবাসিক এলাকায় চিত্রে প্রদর্শিত একটি লন আছে। দেওয়া আছে, AB = 3 মিটার, BC = 4 মিটার, CD = 12 মিটার, DA = 13 মিটার এবং AB ⊥ BC। এই লনটির ক্ষেত্রফল কত ( )?\n\nOptions:\nক) 24 m²\nখ) 36 m²\nগ) 48 m²\nঘ) 72 m²",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4f16a9b8-725b-423a-a21f-a836da722c9d",
+    "images": [
+      "images/73049_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, কোণ AOB-এর উভয় পাশে মোট 9টি বিন্দু আছে, যথা A_1, A_2, A_3, A_4 এবং B_1, B_2, B_3, B_4, B_5। যদি রেখাংশ A_iB_j (1≤i≤4, 1≤j≤5) পরস্পরকে ছেদ না করে, তবে তাদের \"হারমোনিয়াস লাইন\" বা সুষম রেখার জোড়া বলা হয়। চিত্রে কত জোড়া \"হারমোনিয়াস লাইন\" আছে?\n\nOptions:\nক) 60\nখ) 62\nগ) 72\nঘ) 124",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b8626d25-8b04-4f9c-b125-602bfcda73c9",
+    "images": [
+      "images/64430_0.png"
+    ],
+    "english_question": "<image>\nআকৃতিটির পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f26a9d7a-e34d-4c38-b8c1-1fc669f1e090",
+    "images": [
+      "images/59653_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে AB ∥ CD, BE, ∠ABC-কে সমদ্বিখণ্ডিত করে, DE, ∠ADC-কে সমদ্বিখণ্ডিত করে, ∠BAD = 70°, ∠BCD = 40°, তবে ∠BED-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "53551b93-97c3-4abb-8c90-aea234d992dc",
+    "images": [
+      "images/76894_0.png"
+    ],
+    "english_question": "<image>\nএই ত্রিভুজগুলোর কতগুলো মোট ত্রিভুজের 3/5 অংশ?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9fe3f1e9-2827-4462-a6e4-cad3256cf2e1",
+    "images": [
+      "images/11685_0.png"
+    ],
+    "english_question": "<image>\nধরি “●” এবং “■” তিনটি ভিন্ন বস্তুকে নির্দেশ করে যা চিত্রে দেখানো হয়েছে। প্রথম দুটি দাঁড়িপাল্লা ভারসাম্যপূর্ণ। যদি আমরা তৃতীয় দাঁড়িপাল্লাটিকেও ভারসাম্যপূর্ণ করতে চাই, তবে ডানদিকের পাল্লায় কয়টি “■” রাখতে হবে? ( ) \nক. 2\nখ. 3\nগ. 4\nঘ. 5",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "35037918-c3c4-4563-a1cb-6db14f3faa6a",
+    "images": [
+      "images/52262_0.png"
+    ],
+    "english_question": "<image>\nসামান্তরিক ABCD-তে, ∠B = 110°, AD-কে F পর্যন্ত এবং CD-কে E পর্যন্ত বর্ধিত করা হলো, এবং EF যোগ করা হলো। তবে ∠E + ∠F = কত?\n\nOptions:\nক) 110°\nখ) 30°\nগ) 50°\nঘ) 70°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "48e348ec-980b-4ec3-9d4f-e28fa1c1fa1b",
+    "images": [
+      "images/18028_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত O-এর ব্যাস এবং জ্যা CD, AB-এর ওপর G বিন্দুতে লম্ব। F বিন্দুটি CD-এর ওপর এমনভাবে অবস্থিত যেন CF:FD = 1:3। AF যোগ করে বর্ধিত করা হলো যা বৃত্ত O-কে E বিন্দুতে ছেদ করে এবং AD ও DE যোগ করা হলো। দেওয়া আছে CF = 2 এবং AF = 3, তবে নিচের কোন সিদ্ধান্তগুলো সঠিক? ① ত্রিভুজ ADF ~ ত্রিভুজ AED; ② FG = 2; ③ DC, ∠ADE-কে সমদ্বিখণ্ডিত করে; ④ CG² = AG·BG।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd0fc772-ad25-40cc-a036-faeb21679420",
+    "images": [
+      "images/58025_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী যদি একটি ত্রিভুজাকার রুলারকে একত্রে রাখা হয়, তবে \\( \\frac { B E } { E C } \\)-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "222499af-d872-4b27-b312-8702daa27ece",
+    "images": [
+      "images/66298_0.png"
+    ],
+    "english_question": "<image>\nদ্বিতীয় চিত্রে কতগুলো সামান্তরিক আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4b23409b-fa73-4eaa-b9dd-947c499f2871",
+    "images": [
+      "images/25900_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত 3 × 3 গ্রিডে, বিন্দু A এবং B হলো গ্রিডের শীর্ষবিন্দু (ল্যাটিস পয়েন্ট)। যদি বিন্দু C-ও গ্রিডের একটি ল্যাটিস পয়েন্ট হয় এবং তা ΔABC-কে একটি সমদ্বিবাহু ত্রিভুজ তৈরি করে, তবে কতগুলো বিন্দু C এই শর্ত পূরণ করে?\n\nOptions:\nক) \\(3\\)\nখ) \\(4\\)\nগ) \\(5\\)\nঘ) \\(6\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "afde8c44-8cad-4b04-a815-d45ae80ab3db",
+    "images": [
+      "images/14613_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অন্তঃস্থ একান্তর কোণ ∠1 এবং ∠2 হলো ( )\n\nOptions:\nক) a and b\nখ) b and c\nগ) c and d\nঘ) b and d",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f926d6e-ad6c-49f8-957e-ad97166b3416",
+    "images": [
+      "images/21632_0.png"
+    ],
+    "english_question": "<image>\nমোট কয়টি কোণ আছে ( )?\n\nOptions (copied from English):\nক. 3\nখ. 6\nগ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1776d3a9-7a63-41c4-919b-e133928f7aad",
+    "images": [
+      "images/44284_0.png"
+    ],
+    "english_question": "<image>\nস্পিনারটির কত অংশ গোলাপি রঙের?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7cab7846-8d99-4635-b0fc-ae54b33cba7e",
+    "images": [
+      "images/39743_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d2397241-9e41-4347-8d99-990fd7c5722d",
+    "images": [
+      "images/70315_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, 6 এবং 8 ব্যাসার্ধের দুটি এককেন্দ্রিক বৃত্ত রয়েছে। আয়তক্ষেত্র ABCD-এর AB এবং CD বাহুদ্বয় যথাক্রমে ছোট ও বড় বৃত্তের জ্যা। আয়তক্ষেত্র ABCD-এর ক্ষেত্রফল সর্বোচ্চ হলে, এই আয়তক্ষেত্রের পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a0f9f71f-7fc5-4627-ba64-309baf62ae5c",
+    "images": [
+      "images/44488_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ একটি আয়তাকার কাগজের ব্যাগ দেখানো হয়েছে। ব্যাগটিকে EF বরাবর ভাঁজ করে চিত্র 2 এবং তারপর BF বরাবর ভাঁজ করে চিত্র 3 তৈরি করা হলো। যদি ∠DEF = α হয়, তবে চিত্র 3-এ ∠CFE এর মান α এর মাধ্যমে প্রকাশ করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a4077c30-1beb-4263-adfe-49a9de665c72",
+    "images": [
+      "images/59271_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সুষম ষড়ভুজ ABCDEF এর বাহুর দৈর্ঘ্য 4। শীর্ষবিন্দু A এবং B যথাক্রমে x-অক্ষ এবং y-অক্ষ বরাবর চলে। মূলবিন্দু O থেকে শীর্ষবিন্দু D এর সর্বোচ্চ এবং সর্বনিম্ন দূরত্বের গুণফল কত?\n\nOptions:\nক) 32\nখ) 48\nগ) 32\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "be909246-da03-4963-aa46-930c4f0706e1",
+    "images": [
+      "images/61519_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, বিন্দু F হলো পরাবৃত্ত y^2 = 8x-এর উপকেন্দ্র। বিন্দু A এবং B যথাক্রমে পরাবৃত্ত y^2 = 8x এবং বৃত্ত x^2 + y^2 - 4x - 12 = 0-এর উপর চলাচল করে এবং রেখাংশ AB সর্বদা x-অক্ষের সমান্তরাল। তাহলে, ত্রিভুজ FAB-এর পরিসীমার সীমা কত? ( )\n\nOptions:\nক) \\((6,10)\\)\nখ) \\((8,12)\\)\nগ) \\([6,8]\\)\nঘ) \\([8,12]\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

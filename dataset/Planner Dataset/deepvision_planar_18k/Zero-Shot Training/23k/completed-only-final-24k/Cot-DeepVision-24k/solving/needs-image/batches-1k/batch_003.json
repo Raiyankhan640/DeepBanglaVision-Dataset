@@ -1,0 +1,302 @@
+[
+  {
+    "id": "14f2c25c-ae95-49b1-baeb-0111e7373130",
+    "images": [
+      "images/5176_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1 এবং চিত্র 2-এ একটি গৃহস্থালি ডাস্টবিন দেখানো হয়েছে। প্যাডেল AB (মাটির সমান্তরাল) একটি নির্দিষ্ট বিন্দু P (ডাস্টবিনের নিচে একটি নির্দিষ্ট অবস্থানে স্থির) এর চারপাশে ঘোরে, যাতে ঘূর্ণনের সময় AP = A'P এবং BP = B'P হয়। বিন্দু A-কে মাটিতে A' অবস্থানে চাপ দিলে, বিন্দু B উপরে উঠে B' অবস্থানে পৌঁছায়। একই সময়ে, ট্রান্সমিশন রড BH সরে গিয়ে B'H' অবস্থানে পৌঁছায়। বিন্দু H একটি নির্দিষ্ট বিন্দু D (DH হলো ঘূর্ণনের ব্যাসার্ধ) এর চারপাশে ঘুরে H' অবস্থানে পৌঁছায়, যার ফলে ঢাকনাটি ∠HDH' কোণে খুলে যায়। চিত্র 3-এ, ঢাকনা খোলার পর, ট্রান্সমিশন রড H'B' যে রেখায় অবস্থিত তা অনুভূমিক রেখা AB এবং DH-এর ওপর লম্ব, যাদের পাদবিন্দু যথাক্রমে M এবং C। দেওয়া আছে, H'C = B'M, AP = 6 সেমি, PB = 12 সেমি এবং DH' = 8 সেমি। ∠HDH' কোণটি যেন 60°-এর কম না হয়, তা নিশ্চিত করতে মাটি থেকে প্যাডেল AB-এর সর্বনিম্ন উচ্চতা কত সেমি? (ফলাফল দুই সার্থক অঙ্ক পর্যন্ত রাখতে হবে) (সহায়ক তথ্য: √2 ≈ 1.41, √3 ≈ 1.73)\nOptions:\nd) rotates up and down around a fixed point P (fixed at a certain position at the bottom of the trash can) such that during the rotation, AP = A'P and BP = B'P. By stepping down on point A to A' (the point of contact with the ground), point B rises to point B'. At the same time, the transmission rod BH moves to the position of B'H'. Point H rotates around the fixed point D (DH is the radius of rotation) to point H', thus opening the lid of the can to an angle ∠HDH'. In Figure 3, after the lid is opened, the line where the transmission rod H'B' is located is perpendicular to the horizontal line AB and DH, with foot points M and C) Let H'C = B'M. It is measured that AP = 6 cm, PB = 12 cm, and DH' = 8 cm. To ensure that the angle ∠HDH' is not less than 60°, what is the minimum height of the pedal AB from the ground in cm? (Result should be kept to two significant figures) (Reference data: \\( \\sqrt{2} \\approx 1.41, \\sqrt{3} \\approx 1.73 \\) )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4d19112-08a3-4d3d-ad1d-9431359ff229",
+    "images": [
+      "images/58109_0.png"
+    ],
+    "english_question": "<image>\nবিন্দু O, AB রেখার ওপর অবস্থিত। বিন্দু A₁, A₂, A₃, ... রশ্মি OA-এর ওপর এবং B₁, B₂, B₃, ... রশ্মি OB-এর ওপর অবস্থিত। চিত্রের প্রতিটি সরল ও বক্ররেখাংশের দৈর্ঘ্য 1 একক। একটি চলমান বিন্দু M, O বিন্দু থেকে যাত্রা শুরু করে প্রতি সেকেন্ডে 1 একক বেগে চিত্রের তীরচিহ্ন অনুযায়ী সরলরেখা ও অর্ধবৃত্তাকার পথে চলে (যেমন: OA₁B₁B₂→A₂...)। এই নিয়ম অনুযায়ী, বিন্দু M-এর A₁₀ বিন্দুতে পৌঁছাতে কত সেকেন্ড সময় লাগবে?\nOptions:\nB) Each solid and dashed line segment in the figure has a length of 1 unit. A moving point M starts from point O and moves at a speed of 1 unit per second along the solid line segments and along a semicircle centered at point O, as indicated by the arrows in the figure, i.e., from OA<sub>1</sub>B<sub>1</sub>B<sub>2</sub>→A<sub>2</sub>... Following this pattern, the time required for point M to reach point A<sub>10</sub> is ( ) seconds.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0ead882-d809-46f4-adaa-9d6315c692a8",
+    "images": [
+      "images/44198_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠α = ___ ডিগ্রি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d0d55449-8f29-4aba-bf06-d70b24d71259",
+    "images": [
+      "images/1727_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত লোহার পাতের ক্ষেত্রফল কত বর্গ ডেসিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9864522f-e80f-476b-b3c5-d5153c81aafe",
+    "images": [
+      "images/46690_0.png"
+    ],
+    "english_question": "<image>\nআকৃতিটির পরিসীমা নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d042657d-dfe4-4485-820b-d45fdb0094a7",
+    "images": [
+      "images/23356_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB ব্যাসবিশিষ্ট একটি অর্ধবৃত্তের ওপর C একটি বিন্দু, যেখানে AB = 4√5, AC = 4। D বিন্দুটি AB রেখাংশ বরাবর চলে এবং E বিন্দুটি AC-এর সাপেক্ষে D বিন্দুর প্রতিসম। DF, DE-এর ওপর লম্ব এবং DF, EC-এর বর্ধিতাংশকে F বিন্দুতে ছেদ করে। যখন D বিন্দু A থেকে B বিন্দুতে যায়, তখন EF রেখাংশ দ্বারা অতিক্রান্ত ক্ষেত্রফল কত? ( )\nOptions:\nC) DF is perpendicular to DE, and DF intersects the extension of EC at point F. When point D moves from point A to point B, the area swept by segment EF is ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aec72a11-86e1-4b79-9a6d-79e43a799d16",
+    "images": [
+      "images/54581_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, দেওয়া আছে ∠2 = 60°, যখন ∠1 = ( ) তখন a ∥ b হবে।\n\nOptions:\nক) 120°\nখ) 60°\nগ) 30°\nঘ) 180°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ed37738-0044-424c-bddc-fbab9aaf0730",
+    "images": [
+      "images/44250_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেওয়া আছে, \\( \\overset{→}{AB}= \\overset{→}{a} \\), \\( \\overset{→}{AC}= \\overset{→}{b} \\), এবং \\( \\overset{→}{BD}=3 \\overset{→}{DC} \\)। \\( \\overset{→}{AD} \\)-কে \\( \\overset{→}{a} \\) এবং \\( \\overset{→}{b} \\)-এর মাধ্যমে প্রকাশ করো। তাহলে \\( \\overset{→}{AD} = \\) ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fa00463f-eea5-4cb7-9629-e860465e9a58",
+    "images": [
+      "images/46329_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD আয়তাকার কাগজের চারটি কোণ ভাঁজ করে কোনো ফাঁক বা উপরিপাতন ছাড়াই EFGH চতুর্ভুজ তৈরি করা হয়েছে। যদি EH = 3 এবং EF = 5 হয়, তবে আয়তক্ষেত্র ABCD-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "acb77513-9a52-4fd0-8ade-55d483fe93dd",
+    "images": [
+      "images/9794_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি একটি নির্দিষ্ট জ্যামিতিক কঠিন বস্তুর তিনটি দৃশ্য প্রদর্শন করে। এই জ্যামিতিক কঠিন বস্তুটি কী?\nOptions:\nd. What is this geometric solid?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c739515-47d2-48f2-b931-dc73123bf743",
+    "images": [
+      "images/647_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো হয়েছে, ∠1 = 70°। রেখা a-কে স্থানান্তর করে রেখা b পাওয়া গেল। তাহলে, ∠2 - ∠3 = ______°।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9ee81870-8b52-472d-9c79-2154b33801c1",
+    "images": [
+      "images/57829_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সরলরেখা l₁ ও l₂ সমান্তরাল হলে নিম্নলিখিত শর্তগুলোর মধ্যে যেগুলো l₁ ∥ l₂ নির্ধারণ করতে পারে: 1. ∠1 = ∠2; 2. ∠3 = ∠4; 3. ∠3 + ∠4 = 180°; 4. ∠1 + ∠2 = 180°; 5. ∠1 + ∠2 = 90°; 6. ∠3 + ∠4 = 90°; 7. ∠1 = ∠4। কোন শর্তগুলো l₁ ∥ l₂ নির্ধারণ করতে পারে? ক. 2, 4 খ. 1, 2, 7 গ. 3, 4 ঘ. 2, 3, 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b266053-6e80-4952-bbfd-b084fcf0497d",
+    "images": [
+      "images/26905_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D, E এবং F বিন্দুগুলো সমবাহু ত্রিভুজ ABC-এর বাহুর ওপর অবস্থিত। EF বরাবর ভাঁজ করার পর, A বিন্দু D বিন্দুর সাথে মিলে যায় এবং দেওয়া আছে যে BD < DC। চিত্রে মোট কতগুলো সমান কোণ আছে?\nOptions:\nC) After folding along EF, point A coincides with point D, and it is given that BD < DC) How many equal angles are there in the figure?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "11a98e49-2a8b-41cb-ba89-e7890c853b1e",
+    "images": [
+      "images/74805_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উইন্ডমিল বা বায়ুকলের নকশাটিকে একটি সমদ্বিবাহু সমকোণী ত্রিভুজের কয়েকবার ঘূর্ণন হিসেবে বিবেচনা করা যেতে পারে। সুতরাং, প্রতিটি ঘূর্ণনের মান কত হতে পারে? ( ) \nক. 90° \nখ. 60° \nগ. 45° \nঘ. 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "63feca24-a5b5-416f-85b2-3be86a6fa897",
+    "images": [
+      "images/48257_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তাকার কাগজ ABCD-কে এমনভাবে ভাঁজ করা হলো যেন বিন্দু D, বিন্দু B-এর সাথে মিলে যায় এবং বিন্দু C, বিন্দু C'-তে পতিত হয়। ভাঁজটি হলো EF। যদি ∠EFC' = 125° হয়, তবে ∠ABE-এর মান কত ডিগ্রি? ( )\n\nOptions:\nক) 15°\nখ) 20°\nগ) 25°\nঘ) 30°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "345c4986-f0e1-4729-87ed-7ed0f32b772a",
+    "images": [
+      "images/61452_0.png"
+    ],
+    "english_question": "<image>\nনিচের সুন্দর নকশাগুলোর মধ্যে কেন্দ্রিক প্রতিসম (centrally symmetric) চিত্রের সংখ্যা কত? ( )\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "45e9746c-4809-4bb6-9ad2-9a7c57b2b4c8",
+    "images": [
+      "images/9978_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি 1 বর্গ সেন্টিমিটারের কয়েকটি ছোট বর্গক্ষেত্র দিয়ে গঠিত। এর পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "34fc6469-1ced-4e27-b359-fe865581b669",
+    "images": [
+      "images/55472_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC থেকে ত্রিভুজ DEF পেতে হলে কীভাবে স্থানান্তর (translation) করতে হবে?\nত্রিভুজ ABC-কে 4 একক বামে, তারপর 2 একক নিচে স্থানান্তর করো\nত্রিভুজ ABC-কে 4 একক ডানে, তারপর 2 একক নিচে স্থানান্তর করো\nত্রিভুজ ABC-কে 4 একক ডানে, তারপর 2 একক উপরে স্থানান্তর করো\nঘ. ত্রিভুজ ABC-কে 4 একক বামে, তারপর 2 একক উপরে স্থানান্তর করো\n\nOptions (copied from English):\nঘ. Translate \\(\\triangle ABC\\) left by \\(4\\) units, then up by \\(2\\) units",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "48894d7b-6b95-4996-80a7-9a18585c9b0f",
+    "images": [
+      "images/7249_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ∠1 + ∠2 = 280° এবং রেখা b ও c সমান্তরাল। ∠3 এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d7a2d86a-383f-48f9-8cd3-08dee8076cc6",
+    "images": [
+      "images/123_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, যদি $\\angle 1 = 60^\\circ$, $\\angle 2 = 120^\\circ$, $\\angle 3 = 70^\\circ$ হয়, তবে $\\angle 4$ এর মান ডিগ্রিতে নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

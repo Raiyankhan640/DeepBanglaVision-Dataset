@@ -1,0 +1,302 @@
+[
+  {
+    "id": "14765a40-934c-4106-8e84-6ea758016bc8",
+    "images": [
+      "images/19519_0.png"
+    ],
+    "english_question": "<image>\nO কেন্দ্রে বৃত্তে, E হলো ব্যাসার্ধ OA-এর ওপর একটি বিন্দু, রশ্মি EF, OA-এর ওপর লম্ব এবং বৃত্তটিকে B বিন্দুতে ছেদ করে। P হলো EB-এর ওপর যেকোনো একটি বিন্দু, রশ্মি AP বৃত্তটিকে C বিন্দুতে ছেদ করে এবং D হলো রশ্মি BF-এর ওপর এমন একটি বিন্দু যেন DC = DP হয়। নিচের সিদ্ধান্তগুলো নেওয়া হলো: 1. CD বৃত্ত O-এর একটি স্পর্শক; 2. PA > PC; 3. ∠CDP = 2∠A। নিচের কোন সিদ্ধান্তগুলো সঠিক? ( )\n\nOptions:\nক) 3\nখ) 2\nগ) 1\nঘ) 0",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b24806b3-52af-4f31-b036-4fa76951fa9e",
+    "images": [
+      "images/27425_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজের টুকরো ব্যবহার করে একই ত্রিভুজ কাটার জন্য (চিত্রে প্রদর্শিত), সর্বোচ্চ কতটি ত্রিভুজ কাটা সম্ভব?\n\nOptions (copied from English):\nক. 12\nখ. 24\nগ. 25",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "51a17315-f152-4f75-a009-00bdecd65d19",
+    "images": [
+      "images/67314_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত O-এর ব্যাসার্ধ 1, বর্গক্ষেত্র ABCD-এর কর্ণের দৈর্ঘ্য 6 এবং OA = 4। যদি বৃত্ত O-কে বিন্দু A-কে কেন্দ্র করে ঘড়ির কাঁটার দিকে 360° ঘোরানো হয়, তবে ঘূর্ণনের সময় বৃত্ত O বর্গক্ষেত্র ABCD-এর বাহুগুলোকে ঠিক একটি বিন্দুতে কতবার স্পর্শ করবে?\n\nOptions:\nক) 3 times\nখ) 4 times\nগ) 5 times\nঘ) 6 times",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7b1c19bd-48de-4178-a0a3-ee2b91eb042e",
+    "images": [
+      "images/71048_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে x-এর মান নির্ণয় করো। ক. 16 খ. 24 গ. 18",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c70977b7-c1f1-4af9-a384-deaa93d4c2bc",
+    "images": [
+      "images/51318_0.png"
+    ],
+    "english_question": "<image>\nএকটি 3×4 গ্রিডে, যেখানে প্রতিটি বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1 একক, ত্রিভুজ ABC-এর শীর্ষবিন্দুগুলো গ্রিড পয়েন্টে অবস্থিত। যদি বিন্দু D-ও একটি গ্রিড পয়েন্টে হয় (যা বিন্দু A-এর সাথে মিলে যায় না), এবং ত্রিভুজ DBC, ত্রিভুজ ABC-এর সদৃশ হয়, তবে কতটি বিন্দু D এই শর্তটি পূরণ করে?\nOptions:\nA), and triangle DBC is similar to triangle ABC, how many points D satisfy this condition?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b26f54be-2697-4c83-ab4e-bb35a1f9491b",
+    "images": [
+      "images/64503_0.png"
+    ],
+    "english_question": "<image>\nএকটি ফাঁপা কংক্রিটের পাইপ (চিত্রে প্রদর্শিত), এই ধরনের 5টি পাইপ তৈরি করতে কত ঘন ডেসিমিটার কংক্রিটের প্রয়োজন?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6755b4d0-17ce-4678-9587-c7641a5f70eb",
+    "images": [
+      "images/11013_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত তিনটি বর্গের বাহুর দৈর্ঘ্য যথাক্রমে 4 সেমি, 6 সেমি এবং 5 সেমি। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bec3b36d-2c87-4c0d-be6b-c4e43ccf387b",
+    "images": [
+      "images/56854_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রের ক্ষেত্রফল নির্ণয় করো (একক: ডেসিমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1292fcc5-7a9f-428e-8361-763d6af668c7",
+    "images": [
+      "images/59531_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ক্ষেত্রফলের সমতা ব্যবহার করে আমরা কিছু গাণিতিক সূত্র প্রতিপাদন করতে পারি। উদাহরণস্বরূপ, চিত্র A অনুযায়ী, আমরা দুটি সংখ্যার যোগফলের বর্গের সূত্রটি পেতে পারি: (a + b)² = a² + 2ab + b²। চিত্র B থেকে আপনি যে গাণিতিক সূত্রটি প্রতিপাদন করতে পারেন তা হলো ( )\n\nOptions:\nক) $( a + b ) ( a - b ) = a ^ { 2 } - b ^ { 2 }$\nখ) $( a - b ) ^ { 2 } = a ^ { 2 } - 2 a b + b ^ { 2 }$\nগ) $a ( a + b ) = a ^ { 2 } + a b$\nঘ) $a ( a - b ) = a ^ { 2 } - a b$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "40675ae2-daea-4f01-b651-e404e86dcfcc",
+    "images": [
+      "images/24669_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ও বিন্দুকে প্রান্তবিন্দু ধরে কতটি রশ্মি (ray) রয়েছে?\nক. 3টি\nখ. 4টি\nগ. 5টি\nঘ. 6টি",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "31c9a149-d5ef-48ed-ac1f-5ab48e951938",
+    "images": [
+      "images/59209_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের আয়তাকার গ্রিডে প্রতিটি আয়তক্ষেত্রের দৈর্ঘ্য 2 এবং প্রস্থ 1। বিন্দু A ও B গ্রিড বিন্দুতে অবস্থিত এবং যদি বিন্দু C-ও গ্রিড বিন্দুতে হয়, তবে ত্রিভুজ ABC-এর ক্ষেত্রফল 2 হয় এমন বিন্দু C-এর সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "173b8cd7-f907-499e-91f5-21657d7c4ed9",
+    "images": [
+      "images/68926_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায়, বর্গক্ষেত্র ABCD-এর অবস্থান চিত্রে দেখানো হয়েছে। বিন্দু A-এর স্থানাঙ্ক (1, 0) এবং বিন্দু D-এর স্থানাঙ্ক (0, 2)। CB রেখাকে বর্ধিত করলে তা x-অক্ষকে A_1 বিন্দুতে ছেদ করে। বর্গক্ষেত্র A_1B_1C_1C অঙ্কন করা হলো এবং C_1B_1 রেখাকে বর্ধিত করলে তা x-অক্ষকে A_2 বিন্দুতে ছেদ করে। বর্গক্ষেত্র A_2B_2C_2C_1 অঙ্কন করা হলো এবং এই ধারা অব্যাহত রাখা হলো। 2012-তম বর্গক্ষেত্রের ক্ষেত্রফল কত?\n\nOptions (copied from English):\nক. $5\\cdot{\\left({\\frac{3}{2}}\\right)}^{2010}$\n$5\\cdot{\\Bigg(}{\\frac{9}{4}}{\\Bigg)}^{2010}$\nগ. $5\\cdot{\\Bigg(}{\\frac{9}{4}}{\\Bigg)}^{2012}$\nঘ. $5\\cdot\\left({\\frac{3}{2}}\\right)^{4022}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a4dd2a97-5f62-4e2d-9758-09afbbf8920f",
+    "images": [
+      "images/62187_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি বর্গক্ষেত্রকে তিনবার ভাঁজ করে এবং ড্যাশযুক্ত রেখা বরাবর কেটে ফেললে, প্রাপ্ত আকৃতিটি হবে ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "66e12bfd-9734-452d-9892-0878ecbbfe80",
+    "images": [
+      "images/13451_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, D এবং E বিন্দু দুটি যথাক্রমে ত্রিভুজ ABC-এর AB এবং BC বাহুর ওপর অবস্থিত। দেওয়া আছে AD = 2BD এবং BE = CE। যদি ত্রিভুজ ADF-এর ক্ষেত্রফল S₁ এবং ত্রিভুজ CEF-এর ক্ষেত্রফল S₂ হয় এবং ত্রিভুজ ABC-এর ক্ষেত্রফল S_△ABC = 9 হয়, তবে S₁ - S₂ = কত?\n\nOptions:\nক) $ \\frac {1}{2}$\nখ) 1\nগ) $ \\frac {3}{2}$\nঘ) 2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "712ba6ed-981f-493b-a978-b9e4b09718de",
+    "images": [
+      "images/56646_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক কঠিন বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। সম্মুখ দৃশ্য এবং বাম দৃশ্য হলো দুটি সর্বসম সমদ্বিবাহু সমকোণী ত্রিভুজ, যার বাহুর দৈর্ঘ্য 1। এই জ্যামিতিক কঠিন বস্তুটির পরিবৃত্তের আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0af78fd3-7462-4b53-93c1-bf8b0cf95595",
+    "images": [
+      "images/57900_0.png"
+    ],
+    "english_question": "<image>\nচীনে দাবা খেলার ইতিহাস তিন হাজার বছরেরও বেশি। সহজ সরঞ্জাম এবং গভীর আগ্রহের কারণে এটি একটি অত্যন্ত জনপ্রিয় বুদ্ধিবৃত্তিক খেলা। চিত্রে একটি দাবার শেষ অবস্থা দেখানো হয়েছে। 'ঘোড়া' (Horse) এবং 'নৌকা' (Rook) এর স্থানাঙ্ক যথাক্রমে (4,3) এবং (-2,1) হলে, 'কামান' (Cannon) এর স্থানাঙ্ক কত?\n\nOptions:\nক) \\((-3,3)\\)\nখ) \\((0,3)\\)\nগ) \\((3,2)\\)\nঘ) \\((1,3)\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f46aac0e-f3cc-4afa-8d06-2e2ccabd56f6",
+    "images": [
+      "images/70203_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অর্ধবৃত্তের ব্যাস AB = 6, O হলো বৃত্তের কেন্দ্র এবং C হলো অর্ধবৃত্তের ওপর অবস্থিত A ও B ভিন্ন যেকোনো একটি বিন্দু। যদি P বিন্দুটি ব্যাসার্ধ OC-এর ওপর একটি চলমান বিন্দু হয়, তবে (PA + PB) • PC-এর সর্বনিম্ন মান কত?\n\nOptions:\nক) 9/2\nখ) 9\nগ) -9/2\nঘ) -9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3f2d9efd-d95a-4563-8d47-070b9cdafb3c",
+    "images": [
+      "images/30181_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, একটি অর্ধবৃত্ত O-এর ব্যাস ট্রাপিজিয়াম ABCD-এর নিচের বাহু AB-এর ওপর অবস্থিত এবং এটি অন্য তিনটি বাহু BC, CD এবং DA-কে স্পর্শ করে। যদি AB = 10 এবং BC = 4 হয়, তবে AD-এর দৈর্ঘ্য কত?\n\nOptions:\nক) 4\nখ) 5\nগ) 6\nঘ) 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a069206f-9da0-45e5-b0af-0f071e22fa38",
+    "images": [
+      "images/66929_0.png"
+    ],
+    "english_question": "<image>\nসমকোণী ট্রাপিজিয়াম ABCD-তে, দেওয়া আছে AD || BC, AB = BC, ∠ABC = 90°, DE = 3 সেমি, EC = 4 সেমি, DC = 5 সেমি। ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল কত?\n\nOptions:\nক) $ \\frac {152}{17}$ cm<sup>2</sup>\nখ) $ \\frac {195}{20}$ cm<sup>2</sup>\nগ) 12 cm<sup>2</sup>\nঘ) 13 cm<sup>2</sup>",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "519215b3-6706-4be3-a35f-555b439bf5ed",
+    "images": [
+      "images/74334_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, শাও গাং-এর বাড়ি স্কুল থেকে উত্তর-পূর্ব দিকে 30° কোণে অবস্থিত এবং স্কুল থেকে তার বাড়ির দূরত্ব 2000 মিটার। শাও গাং-এর বাড়ির সাপেক্ষে স্কুলের অবস্থান নির্ণয় করো।\nক. দক্ষিণ-পশ্চিম 30°, শাও গাং-এর বাড়ি থেকে 2000 মিটার দূরে\nখ. দক্ষিণ-পশ্চিম 60°, শাও গাং-এর বাড়ি থেকে 2000 মিটার দূরে\nগ. উত্তর-পূর্ব 30°, শাও গাং-এর বাড়ি থেকে 2000 মিটার দূরে\nঘ. উত্তর-পূর্ব 60°, শাও গাং-এর বাড়ি থেকে 2000 মিটার দূরে",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

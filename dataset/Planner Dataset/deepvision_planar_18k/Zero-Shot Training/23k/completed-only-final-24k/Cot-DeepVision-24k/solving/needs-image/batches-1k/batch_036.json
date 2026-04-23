@@ -1,0 +1,302 @@
+[
+  {
+    "id": "65f8d5d4-c4ff-4334-8ed0-3dd7b038dd06",
+    "images": [
+      "images/7031_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তক্ষেত্র ABCD চারটি ছোট আয়তক্ষেত্র দ্বারা গঠিত (এই চারটি ছোট আয়তক্ষেত্র কোনো ফাঁক বা উপরিপাতন ছাড়াই সাজানো হয়েছে), যেখানে আয়তক্ষেত্র ② এবং ③ সর্বসম। আয়তক্ষেত্র ① এবং ④-এর পরিসীমার যোগফল নির্ণয় করতে, আপনার কেবল কোনটি জানা প্রয়োজন?\n\nOptions:\nক) The perimeter of rectangle $$ABCD$$\nখ) The perimeter of rectangle $$②$$\nগ) The length of $$AB$$\nঘ) The length of $$BC$$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4c38db8a-272a-4040-a37f-b8a09e4ea81e",
+    "images": [
+      "images/63198_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, একটি ঢালের বিন্দু A থেকে পাহাড়ের চূড়া CD-এর শীর্ষবিন্দু C-এর উন্নতি কোণ ঢালের সাপেক্ষে 15° পরিমাপ করা হলো। পাহাড়ের দিকে 100 মিটার উপরে B বিন্দুতে গিয়ে C-এর উন্নতি কোণ ঢালের সাপেক্ষে 45° পরিমাপ করা হলো। যদি CD = 50 মিটার হয় এবং অনুভূমিক তলের সাপেক্ষে ঢালের কোণ θ হয়, তবে cos θ-এর মান কত?\n\nOptions:\nক) \\(\\dfrac{\\sqrt{3}}{2}\\)\nখ) \\(2-\\sqrt{3}\\)\nগ) \\(\\sqrt{3}-1\\)\nঘ) \\(\\dfrac{\\sqrt{2}}{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1837c3f5-340a-42ca-a8b2-d06b0a82874a",
+    "images": [
+      "images/23377_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, অর্ধবৃত্ত O-এর ব্যাস 2, বিন্দু A ব্যাসের বর্ধিতাংশে এমনভাবে অবস্থিত যে OA = 2, এবং বিন্দু B অর্ধবৃত্তের ওপর যেকোনো একটি বিন্দু। AB বাহু নিয়ে একটি সমবাহু ত্রিভুজ ABC গঠন করা হলো। ধরি, ∠AOB = α। α-এর কোন মানের জন্য চতুর্ভুজ OACB-এর ক্ষেত্রফল সর্বোচ্চ হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f26b2708-798c-42ba-b168-4e9c8f2687c7",
+    "images": [
+      "images/60828_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং CD রেখাদ্বয়কে AC রেখা ছেদ করেছে এবং AB সমান্তরাল CD। E সমতলের যেকোনো একটি বিন্দু (যা AB, CD বা AC রেখার ওপর নয়)। ধরি, ∠BAE = α এবং ∠DCE = β। ∠AEC-এর পরিমাপের জন্য নিচের কোন রাশিগুলো সম্ভব? ① α + β, ② α - β, ③ 180° - α - β, ④ 360° - α - β। নিচের কোনটি সম্ভব?\n\nOptions:\nক) ①②③\nখ) ①②④\nগ) ①③④\nঘ) ①②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9359dc59-2de6-4494-85a3-8c70d1ee6233",
+    "images": [
+      "images/55986_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ AOB এবং ত্রিভুজ COD-কে সদৃশ করার জন্য একটি অতিরিক্ত শর্ত প্রয়োজন: ▲ (শুধুমাত্র একটি লিখুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8fd484a5-925a-46d0-910d-cfbffab80ba9",
+    "images": [
+      "images/66832_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সব ছোট ত্রিভুজ সমবাহু ত্রিভুজ। এদের মধ্যে ত্রিভুজ ABC কে স্থানান্তর করে পাওয়া যায় এমন ত্রিভুজ কতগুলো? ( ) ক. 0 খ. 1 গ. 2 ঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9955f188-8ee3-45f7-afc2-0f024f6da705",
+    "images": [
+      "images/39121_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত ত্রিভুজ ABC-এর পরিসীমা 8। ত্রিভুজটিকে BC বরাবর ডানদিকে 1 একক সরিয়ে ত্রিভুজ DEF পাওয়া গেল। চতুর্ভুজ ABFD-এর পরিসীমা কত?\nক. 11\nখ. 10\nগ. 9\nঘ. 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "32d51425-cb42-4af5-930b-401a07145732",
+    "images": [
+      "images/70408_0.png"
+    ],
+    "english_question": "<image>\nপাঁচটি ভিন্ন রঙের ফুল (লাল, হলুদ, নীল, সাদা এবং কমলা) দিয়ে সাজানো একটি ফুলের বাগানে শর্ত হলো, একই এলাকায় একই রঙের ফুল ব্যবহার করতে হবে এবং পাশাপাশি এলাকায় ভিন্ন রঙের ফুল থাকতে হবে। ঠিক দুটি এলাকায় লাল রঙের ফুল ব্যবহারের সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c464a506-1536-4c12-895e-8231c59207e7",
+    "images": [
+      "images/16249_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত উপায়ে, যদি বৃত্তকলার কেন্দ্রস্থ কোণ 2α (ধ্রুবক) এবং ব্যাসার্ধ R (ধ্রুবক) হয়, তবে চিত্র এক এবং চিত্র দুই অনুযায়ী বৃত্তকলায় আয়তক্ষেত্র অন্তর্বিলিত করা হয়েছে। যদি চিত্র এক অনুযায়ী গঠিত আয়তক্ষেত্রের সর্বোচ্চ ক্ষেত্রফল \\(\\frac{1}{2}R^2\\tan\\alpha\\) হয়, তবে চিত্র দুই অনুযায়ী গঠিত আয়তক্ষেত্রের সর্বোচ্চ ক্ষেত্রফল কত হবে? ( )\nক. \\(R^2\\tan\\alpha\\)\nখ. \\(R^2\\tan\\frac{\\alpha}{2}\\)\nগ. \\(\\frac{1}{2}R^2\\tan\\frac{\\alpha}{2}\\)\nঘ. \\(\\frac{1}{2}R^2\\tan\\alpha\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a33015fb-dcce-409e-96a0-282de1f28ed4",
+    "images": [
+      "images/27816_0.png"
+    ],
+    "english_question": "<image>\nত্রিভুজ ABC-এর AD লম্ব এবং AE কোণ সমদ্বিখণ্ডক। যদি ∠B = 76° এবং ∠C = 36° হয়, তবে ∠DAE-এর মান কত?\n\nOptions:\nক) 20°\nখ) 18°\nগ) 38°\nঘ) 40°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7a5336d6-bfb2-4ef1-8d82-01f246765049",
+    "images": [
+      "images/54921_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে 21টি বিন্দু আছে এবং প্রতিটি সংলগ্ন তিনটি বিন্দু 1 ক্ষেত্রফলের একটি সমবাহু ত্রিভুজ গঠন করে। ত্রিভুজ △ABC এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1e215584-f044-446d-9739-1cd72e5d09b9",
+    "images": [
+      "images/8586_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC একটি সমকোণী ত্রিভুজ যেখানে ∠ACB=90°। D বিন্দুটি BC বাহুর উপর অবস্থিত। দেওয়া আছে ∠ADC=β, ∠ABC=α এবং BD=m। যদি AC=x হয়, তবে x নির্ণয়ের সমীকরণটি হবে ______।\nOptions:\nC) Given that ∠ADC=β, ∠ABC=α, and BD=m, let AC=x. The equation to find x can be established as ______.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b73bf750-48c5-4bdc-9f40-e244adfa3848",
+    "images": [
+      "images/21162_0.png"
+    ],
+    "english_question": "<image>\nরেখা AB, রেখাংশ CD এবং রশ্মি EF এর মধ্যে, নিচের কোন চিত্রগুলো পরস্পরকে ছেদ করতে পারে? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "806911c4-e934-417b-b83b-f32c4b08150e",
+    "images": [
+      "images/43883_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি ঘনকের নেট দেওয়া আছে যার প্রতিটি পৃষ্ঠে একটি করে চীনা অক্ষর রয়েছে। মূল ঘনকে '看' অক্ষরের বিপরীত পৃষ্ঠে কোন চীনা অক্ষরটি আছে?\n\nOptions:\nক) 南\nখ) 世\nগ) 界\nঘ) 杯",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "53a6fe32-cc13-4be2-87b1-e431ccdc3597",
+    "images": [
+      "images/66654_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1 থেকে চিত্র 2-এ রূপান্তরের ভিত্তিতে, ক্ষেত্রফলের সমতা নির্দেশকারী বহুপদী গুণফলের সূত্রটি লেখো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dde7450a-69c2-4105-9e96-4347e15b260a",
+    "images": [
+      "images/26757_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, MN হলো জিয়াংফান থেকে উহান পর্যন্ত মহাসড়কের নকশার একটি অংশ। M বিন্দুতে, N বিন্দুটিকে দক্ষিণ-পূর্ব দিকে 30° কোণে পরিমাপ করা হয়। অন্য একটি বিন্দু A-কে দক্ষিণ-পূর্ব দিকে 60° কোণে পরিমাপ করা হয়। MN রেখার উপর একটি বিন্দু B নেওয়া হয়, যেখানে A বিন্দুটিকে দক্ষিণ-পূর্ব দিকে 75° কোণে পরিমাপ করা হয়। A বিন্দুকে কেন্দ্র করে 500 মিটার ব্যাসার্ধের একটি বৃত্তাকার এলাকা একটি আবাসিক এলাকা নির্দেশ করে। দেওয়া আছে MB = 400 মিটার। হিসাবের মাধ্যমে উত্তর দাও: যদি দিক পরিবর্তন না করা হয়, তবে মহাসড়কটি কি আবাসিক এলাকার মধ্য দিয়ে যাবে?\nOptions:\na. It is known that \\(MB=400m\\). Through calculations, answer the question: If the direction is not changed, will the highway pass through the residential area?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8b801c78-1212-4122-b277-761293aa6ae0",
+    "images": [
+      "images/11155_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ABC এবং ত্রিভুজ ADE এর সদৃশতা নির্ধারণের জন্য নিচের কোন শর্তটি যথেষ্ট নয়?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "68e35bbd-4692-4827-802f-e097f71609a6",
+    "images": [
+      "images/74184_0.png"
+    ],
+    "english_question": "<image>\nনিচের কোন চিত্রগুলো 6টি অভিন্ন বর্গক্ষেত্র দ্বারা গঠিত একটি ঘনকের নেট (net)?\n\nOptions:\nক) ①②③\nখ) ②③④\nগ) ①③④\nঘ) ①②④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2d2e3974-d76f-4e60-82c6-7ab84e7cb347",
+    "images": [
+      "images/61186_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, একটি কাগজের গুরুত্ব বা পুরুত্ব 0.07 মিমি। একে যদি 15 বার ঠিক মাঝখান দিয়ে ভাঁজ করা হয়, তবে এর পুরুত্ব নিচের কোনটির কাছাকাছি হবে?\nক. একটি গণিত পাঠ্যবইয়ের পুরুত্ব\nখ. একটি ডেস্কের উচ্চতা\nগ. ইয়াও মিং-এর উচ্চতা\nঘ. তিনতলা দালানের উচ্চতা",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "902b5881-69d8-432b-b898-bfa438b27565",
+    "images": [
+      "images/38929_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রতি বাহু a বিশিষ্ট একটি নিয়মিত ষড়ভুজ আছে, যার অভ্যন্তরে একটি সমবাহু চতুর্ভুজও প্রতি বাহু a বিশিষ্ট। ফাঁকা অংশের ক্ষেত্রফল S₁ এবং ছায়াযুক্ত অংশের ক্ষেত্রফল S₂। তবে S₁/S₂ = ( ) ক. 1/2 খ. 1/3 গ. √3/6 ঘ. √3/9",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

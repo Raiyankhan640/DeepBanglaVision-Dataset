@@ -1,0 +1,302 @@
+[
+  {
+    "id": "add2dbb3-9c7a-415a-a26c-e1d15e99ebc8",
+    "images": [
+      "images/41307_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, প্যাডেল AB একটি স্থির বিন্দু P-কে কেন্দ্র করে ঘোরে, যেখানে AP = 6 সেমি এবং PB = 12 সেমি। সংযোগকারী রড BH একটি স্থির বিন্দু D-কে কেন্দ্র করে ঘোরে, যেখানে DH' = 8 সেমি। ঘূর্ণনের পর, রেখা H'B' অনুভূমিক রেখা AB এবং DH-এর উপর লম্ব হয় এবং যথাক্রমে M ও C বিন্দুতে মিলিত হয়। ∠HDH' ≥ 60° নিশ্চিত করতে, মাটি থেকে প্যাডেল AB-এর সর্বনিম্ন উচ্চতা কত? (দুই সার্থক অঙ্ক পর্যন্ত উত্তর দাও)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "10bd8a65-1dba-48f6-8cb5-970ad5a4d34d",
+    "images": [
+      "images/45534_0.png"
+    ],
+    "english_question": "<image>\nস্থানিক চতুর্ভুজ ABCD তে, E, F, G, এবং H বিন্দুগুলো যথাক্রমে AB, BC, CD, এবং DA রেখার ওপর অবস্থিত। যদি EF ∩ GH = Q হয়, তবে Q বিন্দুটি কোন রেখার ওপর অবস্থিত?\nক. BD\nখ. AB\nগ. AC\nঘ. CD",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "24cf205d-719c-4004-82fe-b5f500243094",
+    "images": [
+      "images/12671_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো অর্ধবৃত্ত O-এর ব্যাস এবং C, D, E, F হলো পাঁচটি সমান বিভাজন বিন্দু। P হলো AB-এর উপর যেকোনো একটি বিন্দু। যদি AB = 4 হয়, তবে চিত্রের ছায়াবৃত অংশের ক্ষেত্রফল কত?\n\nOptions:\nক) $ \\frac {1}{5}$ π\nখ) $ \\frac {2}{5}$ π\nগ) $ \\frac {4}{5}$ π\nঘ) $ \\frac {8}{5}$ π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d52a8e7f-cfcd-476f-9fcf-622e506e624e",
+    "images": [
+      "images/2602_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে, 9 একক দৈর্ঘ্যের একটি সাধারণ ভূমির ওপর দুটি অর্ধবৃত্ত এবং একটি বৃত্তকলা অবস্থিত, যেখানে বৃত্তকলাটির কেন্দ্রস্থ কোণ 60°। এদের উপরিপাতনের ফলে গঠিত ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3c1d4e17-f9ce-48d9-bf9d-81a20f6e3bfe",
+    "images": [
+      "images/24740_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত ফ্লোচার্টে, DoLoop কাঠামোর LoopWhile বিবৃতির সাথে সামঞ্জস্যপূর্ণ সিদ্ধান্ত বাক্সের শর্তটি কী?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0dccb617-a1a8-4c7e-a8a7-8a61c04706c0",
+    "images": [
+      "images/62923_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে \\(∠B = ∠D\\), তবে \\(BE \\parallel DF\\) নিশ্চিত করার জন্য অতিরিক্ত কোন শর্তটি যোগ করা প্রয়োজন? শুধুমাত্র একটি শর্ত লিখুন।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2eb5f1c5-6520-45ff-b87e-04d60de3665b",
+    "images": [
+      "images/37150_0.png"
+    ],
+    "english_question": "<image>\nছোটবেলায় আমরা আঙুল দিয়ে গণনা করতাম। একটি শিশু চিত্রে দেখানো নিয়ম অনুযায়ী গণনা করছে। 20009 পর্যন্ত গণনা করলে, কোন আঙুলটি সেই সংখ্যার সাথে মিলে যাবে?\n\nOptions:\nক) Thumb\nখ) Index Finger\nগ) Middle Finger\nঘ) Ring Finger",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1179a72f-6e1f-4211-b6c8-01c14565d88d",
+    "images": [
+      "images/6220_0.png"
+    ],
+    "english_question": "<image>\nযদি 9 ব্যাসার্ধ এবং 120° কেন্দ্রীয় কোণবিশিষ্ট একটি বৃত্তকলা দিয়ে একটি কোণ (শঙ্কু) তৈরি করা হয়, তবে উক্ত কোণের ভূমির ব্যাসার্ধ কত? \nক. 9 \nখ. 3 \nগ. 1 \nঘ. 6",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f730aa76-b746-4e14-8726-7bb2351dc33b",
+    "images": [
+      "images/23415_0.png"
+    ],
+    "english_question": "<image>\nচিত্রানুসারে ABCD, BEFG এবং RKPF বর্গক্ষেত্রগুলো স্থাপন করা হয়েছে। বিন্দু G, রেখাংশ DK-এর উপর অবস্থিত এবং G হলো BC-এর ত্রিখণ্ডক বিন্দু। R হলো EF-এর মধ্যবিন্দু। BEFG বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 4 হলে, ত্রিভুজ DEK-এর ক্ষেত্রফল কত? ( )\nক. 10\nখ. 12\nগ. 14\nঘ. 16",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e8994532-a534-4bc0-b6e1-3cc90e65b619",
+    "images": [
+      "images/28885_0.png"
+    ],
+    "english_question": "<image>\nএকটি গণিত ক্লাসে, শিক্ষক শিক্ষার্থীদের উত্তর-দক্ষিণে প্রবাহিত একটি নদীর প্রস্থ পরিমাপ করতে বললেন। চিত্রে দেখানো অনুযায়ী, একজন শিক্ষার্থী পূর্ব তীরের বিন্দু A থেকে বিপরীত তীরের বিন্দু C পর্যবেক্ষণ করল। পরিমাপ করে দেখা গেল যে, বিন্দু C, বিন্দু A থেকে পশ্চিমের 30° উত্তরে অবস্থিত। এরপর শিক্ষার্থী নদীর তীর ধরে 20 মিটার উত্তরে বিন্দু B-তে গেল, যেখানে পরিমাপ করে দেখা গেল যে, বিন্দু C, বিন্দু B থেকে পশ্চিমের 60° উত্তরে অবস্থিত। উপরের তথ্যের ভিত্তিতে, নদীর প্রস্থ নির্ণয় করো (দশমিকের পর 1 ঘর পর্যন্ত)। দেওয়া আছে: √2 ≈ 1.414, √3 ≈ 1.732।\nOptions:\nক) The student then walked 20 meters north along the riverbank to point B, where it was measured that point C is at a direction of 60° north of west from point খ) Based on the above data, help the student calculate the width of the river (accurate to 0.1). Reference data: ${ \\sqrt { 2 } } { \\approx } 1 . 4 1 4 \\, , \\ { \\sqrt { 3 } } { \\approx } 1 . 7 3 2$ .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a7df6282-fa7d-4d15-bb3e-05244cb16994",
+    "images": [
+      "images/12953_0.png"
+    ],
+    "english_question": "<image>\n2012 শরৎকালীন একটি মাসিক পরীক্ষায়, বিন্দু A একটি 5×5 গ্রিডের (ছোট বর্গক্ষেত্রের শীর্ষবিন্দু) একটি শীর্ষবিন্দু যেখানে প্রতিটি ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1। এমন কতটি সমদ্বিবাহু সমকোণী ত্রিভুজ (যাদের তিনটি শীর্ষবিন্দুই গ্রিড পয়েন্ট) সম্ভব যাদের ক্ষেত্রফল 5/2 এবং যার একটি শীর্ষবিন্দু A?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "678e1ac3-5a19-4aa6-a5d2-5718697024f4",
+    "images": [
+      "images/73775_0.png"
+    ],
+    "english_question": "<image>\nফ্লোচার্টটি অনুসরণ করো। যদি ইনপুট t ∈ [-1, 3] হয়, তবে আউটপুট s-এর মান কোন সীমার মধ্যে থাকবে?\n\nOptions:\nক) [-3, 4]\nখ) [-5, 2]\nগ) [-4, 3]\nঘ) [-2, 5]",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3e165176-7d88-4308-81bd-ed42cc3e0eba",
+    "images": [
+      "images/27233_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটি শহরের কেন্দ্রে একটি বৃত্তাকার বাগান প্রদর্শন করে, যেখানে A, B এবং C পরিধির ওপর তিনটি বিনোদন কেন্দ্র এবং A, B ও C পরিধিকে তিনটি সমান ভাগে বিভক্ত করে। পরিধি বরাবর একটি প্রধান রাস্তা ছাড়াও, কেন্দ্রের মধ্য দিয়ে তিনটি রাস্তা আছে: ⌢AOB, ⌢BOC, ⌢AOC। এক সকালে, দুইজন জগিংকারী A এবং B একই সাথে বিন্দু A থেকে যাত্রা শুরু করে। জগিংকারী A পরিধি বরাবর হেঁটে পুনরায় বিন্দু A-তে ফিরে আসে, অন্যদিকে জগিংকারী B ⌢AOB, ⌢BOC, ⌢COA পথ ধরে পুনরায় A-তে ফিরে আসে। যদি তারা একই গতিতে হাঁটে, তবে নিচের কোন সিদ্ধান্তটি সঠিক?\n\nOptions:\nক) Jogger A returns to A first\nখ) Jogger B returns to A first\nগ) Both return to A at the same time\nঘ) It cannot be determined",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "55a4ec18-bad7-4b90-92f0-b2a75572b4c3",
+    "images": [
+      "images/3140_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি আয়তাকার ক্ষেত্র ABCD দেখানো হয়েছে, যার দৈর্ঘ্য AB = 102 মি এবং প্রস্থ AD = 51 মি। প্রবেশপথ A এবং B থেকে মধ্যবর্তী পথগুলোর প্রস্থ 1 মি করে এবং যেখানে পথ দুটি মিলিত হয়েছে সেখানে প্রস্থ 2 মি। অবশিষ্ট অংশে ঘাস লাগানো হয়েছে। ঘাস লাগানো অংশের ক্ষেত্রফল কত?\n(ক) 5050 বর্গমিটার\n(খ) 4900 বর্গমিটার\n(গ) 5000 বর্গমিটার\n(ঘ) 4998 বর্গমিটার",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "33943af1-6845-4c76-bf63-24e69a6596d1",
+    "images": [
+      "images/27671_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, DE সমান্তরাল BC, তবে নিচের কোন অনুপাতটি ভুল? ( ) \nAD/AB = AE/AC \nAE/EC = AD/BD \nAD/BD = DE/BC \nBD/AD = EC/AE",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9a9144ec-3264-47e1-a2b2-60669d7f7bbe",
+    "images": [
+      "images/34145_0.png"
+    ],
+    "english_question": "<image>\nএকটি আয়তাকার কাগজের টুকরোকে ভাঁজ করে চিত্রে প্রদর্শিত ট্রাপিজয়েড আকৃতি দেওয়া হলো। দেওয়া আছে, ∠1 = ∠2 = 45 ডিগ্রি এবং AB বাহুর দৈর্ঘ্য 10 সেমি। ট্রাপিজয়েড ABCD-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd973167-7fa9-41cf-a49e-9ff8f845e1f5",
+    "images": [
+      "images/43671_0.png"
+    ],
+    "english_question": "<image>\nABC ত্রিভুজে, যেখানে AB = AC, AD হলো কোণ BAC এর সমদ্বিখণ্ডক, এবং AC এর লম্ব সমদ্বিখণ্ডক যথাক্রমে AC, AD, এবং AB কে E, O, এবং F বিন্দুতে ছেদ করে। চিত্রে সর্বসম ত্রিভুজের জোড়ার সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b591246c-e9e8-47c4-a5ac-ab64d22f7424",
+    "images": [
+      "images/62465_0.png"
+    ],
+    "english_question": "<image>\nশিউ মিং দুর্ঘটনাবশত বাড়িতে একটি গোলাকার কাঁচ ভেঙে ফেলেছে। চিত্রে ভাঙা কাঁচের চারটি টুকরো দেখানো হয়েছে। মূল গোলাকার কাঁচের আকার নির্ণয় করার জন্য শিউ মিং-এর কোন টুকরোটি দোকানে নিয়ে যাওয়া উচিত? ( ) \nক. 1 নং টুকরো \nখ. 2 নং টুকরো \nগ. 3 নং টুকরো \nঘ. 4 নং টুকরো",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b0894ae9-d0c8-4ab0-a2b8-59610ef23179",
+    "images": [
+      "images/3754_0.png"
+    ],
+    "english_question": "<image>\nবিন্দু C, বিন্দু A থেকে দক্ষিণ-পূর্ব দিকে 45° কোণে 10 নটিক্যাল মাইল দূরে অবস্থিত। বিন্দু B, বিন্দু A থেকে দক্ষিণ-পূর্ব দিকে 60° কোণে অবস্থিত। B-তে অবস্থিত একটি জাহাজ 13 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে পশ্চিম দিকে C-এর দিকে যাচ্ছে। A-তে অবস্থিত অন্য একটি জাহাজ 30 নটিক্যাল মাইল প্রতি ঘণ্টা বেগে সরাসরি C-এর দিকে যাচ্ছে। A থেকে আসা জাহাজটি কি B থেকে আসা জাহাজের আগে C-তে পৌঁছাতে পারবে? (√2 ≈ 1.41, √3 ≈ 1.73, √6 ≈ 2.45 ব্যবহার করুন)\nOptions:\nক) Point B is located at a southeast angle of 60° from point ক) A ship at B is heading west toward C at 13 nautical miles per hour. Another ship at A is heading directly to C at 30 nautical miles per hour. Can the ship from A arrive at C before the ship from B? (Use √2 ≈ 1.41, √3 ≈ 1.73, √6 ≈ 2.45)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1feeb2fa-b1ec-4ccb-b79c-ff4b35ff8804",
+    "images": [
+      "images/44953_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমুদ্রে একটি ছোট দ্বীপ A আছে, যা 15 নটিক্যাল মাইলের মধ্যে প্রবাল প্রাচীর দ্বারা পরিবেষ্টিত। একটি মালবাহী জাহাজ পশ্চিম থেকে পূর্ব দিকে যাত্রা করছে, বিন্দু B থেকে শুরু করে, যা দ্বীপ A-এর দক্ষিণ-পশ্চিমে 60° কোণে অবস্থিত। 20 নটিক্যাল মাইল পূর্ব দিকে যাওয়ার পর, এটি বিন্দু C-তে পৌঁছায়, যা দ্বীপের দক্ষিণ-পশ্চিমে 30° কোণে অবস্থিত। মালবাহী জাহাজটি পূর্ব দিকে যাত্রা অব্যাহত রাখে। আপনার কি মনে হয় যাত্রাপথে প্রবাল প্রাচীরে আঘাত করার কোনো বিপদ আছে? (পূরণ করুন: \"Yes\" বা \"No\")",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

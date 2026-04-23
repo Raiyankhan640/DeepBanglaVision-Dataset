@@ -1,0 +1,342 @@
+[
+  {
+    "id": "5454d5b4-bd68-4ffd-9a19-5cbfa6ea8221",
+    "images": [
+      "images/72173_0.png"
+    ],
+    "english_question": "<image>\nকয়েকটি অভিন্ন আয়তাকার কাগজের টুকরো ব্যবহার করে একটি বর্গক্ষেত্র তৈরি করা হলো। চিত্র (1)-এ 4টি আয়তক্ষেত্র দিয়ে বর্গক্ষেত্রটি তৈরি এবং ছায়াযুক্ত অংশের ক্ষেত্রফল 12; চিত্র (2)-এ 8টি আয়তক্ষেত্র দিয়ে বর্গক্ষেত্রটি তৈরি এবং ছায়াযুক্ত অংশের ক্ষেত্রফল 8; চিত্র (3)-এ 12টি আয়তক্ষেত্র দিয়ে বর্গক্ষেত্রটি তৈরি করা হয়েছে। চিত্র (3)-এ ছায়াযুক্ত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "176edabb-8a6c-4cc3-ac6d-db66efba161a",
+    "images": [
+      "images/49303_0.png"
+    ],
+    "english_question": "<image>\nকার্তেসীয় স্থানাঙ্ক ব্যবস্থায় বর্গক্ষেত্র ABCD-এর অবস্থান চিত্রে দেখানো হয়েছে। A বিন্দুর স্থানাঙ্ক (1, 0) এবং D বিন্দুর স্থানাঙ্ক (0, 2)। CB-কে বর্ধিত করে x-অক্ষকে A₁ বিন্দুতে ছেদ করা হলো এবং বর্গক্ষেত্র A₁B₁C₁C অঙ্কন করা হলো। এরপর C₁B₁-কে বর্ধিত করে x-অক্ষকে A₂ বিন্দুতে ছেদ করা হলো এবং বর্গক্ষেত্র A₂B₂C₂C₁ অঙ্কন করা হলো। এই প্যাটার্ন অনুসরণ করলে, বর্গক্ষেত্র A₂₀₁₃B₂₀₁₃C₂₀₁₃C₂₀₁₂ এর ক্ষেত্রফল কত হবে?\nক. 5×(3/2)²⁰¹²\nখ. 5×(3/2)²⁰¹³\nগ. 5×(9/4)²⁰¹²\nঘ. 5×(9/4)²⁰¹³",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3e1a76e0-9792-444b-91c0-a84377bb403e",
+    "images": [
+      "images/5297_0.png"
+    ],
+    "english_question": "<image>\nনিচে একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য দেওয়া হলো। এই জ্যামিতিক বস্তুটির আয়তন কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "17ab3e9b-fb7b-49d7-9cc1-7b178a079278",
+    "images": [
+      "images/13700_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো (একক: সেমি)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0ccb08c6-b351-45b1-8754-8f3c35f6852f",
+    "images": [
+      "images/33307_0.png"
+    ],
+    "english_question": "<image>\n1 একক বাহুবিশিষ্ট ছোট বর্গক্ষেত্র দ্বারা গঠিত গ্রিডে, ত্রিভুজ ABC-এর ক্ষেত্রফল নির্ণয় করো।\nOptions:\nC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "737164f7-df7d-4224-aa29-d03e93185c30",
+    "images": [
+      "images/18943_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, বৃত্ত ⊙O-এর ব্যাসার্ধ 20, বিন্দু A বৃত্ত ⊙O-এর ওপর অবস্থিত, এবং কর্ণ OA বিশিষ্ট আয়তক্ষেত্র OBAC গঠন করা হয়েছে, যেখানে OC = 12। রেখা BC বৃত্ত ⊙O-কে D এবং E বিন্দুতে ছেদ করে। CE - BD-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fd47203f-67bf-416b-bafe-51936792ff85",
+    "images": [
+      "images/53861_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তাকার পথের দুই প্রান্তে ব্যাস বরাবর A এবং C দুটি বিন্দু আছে। ক, A বিন্দু থেকে ঘড়ির কাঁটার দিকে এবং খ, C বিন্দু থেকে ঘড়ির কাঁটার বিপরীতে হাঁটতে শুরু করলো। একই সাথে শুরু করার পর, তারা প্রথমে B বিন্দুতে মিলিত হয় যা A বিন্দু থেকে 80 মিটার দূরে এবং দ্বিতীয়বার D বিন্দুতে মিলিত হয় যা C বিন্দু থেকে 40 মিটার দূরে। চতুর্থবার মিলিত হওয়ার সময় খ, ক-এর চেয়ে কতটুকু বেশি পথ অতিক্রম করবে?\nOptions:\nC) How much farther has person B walked than person A when they meet for the fourth time?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "dbb638cf-2d35-43b4-bd8b-8f9f2f52b947",
+    "images": [
+      "images/5607_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি সুষম ত্রিভুজাকার প্রিজমের তিনটি দৃশ্য দেখানো হয়েছে। যদি প্রিজমটির আয়তন 8 sqrt(3) হয়, তবে a = কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "953c6527-5c38-49cc-8d64-0003d5deb6ba",
+    "images": [
+      "images/69101_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ACB বৃত্ত O-তে অন্তর্লিখিত। D হলো চাপ BC-এর মধ্যবিন্দু, ED হলো D বিন্দুতে বৃত্ত O-এর একটি স্পর্শক এবং তা AB-এর বর্ধিতাংশকে E বিন্দুতে ছেদ করে। যদি AC = 2, AB = 6 এবং ED + EB = 6 হয়, তবে AD-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bca004fe-5767-4f6e-83ca-90a9b99b1136",
+    "images": [
+      "images/33491_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, C বিন্দু BE রেখাংশের ওপর অবস্থিত। BE-এর একই পাশে ABC এবং DCE সমবাহু ত্রিভুজ দুটি অঙ্কন করা হয়েছে। যদি ∠2 = 40° হয়, তবে ∠BDE-এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2031f310-1854-4448-93ab-88baa47345f0",
+    "images": [
+      "images/38535_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত আয়তক্ষেত্র ABCD-এর ক্ষেত্রফল 88 বর্গ সেমি। E এবং F যথাক্রমে দৈর্ঘ্য ও প্রস্থের মধ্যবিন্দু। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f1b1f6c2-1a52-44e5-97e8-4dbd439d0560",
+    "images": [
+      "images/70789_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD ট্রাপিজিয়ামে, BO = 3OD এবং ত্রিভুজ ABO-এর ক্ষেত্রফল 12 বর্গ সেন্টিমিটার। ট্রাপিজিয়াম ABCD-এর ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8ddc00eb-5722-477a-94ad-3eed1c6a3848",
+    "images": [
+      "images/3935_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 4×8 আয়তাকার গ্রিডে, প্রতিটি ছোট বর্গের বাহুর দৈর্ঘ্য 1। ত্রিভুজ ABC-এর তিনটি শীর্ষবিন্দু গ্রিড পয়েন্টে অবস্থিত। tan ∠BAC-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e016d826-6fbf-4f54-87e9-127c79d6b137",
+    "images": [
+      "images/triangle_ext_e016d826-6fbf-4f54-87e9-127c79d6b137.png"
+    ],
+    "english_question": "<image>\nচিত্রে, পপকর্ন রাখার জন্য একটি কোণাকৃতি কাগজের কাপ রয়েছে। কাপের বৃত্তাকার মুখের ব্যাস EF হলো 10 সেমি এবং হেলানো উচ্চতা OE (OF) হলো 10 সেমি। হেলানো উচ্চতা OF-এর A বিন্দুতে পপকর্নের কিছু অংশ রয়েছে। একটি পিঁপড়া কাপের উপরের E বিন্দু থেকে কোণের পৃষ্ঠতল বরাবর A বিন্দুতে হেঁটে যায়। পিঁপড়াটির অতিক্রান্ত সংক্ষিপ্ততম দূরত্ব কত?\nOptions:\nA) What is the shortest distance that the ant crawls?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "588d6c8c-550b-48cc-a99d-75cfab0b71d3",
+    "images": [
+      "images/21778_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে, ত্রিভুজ ABC একটি সমদ্বিবাহু সমকোণী ত্রিভুজ যেখানে ∠ABC = 90° এবং AB = 10। ত্রিভুজ ABC-এর বাইরে D এমন একটি বিন্দু যেন BD = AB এবং DH ⊥ AB, যেখানে H হলো লম্ববিন্দু এবং DH রেখাটি AC-কে E বিন্দুতে ছেদ করে। যদি tan∠HDB = 3/4 হয়, তবে DE-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ab05f00-749c-4627-b3d4-1909553b8be7",
+    "images": [
+      "images/20151_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠A=90°, ∠ABC-এর সমদ্বিখণ্ডক BD, AC বাহুকে D বিন্দুতে ছেদ করে। যদি AD=3 এবং BC=10 হয়, তবে ত্রিভুজ BDC-এর ক্ষেত্রফল কত?\nOptions:\nD) Given that AD=3 and BC=10, what is the area of triangle BDC?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7544d4ab-d41d-46aa-a6d6-4c5127358965",
+    "images": [
+      "images/21847_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, △ABC বৃত্তে অন্তর্লিখিত এবং AD বৃত্তটির ব্যাস। যদি ∠C = 63° হয়, তবে ∠ABD এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ecd1d5d6-139a-4873-9511-3a7c7ee8511d",
+    "images": [
+      "images/42371_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে বাহুর দৈর্ঘ্য 6 বিশিষ্ট বর্গ ABCD তার কর্ণ AC বরাবর কাটা হয়েছে, এবং ত্রিভুজ ABC কে AD দিকে স্থানান্তর করে ত্রিভুজ A'B'C' পাওয়া হয়েছে। যখন দুটি ত্রিভুজের অধিক্রমণ অংশ একটি রম্বস গঠন করে, তখন AA'-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "621bac01-62a1-4e86-ac8a-8e4dc0a61315",
+    "images": [
+      "images/51756_0.png"
+    ],
+    "english_question": "<image>\n3 সেমি এবং 4 সেমি ব্যাসার্ধবিশিষ্ট দুটি অর্ধবৃত্ত দ্বারা গঠিত ছায়াবৃত অংশের পরিসীমা কত সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43705513-0ccd-4af2-86b9-9e045f5e4556",
+    "images": [
+      "images/68789_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে AB || CD এবং GF রেখাটি AB ও CD কে যথাক্রমে Q ও F বিন্দুতে ছেদ করেছে। EF রেখাটি ∠GFD কে সমদ্বিখণ্ডিত করে। যদি ∠1 = 40^{\\circ} হয়, তবে ∠BEF এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "train.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cf18760c-9474-426a-922e-4ad897d063ba",
+    "images": [
+      "images/27686_0.png"
+    ],
+    "english_question": "<image>\nদেওয়া আছে: চিত্রে প্রদর্শিত উপায়ে 5টি দিয়াশলাই কাঠি দিয়ে একটি ট্রাপিজয়েড তৈরি করা হয়েছে। এরপর ডানদিকে আরেকটি ট্রাপিজয়েড যুক্ত করা হয়েছে এবং এভাবে সংযোগ অব্যাহত রাখা হয়েছে। যখন ট্রাপিজয়েডের সংখ্যা n হয়, তখন মোট কতটি দিয়াশলাই কাঠি ব্যবহৃত হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "52e8c889-c4b4-41ce-a6db-3117286d7e94",
+    "images": [
+      "images/39816_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, AB, EF এর উপর লম্ব, CD, EF এর উপর লম্ব এবং ∠1 = ∠F = 30°। ∠FCD এর সমান কতটি কোণ আছে?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0510403f-b1b4-4e11-89d4-fcdae2ecdfb9",
+    "images": [
+      "images/1819_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে, AB || EF || DC এবং EG || DB। চিত্রটিতে ∠1 এর সমান কতগুলো কোণ আছে (∠1 ব্যতীত)?\nক. 6\nখ. 5\nগ. 4\nঘ. 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "aad78b80-85d5-4c3a-a0a4-b0cb1cafd6b5",
+    "images": [
+      "images/63446_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, C এবং D বিন্দু দুটি অর্ধবৃত্ত O-এর উপর অবস্থিত। জ্যা AC এবং BD বিন্দু E-তে ছেদ করে। CD যোগ করা হলো। যদি ব্যাস AB = 2 এবং CE = √3 BC হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত?\nOptions:\nD) If the diameter AB = 2 and CE = \\( \\sqrt{3} \\) BC, then the area of the shaded region is \\( \\) .",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "81d00f2d-a7c3-4e65-b743-e9eea57d7e1e",
+    "images": [
+      "images/26623_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে ABCD একটি রম্বস এবং AC এর কর্ণ। যদি AE=EF=FC হয়, তবে ত্রিভুজ BMN এর ক্ষেত্রফল ও রম্বস ABCD এর ক্ষেত্রফলের অনুপাত কত? ( )\n\nOptions:\nক) $\\frac{3}{4}$\nখ) $\\frac{3}{7}$\nগ) $\\frac{3}{8}$\nঘ) $\\frac{3}{10}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5fbb3709-7cd6-4d41-8f93-b88925f1e48e",
+    "images": [
+      "images/9258_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত রম্বস ABCD এবং রম্বস EFGH BD রেখার উপর একটি নির্দিষ্ট বিন্দুর সাপেক্ষে কেন্দ্রিক প্রতিসম। বিন্দু B-এর প্রতিসম বিন্দু কোনটি?\n\nOptions:\nক) Point E\nখ) Point F\nগ) Point G\nঘ) Point H",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c06ac245-373e-4aca-898d-5d3b32813bd2",
+    "images": [
+      "images/31258_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি সমুদ্রতীরের বাঁধের প্রস্থচ্ছেদ হলো ট্রাপিজিয়াম ABCD, যার উপরের প্রস্থ BC = 6 মি এবং উচ্চতা 4 মি। বাঁধটিকে 2 মি উঁচু করার পর উপরের প্রস্থ অপরিবর্তিত রেখে, স্থলভাগের ঢাল 1:2 থেকে 1:2.5 এ পরিবর্তিত হয়, কিন্তু জলভাগের ঢাল 1:2 অপরিবর্তিত থাকে। নতুন ভূমি HD-এর দৈর্ঘ্য নির্ণয় করো।\nOptions:\nD)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "94fc0f2a-31a8-4ff2-baad-f81e45a4c64f",
+    "images": [
+      "images/33153_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে কতগুলো সামান্তরিক আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c262338e-e2bf-4495-a44d-b32aef20d80f",
+    "images": [
+      "images/61438_0.png"
+    ],
+    "english_question": "<image>\n14 এপ্রিল, 2010, সকাল 7:49 মিনিটে, চীনের ছিংহাই প্রদেশের ইউশু কাউন্টিতে 7.1 মাত্রার একটি ভূমিকম্প আঘাত হানে। একটি উদ্ধারকারী দল দ্রুত দুর্ঘটনাস্থলে পৌঁছায়। উদ্ধারকারী দল একটি জীবন শনাক্তকরণ যন্ত্র ব্যবহার করে ধ্বংসস্তূপের নিচে 'C' বিন্দুতে প্রাণের অস্তিত্ব খুঁজে পায়। ভূমির একপাশে দুটি শনাক্তকরণ বিন্দু A এবং B এর মধ্যবর্তী দূরত্ব 3 মিটার এবং শনাক্তকরণ রেখাগুলোর সাথে ভূমির কোণ যথাক্রমে 30° এবং 60°। C বিন্দুর গভীরতা নির্ণয় করো। (ফলাফল 0.1 মিটার পর্যন্ত সঠিক হতে হবে, দেওয়া আছে: √2 ≈ 1.41, √3 ≈ 1.73)\nOptions:\nd. (Results should be accurate to 0.1 meters, reference data: \\( \\sqrt{2} \\approx 1.41, \\sqrt{3} \\approx 1.73 \\) )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "38c95465-8253-4eec-b910-07f427e1e900",
+    "images": [
+      "images/19489_0.png"
+    ],
+    "english_question": "<image>\nএকটি পাখি আকাশে উড়ছে এবং চিত্রে দেখানো বর্গক্ষেত্রগুলোর যেকোনো একটিতে দৈবভাবে অবতরণ করে (রঙ ছাড়া প্রতিটি বর্গক্ষেত্র অভিন্ন)। পাখিটির একটি কালো বর্গক্ষেত্রে অবতরণ করার সম্ভাবনা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "acc098f5-a4e3-4efb-b09b-4db472dd8e41",
+    "images": [
+      "images/5580_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত চিত্রে (2015, ডেরং কাউন্টি তৃতীয় মক পরীক্ষা), যদি একটি সমকোণী ত্রিভুজকে দেখানো অনুযায়ী সাজানো হয়, তবে কোণ \\( \\alpha \\)-এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e8d726af-6200-4960-9ee8-c5743787b1d5",
+    "images": [
+      "images/73189_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অর্ধবৃত্ত AB কে অর্ধবৃত্ত CD এর অবস্থানে স্থানান্তর করলে যে ক্ষেত্রফল অতিক্রম করে তা হলো ( )\n\nOptions:\nক) 3\nখ) 3+π\nগ) 6\nঘ) 6+π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b77ca241-d5ad-41fe-8408-57aceec941e2",
+    "images": [
+      "images/46963_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি রম্বস, AC = 8, DB = 6, DH ⊥ AB, তবে DH = ( )\n\nOptions:\nক) 24\nখ) 12\nগ) 12\nঘ) 24",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "73231c64-6360-409a-87c6-ba0c6711f2b0",
+    "images": [
+      "images/13161_0.png"
+    ],
+    "english_question": "<image>\n4×4 বর্গাকার গ্রিডে, ত্রিভুজ ΔMNP-কে 90° ঘূর্ণন করে ত্রিভুজ ΔM₁N₁P₁ তৈরি করা হয়েছে। চিহ্নিত কোন বিন্দুটি ঘূর্ণনের কেন্দ্র?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2dbf2ff0-7258-496d-ad3f-27efa48affdd",
+    "images": [
+      "images/40685_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD সামান্তরিকের ∠ABC এর সমদ্বিখণ্ডক AD কে E বিন্দুতে এবং ∠BCD এর সমদ্বিখণ্ডক AD কে F বিন্দুতে ছেদ করে। যদি AB = 3 এবং AD = 4 হয়, তবে EF এর দৈর্ঘ্য কত?\n\nOptions:\nক) 1\nখ) 2\nগ) 2.5\nঘ) 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "43a06695-7413-44d8-b686-a9965e5e1259",
+    "images": [
+      "images/21886_0.png"
+    ],
+    "english_question": "<image>\nপ্রদত্ত সমদ্বিবাহু ট্রাপিজয়েডটিকে কি একই আকৃতির চারটি সমান অংশে ভাগ করা সম্ভব যাতে প্রতিটি অংশে '好孩子' এই তিনটি চীনা অক্ষর থাকে? যদি সম্ভব হয়, তবে বিভাজনটি বর্ণনা করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6c9e181-4f39-459c-a966-be8c99fdc85c",
+    "images": [
+      "images/37118_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, চতুর্ভুজ ABCD একটি সামান্তরিক এবং কর্ণদ্বয় AC ও BD O বিন্দুতে ছেদ করে। নিশ্চিত করতে যে চতুর্ভুজ ABCD একটি রম্বস, একটি অতিরিক্ত শর্ত যোগ করতে হবে (শুধুমাত্র একটি শর্ত পূরণ করতে হবে)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c5b4b01f-2703-44e7-a9cd-471572c63166",
+    "images": [
+      "images/5632_0.png"
+    ],
+    "english_question": "<image>\nপোর্ট B, পোর্ট A-এর উত্তর-পশ্চিম দিকে অবস্থিত। সকাল 8টায়, একটি জাহাজ পোর্ট A থেকে উত্তর দিকে ঘণ্টায় 15 নটিক্যাল মাইল বেগে যাত্রা শুরু করে। একই সময়ে, একটি স্পিডবোট পোর্ট B থেকে উত্তর দিকে যাত্রা শুরু করে। সকাল 10টায়, জাহাজটি D বিন্দুতে এবং স্পিডবোটটি C বিন্দুতে পৌঁছায়। C বিন্দুটি D বিন্দুর উত্তর-পশ্চিম দিকে 30° কোণে অবস্থিত এবং CD দূরত্ব 100 নটিক্যাল মাইল। স্পিডবোটের গতিবেগ ঘণ্টায় কত নটিক্যাল মাইল? (0.1 নটিক্যাল মাইল পর্যন্ত আসন্ন মান; √2 ≈ 1.41, √3 ≈ 1.73 ব্যবহার করুন)\nOptions:\nক) At 8 AM, a ship departs from port A and sails north at 15 nautical miles per hour. Simultaneously, a speedboat departs from port B sailing north. At 10 AM, the ship arrives at point D, and the speedboat arrives at point গ) Point C is located in the northwest direction of point D at an angle of 30°, and the distance CD is 100 nautical miles. What is the speed of the speedboat in nautical miles per hour? (Round to 0.1 nautical miles per hour; use √2 ≈ 1.41, √3 ≈ 1.73)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e1a4345e-8594-4c91-a9de-86e22287b9ee",
+    "images": [
+      "images/46756_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (π = 3.14 ব্যবহার করো)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e264ed87-c74c-4bd6-99b7-dc5b77ee4b3a",
+    "images": [
+      "images/76421_0.png"
+    ],
+    "english_question": "<image>\n(2013 সিচুয়ান জিগং) চিত্রে দেখানো হয়েছে, বিন্দু O একটি নিয়মিত ষড়ভুজের কেন্দ্রীয় প্রতিসাম্য বিন্দু। যদি একটি সেট স্কোয়ারের কোণ ব্যবহার করে বিন্দু O কে কোণের শীর্ষবিন্দু ধরে এই নিয়মিত ষড়ভুজের ক্ষেত্রফলকে n সমান ভাগে বিভক্ত করা হয়, তবে n-এর সম্ভাব্য মানের সংখ্যা কত? ( ) ক. 4 খ. 5 গ. 6 ঘ. 7",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

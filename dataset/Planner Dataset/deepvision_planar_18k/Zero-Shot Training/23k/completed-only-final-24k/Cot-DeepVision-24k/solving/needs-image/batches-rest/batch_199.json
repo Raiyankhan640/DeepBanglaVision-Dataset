@@ -1,0 +1,342 @@
+[
+  {
+    "id": "bf2c855f-c626-4653-861a-858722e4658b",
+    "images": [
+      "images/69357_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, দুটি সর্বসম রম্বসের বাহুর দৈর্ঘ্য 1 সেমি। একটি পিঁপড়া A বিন্দু থেকে যাত্রা শুরু করে রম্বসের ধার বরাবর ABCDEF ক্রমে অগ্রসর হয়। 2015 সেমি হাঁটার পর পিঁপড়াটি কোথায় থামবে?\nক. বিন্দু B\nখ. বিন্দু C\nগ. বিন্দু G\nঘ. বিন্দু E",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b6e337e6-b81e-46f8-9cf2-f54844553146",
+    "images": [
+      "images/13307_0.png"
+    ],
+    "english_question": "<image>\nনিচের প্রস্তাবনাগুলো বিবেচনা করি:\n1. পরাবৃত্ত এবং উপবৃত্ত \\( \\frac{x^2}{35} + y^2 = 1 \\)-এর উপকেন্দ্র একই;\n2. \\( 2x^2 - 5x - 3 < 0 \\)-এর জন্য \\( -\\frac{1}{2} < x < 0 \\) একটি প্রয়োজনীয় কিন্তু পর্যাপ্ত শর্ত নয়;\n3. যদি বিন্দু \\( a \\) এবং \\( b \\) সমরেখ হয়, তবে \\( a \\) এবং \\( b \\) ধারণকারী রেখাটি সমান্তরাল;\n4. যদি ভেক্টর \\( a \\), \\( b \\), এবং \\( c \\) জোড়ায় জোড়ায় সমতলীয় হয়, তবে ভেক্টর \\( a \\), \\( b \\), এবং \\( c \\) অবশ্যই সমতলীয় হবে;\n5. ত্রিমাত্রিক চতুর্ভুজ ABCD-তে, M এবং G যথাক্রমে BC এবং CD-এর মধ্যবিন্দু, \\( AB + \\frac{1}{2} BC + \\frac{1}{2} BD = AG \\)।\nএই প্রস্তাবনাগুলোর মধ্যে কয়টি সত্য?\n\nOptions:\nক) 1\nখ) 2\nগ) 3\nঘ) 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "eeb7cc66-4ba2-4254-a5a5-25eabdb2c6f6",
+    "images": [
+      "images/triangle_ext_eeb7cc66-4ba2-4254-a5a5-25eabdb2c6f6.png"
+    ],
+    "english_question": "<image>\nএকটি গ্রিড কাগজে, প্রতিটি ছোট বর্গক্ষেত্রের শীর্ষবিন্দুকে গ্রিড পয়েন্ট বলা হয়। গ্রিড পয়েন্ট সংযুক্ত করে গঠিত ত্রিভুজকে গ্রিড ত্রিভুজ বলা হয়। প্রদত্ত 5$\\times$5 গ্রিড কাগজে, এমন ত্রিভুজ △ABC এবং △OAB গঠন করুন যা সদৃশ (সদৃশ অনুপাত 1 হতে পারবে না)। বিন্দু A (1, 0) দেওয়া থাকলে, বিন্দু C-এর স্থানাঙ্ক কত?\nক. (4, 4)\nখ. (2, 5) or (5, 2)\nগ. (5, 2)\nঘ. (4, 4) or (5, 2)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "118ba0a0-e8f9-4de6-beb6-add248b2ec22",
+    "images": [
+      "images/64493_0.png"
+    ],
+    "english_question": "<image>\nনিচের বর্গ ম্যাট্রিক্সে -8, -6, -4, -2, 0, 2, 4, 6, 8 সংখ্যাগুলো এমনভাবে বসাও যেন প্রতিটি সারি, কলাম এবং কর্ণের তিনটি সংখ্যার যোগফল 0 হয়।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "674be36e-7f86-4c33-8664-4ea9664ff261",
+    "images": [
+      "images/38601_0.png"
+    ],
+    "english_question": "<image>\nচিত্রটিতে একটি স্থানিক জ্যামিতিক বস্তুর তিনটি দৃশ্য দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ddbc439f-ec7b-43e1-b1a7-36766b5dd483",
+    "images": [
+      "images/43458_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD বর্গক্ষেত্রের B এবং C শীর্ষবিন্দু দুটি x-অক্ষের ধনাত্মক অর্ধাংশে অবস্থিত। ব্যস্তানুপাতিক ফাংশন y = k/x (যেখানে k ≠ 0) প্রথম চতুর্ভাগে A (m, 2) শীর্ষবিন্দু এবং CD বাহুর ওপর E (n, 2/3) বিন্দু দিয়ে যায়। E বিন্দু দিয়ে অতিক্রমকারী রেখা l, x-অক্ষকে F বিন্দুতে এবং y-অক্ষকে G (0, -2) বিন্দুতে ছেদ করে। F বিন্দুর স্থানাঙ্ক কত?\n\nOptions:\nক) (5, 0)\nখ) (7, 0)\nগ) (9, 0)\nঘ) (11, 0)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e9abdefc-1d22-4cf1-aec1-69a5f3d55486",
+    "images": [
+      "images/62090_0.png"
+    ],
+    "english_question": "<image>\nনিচের চিত্রগুলোর পরিবর্তনের ধরন নির্ণয় করো, তারপর 2013তম চিত্রে কালো বর্গক্ষেত্রের সংখ্যা কত হবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0b44493f-d4f7-4973-b016-f4f796ab3e7e",
+    "images": [
+      "images/16240_0.png"
+    ],
+    "english_question": "<image>\nচিত্রের গ্রিড কাগজে, AB বাহু বিশিষ্ট একটি ত্রিভুজ ΔABP অঙ্কন করো যা ΔABC এর সর্বসম। P1, P2, P3, P4 বিন্দুগুলো থেকে, সেই বিন্দুগুলো খুঁজে বের করো যা P বিন্দুর শর্ত পূরণ করে। এমন P বিন্দুর সংখ্যা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bfa10abf-6b23-4bca-b441-34ab0cf8c2fb",
+    "images": [
+      "images/42648_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত পাহাড়ের চূড়ায় একটি সিগন্যাল টাওয়ার AB অবস্থিত। ঢাল BC-এর নতি কোণ 30^{\\circ}। টাওয়ারের উচ্চতা AB পরিমাপের জন্য, জরিপকারী পাহাড়ের পাদদেশ C-কে পরিমাপ বিন্দু হিসেবে নির্বাচন করেন, যেখানে টাওয়ারের চূড়ার উন্নতি কোণ পরিমাপ করা হয় 45^{\\circ}। এরপর, তারা ঢাল বরাবর 100 মিটার উপরে E বিন্দুতে যান, যেখানে টাওয়ারের চূড়ার উন্নতি কোণ পরিমাপ করা হয় 60^{\\circ}। টাওয়ার AB-এর উচ্চতা নির্ণয় করো (ফলাফল পূর্ণসংখ্যায় হতে হবে, যেখানে \\sqrt{3} \\approx 1.73, \\sqrt{2} \\approx 1.41)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f184e86d-b063-4086-a863-49f845dc6503",
+    "images": [
+      "images/727_0.png"
+    ],
+    "english_question": "<image>\nকার্টেসীয় স্থানাঙ্ক ব্যবস্থায়, বিন্দু E₁, E₂, E₃, … এবং F₁, F₂, F₃, … যথাক্রমে y=kx+b রেখা এবং x-অক্ষের ওপর অবস্থিত। চতুর্ভুজ OE₁F₁G₁, F₁E₂F₂G₂, F₂E₃F₃G₃, … সবই বর্গক্ষেত্র। যদি E₁ (1, 1) এবং E₂ (4, 2) হয়, তবে রেখাংশ F_{n-1}F_n-এর দৈর্ঘ্য কত?\nক. 2^{n-1}\nখ. 2^{n}\nগ. 2^{2n}\nঘ. 2^{n+1}",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e5edbacc-22b9-4cba-88f8-78945acd6fc9",
+    "images": [
+      "images/39018_0.png"
+    ],
+    "english_question": "<image>\nচতুর্ভুজাকার পিরামিড P-ABCD-এর তিনটি দৃশ্য চিত্র দেখানো হয়েছে। পাঁচটি শীর্ষবিন্দু একই গোলকে অবস্থিত। যদি চতুর্ভুজাকার পিরামিড P-ABCD-এর পার্শ্ব পৃষ্ঠের ক্ষেত্রফল 4(1 + √2) হয়, তবে বহির্বৃত্তাকার গোলকের পৃষ্ঠের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "65c6997d-c72b-4873-ae27-118d6900d5b4",
+    "images": [
+      "images/28656_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, CD//AB, BC, ∠ACD কে সমদ্বিখণ্ডিত করে এবং CF, ∠ACG কে সমদ্বিখণ্ডিত করে। দেওয়া আছে ∠BAC=40^{\\circ} এবং ∠1=∠2, নিচের কোন সিদ্ধান্তটি সঠিক? ① CB⊥CF; ② ∠1=70^{\\circ}; ③ ∠ACE=2∠4; ④ ∠3=2∠4;\n\nOptions:\nক) ①②③\nখ) ①②④\nগ) ②③④\nঘ) ①②③④",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "58ad28fb-0111-4f07-8291-dcb41155e758",
+    "images": [
+      "images/4208_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, ABCD বর্গক্ষেত্রের অভ্যন্তরে E, F, G এবং H বিন্দুগুলো অবস্থিত। যদি DE = EF = FG = GH = HB = 4 হয় এবং ∠E = ∠F = ∠G = ∠H = 60° হয়, তবে ABCD বর্গক্ষেত্রের বাহুর দৈর্ঘ্য কত?\n\nOptions:\nক) \\(\\sqrt{14}\\)\nখ) \\(3\\sqrt{2}\\)\nগ) \\(3\\sqrt{5}\\)\nঘ) \\(2\\sqrt{14}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "c3f8663d-383c-4811-b5b7-01a0017c5c68",
+    "images": [
+      "images/16420_0.png"
+    ],
+    "english_question": "<image>\nএকটি বৃত্তকলা AOB-এ ∠AOB = 90° এবং OA = 2, বিন্দু C হলো OA এর মধ্যবিন্দু। রেখা CE, OA এর উপর লম্ব এবং তা বৃত্তচাপ AB কে E বিন্দুতে ছেদ করে। O কেন্দ্র এবং OC ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তচাপ CD, OB কে D বিন্দুতে ছেদ করে। বৃত্তচাপ EB, রেখাংশ BD এবং বৃত্তচাপ DC দ্বারা আবদ্ধ ছায়াবৃত অঞ্চলের ক্ষেত্রফল নির্ণয় করো।\nOptions:\nক) Line CE is perpendicular to OA and intersects arc AB at E. With center O and radius OC, arc CD intersects OB at ঘ) Find the area of the shaded region bounded by arc EB, segment BD, and arc DC)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7567fc71-135d-483f-8d70-058462a68f8a",
+    "images": [
+      "images/43256_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, n-তম আকৃতিটি একটি সুষম (n+2)-ভুজ থেকে তৈরি করা হয়েছে (n=1, 2, 3, ...)। তাহলে, n-তম আকৃতিতে মোট কতটি শীর্ষবিন্দু আছে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "79e4d468-fa44-42b1-8719-d7b975b46d9e",
+    "images": [
+      "images/2199_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত গ্রিড পেপারে ছোট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 1। মোটা রেখাগুলো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য নির্দেশ করে। এই জ্যামিতিক বস্তুটির আয়তন কত?\n\nOptions:\nক) $ \\frac {16π}{3}$\nখ) 4π\nগ) $ \\frac {10π}{3}$\nঘ) 3π",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "44fb13be-2800-4d4e-952d-56993c270ce1",
+    "images": [
+      "images/69371_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত অনুযায়ী, ছায়াবৃত অংশটি সম্পূর্ণ আয়তক্ষেত্রের ক্ষেত্রফলের কত অংশ দখল করে আছে? ( ) \nক. 3/7 \nখ. 2/7 \nগ. 1/2",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2dfb8e00-b649-43bb-8dab-7f917e55ae78",
+    "images": [
+      "images/20187_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a বাহুবিশিষ্ট একটি বড় বর্গক্ষেত্র থেকে b বাহুবিশিষ্ট একটি ছোট বর্গক্ষেত্র কেটে নেওয়া হলো। অবশিষ্ট অংশটিকে একটি ট্রাপিজিয়ামে পুনর্বিন্যাস করা হলো। এই দুটি আকৃতির ছায়াবৃত অংশের ক্ষেত্রফল হিসাব করে কোন সূত্রটি যাচাই করা যায়?\nOptions:\na. The remaining part is rearranged into a trapezoid. By calculating the areas of the shaded parts of these two shapes, what formula can be verified?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4bcbffb-eebf-420e-b3c0-82ed0bb80dba",
+    "images": [
+      "images/8382_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত সমবাহু ত্রিভুজটির বাহুর দৈর্ঘ্য 6। ছায়াবৃত অংশের পরিসীমা কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a9686e32-8378-479c-a7e1-700c12df298f",
+    "images": [
+      "images/46413_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1 পর্যবেক্ষণ করো। যদি দাঁড়িপাল্লাটি সাম্যাবস্থায় থাকে, তবে চিত্র 2-এ দাঁড়িপাল্লাটিকে সাম্যাবস্থায় আনার জন্য ডানদিকের পাল্লায় কয়টি বৃত্ত (○) রাখতে হবে?\n\nOptions:\nক) 5\nখ) 6\nগ) 7\nঘ) 8",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "test.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

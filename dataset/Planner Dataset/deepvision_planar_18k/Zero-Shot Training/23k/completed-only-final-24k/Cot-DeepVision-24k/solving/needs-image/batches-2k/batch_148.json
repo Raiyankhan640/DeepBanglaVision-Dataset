@@ -1,0 +1,342 @@
+[
+  {
+    "id": "ad9e27f0-8b6e-4b8c-9ab0-49d6c2a250aa",
+    "images": [
+      "images/41002_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, নদীর তীর MN এবং PQ পরস্পর সমান্তরাল। তীর PQ-তে C, D, E... নামক কতগুলো বৈদ্যুতিক খুঁটি আছে, যাদের মধ্যবর্তী দূরত্ব 50 মিটার। তীর MN-এর A বিন্দুতে একজন ব্যক্তি ∠DAN = 30° পরিমাপ করেন। এরপর, তিনি তীরের দিকে 120 মিটার হেঁটে B বিন্দুতে পৌঁছান এবং ∠CBN = 60° পরিমাপ করেন। নদীর প্রস্থ নির্ণয় করো। (ফলাফল 0.1 মিটার পর্যন্ত সঠিক)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "750068b1-6cc3-466f-9de7-1f9de43aa7b1",
+    "images": [
+      "images/36059_0.png"
+    ],
+    "english_question": "<image>\nএকটি জাহাজ বিন্দু A থেকে উত্তর দিকে যাত্রা শুরু করে। একটি দ্বীপের (যার প্রান্তবিন্দু M ও N) নিকটতম দূরত্ব 12 নটিক্যাল মাইল (MC = 12)। বিন্দু A-তে, পশ্চিমের প্রান্তবিন্দু M-কে উত্তর-পূর্ব দিকে দেখা যায়। 4 নটিক্যাল মাইল পথ অতিক্রম করে বিন্দু B-তে পৌঁছানোর পর, পূর্বের প্রান্তবিন্দু N-কে উত্তর থেকে 60° পূর্ব দিকে দেখা যায়। যদি M, N এবং C সমরেখ হয় এবং C বিন্দুটি দ্বীপের রেখার ওপর জাহাজের পথের নিকটতম বিন্দু হয়, তবে দ্বীপের পূর্ব ও পশ্চিম প্রান্তবিন্দুর মধ্যবর্তী দূরত্ব MN নির্ণয় করো।\nOptions:\nA) The closest distance to an island (with endpoints M and N) is 12 nautical miles (MC = 12). At point A, the western endpoint M is observed in the northeast direction. After sailing 4 nautical miles to point B, the eastern endpoint N is observed at 60° east of north. Given that M, N, and C are colinear and C is the point on the island's line closest to the ship's path, find the distance MN between the eastern and western endpoints of the island.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "0b236dee-52c6-4faa-b095-e5809eb4f39e",
+    "images": [
+      "images/triangle_ext_0b236dee-52c6-4faa-b095-e5809eb4f39e.png"
+    ],
+    "english_question": "<image>\nচিত্রে, F₁ এবং F₂ হলো অধিবৃত্ত (hyperbola) x²/a² - y²/b² = 1-এর বাম এবং ডান উপকেন্দ্র। P বিন্দুটি ডান শাখায় অবস্থিত। বৃত্ত M, ত্রিভুজ PF₁F₂-এর ভেতরে অন্তর্লিখিত, যা A, B, এবং C বিন্দুতে স্পর্শক। দেওয়া আছে |PB| = a, অধিবৃত্তটির উৎকেন্দ্রিকতা (eccentricity) নির্ণয় করো।\nOptions:\nC) Given |PB| = a, find the eccentricity of the hyperbola.",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ae0508d0-9c9e-4781-9c26-7ef4bede47b5",
+    "images": [
+      "images/13185_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB সমান্তরাল CD, ∠1 = 50°, ∠2 = 110° হলে ∠3 = ডিগ্রি।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4492fc5d-ef61-4d7a-aa97-c6c6f2fcee24",
+    "images": [
+      "images/16914_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে সামান্তরিকটির ক্ষেত্রফল 36 বর্গ মিটার। ছায়াবৃত অংশের ক্ষেত্রফল নির্ণয় করো। (একক: মিটার)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "01e16938-0c11-49c7-b378-1b80c2d3e2d3",
+    "images": [
+      "images/19659_0.png"
+    ],
+    "english_question": "<image>\nএকটি সমদ্বিবাহু সমকোণী ত্রিভুজ ABC-তে, যেখানে ∠C=90°, BC=6 সেমি। ত্রিভুজ ABC-কে বিন্দু A-এর সাপেক্ষে 15° ঘড়ির কাঁটার দিকে ঘোরানোর ফলে ত্রিভুজ AB'C' পাওয়া যায়। ছায়াযুক্ত অংশের ক্ষেত্রফল কত বর্গ সেমি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "7067c6de-2a94-4c1e-a60d-cc3294dd1bd4",
+    "images": [
+      "images/62851_0.png"
+    ],
+    "english_question": "<image>\nচিত্র অনুযায়ী, নিচের কোন উক্তিটি ভুল? ( )",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "12213e18-7978-4c66-b3d2-f3c8b9cee835",
+    "images": [
+      "images/51100_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, 1 ব্যাসার্ধ এবং 60° কেন্দ্রীয় কোণবিশিষ্ট একটি কাগজের সেক্টর AOB, l রেখা বরাবর না পিছলে ডানদিকে A'O'B' অবস্থানে পৌঁছানো পর্যন্ত গড়িয়ে চলে। বিন্দু O দ্বারা অতিক্রান্ত পথের মোট দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f70c8fc-818b-4159-b6d7-ad21d5db10c1",
+    "images": [
+      "images/18026_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, a এবং b রেখাদ্বয় সমান্তরাল, ∠1 = 70°, ∠2 = 50°, ∠3 = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a5b012ad-b241-4bfb-bfc2-437cc9107551",
+    "images": [
+      "images/triangle_ext_a5b012ad-b241-4bfb-bfc2-437cc9107551.png"
+    ],
+    "english_question": "<image>\nচিত্রে ত্রিভুজ ABC এবং বৃত্ত O-এর উপরিপাতন দেখানো হয়েছে, যেখানে BC বৃত্তটির ব্যাস। যদি ∠A = 70° এবং BC = 2 হয়, তবে ছায়াবৃত অংশের ক্ষেত্রফল কত? ( )\nক. \\( \\frac{55}{360}\\,\\pi \\)\nখ. \\( \\frac{110}{360}\\,\\pi \\)\nগ. \\( \\frac{125}{360}\\,\\pi \\)\nঘ. \\( \\frac{140}{360}\\,\\pi \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "14eb9500-565a-494c-a866-0532d4217fe7",
+    "images": [
+      "images/37835_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত 50 সেমি প্রস্থের একটি আয়তাকার প্যাটার্ন 10টি সর্বসম ছোট আয়তক্ষেত্র দ্বারা গঠিত। একটি ছোট আয়তক্ষেত্রের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) \\(400cm^{2}\\)\nখ) \\(500cm^{2}\\)\nগ) \\(600cm^{2}\\)\nঘ) \\(4000cm^{2}\\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "e34c2411-1ed4-4509-b001-d5304e0c3480",
+    "images": [
+      "images/28045_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের AB এবং CD দুটি পরস্পর লম্ব ব্যাস। জ্যা DE, AB-এর বর্ধিতাংশকে F বিন্দুতে ছেদ করে। যদি DE = 24 এবং EF = 18 হয়, তবে OE-এর দৈর্ঘ্য নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "60d304ec-34b8-41b3-9681-28e6f6dd952a",
+    "images": [
+      "images/66171_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাসার্ধ 1। বিন্দু A অর্ধবৃত্তের একটি ত্রিখণ্ডক বিন্দু, বিন্দু B হলো চাপ AN-এর মধ্যবিন্দু এবং P হলো ব্যাস MN-এর ওপর একটি চলমান বিন্দু। PA + PB-এর সর্বনিম্ন মান কত?\n\nOptions:\nক) 1\nখ) \\( \\frac{\\sqrt{2}}{2} \\)\nগ) \\( \\sqrt{2} \\)\nঘ) \\( \\sqrt{3} - 1 \\)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4e00b1cb-c091-4213-8699-caa522230e7e",
+    "images": [
+      "images/14969_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB হলো বৃত্ত ⊙O-এর ব্যাস এবং রেখা PD, C বিন্দুতে বৃত্তের স্পর্শক, যা AB-এর বর্ধিতাংশকে D বিন্দুতে ছেদ করে। যদি CO = CD হয়, তবে ∠PCA = কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "fcb0759f-8018-4dd6-823c-8f55c2988b6b",
+    "images": [
+      "images/24143_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে যেমন দেখানো হয়েছে, 1 বাহু বিশিষ্ট একটি বর্গাকার কাগজ ABCD-কে এমনভাবে ভাঁজ করা হলো যেন বিন্দু B সবসময় বাহু AD-এর ওপর পড়ে। ভাঁজ করা অংশের ন্যূনতম ক্ষেত্রফল কত? ( )\nক. $\\textstyle{\\frac{1}{4}}$\nখ. $\\frac{3}{8}$\nগ. $\\frac{2}{5}$\nঘ. $\\textstyle{\\frac{1}{2}}$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "996d18b4-3ec5-4884-9645-f15d37565ffa",
+    "images": [
+      "images/20699_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত একটি অর্ধবৃত্তাকার ওয়ার্কপিস বা বস্তুর ব্যাস ভূমির সমান্তরালে রাখা আছে। চলাচলের সময় এর বৃত্তচাপ অংশটিকে ক্ষতির হাত থেকে রক্ষা করার জন্য, প্রথমে চিত্র অনুযায়ী একটি নন-স্লিপ উল্টানো (flip) সম্পন্ন করা হয়, যাতে এর ব্যাস ভূমির কাছাকাছি থাকে। এরপর এটিকে ভূমির সমান্তরালে 50 মিটার সরানো হয়। অর্ধবৃত্তের ব্যাস 4 মিটার হলে, কেন্দ্র O-এর অতিক্রান্ত পথের দৈর্ঘ্য কত? ___▲___ মিটার। (ফলাফলটি π-এর মাধ্যমে প্রকাশ করো)\nOptions:\nd. To protect the arc part from damage during movement, first, perform a non-slip flip as shown in the picture, so that its diameter is close to the ground. Then move it horizontally along the ground for 50 m. The diameter of the semicircle is 4 m. What is the length of the path traveled by the center O? ___▲___ m. (Express the result in terms of π) _",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d9206277-98b8-4419-88dc-aa9e23e94b10",
+    "images": [
+      "images/61266_0.png"
+    ],
+    "english_question": "<image>\nচিত্র 1-এ প্রদর্শিত আয়তাকার কাগজ ABCD-কে এমনভাবে ভাঁজ করা হলো যেন B ও C বিন্দুদ্বয় AD বাহুর ওপর অবস্থিত P বিন্দুতে মিলে যায় (চিত্র 2 অনুযায়ী)। যদি ∠MPN=90°, PM=3 এবং PN=4 হয়, তবে আয়তাকার কাগজ ABCD-এর ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "2d9f61f9-1fab-4e17-ac9e-9b16332369e2",
+    "images": [
+      "images/52257_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে দেখানো একটি জ্যামিতিক বস্তুর তিনটি দৃশ্য, যদি এই জ্যামিতিক বস্তুর আয়তন 24 হয়, তবে এই বস্তুর ভিত্তির ক্ষেত্রফল কত? ( ) ক. 6 খ. 12 গ. 18 ঘ. 24",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a3e2aeb5-cab3-4a4f-86fc-3d5ffdd4ee06",
+    "images": [
+      "images/64965_0.png"
+    ],
+    "english_question": "<image>\nএকটি জ্যামিতিক বস্তুর তিনটি দৃশ্য চিত্রে দেখানো হয়েছে। এই জ্যামিতিক বস্তুটির সমগ্রতলের ক্ষেত্রফল কত? ( )\n\nOptions:\nক) $1\\!+\\!\\sqrt{2}$\nখ) $^2$\nগ) $\\frac{2+{\\sqrt{2}}}{2}$\nঘ) $\\frac32$",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8f0948d8-a271-41b9-bcb9-852ad88cf845",
+    "images": [
+      "images/9636_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB এবং AC বৃত্তের দুটি জ্যা। B বিন্দুতে অঙ্কিত স্পর্শক AC এর বর্ধিতাংশকে D বিন্দুতে ছেদ করে। C বিন্দু দিয়ে গমনকারী BD এর সমান্তরাল একটি রেখা বৃত্তকে E বিন্দুতে এবং AB কে F বিন্দুতে ছেদ করে। দেওয়া আছে, AF = 3, FB = 1, এবং EF = 3/2। CD এর দৈর্ঘ্য কত?\nOptions:\nD) A line through point C parallel to BD intersects the circle at point E and intersects AB at point F. Given that AF = 3, FB = 1, and EF = \\( \\frac{3}{2} \\), what is the length of segment CD?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 95,
+      "anomalies": [
+        "Self-Correction Artifacts"
+      ],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]

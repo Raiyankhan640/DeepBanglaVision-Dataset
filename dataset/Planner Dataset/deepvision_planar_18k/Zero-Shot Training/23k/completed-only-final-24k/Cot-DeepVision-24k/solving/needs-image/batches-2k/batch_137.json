@@ -1,0 +1,302 @@
+[
+  {
+    "id": "80116fab-0af6-4266-8cc7-462e140f5fef",
+    "images": [
+      "images/48297_0.png"
+    ],
+    "english_question": "<image>\nযদি চিত্র 1-এর ছায়াবৃত অংশটি সম্পূর্ণ 1-কে নির্দেশ করে, তবে চিত্র 2-এর ছায়াবৃত অংশটি কোন ভগ্নাংশকে নির্দেশ করবে?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "1c90d679-9ea9-4692-89c9-93b4f1f9862d",
+    "images": [
+      "images/48521_0.png"
+    ],
+    "english_question": "<image>\nডানদিকের চিত্রে, চারটি ছোট ত্রিভুজই সমবাহু ত্রিভুজ। এদের মধ্যে, ত্রিভুজ ABC কে স্থানান্তর করে পাওয়া যায় এমন ত্রিভুজের সংখ্যা হলো ( )\n\nOptions:\nক) 0\nখ) 1\nগ) 2\nঘ) 3",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "6b316669-0181-49ce-b619-ef5b68749d2e",
+    "images": [
+      "images/49765_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, দেওয়া আছে যে AB সমান্তরাল DC এবং AD সমান্তরাল BC, ত্রিভুজ ABC এবং ত্রিভুজ CDA-এর সর্বসমতার ভিত্তি হলো ( )\n\nOptions (copied from English):\nখ. ASA\nগ. AAS\nঘ. None of the above",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "654bb9d0-4adb-4105-9ab3-3848ce2dfdac",
+    "images": [
+      "images/53126_0.png"
+    ],
+    "english_question": "<image>\n(2016 শরৎ • শানহে কাউন্টির মাসিক পরীক্ষা) চিত্রে প্রদর্শিত আয়তক্ষেত্র ABCD-কে কর্ণ BD বরাবর ভাঁজ করা হলো যাতে বিন্দু C, C' বিন্দুতে পতিত হয় এবং BC', AD-কে F বিন্দুতে ছেদ করে। নিচের কোন উক্তিটি সঠিক নয়? (___)\n\nOptions:\nক) AF = C′F\nখ) BF = DF\nগ) ∠BDA = ∠ADC′\nঘ) ∠ABC′ = ∠ADC",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "bc230017-ec96-4009-932d-2c7845f0c503",
+    "images": [
+      "images/16389_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের পরিলিখিত ট্রাপিজিয়াম ABCD-তে, যদি AD সমান্তরাল BC হয়, তবে ∠DOC এর মান কত ডিগ্রি?\n\nOptions:\nক) 70°\nখ) 90°\nগ) 60°\nঘ) 45°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f5bfc1d8-0ed8-4d54-9455-457c6db66dca",
+    "images": [
+      "images/25511_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AD রেখাংশ BC কে O বিন্দুতে ছেদ করে। AB এবং CD যোগ করা হলো এবং দেওয়া আছে ∠B = ∠D, তাহলে △AOB ≌ △COD হওয়ার জন্য একটি অতিরিক্ত শর্ত কী হতে পারে? (একটি মাত্র শর্ত লিখুন)",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "5a8740da-63c8-48f4-9049-f53f2d61562c",
+    "images": [
+      "images/45565_0.png"
+    ],
+    "english_question": "<image>\nএকটি বিমান 8000m উচ্চতায় উড়ছে। নিচের একটি দ্বীপের উভয় পাশের উপকূলরেখার সাপেক্ষে অবনতি কোণগুলি যথাক্রমে 32° এবং 45° পরিমাপ করা হয়। দ্বীপের PQ প্রস্থ নির্ণয় করো (1m পর্যন্ত সন্নিকটিত করো)।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "29bce728-9ba5-4f86-b35d-ad0bd0593617",
+    "images": [
+      "images/14388_0.png"
+    ],
+    "english_question": "<image>\nদাবা খেলার ঘুঁটি দিয়ে '口' আকৃতির প্যাটার্ন তৈরি করা হয়েছে। এই পদ্ধতি অনুসরণ করলে, 13তম '口' আকৃতিটি তৈরি করতে কতগুলো ঘুঁটির প্রয়োজন হবে? ( ) ক. 52 খ. 50 গ. 48 ঘ. 46",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "d4414e0d-fcc7-4f6a-8646-d4297274a3d2",
+    "images": [
+      "images/43369_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি আয়তক্ষেত্র দেখানো হয়েছে যার নিচের ডান কোণ থেকে একটি ছোট আয়তক্ষেত্র সরিয়ে নেওয়া হয়েছে। চিত্রে চিহ্নিত অক্ষরগুলোর ভিত্তিতে, ছায়াযুক্ত অংশের ক্ষেত্রফল কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "b4fe405a-bfd1-4fff-822f-968699dbaf81",
+    "images": [
+      "images/65105_0.png"
+    ],
+    "english_question": "<image>\nচারজন শিশু একটি সারিতে দাঁড়িয়ে আছে এবং শিক্ষক চিত্রে প্রদর্শিত নিয়ম অনুযায়ী গণনা করছেন। যে শিশুটি 201 5 সংখ্যাটি পাবে, সে একটি লাল ফুল পাবে। কোন শিশুটি লাল ফুল পাবে?\nক. শিয়াও শেন\nখ. শিয়াও ইয়ে\nগ. শিয়াও লি\nঘ. শিয়াও ওয়াং",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ebecd849-5c19-4c5c-9792-b3fdea2e9556",
+    "images": [
+      "images/43327_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ABCD সামান্তরিকের ক্ষেত্রে AE ⊥ BC, AF ⊥ DC এবং BC:CD = 3:2 দেওয়া আছে। যদি AB = EC হয়, তবে ∠EAF এর মান কত?\n\nOptions:\nক) 45°\nখ) 50°\nগ) 60°\nঘ) 65°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "ddcc5b09-2f4f-4798-9a8d-f0c5685f298a",
+    "images": [
+      "images/53120_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে একটি আয়তাকার কাগজ ABCD দেওয়া আছে, যেখানে AB = 2.5 এবং AD = 1.5। কাগজটিকে এমনভাবে ভাঁজ করা হলো যেন AD বাহু AB বাহুর উপর পড়ে এবং একটি ভাঁজ AE তৈরি হয়। এরপর ত্রিভুজ AED-কে DE বরাবর ডানদিকে ভাঁজ করা হলো এবং AE বাহু BC-কে F বিন্দুতে ছেদ করল। CF-এর দৈর্ঘ্য কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "cbc0959e-8ead-4466-9f2f-88319a8d865e",
+    "images": [
+      "images/8038_0.png"
+    ],
+    "english_question": "<image>\nস্তূপীকৃত ত্রিভুজের প্যাটার্নের ওপর ভিত্তি করে, স্তরের সংখ্যা n এবং মোট ত্রিভুজের সংখ্যা s-এর মধ্যে সম্পর্ক স্থাপনকারী সূত্রটি নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "9b93f861-7f7c-4186-ba9f-308e9acbe9d3",
+    "images": [
+      "images/54265_0.png"
+    ],
+    "english_question": "<image>\nশিক্ষক ওয়াং দুর্ঘটনাবশত তার পাঠদানের কাজে ব্যবহৃত একটি ত্রিভুজাকৃতির কাঁচ ভেঙে ফেলেছেন। তিনি কাঁচের দোকানে গিয়ে একই মাপের একটি ত্রিভুজাকৃতির কাঁচ কেটে আনতে চান। কাজটি সহজ করার জন্য তাকে কোন অংশটি নিয়ে যেতে হবে?\n\nOptions:\nক) (3)\nখ) (2)\nগ) (1)\nঘ) None of them",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "f1db79c1-6e65-4ca4-b160-da879e508d5c",
+    "images": [
+      "images/60028_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে প্রদর্শিত, ব্যস্তানুপাতিক ফাংশন y=k/x (x>0-এর জন্য) আয়তক্ষেত্র OABC-এর কর্ণকে M বিন্দুতে ছেদ করে এবং যথাক্রমে AB ও BC বাহুকে D ও E বিন্দুতে ছেদ করে। যদি চতুর্ভুজ ODBE-এর ক্ষেত্রফল 9 হয়, তবে k-এর মান কত?\nক. 1\nখ. 2\nগ. 3\nঘ. 4",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "3be70a45-5449-4490-8707-31cc3141aef8",
+    "images": [
+      "images/61689_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, রম্বস ABCD-এর কর্ণদ্বয় O বিন্দুতে ছেদ করে এবং OE, AB-এর ওপর লম্ব। যদি AC = 8 এবং BD = 6 হয়, তবে OE-এর দৈর্ঘ্য কত?\nOptions:\nB) If AC = 8 and BD = 6, what is the length of OE?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "a93a3570-a274-4494-b3c6-048eba289072",
+    "images": [
+      "images/853_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, ত্রিভুজ ΔABC এর তিনটি অন্তঃস্থ কোণের সমদ্বিখণ্ডক O বিন্দুতে মিলিত হয়। BA রেখাকে D বিন্দু পর্যন্ত এমনভাবে বর্ধিত করা হলো যেন AD=AO হয়, DO যোগ করি। যদি BD=BC এবং ∠ABC=54^{\\circ} হয়, তবে ∠BCA এর মান কত ডিগ্রি?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "8536af57-7728-46e6-b2ac-d7792dca17d2",
+    "images": [
+      "images/55218_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, সমকোণী ত্রিভুজাকার বোর্ড ABC-এর উপর রাখা চাঁদার ব্যাস AB-এর সাথে মিলে যায় এবং বিন্দুটি 54° নির্দেশ করে। ∠BCD-এর মান কত?",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "4ed93f3d-c8cf-4a4f-a6b3-82daa4c7e0eb",
+    "images": [
+      "images/26338_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, O কেন্দ্রবিশিষ্ট বৃত্তের AB একটি ব্যাস, CD বৃত্তের C বিন্দুতে একটি স্পর্শক, OD, AB এর উপর লম্ব এবং AC কে E বিন্দুতে ছেদ করে। যদি tan ∠DEC = 3 হয়, তবে sin ∠D এর মান নির্ণয় করো।",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  },
+  {
+    "id": "234c68e4-c7e7-46e9-adcb-f0f78de7365e",
+    "images": [
+      "images/8943_0.png"
+    ],
+    "english_question": "<image>\nচিত্রে, AB, CD এবং MN সরলরেখা, AB সমান্তরাল CD, ∠GFC = 80°, এবং GH, ∠MGB কে সমদ্বিখণ্ডিত করে। ∠1 এর মান কত?\nক. 35°\nখ. 40°\nগ. 45°\nঘ. 50°",
+    "_meta": {
+      "bangla_question": "",
+      "original_score": 100,
+      "anomalies": [],
+      "source_file": "val.jsonl",
+      "regen_reason": "low_quality_cot"
+    },
+    "source_group": "regen_full"
+  }
+]
